@@ -1,3 +1,7 @@
+---
+title: "Fermentation projects"
+---
+
 ## Fermentation projects
 
 ### Vegetables fermentations

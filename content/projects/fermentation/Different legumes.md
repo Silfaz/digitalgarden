@@ -1,4 +1,7 @@
-# Different legumes
+---
+title: "Different legumes"
+---
+## Different legumes
 ## Different Indian dals (2020-09-09)
 *Test: Chana dal, Toor dal, Green mung dal*
 

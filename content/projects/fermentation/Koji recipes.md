@@ -1,4 +1,8 @@
-# Koji recipes
+---
+title: "Koji recipes"
+---
+
+## Koji recipes
 
 ## What koji needs
 From [https://www.fermentationculture.eu/what-koji-needs/](https://www.fermentationculture.eu/what-koji-needs/)

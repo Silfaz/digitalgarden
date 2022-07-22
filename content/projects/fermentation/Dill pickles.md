@@ -1,4 +1,8 @@
-# Dill pickles
+---
+title: "Dill pickles"
+---
+
+## Dill pickles
 ![[Screenshot 2022-06-10 at 20.05.47.png]]
 
 Recipe: [[Vegetable recipes#Dill pickles]]

@@ -1,4 +1,8 @@
-# Hungarian celeriac kraut
+---
+title: "Hungarian celeriac kraut"
+---
+
+## Hungarian celeriac kraut
 ![[Screenshot 2022-06-10 at 20.07.12.png]]
 Recipe: [[Vegetable recipes#Hungarian celeriac kraut]]
 _2022-03_:

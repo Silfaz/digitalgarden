@@ -1,3 +1,7 @@
+---
+title: "Cooking tempeh"
+---
+
 # Cooking tempeh
 ## Different Swedish legumes and grains
 See [[Different legumes]] for how the tempeh was made
