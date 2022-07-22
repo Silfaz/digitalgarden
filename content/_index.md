@@ -3,9 +3,13 @@ title: 🪴 Digital Garden
 ---
 ## Projects
 [Projects](content/projects)
-[Fermentation](projects/fermentation)
+
+[Fermentation](projects/fermentation/fermentation_main.md)
+
 [Sewing](projects/sewing)
+
 [Coding](projects/coding)
+
 [Environment](projects/environment)
 
 
