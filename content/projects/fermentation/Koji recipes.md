@@ -2,8 +2,6 @@
 title: "Koji recipes"
 ---
 
-## Koji recipes
-
 ## What koji needs
 From [https://www.fermentationculture.eu/what-koji-needs/](https://www.fermentationculture.eu/what-koji-needs/)
 Temperature: ==28-36C==. At lower temperatures: more proteases, at higher temperatures: more amylases.

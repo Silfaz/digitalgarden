@@ -1,4 +1,6 @@
-# Yogurt production
+---
+title: "Yogurt production"
+---
 
 ## Dairy & soy
 ### Vege052 and Vege092 starter cultures
