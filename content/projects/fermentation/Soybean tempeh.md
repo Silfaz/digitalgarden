@@ -14,8 +14,8 @@ Standard recipe (according to [[Miso, Tempeh, Natto (Shockey)]]). Cupboard above
 
 `Cupboard-incubated: Didn't grow as fast in the beginning as the waterbath-incubated one, but caught up in the end. Very homogeneous growth, very nice dense block. Passive warming, not as controlled. `
 
-![[Soybean tempeh 01.png]]
+![[projects/attachments/Soybean tempeh 01.png]]
 
 `Waterbath-incubated: Grew faster. Fluffy top, very nice dense block. Don't use nonstick pan, the tempeh took off the coating! Use stainless steel next time! Immersion sous vide was quite loud, esp. over night.`
-![[Pasted image 20220527131717.png]]
+![[projects/attachments/Pasted image 20220527131717.png]]
 

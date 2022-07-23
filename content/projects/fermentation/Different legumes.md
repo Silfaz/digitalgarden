@@ -17,18 +17,18 @@ Standard recipe (according to [[Miso, Tempeh, Natto (Shockey)]]), adapted.
 
 ### Chana dal
 Slower to colonise than the others, so left in cupboard for much longer. More and bigger holes made, because it was wet inside the plastic bag. `Needs to be dried off better!` Nice dense, fluffy mycelium, no spores. Slightly sour and damp smell.`
-![[Pasted image 20220527133616.png]]
+![[projects/attachments/Pasted image 20220527133616.png]]
 
-![[Pasted image 20220527133323.png]]
+![[projects/attachments/Pasted image 20220527133323.png]]
 
 ### Toor dal
 Good colonisation, got warm quickly (32°C). At the end, a bit wet and slightly yeasty, alcoholic smell. More mycelium on the sides than in the middle, but nicely colonised through and through. Tiny spores in one corner.
-![[Pasted image 20220527133655.png]]
-![[Pasted image 20220527133718.png]]
+![[projects/attachments/Pasted image 20220527133655.png]]
+![[projects/attachments/Pasted image 20220527133718.png]]
 
 ### Green mung dal
 Good initial colonisation, taken out after 23h at 34°C. Mycelium took longer to get dense. At the end, very strong, sharp alcoholic smell. Not well grown in the middle. No spores visible. Doesn't smell pleasant at all. `Too small grains! It gets too dense and wet. Mix with something bigger.`
-![[Pasted image 20220527133913.png]]
+![[projects/attachments/Pasted image 20220527133913.png]]
 
 
 ## Different Swedish legumes/grains (2020-09-19)
@@ -52,30 +52,30 @@ _Test: Gula ärtor (yellow peas), Gotland linser (lentils from Gotland), Lins An
 
 Results:
 1. **Yellow peas**: Smell is quite mild, slightly mushroomy. Open: Very nice, dense little block with thick mycelium all around. Not too fluffy on top, little sporulation, mild smell. Plastic: Block is nicely dense, but a bit irregular because the peas are quite big and the bag was lying on a rack. Both: Nice to cut, but slightly fragile due to size of beans `—> maybe chop a little bit before mixing with the starter?` Looks good, basically like toor dal tempeh. But a few harder peas are visible in the mix. Interesting to see how they will be when cooked/fried.
-![[Pasted image 20220528094941.png]]
-![[Pasted image 20220528095009.png]]
+![[projects/attachments/Pasted image 20220528094941.png]]
+![[projects/attachments/Pasted image 20220528095009.png]]
 
 2. **Gotland lentils**: Open: Very fluffy on the top and a tiny bit sporulation. Black colour is visible underneath, but that's from the lentils, not spores. Plastic: Quite dense block, no wet or empty bits. Nice to cut and looks very pretty, but the lentils start falling out of the block a bit. When boiled, quite many lentils fall out, leaving small holes in the block. Not holding together as well as e.g. brown beans. Quite brittle after boiling `—> mix lentils with something else!` Both: Slightly unpleasant dank smell, similar to the quinoa samples.
-![[Pasted image 20220528095038.png]]
-![[Pasted image 20220528095058.png]]
+![[projects/attachments/Pasted image 20220528095038.png]]
+![[projects/attachments/Pasted image 20220528095058.png]]
 
 3. **Lentils Anicia**: Didn't develop mycelium at all, neither in bag nor in cup, and also not after > 48h incubation. Discarded. `—> Too tough outer shell, or did I forget the starter?`
 
 4. **Fava beans**: Slightly cheesy smell. Plastic: Bit wet and some bigger beans are exposed and touching the plastic and they got sticky-shiny and smell cheesy `—> dry the beans better next time and cook less!` Cut structure is not bad, but there are wet beans visible that turned brown and funky. Throw away. Open: Irregular surface of beans with some fluffy mycelium growing up, some sporulation. When cut quite crumbly, because beans are quite big. Spores are also inside, probably because of air pockets `—> press better together and maybe cover with something. Also chop a bit smaller next time.` Smell of open sample not unpleasant, so the smell comes really from the exposed beans-on-wet-plastic in the plastic bag sample.
-![[Pasted image 20220528095210.png]]
-![[Pasted image 20220528095234.png]]
+![[projects/attachments/Pasted image 20220528095210.png]]
+![[projects/attachments/Pasted image 20220528095234.png]]
 
 5. **Brown beans**: Plastic: Nice very white, dense block. Slight ammonia smell! Or slightly sour smell Not as unpleasant as the lentils and the quinoa. Smells fresher. Open: No ammonia smell, just fresh, almost grassy. Beans are a bit loose and irregular on the top, mycelium fluffy but no spores. Both: No unpleasant smell inside when cut at all. Very mild and neutral. Beans are very white. Good block, holding together well. Not wet, no air pockets.
-![[Pasted image 20220528095320.png]]
-![[Pasted image 20220528095914.png]]
+![[projects/attachments/Pasted image 20220528095320.png]]
+![[projects/attachments/Pasted image 20220528095914.png]]
 
 6. **White quinoa**: Got the hottest and developed mycelium the fastest. The open incubation even started sporulating (not the case for any other substrates). Plastic: Big non-mycelium spot in the middle with unpleasant smell and colour. It's sticky and slimy —> remove! `—> Dry the grains more and mix with something bigger to avoid too dense cake.` The nice parts have a slighly animal and rotten smell, not entirely pleasant. Nice dense cake in most parts, but e.g. the corners of the plastic bag are not as dense and a bit wet and smell more sharp (ethanol, ammonia). Open: Nice, dense cake, but a lot of fluffy, sporulating mycelium on top `—> incubate for a shorter time!` Smell of open is less unpleasant and more mushroomy than the plastic bag `—> Maybe quinoa needs a LOT of air.`
-![[Pasted image 20220528095423.png]]
-![[Pasted image 20220528095440.png]]
+![[projects/attachments/Pasted image 20220528095423.png]]
+![[projects/attachments/Pasted image 20220528095440.png]]
 
 7. **Toor dal**: Plastic. Very nice dense cake with thick, smooth, white mycelium all around. Open: Fluffy top with slight sporulation, otherwise similar density to plastic. Both: Smells of almost nothing, very mild. Nice mycelium throughout, no wet or non-grown spots. Perfect tempeh.
-![[Pasted image 20220528095558.png]]
-![[Pasted image 20220528095616.png]]
+![[projects/attachments/Pasted image 20220528095558.png]]
+![[projects/attachments/Pasted image 20220528095616.png]]
 
 
 

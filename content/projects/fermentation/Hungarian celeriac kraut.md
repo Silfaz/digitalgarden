@@ -3,7 +3,7 @@ title: "Hungarian celeriac kraut"
 ---
 
 ## Hungarian celeriac kraut
-![[Screenshot 2022-06-10 at 20.07.12.png]]
+![[projects/attachments/Screenshot 2022-06-10 at 20.07.12.png]]
 Recipe: [[Vegetable recipes#Hungarian celeriac kraut]]
 _2022-03_:
 Nice mild heat from the peppers, and the fermented celeriac gets a nice sharp-acidic flavour that goes well with the celeria taste. The caraway is nice to give it the feeling of a complete dish.

@@ -3,7 +3,7 @@ title: "Fermented carrot and parsley root"
 ---
 
 ## Fermented carrot and parsely root 
-![[Screenshot 2022-06-10 at 20.07.38.png]]
+![[projects/attachments/Screenshot 2022-06-10 at 20.07.38.png]]
 Recipe: [[Vegetable recipes#Vietnamese pickled carrot and daikon]]
 
 _2022-03:_

@@ -11,10 +11,10 @@ Substrates: Fresh dairy milk (3% fat), Alpro soy milk (1.8% fat)
 **Scalding**: Heat up milks to approx. 90°C on the stove, leave for a minute, then pour into prepared jars and cool down in a water bath.
 **Starter culture**: Pour a bit of the freeze-dried starter culture (fraction of 1/4 tsp) into 10 mL of water, shake. Use approx. 1.5 mL of that to inoculate each jar.
 
-![[Screenshot 2022-06-06 at 09.21.35.png]]
-![[Screenshot 2022-06-06 at 09.21.46.png]]
+![[projects/attachments/Screenshot 2022-06-06 at 09.21.35.png]]
+![[projects/attachments/Screenshot 2022-06-06 at 09.21.46.png]]
 
-![[Screenshot 2022-06-06 at 09.21.54.png]]
+![[projects/attachments/Screenshot 2022-06-06 at 09.21.54.png]]
 
 **1st fermentation**: ==8h, 40°C== (in the rice cooker)
 Vege 053 yogurts are much firmer than 092 ones. For dairy, both are firm, but for soy the 092 is still liquid after 8h. The acidity is quite low in all of them, although dairy 053 is quite pleasant. Soy 053 is very mild and vanilla-y. 
