@@ -6,17 +6,17 @@ title: "Fermentation projects"
 
 ### Vegetables fermentations
 
-[[projects/fermentation/Vegetable recipes]]
+[Vegetable recipes](projects/fermentation/Vegetable recipes)
 
 ### Dairy- and plant-based milk fermentations
 
-[[projects/fermentation/Yogurt production]]
+[Yogurt production](projects/fermentation/Yogurt production)
 
 ### Tempeh
 
-[[projects/fermentation/Tempeh experiments]]
-[[projects/fermentation/Tempeh links]]
+[Tempeh experiments](projects/fermentation/Tempeh experiments)
+[Tempeh links](projects/fermentation/Tempeh links)
 
 ### Koji, shoyu, aminos
 
-[[projects/fermentation/Koji recipes]]
+[Koji recipes](projects/fermentation/Koji recipes)
