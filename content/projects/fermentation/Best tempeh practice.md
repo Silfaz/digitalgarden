@@ -2,9 +2,6 @@
 title: "Best tempeh practice"
 ---
 
-## Best tempeh practice
-
-
 ## Choice of legumes/grains
 - "Tough" lentils (e.g. Gotland lentils) don't make a good cake on their own, but are a good addition to other legumes that would give a too soft cake.
 - Fava beans give a starchy/meaty texture. Would benefit from mixing with something tougher (e.g. Gotland lentils).

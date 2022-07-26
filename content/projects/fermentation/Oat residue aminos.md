@@ -1,7 +1,11 @@
-# Oat residue aminos
+---
+title: "Oat residue aminos"
+---
+
 (photo)
 
-Recipe: [[Koji recipes#Oat residue aminos]]
+Recipe: [Koji recipes - Oat residue aminos](projects/fermentation/Koji%20recipes.md#Oat%20residue%20aminos)
+
 ### 2021-10-16
 #### Incubation procedure:
 - 2021-10-16: 20:00 Internal start temp: 24 C. Oven start temp: 28C.
@@ -10,7 +14,7 @@ Recipe: [[Koji recipes#Oat residue aminos]]
 	- 14:00 internal temp: 33c
 	- 16:00 internal temp: 35c. Take out of oven and place on counter top.
 	- 17:00 internal temp: 36c. Mix, break apart clumps and transfer to bigger baking sheet, lined with damp kitchen towel.
-- 2021-10-18 19:00, ==48h==: internal temp 38c. Strong sweet-modrig smell. Harvest.
+- 2021-10-18 19:00, **48h**: internal temp 38c. Strong sweet-mouldy smell. Harvest.
 
 #### Result:
 29-01-2022, **3 months at RT**: Take 2 of the jars, and open. 

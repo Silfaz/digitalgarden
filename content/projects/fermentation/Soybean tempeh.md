@@ -1,10 +1,12 @@
-# Soybean tempeh
+---
+title: "Soybean tempeh"
+---
 
 ## Standard dehulled soybean tempeh (2020-08-25)
 *Test: Tempeh starter, inoculation time, inoculation method*
 
-Standard recipe (according to [[Miso, Tempeh, Natto (Shockey)]]). Cupboard above fridge vs. waterbath with immersion heater.
-- Material: **Soybeans** from Indian shop, Herkulesgatan, Gothenburg: **25 SEK/kg**.500 g dry soy beans
+Standard recipe (according to [Miso, Tempeh, Natto (Shockey)](projects/fermentation/Miso,%20Tempeh,%20Natto%20(Shockey).md). Cupboard above fridge vs. waterbath with immersion heater.
+- Material: Soybeans from Indian shop, Herkulesgatan, Gothenburg: 25 SEK/kg **500 g dry soy beans**
 - Soak: Soak in water for 8h, dehull. Soak in water for another 8 h (**total soaking 16h**). 
 - Cook in water for **50 min,** cool down, steam off. 
 - Inoculation: Add 2 Tbsp (**4 Tbsp/kg**) apple cider vinegar, mix. Blow dry with hair dryer. Mix with 1 tsp (**2 tsp/kg**) tempeh starter (*topcultures*). Spread in tray or in perforated plastic bag.

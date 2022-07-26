@@ -1,11 +1,11 @@
 ---
 title: "Different legumes"
 ---
-## Different legumes
+
 ## Different Indian dals (2020-09-09)
 *Test: Chana dal, Toor dal, Green mung dal*
 
-Standard recipe (according to [[Miso, Tempeh, Natto (Shockey)]]), adapted. 
+Standard recipe (according to [Miso, Tempeh, Natto (Shockey)](Miso, Tempeh, Natto (Shockey)), adapted. 
 - Material: Chana dal, Toor dal, Green mung dal from Indian shop, Herkulesgatan, Gothenburg. 125 g dry dal.
 - Soak: Wash and soak in water for 10h, then change water and soak for another 12 h (not necessary, but I didn't have time to cook it earlier). **Total soaking 22h.** Green mung dal had lost all its husks and was very easy to dehull. Looks just pale yellow. Toor dal and Chana dal have increased in size quite a lot and have the consistency of raw potato.
 - Cook: Chana dal and Green mung dal: **5 min**; Toor dal: **10 min**. Chana dal has a nice bite and a bit of starchyness, but good flavour. Toor dal has a nice bite, but starchy and a bit watery. `Could use less soaking or less cooking time.` Green mung dal is nicely al dente and holds together well, has lost the green shells.

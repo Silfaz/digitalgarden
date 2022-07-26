@@ -1,4 +1,6 @@
-# Tempeh links
+---
+title: "Tempeh links"
+---
 
 [Images of larger-scale tempeh production (Tempehting):](https://tempehting.com/tempeh-fabriek)
 ![[projects/attachments/Tempeh larger scale.png]]

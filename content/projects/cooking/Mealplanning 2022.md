@@ -1,0 +1,33 @@
+---
+title: "Mealplanning 2022"
+---
+
+- Kimchi udon
+- Chili garlic noodles (Yeung Man)
+- Gimbap
+- Dumplings with rice and edamame beans or pak choi
+- Laoganma tofu rice & pickled vegetables
+- Kitsune udon
+- Japanese curry
+- Pitabread/Libabröd with meatballs, cabbage and kebabsauce
+- Kimchi fried rice
+- Pasta bake
+- Cream spinach with potatoes and sausage
+- Couscous salad
+- Ottolenghi's giant couscous
+- Mushroom mapo tofu
+- Bibimbap
+- Keema sandwiches
+- Tomato soup with bread
+- Pasta with olives, capers, pine nuts, sugar snaps
+- Misir wat
+- Hyderabadi sour dal
+- Burgers
+- Pasta with tomato-meatball sauce
+- Creamy mushroom pasta with meatballs
+- Pasta with roasted fennel and cocktail tomatoes
+- Duncan's chili
+- Fried rice
+- Freekeh with parsely, preserved lemons and pine nuts
+- Pineapple lentil curry
+- Carrot soup with Bosnian bread
