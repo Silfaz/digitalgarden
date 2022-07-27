@@ -8,4 +8,6 @@ Recipe: [Vegetable recipes - UFO peaches](projects/fermentation/Vegetable%20reci
 
 _2022-07-25:_
 Bought "UFO peaches" from Hemköp (grown in Spain), 29.90 SEK for 500 g. Washed and cut each into 8 chunks. 
-Already on the second day the liquid got cloudy, but no sour taste yet.
+24h: Liquid is already cloudy, but no sour taste yet.
+48h: Cloudier. Bubbles appearing. Fruit tastes just sweet, peachy and a bit salty.
+

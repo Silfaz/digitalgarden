@@ -1,20 +1,20 @@
 ---
-title: 🪴 Digital Garden
+title: "🪴 Digital Garden"
 ---
 ## Projects
 
 ### [Fermentation](projects/fermentation/fermentation_main.md)
 
-### [Sewing](projects/sewing)
+### [Sewing](sewing/sewing_main.md)
 
-### [Coding](projects/coding)
+### [Coding](projects/coding/coding_main.md)
 
 [Environment](projects/environment)
 
 
 
 
-## [Learning Log](blog/learning_log)
+## [Learning log](blog/learning_log.md)
 
 
 ## [Books](projects/books/books_main.md)

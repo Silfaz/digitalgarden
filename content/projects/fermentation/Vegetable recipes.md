@@ -1,5 +1,5 @@
 ---
-title: Vegetable (and some fruit) recipes
+title: "Vegetable (and some fruit) recipes"
 ---
 
 ## Fermented daikon radish
