@@ -2,23 +2,21 @@
 title: 🪴 Digital Garden
 ---
 ## Projects
-[Projects](content/projects)
 
-[Fermentation](projects/fermentation/fermentation_main.md)
+### [Fermentation](projects/fermentation/fermentation_main.md)
 
-[Sewing](projects/sewing)
+### [Sewing](projects/sewing)
 
-[Coding](projects/coding)
+### [Coding](projects/coding)
 
 [Environment](projects/environment)
 
 
-[Blog](content/blog)
-[Learning Log](blog/learning_log)
 
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+## [Learning Log](blog/learning_log)
+
+
+## [Books](projects/books/books_main.md)
+
 
