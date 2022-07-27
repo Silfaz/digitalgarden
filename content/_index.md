@@ -9,7 +9,7 @@ title: "🪴 Digital Garden"
 
 ### [Coding](projects/coding/coding_main.md)
 
-[Environment](projects/environment)
+### [Environment & Climate Action](climate/climate_main.md)
 
 
 
