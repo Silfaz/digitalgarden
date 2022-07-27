@@ -1,0 +1,200 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=description content="100 days of Python  https://www.udemy.com/course/100-days-of-code/ Dr. Angela Yu
+Basics For commenting a whole line: Cmd+Shift+7 (or Cmd+/) (Cmd+z to undo)"><title>100 days of Python</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/png href=https://silfaz.github.io/digitalgarden//icon.png><link href=https://silfaz.github.io/digitalgarden/styles.591589daec716a7d5287f8d56c2c091e.min.css rel=stylesheet><link href=https://silfaz.github.io/digitalgarden/styles/_light_syntax.86a48a52faebeaaf42158b72922b1c90.min.css rel=stylesheet id=theme-link><script src=https://silfaz.github.io/digitalgarden/js/darkmode.5f4efd09c6dd84a75c2c8b867bc54645.min.js></script>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css integrity=sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js integrity=sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js integrity=sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR crossorigin=anonymous></script>
+<script src=https://unpkg.com/@floating-ui/core@0.7.3></script>
+<script src=https://unpkg.com/@floating-ui/dom@0.5.4></script>
+<script src=https://silfaz.github.io/digitalgarden/js/popover.37b1455b8f0603154072b9467132c659.min.js></script>
+<script src=https://silfaz.github.io/digitalgarden/js/code-title.b35124ad8db0ba37162b886afb711cbc.min.js></script>
+<script src=https://silfaz.github.io/digitalgarden/js/clipboard.c20857734e53a3fb733b7443879efa61.min.js></script>
+<script>const BASE_URL="https://silfaz.github.io/digitalgarden/",fetchData=Promise.all([fetch("https://silfaz.github.io/digitalgarden/indices/linkIndex.a22db8027e88fa5438b9a9e3015e8a44.min.json").then(e=>e.json()).then(e=>({index:e.index,links:e.links})),fetch("https://silfaz.github.io/digitalgarden/indices/contentIndex.af0185e771535920940f2718906c973b.min.json").then(e=>e.json())]).then(([{index:e,links:t},n])=>({index:e,links:t,content:n})),render=()=>{const n=new URL(BASE_URL),s=n.pathname,o=window.location.pathname,i=s==o;addCopyButtons(),addTitleToCodeBlocks();const e=document.getElementById("graph-container");if(!e)return requestAnimationFrame(render);e.textContent="";const t=i&&!1;drawGraph("https://silfaz.github.io/digitalgarden",t,[{"/moc":"#4388cc"}],t?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2}),initPopover("https://silfaz.github.io/digitalgarden",!0,!0)},init=(e=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(e.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}],throwOnError:!1})}</script><script type=module>
+    import { attachSPARouting } from "https:\/\/silfaz.github.io\/digitalgarden\/js\/router.9d4974281069e9ebb189f642ae1e3ca2.min.js"
+    attachSPARouting(init, render)
+  </script></head><script async src="https://www.googletagmanager.com/gtag/js?id=G-XYFD95KB4J"></script>
+<script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-XYFD95KB4J",{anonymize_ip:!1})}</script><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=Search placeholder="Search for something..."><div id=results-container></div></div></div><script src=https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js integrity="sha256-i3A0NZGkhsKjVMzFxv3ksk0DZh3aXqu0l49Bbh0MdjE=" crossorigin=anonymous defer></script>
+<script defer src=https://silfaz.github.io/digitalgarden/js/search.cf33b507388f3dfd5513a2afcda7af41.min.js></script><div class=singlePage><header><h1 id=page-title><a href=https://silfaz.github.io/digitalgarden/>🪴 Quartz 3.2</a></h1><div class=spacer></div><div id=search-icon><p>Search</p><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg></div><div class=darkmode><input class=toggle id=darkmode-toggle type=checkbox tabindex=-1>
+<label id=toggle-label-light for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="dayIcon" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35"><title>Light Mode</title><path d="M6 17.5C6 16.672 5.328 16 4.5 16h-3C.672 16 0 16.672.0 17.5S.672 19 1.5 19h3C5.328 19 6 18.328 6 17.5zM7.5 26c-.414.0-.789.168-1.061.439l-2 2C4.168 28.711 4 29.086 4 29.5 4 30.328 4.671 31 5.5 31c.414.0.789-.168 1.06-.44l2-2C8.832 28.289 9 27.914 9 27.5 9 26.672 8.329 26 7.5 26zm10-20C18.329 6 19 5.328 19 4.5v-3C19 .672 18.329.0 17.5.0S16 .672 16 1.5v3C16 5.328 16.671 6 17.5 6zm10 3c.414.0.789-.168 1.06-.439l2-2C30.832 6.289 31 5.914 31 5.5 31 4.672 30.329 4 29.5 4c-.414.0-.789.168-1.061.44l-2 2C26.168 6.711 26 7.086 26 7.5 26 8.328 26.671 9 27.5 9zM6.439 8.561C6.711 8.832 7.086 9 7.5 9 8.328 9 9 8.328 9 7.5c0-.414-.168-.789-.439-1.061l-2-2C6.289 4.168 5.914 4 5.5 4 4.672 4 4 4.672 4 5.5c0 .414.168.789.439 1.06l2 2.001zM33.5 16h-3c-.828.0-1.5.672-1.5 1.5s.672 1.5 1.5 1.5h3c.828.0 1.5-.672 1.5-1.5S34.328 16 33.5 16zM28.561 26.439C28.289 26.168 27.914 26 27.5 26c-.828.0-1.5.672-1.5 1.5.0.414.168.789.439 1.06l2 2C28.711 30.832 29.086 31 29.5 31c.828.0 1.5-.672 1.5-1.5.0-.414-.168-.789-.439-1.061l-2-2zM17.5 29c-.829.0-1.5.672-1.5 1.5v3c0 .828.671 1.5 1.5 1.5s1.5-.672 1.5-1.5v-3C19 29.672 18.329 29 17.5 29zm0-22C11.71 7 7 11.71 7 17.5S11.71 28 17.5 28 28 23.29 28 17.5 23.29 7 17.5 7zm0 18c-4.136.0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5S21.636 25 17.5 25z"/></svg></label><label id=toggle-label-dark for=darkmode-toggle tabindex=-1><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="nightIcon" viewBox="0 0 100 100" style="enable-background='new 0 0 100 100'"><title>Dark Mode</title><path d="M96.76 66.458c-.853-.852-2.15-1.064-3.23-.534-6.063 2.991-12.858 4.571-19.655 4.571C62.022 70.495 50.88 65.88 42.5 57.5 29.043 44.043 25.658 23.536 34.076 6.47c.532-1.08.318-2.379-.534-3.23-.851-.852-2.15-1.064-3.23-.534-4.918 2.427-9.375 5.619-13.246 9.491-9.447 9.447-14.65 22.008-14.65 35.369.0 13.36 5.203 25.921 14.65 35.368s22.008 14.65 35.368 14.65c13.361.0 25.921-5.203 35.369-14.65 3.872-3.871 7.064-8.328 9.491-13.246C97.826 68.608 97.611 67.309 96.76 66.458z"/></svg></label></div></header><article><h1>100 days of Python</h1><p class=meta>Last updated
+Jul 26, 2022</p><ul class=tags></ul><aside class=mainTOC><details><summary>Table of Contents</summary><nav id=TableOfContents><ol><li><a href=#100-days-of-python>100 days of Python</a></li><li><a href=#basics>Basics</a><ol><li><a href=#the-python-input-function>The Python input function</a></li><li><a href=#understanding-data-types-and-how-to-manipulate-strings>Understanding data types and how to manipulate strings</a></li><li><a href=#control-flow-and-logical-operators>Control flow and logical operators</a></li><li><a href=#random-module>Random module</a></li><li><a href=#lists>Lists</a></li><li><a href=#loops>Loops</a></li><li><a href=#dictionaries>Dictionaries</a></li><li><a href=#tuples>Tuples</a></li></ol></li><li><a href=#functions>Functions</a></li><li><a href=#debugging>Debugging</a></li><li><a href=#object-oriented-programming-oop>Object-oriented programming (OOP)</a><ol><li><a href=#classes>Classes</a></li></ol></li><li><a href=#interesting-modules-and-other-things>Interesting modules and other things</a></li></ol></nav></details></aside><a href=#100-days-of-python><h2 id=100-days-of-python><span class=hanchor arialabel=Anchor># </span>100 days of Python</h2></a><p><a href=https://www.udemy.com/course/100-days-of-code/ rel=noopener>https://www.udemy.com/course/100-days-of-code/</a>
+Dr. Angela Yu</p><a href=#basics><h2 id=basics><span class=hanchor arialabel=Anchor># </span>Basics</h2></a><p>For commenting a whole line: <strong>Cmd</strong>+<strong>Shift</strong>+<strong>7</strong> (or <strong>Cmd</strong>+<strong>/</strong>) (<strong>Cmd</strong>+<strong>z</strong> to undo)</p><a href=#the-python-input-function><h3 id=the-python-input-function><span class=hanchor arialabel=Anchor># </span>The Python input function</h3></a><p>Print function: <code>print()</code>
+Input function: <code>input()</code></p><p><code>input</code> works like this: if I write <code>print (input ("What's your name?"))</code> it will print the question and I can put my name in. </p><p>How to store that name in a variable? Just put in a variable name instead of the <code>print</code> statement:</p><ol><li>name = input (&ldquo;What&rsquo;s your name?&rdquo;)</li></ol><p>Similarly, if I want to turn the answer immediately into a different data type, I can do that together with the <code>input</code> command:</p><p><code>age = int(input ("How old are you?")</code></p><p>Usually, inputs are strings, so if I just write:</p><p><code>name = input("What's your name?")</code></p><p>The input value is stored as a string.</p><a href=#understanding-data-types-and-how-to-manipulate-strings><h3 id=understanding-data-types-and-how-to-manipulate-strings><span class=hanchor arialabel=Anchor># </span>Understanding data types and how to manipulate strings</h3></a><p><code>type()</code> Check the type of a variable, e.g. int, str
+<code>str()</code> Turn something into a string
+<code>int()</code> Turn something in to an integer
+<code>round()</code> Round a number to a specific number of decimal places, e.g. <code>round(3.5542, 2)</code></p><p><strong>F-string:</strong> In front of a string (i.e. in front of the quotes) you type an <code>f</code>, then you can include different data types in curly brackets in the quotes. No need to doing <code>str()</code> or <code>int()</code>, etc.</p><p><code>print (f"My weight is {weight} kg and my height is {height} m.")</code></p><p><code>variable = variable + 1</code> is the same as <code>variable += 1</code></p><p>Same for -=, *=, /=</p><p>E.g. <code>variable = variable*2</code> is the same as <code>variable *=2</code></p><a href=#control-flow-and-logical-operators><h3 id=control-flow-and-logical-operators><span class=hanchor arialabel=Anchor># </span>Control flow and logical operators</h3></a><p><code>if condition 1:</code>
+<code>do A</code>
+<code>elif condition 2:</code>
+<code>do B</code>
+<code>else:</code>
+<code>do C</code></p><p><code>"Silvia".lower()</code> &ndash;> &ldquo;silvia&rdquo;
+<code>"Silvia".count("i")</code> &ndash;> 2</p><p>Use three single quotes for writing multi-line strings:</p><p><code>print ('''This</code>
+<code>is a</code>
+<code>multi-</code>
+<code>line string</code>
+`&rsquo;&rsquo;&rsquo;)``</p><a href=#random-module><h3 id=random-module><span class=hanchor arialabel=Anchor># </span>Random module</h3></a><p>Random number generation with the random module:</p><p><code>random.randint(1, 10) #Generates random integer between (and including) 1 and 10</code>
+<code>random.random() #Generates random float between (and including) 0 and (excluding) 1</code></p><p>Pick a random item from a list:
+<code>random.choice(list_name)</code></p><p><em>Don&rsquo;t try to learn every single function by heart. Instead, when you come across a new thing (e.g. a new data structure), read through the documentation to see what is possible. Then next time when you use it, you can look specific things up.</em></p><p><strong>When importing modules:</strong></p><p>either
+<code>import chosen_module</code>
+<code>print (chosen_module.sentence)</code></p><p>or
+<code>from chosen_module import sentence</code>
+<code>print (sentence)</code></p><p>or
+<code>import chosen_module as mod</code>
+<code>print (mod.sentence)</code></p><p>E.g. to import and use the Turtle class from the turtle module, either write:
+<code>import turtle</code>
+<code>new_turtle = turtle.Turtle()</code></p><p>or
+<code>from turtle import Turtle</code>
+<code>new_turtle = Turtle()</code></p><p>The latter is useful when the class is used often and you don&rsquo;t want to type <code>turtle.Turtle()</code> all the time.</p><p>It&rsquo;s also possible to import everything from a module and use it as if it was part of the normal environment (i.e. without the module name).
+<code>from turtle import *</code></p><p>This however can be confusing, since it&rsquo;s often good to know which module a function belongs to.</p><p>E.g.
+<code>choice([1,3,4])</code> looks confusing out of context. But if you write <code>random.choice([1,3,4])</code> it&rsquo;s much clearer that it is part of the random module and that a random number is picked from this list.</p><p>For long module names, it&rsquo;s also possible to use aliases:</p><p><code>import turtle as t</code>
+<code>new_turtle = t.Turtle()</code></p><a href=#lists><h3 id=lists><span class=hanchor arialabel=Anchor># </span>Lists</h3></a><p><strong>Lists</strong> store data in a specific order
+<code>fruits = ["Cherry", "Apple", "Pear"]</code></p><p>To access a specific entry from the list:
+<code>fruits[0]</code> or <code>fruits[-1]</code></p><p>To add an item to the end of an existing list:
+<code>fruits.append("Melon")</code></p><p>To add several times to the end of an existing list:
+<code>fruits.append(["Strawberry", "Orange", "Peach"]</code></p><p><code>random.choice(list)</code>
+This generates a random choice from a given list.</p><p><code>str.split()</code>
+Splits a string into separate components based on some defined divider, e.g. a comma.</p><p><code>str.split(",")</code>
+The result will be a <strong>list</strong> that contains the separate components of the string.</p><p>Nested lists contain <strong>lists of lists</strong>. When addressing a specific item in a nested list, you have to first pick the right nested list, then the item in that list, e.g. the first item in the first list would be:
+<code>print (list([0][0])</code></p><p>Transform a string into a list:
+<code>list(string)</code></p><p><strong>in</strong></p><p>The <strong>in</strong> construct is an easy way to test if an element is contained in a collection, e.g. in a list.</p><p><code>list = ["Silfa", "Duncan", "Laika"]</code>
+<code>if "Silfa" in list:</code>
+<code>print ("yay")</code></p><a href=#loops><h3 id=loops><span class=hanchor arialabel=Anchor># </span>Loops</h3></a><p><code>letters = ["a", "b", "c", "d"]</code>
+<code>for letter in letters:</code>
+` print (letter)``</p><p>NB: The item (here <code>number</code>) in a for loop does <strong>NOT</strong> count from 0 to i, but instead takes the value of the first item in the list (e.g. <code>"a"</code>) and takes on that value. This means, that to have some kind of <strong>counting variable</strong> that is first set to 0 (outside the loop) and then increases with each round inside the loop, you have to do the following:
+<code>count = 0</code>
+<code>for letter in letters:</code>
+<code>print (letter)</code>
+<code>count += 1`` Then with each round through the loop,</code>count<code>will increase by 1, and will in the end have the same value as items in</code>letters`.</p><p>For loops are often used to loop through lists, but you can also loop through ranges of items that are not lists.</p><p><strong>for loops and the</strong> <code>**range()**</code> <strong>function</strong></p><p><code>for number in range (a, b):</code>
+<code>print (number)</code>
+<em>NB: a is included, b is not</em></p><p>The step size can also be changed, e.g. to increase the numbers by 3, type:
+<code>range(1, 100, 3)</code></p><p><strong>So there are 2 types of for loops:</strong>
+type 1</p><p><code>for item in list _of_items:</code>
+<code>#do something to each item</code></p><p>type 2
+<code>for number in range(a,b):</code>
+` #do something``</p><p><strong><em>When to use a for and when a while loop?</em></strong></p><p><strong>For</strong> loops are great when you iterate over something, and you want to do something with each thing you iterate over. E.g. iterating through a list.</p><p><strong>While</strong> loops are used when you just want to carry out some sort of functionality many times until a condition is met. Don&rsquo;t care about what number in a sequence you&rsquo;re in, which item in a list you&rsquo;re iterating through, etc.</p><p>While loops are a bit more dangerous than for loops. In for loops you always have an upper bound, but while loops will continue running until the condition evaluates to <code>FALSE</code>. That can lead to infinite loops.</p><p>A good thing to do when you don&rsquo;t know why you get an infinite loop, simply <code>print()</code> the condition inside the loop and check what&rsquo;s happening.</p><p><strong>While loop</strong>
+A loop that keeps on going while a condition is <code>TRUE</code>.</p><p><code>while something_is_true:</code>
+<code>#do a thing, then test the condition again, etc.</code></p><p>Once the condition evaluates to FALSE, the while loop is skipped.</p><p>Example of how a while loop can be used:
+<code>count = 6</code>
+<code>while count > 0:</code>
+      <code>print ("Hello!")</code>
+      <code>count -= 1   #this decreases the</code> <code>number of counts by one every time</code> <code>the loop runs</code></p><p>While loops can also be used while a condition is <code>FALSE</code>. For that, use this syntax:</p><p><code>while not some_condition_that_is_true:</code>
+<code>#do something</code></p><p>This means the loop runs while the condition is <code>FALSE</code>, but as soon as it evaluates to <code>TRUE</code>, we drop out of the loop.</p><p>A good way to <strong>include a check in a while loop</strong> is to set a variable to <code>True</code> (or <code>False</code>) before the while loop starts. Then set the while loop to run WHILE the <code>variable == True</code>. Inside the while loop, something makes the variable either remain <code>True</code> or switch to <code>False</code>. In case of False, the while loop will stop.</p><p>A good way to <strong>increase something or build something up in a For loop</strong> is to set an empty string or an empty list outside of the for loop first. Then inside the for loop, in every turn something is added to the string or list, adding up to the final string or list when the for loop is finished.</p><a href=#dictionaries><h3 id=dictionaries><span class=hanchor arialabel=Anchor># </span>Dictionaries</h3></a><p>Dictionaries are useful if you want to associate labels with each value. Lists are better if you are storing similar data, such as a list of proces or names, where you cannot label each value.</p><p><code>dictionary1 = {</code>
+<code>key1: value1,</code>
+<code>key2: value2,</code>
+<code>key3: value3,</code>
+` }</p><p>To get a value back:
+<code>dictionary1[key2]</code></p><p>To add an entry to the dictionary:
+<code>dictionary1[key4] = value4</code></p><p>Similar to lists and strings, it&rsquo;s often useful to start with an <em>empty</em> dictionary, and then later on add to the dictionary.
+<code>dic_new = {}</code></p><p>When looping through a dictionary, usually the <strong>key</strong> will be picked out:</p><p><code>for key in dictionary1:</code>
+<code>print (key)</code></p><p>If you want to access a specific <strong>value</strong> in a dictionary (e.g. when looping through the dictionary):</p><p><code>for key in dictionary1:</code>
+` print (dictionary1[key])``</p><p><strong>Nested dictionaries</strong>
+The nested dictionaries don&rsquo;t need to be the same size as the outer dictionaries. They can also include lists, strings, numbers, etc.</p><p>Lists are ordered and are accessed by the position inside the list. Dictionaries are NOT ordered.</p><p>Dictionaries (or lists) are like folders. They can contain values, but they can also contain other dictionaries (or lists).</p><p>A <strong><em>dictionary that contains a list</em></strong> looks like this:</p><p><code>travel_log = {</code>
+<code>"France": ["Paris", "Lille", "Dijon"],</code>
+<code>"Germany": ["Berlin", "Hamburg", "Stuttgart"],</code>
+<code>}</code></p><p>A <strong><em>dictionary that contains a dictionary</em></strong> looks like this:
+<code>travel_log = {</code>
+<code>"France": {"cities_visited": ["Paris", "Lille", "Dijon"], "total_visits": 12},</code>
+<code>"Germany": {"cities_visited": ["Berlin", "Hamburg", "Stuttgart"], "total_visits": 5},</code>
+<code>}</code></p><p>And a <strong><em>list that contains dictionaries</em></strong> looks like this:
+<code>travel_log = [</code>
+<code>{</code>
+<code>"country": "France",</code>
+<code>"cities_visited": ["Paris", "Lille", "Dijon"],</code>
+<code>"total_visits": 12,</code>
+<code>},</code>
+<code>{</code>
+<code>"country": "Germany",</code>
+<code>"cities_visited": ["Berlin", "Hamburg", "Stuttgart"],</code>
+<code>"total_visits": 5,</code>
+<code>},</code>
+<code>]</code></p><p>To get <strong>values</strong> from a dictionary, type the variable for the dictionary, followed by the key in square brackets:
+<code>dictionary["name"]</code></p><p>To get the <strong>keys</strong> from a dictionary, you can turn the keys into a list, and then refer to an item in this list. NB: items in a list are ordered, while items in a dictionary are not!
+<code>keys_list = list(dictionary)</code></p><p>To get <strong>values from a dictionary of lists</strong>, type the variable for the dictionary, the index of the entry in question, followed by the key in square brackets:
+<code>dictionary[0]["name"]</code></p><a href=#generate-dictionary-from-a-list><h4 id=generate-dictionary-from-a-list><span class=hanchor arialabel=Anchor># </span>Generate dictionary from a list</h4></a><p>Several options:</p><ul><li><code>dict.fromkeys()</code> Used to create a dictionary from a list. It accepts a list of <strong>keys</strong> that you want to turn into a dictionary. Optionally, you can specify a value you want to assign to every key. You cannot set individual values for each item in the dictionary.
+E.g.
+<code>fruits = ["Apple", "Pear", "Banana"]</code>
+<code>fruit_dict = dict.fromkeys(fruits, "In stock")</code>
+If we did not specify a value in our code, the default value for the keys in the dictionary would be <code>None</code>.</li><li>Dictionary comprehension: Creates a new dictionary from an existing list. You can specify different valuues for each key in the dictionary.
+E.g.
+<code>fruits = ["Apple", "Pear", "Banana"]</code>
+<code>fruit_dict = { fruit: "In stock" for fruit in fruits } The dictionary comprehension runs through each item in the list </code>fruits`. We then add an item to our new dictionary for each fruit in our list.</li><li><code>zip()</code> Converts (merges) two or more lists into a list of tuples. You can use the <code>dict()</code> method to convert the list of tuples into a dictionary. This way, one list can become the keys of the dictionary, and the other the values, e.g. if you have one list with fruits, and the other with the price of these fruits.
+<code>fruits = ["Apple", "Pear", "Banana"]</code>
+<code>prices = [3.5, 4.0, 2.1]</code>
+<code>fruit_dict = dict(zip(fruits, prices))</code></li></ul><a href=#loop-iterate-over-a-dictionary><h4 id=loop-iterate-over-a-dictionary><span class=hanchor arialabel=Anchor># </span>Loop (iterate) over a dictionary</h4></a><p>Dictionaries contain an <code>__iter__()</code> method that iterates over the keys. this method is automatically called when you put a dictionary into a <code>for</code> loop.
+<code>for key in a_dict: print (key)</code></p><p>If you want access to the values, use the indexing operator <code>[]</code> with the dictionary and its keys:
+<code>for key in a_dict: print (a_dict[key])</code></p><p>When you&rsquo;re working with dictionaries, it&rsquo;s likely that you&rsquo;ll want to work with both the keys and the values. One of the most useful ways to iterate through a dictionary is by using <code>.items()</code>, which is a method that returns a new view of the dictionaries items. It&rsquo;s a dynamic view, meaning that if the dictionary changes, the view reflects these changes.
+Views can be iterated over to yield their respective data, so you can iterate through a dictionary in Python by using the view object returned by <code>.items()</code>:
+<code>for item in a_dict.items(): print(item)</code>&ndash;> returns tuples of the key-value pairs</p><p>If you just need to work with the keys of a dictionary, then you can use <code>.keys()</code>, which is a method that returns a new view object containing the dictionary&rsquo;s keys. To iterate through a dictionary by using <code>.keys()</code>, you just need to call <code>.keys()</code> in the header of a <code>for</code> loop:
+<code>for key in a_dict.keys(): print (key)</code>
+Similarly, you can use <code>.values()</code> to iterate through values.
+Both <code>.keys()</code> and <code>.values()</code> can be used to check if a key or value is present in a dictionary by using <code>in</code>: <code>"apple" in a_dict.values()</code>.</p><a href=#modifying-values-and-keys><h4 id=modifying-values-and-keys><span class=hanchor arialabel=Anchor># </span>Modifying values and keys</h4></a><p>You&rsquo;ll need to use the original dictionary!</p><a href=#filtering-items><h4 id=filtering-items><span class=hanchor arialabel=Anchor># </span>Filtering items</h4></a><p>Sometimes you&rsquo;ll want to create a new dictionary from an existing dictionary, that only stores the data that satisfies a given condition. You can do this with an <code>if</code> stateent inside a <code>for</code> loop:
+<code>a_dict = {"one": 1, "two": 2, "three": 3, "four": 4}`` </code>new_dict = {}<code> </code>for key, value in a_dict.items():<code> </code>if value &lt;= 2: new_dict[key] = value<code> </code>#new_dict = {&ldquo;one&rdquo;: 1, &ldquo;two&rdquo;, 2}`</p><a href=#tuples><h3 id=tuples><span class=hanchor arialabel=Anchor># </span>Tuples</h3></a><p><code>my_tuple = (1, 2, 3)</code> &ndash;> similar to list</p><p>Items in a tuple are ordered (as in a list) and are accessed by indexing with square brackets.</p><p>What&rsquo;s the difference from a list? A tuple&rsquo;s values can&rsquo;t be changed once it&rsquo;s created (i.e. <strong><em>immutable</em></strong>).</p><p>When do you want to use a tuple? When creating something that shouldn&rsquo;t be changed or is protected from accidental change (e.g. the colour scheme of a website).</p><p>When you want to change a tuple&rsquo;s values, you can convert it into a list by writing:<br><code>list(my_tuple)</code>
+and then you can change the values as you would in a list.</p><p><strong>Creating tuples:</strong> 
+<code>new_tuple = (first_item, second_item, third_item)</code>
+&ndash;> separated by commas, and in round brackets</p><p>To access tuples, use same notation as for lists:
+<code>new_tuple[0] #first_item</code></p><a href=#functions><h2 id=functions><span class=hanchor arialabel=Anchor># </span>Functions</h2></a><p><strong>Functions</strong>
+Python has built-in functions, e.g. <code>int()</code>, <code>range()</code>, <code>print()</code> or <code>round()</code>.</p><p>Creating your own functions:
+<code>def my_function():</code>
+  <code>      content of function</code></p><p>To call the function:
+<code>my_function()</code></p><p><strong>Functions with inputs</strong></p><p><code>def my_function(something):</code>
+<code>#Do this with something</code>
+<code>#Then this</code>
+<code>#And finally this with something</code></p><p>A function can have several parameters:
+<code>def my_function (param1, param2):</code></p><p>This called <strong>positional arguments</strong>
+<code>def my_function (a, b, c):</code>
+<code>#Do this with a</code>
+<code>#then do this with b</code>
+<code>#then this with c</code></p><p>In comparison with keyword arguments the order doesn&rsquo;t matter. When a function is called, the name of the parameter is used, together with the argument for it:</p><p><code>my_function (a=1, b=2, c=3)</code></p><p>Since order doesn&rsquo;t matter, we could also write:</p><p><code>my_function (b=2, c=3, a=1)</code></p><p><strong><em>Functions with outputs</em></strong></p><p>Can be simple or take inputs (arguments). Inside the function, the keyword <code>return</code> is used to &ldquo;transfer&rdquo; a result/output to the <em>outside</em> of the function, so it can be used further.</p><p><code>def my_function():</code>
+<code>result = 2*3</code>
+<code>return result</code></p><p>After the <code>return</code> keyword, the function is exited, and anything that would come after the <code>return</code> keyword in the function will not be executed. This can be used to return the function early if needed (e.g. check with an <code>if</code> statement if some condition is true, and then just use the <code>return</code> keyword to exit out of the function).</p><p><strong>Different types of functions:</strong></p><p><strong><em>Simple functions</em></strong>
+Very simple, without any parameters. Just reduced complexity by reducing the amount of code you need to write (e.g. if there is a recurring task).</p><p><code>def my_function():</code>
+<code>#do this</code>
+<code>#then do this</code>
+<code>#finally do this</code></p><p>To call this function:
+<code>my_function()</code></p><p><strong><em>Functions with inputs</em></strong>
+Functions with parameters take an input that gets passed into the function when the function is called. This allows us to modify what the function does, depending on what input was passed in.</p><p><code>def my_function(something):</code>
+<code>#do this with something</code>
+<code>#then do this</code>
+<code>#finally do this</code></p><p>To call this function:
+<code>my_function(123)</code></p><p><strong><em>Docstrings</em></strong>
+With docstrings, you can include a comment or little explanation with your newly created function about what it does and what it takes as input. Docstrings must be placed in the first line of the function and have to be encased in triple quotation marks. They can run over several lines.</p><p><code>def some_function(a, b):</code>
+<code>"""This function takes inputs a and b and does something to them,</code>
+<code>returning something else."""</code></p><p><strong>Keyword arguments</strong>
+Especially for functions you haven&rsquo;t written yourself, it&rsquo;s really useful to write keyword arguments instead of positional arguments when calling the function.</p><p>With keyword arguments, you specify which argument you are referring to.
+<code>def function1 (a, b, c):</code>
+<code>#some function text</code>
+<code>function1(a=13, b=44, c=0)</code></p><p><strong>Recursion</strong>
+= calling a function inside itself
+You can also take the output of one function call as an input for another function call. This is very useful for complex functions.</p><p><strong>Useful functions:</strong></p><p><code>sum([list])</code> gives a sum of all items in the list
+<code>random.choice([list])</code> picks a random item from a list (requires to import the random package first)</p><p>Global variables are by convention written in all caps.</p><p>To exit a function, simply use the <code>return</code> keyword.</p><p><strong>Higher order function</strong>
+A function that can work with other functions. E.g. it can take another function as an input and work with it inside the body of the function.</p><p>When passing a function as an argument to another function, don&rsquo;t use the paranthesis at the end. E.g.
+<code>function_a (function_b)</code></p><a href=#debugging><h2 id=debugging><span class=hanchor arialabel=Anchor># </span>Debugging</h2></a><ol><li>Describe the problem</li><li>Reproduce the bug</li><li>Play computer</li><li>Fix the errors</li><li>Print is your friend</li><li>Use a debugger</li><li>Take a break</li><li>Ask a friend</li><li>Run your code often</li><li>Ask Stackoverflow</li></ol><p>To access and change a global variable inside a local environment, e.g. a function, you have to write <code>global</code> + variable name first.</p><p>For example:
+<code>some_variable = 4</code>
+<code>def increase_something():</code>
+<code>global some_variable</code>
+`some_variable += 1``</p><a href=#object-oriented-programming-oop><h2 id=object-oriented-programming-oop><span class=hanchor arialabel=Anchor># </span>Object-oriented programming (OOP)</h2></a><p><strong>OOP analogy:</strong>
+You come to a foreign country and don&rsquo;t know the language, don&rsquo;t know the city and don&rsquo;t have local money, but you want your clothes dry-cleaned. Instead of doing it yourself, you ask the hotel staff to do it, who know the language, the city and have local money.
+<code>hotel.dry_clean_clothes()</code></p><p>Objects have things they HAVE and things they DO.
+Things they HAVE = <strong><em>attributes</em></strong>
+E.g.
+<code>is_holding_plate = True</code>
+<code>tables_responsible = [4, 5, 6]</code></p><p>Things they DO = <strong><em>methods</em></strong>
+Methods are functions specific for an object
+E.g.
+<code>def take_order(table, order):</code>
+<code>#takes order to chef</code>
+<code>def take_payment(amount):</code>
+`#add money to restaurant``</p><a href=#classes><h3 id=classes><span class=hanchor arialabel=Anchor># </span>Classes</h3></a><p>Classes are <em>blueprints</em> for objects.
+Classes are usually written in Pascal case, i.e. every word beginning is capitalized
+E.g.
+<code>car = CarBlueprint()</code></p><p>To leave a class or function empty (for now), you can use the keyword <code>pass</code> to avoid &ldquo;indent error&rdquo; messages.</p><a href=#init-function><h4 id=init-function><span class=hanchor arialabel=Anchor># </span>init function</h4></a><p><strong>Constructor</strong> = part of the class that specifies what should happen when our object is constructed (= initializing an object). Variables and counters are set to their starting values.</p><p>Use special function <code>__init__ (self)</code> to initialize the attributes.</p><p>The init function is going to be called every time a new object from this class is created.</p><p>In addition to the parameter self, there can be as many parameters as you want in the brackets after <strong>init</strong>. These parameters get passed in when a new object is constructed. These parameters can then be used to set an object&rsquo;s attributes.</p><p>To have a default value for an attribute, instead of setting it equal to one of the parameters of the init function, set it to a value in the init function (not the parameters!).</p><p>e.g.
+<code>def __init__ (self, user_id, username):</code>
+<code>self.user_id = user_id</code>
+<code>self.username = username</code>
+<code>self.followers = 0</code></p><p>This way the new object has new_object.followers set to 0 by default.</p><p>Example of init function:
+<code>class Car:</code>
+<code>def __init__(self, seats):</code>
+<code>self.seats = seats</code></p><p>The number of seats specificied when a new object of this class is initialized gets passed to that object as an attribute.</p><p><code>new_car = Car(5)</code> &ndash;> this will set the attribute new_car.seats to 5.</p><p>There can be many parameters in the init function. However, it means that whenever you create a new object from this class, you MUST provide all these pieces of information for the new object.</p><a href=#making-a-new-class><h4 id=making-a-new-class><span class=hanchor arialabel=Anchor># </span>Making a new class</h4></a><p><code>class User:</code>
+<code>#add functions, etc.</code></p><p><code>user_1 = User()</code> to make a new instance of the class</p><p><code>user_1.username = "Silfa"</code> to create a new attribute for the object. An attribute is a variable that is associated with an object.</p><p>But for attributes that all new instances should have in common, it&rsquo;s better to include them in the constructor.</p><a href=#methods-in-classes><h4 id=methods-in-classes><span class=hanchor arialabel=Anchor># </span>Methods in classes</h4></a><p>Methods = what the object DOES, i.e. a function that the object has.</p><p>Methods can use <code>self.</code> attributes of objects.</p><p>To call the method, use the normal dot notation with brackets after the method, e.g.
+<code>user_1.start_game()</code></p><p>Methods in classes always need to have a <code>self</code> parameter as the first (and sometimes only) parameter. This means that when the method is called, it &ldquo;knows&rdquo; the object that called it.</p><p><code>def new_method(self):</code>
+<code>self.followers += 1</code></p><p>The <code>self</code> keyword is a way to refer to the object that is being created from a class.</p><p>We can use the class name inside an object to tap into the class.</p><p>For example we can create a list of objects by initiating new instances of a class inside a loop and filling a list with these new objects. These objects have all the attributes that are defined in the class constructer, and these attributes can be accessed with dot notation.</p><p>When inside a class, and calling one of the functions inside one of the other functions, you have to use <code>self.</code> before the function name.</p><p>E.g.
+<code>def function_using_another_function(self, input, something):</code>
+<code>self.previous_function(attribute1, attribute2)</code>
+<code>...</code></p><p>Different <strong>instances</strong> of classes can have different <strong>states</strong>. E.g. Turty and Timmy can be different instances of the class Turtle(), and they can have different states, e.g. <code>turty.color = green</code> and <code>timmy.color = purple</code>.</p><a href=#interesting-modules-and-other-things><h2 id=interesting-modules-and-other-things><span class=hanchor arialabel=Anchor># </span>Interesting modules and other things</h2></a><p><strong>colorgram</strong> is a Python library that lets you extract colours from images.</p></article><hr><div class=page-end><div class=backlinks-container><h3>Backlinks</h3><ul class=backlinks><li><a href=/digitalgarden/projects/coding/coding_main/ data-ctx="100 days of Python" data-src=/projects/coding/coding_main class=internal-link>Coding Main</a></li></ul></div><div><script src=https://cdn.jsdelivr.net/npm/d3@6.7.0/dist/d3.min.js integrity="sha256-+7jaYCp29O1JusNWHaYtgUn6EhuP0VaFuswhNV06MyI=" crossorigin=anonymous></script><h3>Interactive Graph</h3><div id=graph-container></div><style>:root{--g-node:var(--secondary);--g-node-active:var(--primary);--g-node-inactive:var(--visited);--g-link:var(--outlinegray);--g-link-active:#5a7282}</style><script src=https://silfaz.github.io/digitalgarden/js/graph.afdb02e537635f9a611b53a988e5645b.js></script></div></div><div id=contact_buttons><footer><p>Made by Jacky Zhao using <a href=https://github.com/jackyzha0/quartz>Quartz</a>, © 2022</p><ul><li><a href=https://silfaz.github.io/digitalgarden/>Home</a></li><li><a href=https://twitter.com/_jzhao>Twitter</a></li><li><a href=https://github.com/jackyzha0>Github</a></li></ul></footer></div></div></body></html>
