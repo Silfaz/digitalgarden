@@ -11,6 +11,8 @@ title: "🪴 Digital Garden"
 
 ### [Environment & Climate Action](climate/climate_main.md)
 
+### [Photography](photography/photography_main.md)
+
 
 
 
