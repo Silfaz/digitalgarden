@@ -6,8 +6,12 @@ title: "Fermented carrot and parsley root"
 Recipe: [Vegetable recipes - Vietnamese pickled carrot and daikon](projects/fermentation/Vegetable%20recipes.md#Vietnamese%20pickled%20carrot%20and%20daikon)
 
 _2022-03:_
+
 Made with **parsley root** instead of daikon. 
 Tastes really nice and no problems with fungi or yeasts during incubation. Parsley root got an **interesting meaty-crunchy-chewy texture**. Has a strong parsley-root taste, so takes over the flavour a bit, but pleasant. 
-Next time, ==cut bigger chunks==, it’s more satisfying to eat and more useable as a pickled side dish.
+
+Next time, **cut bigger chunks**, it’s more satisfying to eat and more useable as a pickled side dish.
+
 Very good with rice, tofu and laoganma oil. 
+
 

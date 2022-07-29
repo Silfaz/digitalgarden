@@ -5,10 +5,13 @@ title: "Yogurt production"
 ## Dairy & soy
 ### Vege052 and Vege092 starter cultures
 _2022-05-05_
+
 Starter cultures: **Vege 053**, **Vege 092**
+
 Substrates: Fresh dairy milk (3% fat), Alpro soy milk (1.8% fat)
 
 **Scalding**: Heat up milks to approx. 90°C on the stove, leave for a minute, then pour into prepared jars and cool down in a water bath.
+
 **Starter culture**: Pour a bit of the freeze-dried starter culture (fraction of 1/4 tsp) into 10 mL of water, shake. Use approx. 1.5 mL of that to inoculate each jar.
 
 ![[projects/attachments/Screenshot 2022-06-06 at 09.21.35.png]]
@@ -16,11 +19,11 @@ Substrates: Fresh dairy milk (3% fat), Alpro soy milk (1.8% fat)
 
 ![[projects/attachments/Screenshot 2022-06-06 at 09.21.54.png]]
 
-**1st fermentation**: ==8h, 40°C== (in the rice cooker)
+**1st fermentation**: **8h, 40°C**(in the rice cooker)
 Vege 053 yogurts are much firmer than 092 ones. For dairy, both are firm, but for soy the 092 is still liquid after 8h. The acidity is quite low in all of them, although dairy 053 is quite pleasant. Soy 053 is very mild and vanilla-y. 
 
 **Tasting at room temperature**
-Continue fermentation over night in the turned-off rice cooker: ==10h, 40°C-RT== (=18h in total).
+Continue fermentation over night in the turned-off rice cooker: **10h, 40°C-RT** (=18h in total).
 All yogurts are firm now, to differing degrees. Stir before tasting.
 - Dairy 053: Quite runny. Nice mellow acidity without sticking out too much. No off-flavours. **Duncan's favourite** ("Tastes the most like yogurt.").
 - Dairy 092: Also runny, but not as much as 053. In addition, there's a thick, slimy component to the texture that gives it nice body. Acidity is very mild (milder than 053), no off-flavours sticking out. **Silfa's favourite**. 
@@ -41,17 +44,23 @@ All yogurts are firm now, to differing degrees. Stir before tasting.
 
 ### Vege011 and Öresunds fil starter cultures
 _2022-06-16_
+
 Starter cultures: **Vege 01**, **Öresunds fil (Skånemejerier)**
+
 Substrates: Fresh dairy milk (3% fat), Alpro soy milk (1.8% fat)
 
 **Scalding**: Heat up milks to approx. 90°C on the stove, leave for a minute, then pour into prepared jars and cool down in a water bath.
+
 **Starter culture**: 
 - Freeze-dried culture: Pour a bit of the freeze-dried starter culture (approx. 1/8 tsp) into 25 mL of water, shake. Use approx. 5 mL of that to inoculate each jar (of about 200 mL).
 - Store-bought fil: Take 1/2 Tbsp of fil and stir into each jar (of about 200 mL) = **1/4 Tbsp/100 mL**. 
 
 **1st fermentation**: **8h, 40°C** (in the rice cooker)
+
 After 3h, the fil-inoculated soy and dairy milks already firmed up and started to get sour, while the Vege011 milks were still liquid and sweet. 
+
 After 6h, the fil-inoculated firmed up even more, Vege011 were getting a little bit thicker.
+
 After 8h: fil-inoculated firmed up a lot in both soy and dairy. Vege011 have soft yogurt consistency.
 
 **Tasting at room temperature**
@@ -75,25 +84,35 @@ After 8h: fil-inoculated firmed up a lot in both soy and dairy. Vege011 have sof
 
 ## Oat
 _2022-05-06
+
 Starter cultures: **Vege 053**, **Vege 092**
+
 Substrates: Oatly chilled mellan (1.5% fat)
 
 **Scalding**: Heat up milk to approx. 90°C on the stove, leave for a minute, then pour into prepared jars and cool down in a water bath.
+
 **Starter culture**: Pour a bit of the freeze-dried starter culture (fraction of 1/4 tsp) into 10 mL of water, shake. Use approx. 1.5 mL of that to inoculate each jar.
 
 **1st fermentation**: **8h, 40°C** (in the rice cooker)
+
 Not very thick texture, so leave for a few more hours. After that it got semi-thick and pleasantly sour, but not great. 
+
 _Try again with some starch addition._
 
 ## Pea
 _2022-05
+
 Starter cultures: **Vege 053**, **Vege 092**
+
 Substrates: Sproud pea drink
 
 **Scalding**: Heat up to approx. 90°C on the stove, leave for a minute, then pour into prepared jars and cool down in a water bath.
+
 **Starter culture**: Pour a bit of the freeze-dried starter culture (fraction of 1/4 tsp) into 10 mL of water, shake. Use approx. 1.5 mL of that to inoculate each jar.
 
 **1st fermentation**: **8h, 40°C** (in the rice cooker)
+
 No thickening at all. Leave for another 8h at 40°C. Still no thickening at all. Slightly sour taste, but not very pleasant.
+
 _Complete failure, not suitable for yogurt making.
 
