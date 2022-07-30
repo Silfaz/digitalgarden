@@ -8,4 +8,6 @@ Recipe: [Vegetable recipes - Fennel with mint and lemon](projects/fermentation/V
 
 _2022-07-25:_
 
-48h: No cloudiness yet. Fennel tastes crunchy and slightly salty, not sour at all.
+2 days: No cloudiness yet. Fennel tastes crunchy and slightly salty, not sour at all.
+
+5 days: Some cloudiness on top (but not very dense). Fennel soften up a bit and starts to get a bit sour/bitter. Leave a few more days.

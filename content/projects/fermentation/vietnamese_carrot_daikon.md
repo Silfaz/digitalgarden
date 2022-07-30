@@ -8,4 +8,6 @@ Recipe: [Vegetable recipes - Vietnamese pickled carrot and daikon](projects/ferm
 
 _2022-07-25:_
 
-48h: Liquid starts getting a bit cloudy and slightly sulfuric smell develops. Daikon pieces are nicely crunchy, slightly salty and have the tiniest hint of fermentation. 
+2 days: Liquid starts getting a bit cloudy and slightly sulfuric smell develops. Daikon pieces are nicely crunchy, slightly salty and have the tiniest hint of fermentation. 
+
+5 days: Liquid still cloudy, sulfuric smells not as strong any more (or have I got used to it?). Bubbles coming up, but not fizzy yet. Daikon is very crunchy and has a slightly sourness/bitterness to it. Carrot is also crunchy with slightly sourness/bitterness, as well as still a bit of sweetness. Leave for another couple of days.
