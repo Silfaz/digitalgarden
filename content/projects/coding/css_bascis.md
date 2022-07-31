@@ -105,10 +105,63 @@ Margin values can be negative or positive. Negative margins makes divs overlap.
 Border around the div.
 `border-width, border-style, border-color, border-top, border-top-width, border-top-style, border-top-color, etc.`
 
+#### Example of how to use divs
+`<div class = "box1"><p>Some text, blalbabllablab </p></div>`
+
+And then in the css style sheet, the style of the .box1 class can be specified, e.g.:
+
+`.box1 {width: 25%;`
+			`border: 2px solid black;`
+			`background-color: green;`
+	`}`
+
 
 #### block vs. inline elements
 Block elements stretch across whole screen. 
 Inline elements are only as wide as their content (e.g. images, links, strong text, emphasised text).
+
+In inline elements, you can only add *padding* to either side, not on top and bottom! 
+
+##### How to change an inline element to a block element
+When I have a link (in-line element) and I want it to be bigger, e.g. filling out a whole box that is clickable.
+
+`a {display: block;}`
+
+
+#### Navigation bars
+User `<nav>` html tag and fill it with an unordered list (`<ul>`) of links. To access only the links in that nav bar in the css style sheet (to e.g. specify a hover state), use :
+`nav a:hover {....}` 
+
+##### Example of creating a navigational bar with clickable buttons
+
+1. In .html, make an unordered list (`<ul><li><a....>`) inside a `<nav>` tag with the links that you want in the navigation bar.
+2. In .css, change the font, e.g. `body {font-family: Arial, Helvetica, sans-serif;}`
+3. To access the list of navigation bar elements, type inside of `nav ul {...}`. 
+4. To remove the points in front of unordered list items: `list-style-type: None`
+5. Good idea to clean up (i.e. remove) unnecessary margins and padding from some elements: `nav ul {padding: 0; margin: 0;}`
+6. Reduce the width of the box containing the links, i.e. the `<li>` element: `nav li {width: 8rem;}`
+7. Give the box a background colour to make it more visible: `nav li {background-color: lightblue;}`
+8. Center the link text inside the box: `nav li {text-align: center;}`
+9. Remove underlines of links: `nav a {text-decoration: none;}`
+10. More space between the buttons: `nav li {margin-bottom: 0.5rem;}`
+11. Change the hover state of the link: `nav a:hover {background-color: blue; color: lightblue;}`
+12. To make the link clickable area as big as the box that contains it, the link has to be changed from an inline element to a block element: `nav a {display: block;}`
+13. To make the vertical list of link buttons into a horizontal list: `nav li {display: inline-block;}`
+
+#### Floats
+Useful when text should flow around an image nicely.
+
+Make a class that you apply to the picture that defines that the image should be on the left and text should float around it:
+`.floatleft {float: left;}`
+
+### Shorthand for margins/padding
+Instead of specifying `margin-left`, `margin-top`, etc. use the **TRBL** shorthand:
+`margin: 2rem 1% 2px 0;`
+Can have mixed units.
+
+### Flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 
 
 
