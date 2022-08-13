@@ -62,7 +62,7 @@ Start tasting the liquid on day 5. If you want something more like a vinegar, fe
 ## Vietnamese pickled carrot and daikon
 Shockey, “Fermented vegetables”, p150
 _Made 2022-03:_ [Fermented carrot and parsley root](projects/fermentation/fermented_carrot_parsley.md)
-Made 2022-07-25: [Vietnamese pickled carrot and daikon](projects/fermentation/vietnamese_carrot_daikon.md)
+_Made 2022-07-25_: [Vietnamese pickled carrot and daikon](projects/fermentation/vietnamese_carrot_daikon.md)
 
 - Brine: 1/4 cup (68 g) salt, 2.2 L water (= **3 g salt per 100 mL water**) + 1/2 tablespoons sugar per L
 - 450 g carrots, peeled and julienned
@@ -103,7 +103,7 @@ Start tasting the kraut after 5 days. It’s ready when it’s pleasingly sour. 
 When the kraut is ready, store it in jars, with lids tightened, in the fridge. It will keep like that for >12 months.
 
 ## Dill pickles
-Made 2022-04-20: [Dill pickles](projects/fermentation/Dill%20pickles.md)
+_Made 2022-04-20_: [Dill pickles](projects/fermentation/Dill%20pickles.md)
 
 ## Fermented lotus root
 Adapted recipe from [Vietnamese pickled carrot and daikon](projects/fermentation/Vegetable%20recipes.md#Vietnamese%20pickled%20carrot%20and%20daikon)
@@ -124,7 +124,7 @@ When the brine starts to get cloudy, start tasting. They are ready when they are
 
 ## Fennel with mint and lemon
 Inspired by https://farmsteady.com/blogs/field-guide/recipe-fennel-lemon-mint-kraut
-Made 2022-07-25: [Fennel with mint and lemon](projects/fermentation/fennel_mint_lemon.md)
+_Made 2022-07-25_: [Fennel with mint and lemon](projects/fermentation/fennel_mint_lemon.md)
 
 - 1 fennel bulb
 - 8 mint leaves
@@ -139,7 +139,7 @@ When the brine starts to get cloudy, start tasting. When sour enough, discard th
 
 ## UFO peaches 
 Inspired by [The Noma Guide to Fermentation](projects/fermentation/noma_guide.md) and https://www.tyrantfarms.com/how-to-make-lacto-fermented-fruit-with-recipes/
-Made 2022-07-25: [UFO_peaches](projects/fermentation/UFO_peaches.md)
+_Made 2022-07-25_: [UFO_peaches](projects/fermentation/UFO_peaches.md)
 
 - 300 g of UFO peaches, cut into bite-sized chunks
 - vine leaf (optional)
@@ -153,6 +153,7 @@ Put the salt and fruit pieces in a jar and fill up with water until all fruits a
 - 500 g Turkish (or Hungarian) peppers
 - vine leaf
 
+_Made 2022-07-25_: [Turkish peppers](projects/fermentation/Turkish%20peppers.md)
 Basic **3%** vegetable brine: 1000 mL water + 30 g salt 
 
 Cut peppers into bite-sized chunks. Arrange vegetables in jar and fill up with brine until everything is covered. Top off with 1 vine leaf and weigh down so everything's submerged. Leave at room temperature for a 7-14 days. When it has a nice pickel-y taste, it's ready for eating (or storing in the fridge).
@@ -165,6 +166,7 @@ Cut peppers into bite-sized chunks. Arrange vegetables in jar and fill up with b
 - 200g Milchzucker
 - Kümmel, Wacholder
 
+Made 2022-
 Gut mischen bis Saft entsteht. In Kübel drücken bis Saft darüber steht. Deckel regelmäßig lüften (1-14 Tage, RT). Nach 14 Tagen kühl stellen und fest verschließen. Saft sollte immer über Kraut stehen. Wenn notwendig mit Salzwasser (1L + 1 EL Salz) auffüllen.
 
 ### Sauerkraut von Chefkoch.at
@@ -193,3 +195,19 @@ Krautschnitzel und Salz schichten. Stampfen bis Saft übersteht, Topf mit sauber
 Kraut waschen, 1-2 große grüne Krautblätter zum Abdecken beiseite legen. Strunk herausschneiden, Kraut hobeln. In einer Schüsesel mit Salz und Gewürzen vermischen, gut durchkneten/stampfen. Handvoll für Handvoll in ein Glas füllen und gut zusammenpressen. Beim Drücken soll Lake sichtbar werden und über dem Kraut stehen. Das Kraut mit Krautblättern abdecken, beschweren, abdecken. 3-7 Tage bei Zimmertemperatur (18-23°C), dann 2 Wochen bei ca. 15°C fermentieren lassen. Anschließend am besten in den Keller (5-10°C) stellen. Nach 4-6 Wochen ist das Sauerkraut fertig.
 
 [https://www.ift.org/news-and-publications/food-technology-magazine/issues/2020/november/columns/food-safety-and-quality-innovations-in-vegetable-fermentations](https://www.ift.org/news-and-publications/food-technology-magazine/issues/2020/november/columns/food-safety-and-quality-innovations-in-vegetable-fermentations?MessageRunDetailID=3805240652&PostID=21842965&utm_medium=email&utm_source=rasa_io): CaCl2 as salt replacement, starter cultures and right conditions makes fermentations finish in 5 days.
+
+
+## Basic chili ferment (for hot sauce)
+Inspired by https://farmsteady.com/blogs/field-guide/recipe-fermented-peach-hot-sauce and Shockey "Fiery Ferments" p107
+
+- approx. 450 g chili peppers
+- 1 whole white onion
+- 3 big garlic cloves
+- vine leaf
+
+_Made 2022-08-13_: [Fermented triple chili & peach sauce](projects/fermentation/Chili%20sauce.md)
+Basic **3%** vegetable brine: 1000 mL water + 30 g salt 
+
+Deseed chili peppers (wear gloves! 😬) and cut into bite-sized chunks. Peel and cut onion into rough cubes. Peel garlic cloves. 
+
+Arrange vegetables in jar and fill up with brine until everything is covered. Top off with 1 vine leaf and weigh down so everything's submerged. Leave at room temperature for a 7-14 days. When it has a nice pickel-y taste and the liquid is cloudy, it's ready. Blend in blender to get sauce with the desired consistency. A bit of vinegar adds a nice flavour. If it's too thick, you can add a bit of water. Adjust salt to taste. Optional: mix with fruit purré or fermented fruit to get a fruitier and slightly sweet condiment. 

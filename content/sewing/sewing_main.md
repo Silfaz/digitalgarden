@@ -12,4 +12,4 @@ title: "Sewing"
 
 ## Sewing inspiration
 
-## [[Things to sew]]
+## [[sewing/Things to sew]]

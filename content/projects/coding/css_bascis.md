@@ -88,7 +88,7 @@ Then, when selecting a font-family, select "Crimson Text".
 
 
 ### The Box model
-![](Screenshot%202022-07-30%20at%2016.07.54.png)
+![](projects/attachments/Screenshot%202022-07-30%20at%2016.07.54.png)
 
 #### < div>
 Makes a box. (div = division)

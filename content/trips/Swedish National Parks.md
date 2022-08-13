@@ -4,7 +4,7 @@ title: "Swedish National Parks"
 
 Sweden has 30 national parks (in 2020).
 
-### Götaland [[nationalparks_götaland]]
+### Götaland [[trips/nationalparks_götaland]]
 - Blå Jungfruns nationalpark
 - Dalby Söderskogs nationalpark
 - Djurö nationalpark
@@ -21,7 +21,7 @@ Sweden has 30 national parks (in 2020).
 - Åsnens nationalpark
 
 
-### Norrland [[nationalparks_norrland]]
+### Norrland [[trips/nationalparks_norrland]]
 - Abisko nationalpark
 - Björnlandets nationalpark
 - Färnebofjärdens nationalpark
