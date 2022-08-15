@@ -12,4 +12,4 @@ title: "Sewing"
 
 ## Sewing inspiration
 
-## [[sewing/Things to sew]]
+## [Things to sew](sewing/Things%20to%20sew.md)

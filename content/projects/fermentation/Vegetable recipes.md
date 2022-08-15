@@ -210,4 +210,6 @@ Basic **3%** vegetable brine: 1000 mL water + 30 g salt
 
 Deseed chili peppers (wear gloves! 😬) and cut into bite-sized chunks. Peel and cut onion into rough cubes. Peel garlic cloves. 
 
-Arrange vegetables in jar and fill up with brine until everything is covered. Top off with 1 vine leaf and weigh down so everything's submerged. Leave at room temperature for a 7-14 days. When it has a nice pickel-y taste and the liquid is cloudy, it's ready. Blend in blender to get sauce with the desired consistency. A bit of vinegar adds a nice flavour. If it's too thick, you can add a bit of water. Adjust salt to taste. Optional: mix with fruit purré or fermented fruit to get a fruitier and slightly sweet condiment. 
+Arrange vegetables in jar and fill up with brine until everything is covered. Top off with 1 vine leaf and weigh down so everything's submerged. Leave at room temperature for a 7-14 days. When it has a nice pickel-y taste and the liquid is cloudy, it's ready. Blend in blender to get sauce with the desired consistency. A bit of vinegar adds a nice flavour. If it's too thick, you can add a bit of water. Adjust salt to taste. Optional: mix with fruit purré or fermented fruit to get a fruitier and slightly sweet condiment.
+
+Fill into clean bottles and keep in fridge for 2-12 months.
