@@ -19,3 +19,8 @@ title: "Fermented vegetable production"
 [Vietnamese carrot and daikon radish](projects/fermentation/vietnamese_carrot_daikon.md)
 
 [Fermented triple chili & peach sauce](projects/fermentation/Chili%20sauce.md)
+
+[[projects/fermentation/Sauerkraut]]
+
+[[projects/fermentation/Kimchi]]
+

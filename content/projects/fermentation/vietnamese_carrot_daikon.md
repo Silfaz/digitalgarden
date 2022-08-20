@@ -16,4 +16,7 @@ _Conclusion_: Both the carrot and the daikon are very crunchy, slightly sour, an
 
 After 1-2 weeks in the fridge, the liquid has got clear (though it's still fizzing and bubbling a bit) and the bitterness has mellowed out. The acidity has increased slightly as well and is very pleasant now. Especially the carrots taste good, but the daikon is a bit too rotten/sulfuric tasting for my preference. **Maybe some sweet note missing to balance that out or cover it a bit?**
 
-Try next time without the lemon (might have added bitterness?) and maybe a bit sugar in the brine afterwards when stored in the fridge
+_Try next time without the lemon (might have added bitterness?) and maybe a bit sugar in the brine afterwards when stored in the fridge._
+
+![](projects/attachments/Carrot%20daikon.jpeg)
+

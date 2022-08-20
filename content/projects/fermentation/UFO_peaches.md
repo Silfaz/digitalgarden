@@ -21,3 +21,4 @@ After 1-2 weeks in the fridge, the peaches have softened even more and disintegr
 
 Maybe add it to fermented chili peppers to make a hot sauce?
 
+![](projects/attachments/Peaches%2002.jpeg)

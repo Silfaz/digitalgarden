@@ -8,10 +8,12 @@ title: "Fermentation projects"
 
 [Fermented vegetable production](projects/fermentation/Fermented%20vegetable%20production.md)
 
+
 ### Dairy- and plant-based milk fermentations
 [[Yogurt recipes]]
 
 [[Yogurt production]]
+
 
 ### Tempeh
 [[Tempeh recipes]]
@@ -19,6 +21,7 @@ title: "Fermentation projects"
 [Tempeh experiments](projects/fermentation/Tempeh%20experiments.md)
 
 [Tempeh links](projects/fermentation/Tempeh%20links.md)
+
 
 ### Koji, shoyu, aminos
 

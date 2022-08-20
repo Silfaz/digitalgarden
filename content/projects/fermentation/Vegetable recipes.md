@@ -166,7 +166,7 @@ Cut peppers into bite-sized chunks. Arrange vegetables in jar and fill up with b
 - 200g Milchzucker
 - Kümmel, Wacholder
 
-Made 2022-
+Made 2021-12-13: [Sauerkraut](projects/fermentation/Sauerkraut.md)
 Gut mischen bis Saft entsteht. In Kübel drücken bis Saft darüber steht. Deckel regelmäßig lüften (1-14 Tage, RT). Nach 14 Tagen kühl stellen und fest verschließen. Saft sollte immer über Kraut stehen. Wenn notwendig mit Salzwasser (1L + 1 EL Salz) auffüllen.
 
 ### Sauerkraut von Chefkoch.at
@@ -213,3 +213,33 @@ Deseed chili peppers (wear gloves! 😬) and cut into bite-sized chunks. Peel an
 Arrange vegetables in jar and fill up with brine until everything is covered. Top off with 1 vine leaf and weigh down so everything's submerged. Leave at room temperature for a 7-14 days. When it has a nice pickel-y taste and the liquid is cloudy, it's ready. Blend in blender to get sauce with the desired consistency. A bit of vinegar adds a nice flavour. If it's too thick, you can add a bit of water. Adjust salt to taste. Optional: mix with fruit purré or fermented fruit to get a fruitier and slightly sweet condiment.
 
 Fill into clean bottles and keep in fridge for 2-12 months.
+
+
+## Kimchi (vegan)
+Recipe adapted from: https://www.seriouseats.com/homemade-vegan-kimchi-recipe
+
+- 1 large Chinese cabbage
+- 1 small daikon radish
+- 8 spring onions
+- flaky sea salt (kosher salt)
+- 8 garlic cloves
+- 4 cm piece of ginger
+- 1/2 cup gochugaru (Korean chili flakes)
+- 2 Tbsp miso paste (white or red)
+- 1 Tbsp sugar
+
+_Made: 2022- [Kimchi](projects/fermentation/Kimchi.md)
+
+1. Wash cabbage, then remove trunk and cut the leaves into rough pieces (approx. 3x3 cm).
+2. Wash the daikon and cut into little sticks. 
+3. Wash the spring onions, chop roughly and set aside. 
+4. Place cabbage leaves, daikon and green parts of the spring onions into a large bowl. Sprinkle with 2 Tbsp flaky sea salt. Toss to combine and work in a bit with your hands. Cover with a plate or tea towel, then let sit at room temperature until cabbage is wilted (min. 1h, better up to 12h). The cabbage will release some liquid. 
+5. Combine white parts of spring onion, minced garlic, finely chopped ginger, chili flakes, miso paste and sugar in a blender or food processor. Start pulsing to combine everything. Slowly add water to get to the right pasty consistency for it to blend properly (approx. 1 cup). Blend this past about 30 sec, scraping down the sides to not have too big chunks. 
+6. Add the chili paste to the wilted cabbage and mix well with a spoon. 
+7. Prepare glass jars by pouring boiling water into them and leaving to soak for a bit. Empty the jars and let cool down. 
+8. Fill the cabbage-chili mixture into the jars, pressing down firmly with a spoon or chop stick to pack it tightly and not leave any air pockets. Make sure the top is covered with some of the liquid. 
+9. Close jars and leave at room temperature for 24h. Then transfer to fridge and allow to ferment for at least 3 weeks before eating.  
+
+It will not develop much CO2, so it's actually ok to close the jar tightly. I still air it from time to time during the first days and weeks, when I think about it. 
+
+It will last forever in the fridge and just get more sour and softer. 

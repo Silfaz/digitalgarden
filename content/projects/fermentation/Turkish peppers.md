@@ -15,3 +15,5 @@ _2022-07-25:_
 _Conclusion_: Very clean, sour taste. The only slight bitterness comes from the skin, which is also a bit tough to eat (similar to the unfermented peppers). Will work well in sandwiches and salads, as well as on the side to other dishes. 
 
 Over a few weeks in the fridge acidity has actually increased slightly, so now it's perfect. Still crunchy, on unpleasant off-flavours. Goes well with a lot of things and good to add just on the side of dishes to add a bit of zest. 
+
+![](projects/attachments/Turkish%20peppers%2001.jpeg)

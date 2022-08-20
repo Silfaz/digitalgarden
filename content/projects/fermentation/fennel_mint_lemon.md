@@ -18,3 +18,4 @@ Anise taste is quite present, much more than in the fresh fennel, and has an alm
 
 After 2 weeks in the fridge, the anise taste has mellowed out a bit and the acidity has increased nicely. **7 days was a good time to get it nicely sour, but still keep crunchiness**. 
 
+![](projects/attachments/Fennel.jpeg)
