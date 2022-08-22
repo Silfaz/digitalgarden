@@ -20,7 +20,9 @@ title: "Fermented vegetable production"
 
 [Fermented triple chili & peach sauce](projects/fermentation/Chili%20sauce.md)
 
-[[projects/fermentation/Sauerkraut]]
+[Sauerkraut](projects/fermentation/Sauerkraut.md)
 
-[[projects/fermentation/Kimchi]]
+[Kimchi](projects/fermentation/Kimchi.md)
+
+[Chili sauce](projects/fermentation/Chili%20sauce.md)
 
