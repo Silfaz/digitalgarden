@@ -40,3 +40,39 @@ Evening sun 🌅
 Glad midsommar! ☀️🇸🇪🍓❤️
 
 ![](projects/attachments/IMG_20220624_135621.jpg)
+### 24 April 2022
+Flåm & Gudvangen.  
+There's a fantastic battery-powered ship that quietly moves through the fjords ⛰️⛴️🏔️
+
+![](norway%20-%2036.jpeg)
+
+![](norway%20-%2035.jpeg)
+
+![](DSCF6200.jpeg)
+
+![](DSCF6237.jpeg)
+
+
+### 20 April 2022
+And so we're rolling through forests and fields 🌲🚂🚃🌲🌲🌲  
+
+![](norway%20-%201.jpeg)
+
+
+### 21 September 2021
+It's clearly autumn 🍄😍
+
+![](mushroom.jpg)
+
+
+### 7 August 2021
+A day on Ven ❤️❤️
+
+![](DSCF5541.jpeg)
+
+![](DSCF5539.jpeg)
+
+![](DSCF5524.jpeg)
+
+![](DSCF5546.jpeg)
+
