@@ -14,11 +14,10 @@ title: "🪴 Digital Garden"
 ### [Photography](photography/photography_main.md)
 
 
+## Other
 
+### [Learning log](blog/learning_log.md)
 
-## [Learning log](blog/learning_log.md)
+### [Books](projects/books/books_main.md)
 
-
-## [Books](projects/books/books_main.md)
-
-
+### [Trips](trips/trips_main.md)
