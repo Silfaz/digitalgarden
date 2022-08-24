@@ -4,16 +4,16 @@ title: "How we will fight climate change"
 
 https://noahpinion.substack.com/p/how-we-will-fight-climate-change
 
-`People ought to be scared. They ought to support a big push. But this is simply a thing that is not going to happen in the time frame we need it to happen.`
+>People ought to be scared. They ought to support a big push. But this is simply a thing that is not going to happen in the time frame we need it to happen.
 
-Takeaway message:
+Takeaway message of the article:
 - Doomerism doesnt' work
 - Anticapitalism doesn't work
 - Degrowth rhetoric doesn't work
 
 We can't wait for _the_ big governmental push either. 
 BUT things are already moving. Many "small" actions (state-wide, individual, etc.). 
-`Everyone pushes wherever they can push.`
+>Everyone pushes wherever they can push.
 
 -----
 
