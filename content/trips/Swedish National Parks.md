@@ -3,25 +3,27 @@ title: "Swedish National Parks"
 ---
 
 Sweden has 30 national parks (in 2020).
+Good descriptions in book _Sveriges Nationalparker (Legind)_. Includes [maps for downloading](https://www.legind.dk/subsites/Sveriges_Nationalparker_SE/Sveriges_Nationalparker_SE.html).
+Excellent website also here with interactive hiking trails: https://www.sverigesnationalparker.se/
 
-### Götaland [[trips/nationalparks_götaland]]
+
+
+### [Nationalparks_Götaland](trips/nationalparks_götaland.md)
 - Blå Jungfruns nationalpark
 - Dalby Söderskogs nationalpark
 - Djurö nationalpark
 - Gotska Sandöns nationalpark
 - Kosterhavets nationalpark
 - Norra Kvills nationalpark
-- Stenshuvuds nationalpark - norra delen
-- Stenshuvuds nationalpark - södra delen
+- Stenshuvuds nationalpark
 - Store Mosse nationalpark
-- Söderåsens nationalpark - centrala delen
-- Söderåsens nationalpark - översikt
+- Söderåsens nationalpark
 - Tivedens nationalpark
 - Tresticklans nationalpark
 - Åsnens nationalpark
 
 
-### Norrland [[trips/nationalparks_norrland]]
+### [Nationalparks Norrland](trips/nationalparks_norrland.md)
 - Abisko nationalpark
 - Björnlandets nationalpark
 - Färnebofjärdens nationalpark
@@ -38,8 +40,7 @@ Sweden has 30 national parks (in 2020).
 
 
 ### Svealand [[nationalparks_svealand]]
-- Fulufjällets nationalpark - norra delen
-- Fulufjällets nationalpark - södra delen
+- Fulufjällets nationalpark
 - Garphyttans nationalpark
 - Tyresta nationalpark
 - Töfsingdalens nationalpark

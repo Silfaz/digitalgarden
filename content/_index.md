@@ -3,6 +3,8 @@ title: "🪴 Digital Garden"
 ---
 ## Projects
 
+### [[fungi/fungi_main]]
+
 ### [Fermentation](projects/fermentation/fermentation_main.md)
 
 ### [Sewing](sewing/sewing_main.md)
