@@ -7,7 +7,7 @@ title: "🪴 Digital Garden"
 
 ### [Fermentation](projects/fermentation/fermentation_main.md)
 
-### [Sewing](sewing/sewing_main.md)
+### [Sewing](projects/sewing/sewing_main.md)
 
 ### [Coding](projects/coding/coding_main.md)
 [The fantastical street names of Gothenburg](https://silfaz.github.io/gbgclusters/)

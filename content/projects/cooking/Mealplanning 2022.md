@@ -31,3 +31,5 @@ title: "Mealplanning 2022"
 - Freekeh with parsely, preserved lemons and pine nuts
 - Pineapple lentil curry
 - Carrot soup with Bosnian bread
+- Shakshuka crossed with pytt-i-panna
+- Freekeh with preserved lemon and pine nuts + sausage/schnitzel

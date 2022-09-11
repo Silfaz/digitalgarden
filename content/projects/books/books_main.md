@@ -30,7 +30,7 @@ title: "Books main"
 - The Address Book (Deidre Mask)
 - Mr. Penumbra's 24 hour bookstore (Robin Sloan)
 - A fine balance (Rohinton Mistry)
-- **Let my people go surfing (Yvon Chouinard)** [[Let my people go surfing]]
+- **[Let my people go surfing](projects/books/Let%20my%20people%20go%20surfing.md) (Yvon Chouinard)
 - Project Hail Mary (Andy Weir)
 - Våran hud, vårat blod, våra ben (John Ajvide Lindqvist)
 - The physician (Noah Gordon)

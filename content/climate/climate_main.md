@@ -12,3 +12,8 @@ Thoughts on [personal action](climate/Personal%20action.md)
 
 [[How to blow up a pipeline]]
 
+
+### Environmental initiatives
+https://www.newweather.se/hem1
+Badvertising. Reports about flying, bilism, etc. 
+

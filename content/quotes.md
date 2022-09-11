@@ -7,5 +7,6 @@ title: "Good quotes"
 
 
 
+> Wealth consists not in having great possessions, but in having few wants. - _Epictetus_
 
 
