@@ -3,7 +3,7 @@ title: "🪴 Digital Garden"
 ---
 ## Projects
 
-### [[fungi/fungi_main]]
+### [Fungi](fungi/fungi_main.md)
 
 ### [Fermentation](projects/fermentation/fermentation_main.md)
 

@@ -2,8 +2,6 @@
 title: "Sewing Links"
 ---
 
-#sewing
-
 
 ## Papertheory Patterns
 https://papertheorypatterns.com/
