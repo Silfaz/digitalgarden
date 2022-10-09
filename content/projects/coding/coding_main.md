@@ -7,3 +7,4 @@ title: "Coding Main"
 
 ## [Resources](projects/coding/coding_resources.md)
 
+## Misc [[coding_misc]]
