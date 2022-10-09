@@ -2,4 +2,4 @@
 title: "Plottervision"
 ---
 
-[Live casting manual](projects/coding/Live%20casting%20manual.md)
+[Manual for live-streaming to Youtube](projects/coding/Live-casting%20manual.md)

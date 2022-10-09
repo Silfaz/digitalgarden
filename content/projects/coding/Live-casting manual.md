@@ -1,5 +1,5 @@
 ---
-title: "Plottervision live casting manual"
+title: "Plottervision live-casting manual"
 ---
 
 **How to set up the cameras and software for streaming plotting videos to Youtube**
