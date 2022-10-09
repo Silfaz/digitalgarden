@@ -3,13 +3,15 @@ title: "Attitude trousers"
 ---
 
 https://www.atelier-scammit.com/women/89-attitude.html
+Atelier Scammit
 
-### Suggested fabrics
+
+## Suggested fabrics
 -   Weight: light to medium-heavy (180 to 340 gsm or 4-8 oz.)
 -   Fabric: woven (denim, serge, velvet, flannel, wool...)
 -   Stretch factor*: 10-15 % with 1 to 2 % max elastane
 
-### Pictures
+## Pictures
 
 ![](projects/attachments/Pasted%20image%2020220904163431.png)
 _Credit: @atelierscammit (https://www.instagram.com/p/CWGfZHaMI2p/)_
@@ -17,12 +19,12 @@ _Credit: @atelierscammit (https://www.instagram.com/p/CWGfZHaMI2p/)_
 ![](projects/attachments/Pasted%20image%2020220904163826.png)
 _Credit: Atelier Scammit (https://www.atelier-scammit.com/women/89-attitude.html)_
 
-### Sewing progression
+## Sewing progression
 Youtube tutorial (in French): https://www.youtube.com/watch?v=DoCPTrjvvKw&t=498s
 
 **1 cm seam allowance, unless otherwise mentioned**
 
-#### Prepare the fabric pieces
+### Prepare the fabric pieces
 
 1. Iron interfacing on the ones where necessary.
 2. Transfer the markings for the fly on the front pieces to the fabric (on the wrong side), then baste stitch with a contrasting thread so it appears on the right side. 

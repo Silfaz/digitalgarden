@@ -2,14 +2,17 @@
 title: "Shop pants"
 ---
 
-### Suggested fabrics
+https://openstudiopatterns.com/patterns/p/shop-pant
+Open Studio Patterns
+
+## Suggested fabrics
 The Shop Pant works best in at least an 8 oz. woven bottom weight fabric. You could choose something with stretch, but it’s not necessary. Canvas, denim, duck and most twills are a good option.
 
-### Tutorial
+## Tutorial
 Youtube: https://youtu.be/DXlssllVSVE
 
 
-### Pictures
+## Pictures
 
 ![](projects/attachments/Top%20pants%2001.png)
 (Credit: Open Studio Patterns https://openstudiopatterns.com/patterns/p/shop-pant)

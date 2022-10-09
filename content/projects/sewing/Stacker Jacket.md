@@ -3,8 +3,9 @@ title: "Stacker Jacket"
 ---
 
 https://papercutpatterns.com/products/stacker-jacket
+Papercut Patterns
 
-### Suggested fabrics
+## Suggested fabrics
 Mid- heavy weight cottons, linens, corduroy, wools and blends. 
 For 140 cm width: 1.7 m; for 114 cm width: 2.3 m
 
@@ -12,7 +13,7 @@ Additional: Fusing: 0.9 m; Lining: 1.35 m; Pocketing: 0.2 m
 
 
 
-### Pictures
+## Pictures
 
 
 ![](projects/attachments/Stacker%20jacket%2001.png)

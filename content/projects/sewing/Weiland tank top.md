@@ -3,8 +3,9 @@ title: "Weiland tank top"
 ---
 
 https://elbetextiles.com.au/products/weiland-tank-digital-sewing-pattern
+Elbe Textiles
 
-### Suggested fabrics
+## Suggested fabrics
 Main fabric:  
 Medium to heavy weight stretch fabrics with 40% + stretch and good recovery  
 2 way stretch (fabric needs to stretch both horizontally and vertically.)  
@@ -14,7 +15,7 @@ Medium to heavy weight stretch fabrics with 40% + stretch and good recovery
 2 way stretch (Fabric needs to stretch both horizontally and vertically.)  
 For extra support, you may like to add an extra layer of powermesh to your lining fabric. Or use a sturdier knit, such as ponte.
 
-### Pictures
+## Pictures
 
 ![](projects/attachments/Pasted%20image%2020220904161312.png)
 _Credit: Elbe Textiles_
