@@ -14,6 +14,10 @@ title: "Books main"
 - Where the Crawdads Sing (Delia Owens)
 - The Happy Isles of Oceania (Paul Theroux)
 - Animal Farm (George Orwell) (audiobook)
+- **How to Blow Up a Pipeline (Andreas Malm)**
+- **The Dispossessed (Ursula K. Le Guin)** [[The Dispossessed]]
+- Transcendent Waves: How Listening Shapes Our Creative Lives (Lavender Suarez) [[projects/books/Transcendent Waves]]
+- 
 
 
 

@@ -47,4 +47,6 @@ title: "Coding resources"
 ## Generative art / creative coding
 [Genart ideas](projects/coding/Genart%20ideas.md)
 
-[[Genart inspo]]
+[[projects/coding/Genart inspo]]
+
+

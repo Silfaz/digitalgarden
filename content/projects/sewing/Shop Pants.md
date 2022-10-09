@@ -11,13 +11,13 @@ Youtube: https://youtu.be/DXlssllVSVE
 
 ### Pictures
 
-![](Pasted%20image%2020221008205147.png)
+![](projects/attachments/Top%20pants%2001.png)
 (Credit: Open Studio Patterns https://openstudiopatterns.com/patterns/p/shop-pant)
 
-![](Pasted%20image%2020221008205252.png)
+![](projects/attachments/Top%20pants%2002.png)
 (Credit: Open Studio Patterns https://openstudiopatterns.com/patterns/p/shop-pant)
 
-![](Pasted%20image%2020221008205338.png)
+![](projects/attachments/Top%20pants%2003.png)
 (Credit: @enderallsews https://www.instagram.com/p/CdWHMFCukPc/)
 
 
