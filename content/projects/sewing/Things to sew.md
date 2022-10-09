@@ -50,10 +50,10 @@ https://papercutpatterns.com/products/stacker-jacket: Boxy outdoor jacket. Every
 
 ## Dog things
 ### Dog bed
-![](Pasted%20image%2020221009150353.png)
+![](projects/attachments/suitcase%20dog%20bed%2001.png)
 (Dog bed in an old suitcase. Credit: https://athomewithashley.com/diy-suitcase-dog-bed/)
 
-![](Pasted%20image%2020221009150504.png)
+![](projects/attachments/suitcase%20dog%20bed%2002.png)
 (Dog bed in an old suitcase. Credit: https://www.countryliving.com/diy-crafts/g2219/diy-dog-bed/?slide=10)
 
 

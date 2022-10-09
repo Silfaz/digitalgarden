@@ -47,7 +47,7 @@ Most commands accept flags and options (i.e. flags with values) that start with 
 `--help` or `-h` in addition to command name will print some help text, e.g. `ls --help`. 
 
 File permissions: list with `ls -l`
-![](Pasted%20image%2020221009103057.png)
+![](projects/attachments/Pasted%20image%2020221009103057.png)
 d = "missing" is a directory.
 
 First block of 3 characters: owner of the file; then users; then everyone else. So, `rwx` = read, write and execute (search) access; `r-x` = only read and execute access. 
