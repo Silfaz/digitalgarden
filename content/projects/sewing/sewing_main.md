@@ -6,7 +6,7 @@ title: "Sewing"
 
 ### Sewing from scratch
 
-### Mending & stitching
+### Mending & stitching [[projects/sewing/stitching]]
 
 ### Adjusting & thrifting
 
@@ -19,4 +19,5 @@ title: "Sewing"
 
 [Capsule wardrobe](projects/sewing/Capsule%20wardrobe.md)
 
+[[Sewing and fitting tricks]]
 
