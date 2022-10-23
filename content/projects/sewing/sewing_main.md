@@ -19,5 +19,5 @@ title: "Sewing"
 
 [Capsule wardrobe](projects/sewing/Capsule%20wardrobe.md)
 
-[[Sewing and fitting tricks]]
+[[projects/sewing/Sewing and fitting tricks]]
 

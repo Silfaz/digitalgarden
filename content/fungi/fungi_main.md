@@ -22,7 +22,7 @@ Planned episode:
 - ...
 
 ## Growing mushrooms
-[[fungi/Yellow oyster mushrooms]] grew quite well in the living room in a perforated plastic box on top of damp Vermiculite.
+[Yellow oyster mushrooms](fungi/Yellow%20oyster%20mushrooms.md) grew quite well in the living room in a perforated plastic box on top of damp Vermiculite.
 
 
 ## Growing filamentous fungi
@@ -37,3 +37,7 @@ _Fungi collection in Industrial Biotechnology, Chalmers University of Technology
 [[Mycelium running]]
 [The Mushroom at the End of the World](The%20Mushroom%20at%20the%20End%20of%20the%20World)
 
+
+## Fungi news
+- [Meat substitute from Aspergillus](fungi/Meat%20substitute%20from%20Aspergillus.md)
+- [Filamentous fungal carriers for cultivated meat](fungi/Filamentous%20fungal%20carriers%20for%20cultivated%20meat.md)

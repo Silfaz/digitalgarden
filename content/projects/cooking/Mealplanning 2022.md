@@ -2,7 +2,7 @@
 title: "Mealplanning 2022"
 ---
 
-- Kimchi udon
+- Kimchi udon (don't forget the gochugaru!)
 - Chili garlic noodles (Yeung Man)
 - Gimbap
 - Dumplings with rice and edamame beans or pak choi
@@ -28,8 +28,8 @@ title: "Mealplanning 2022"
 - Pasta with roasted fennel and cocktail tomatoes
 - Duncan's chili
 - Fried rice
-- Freekeh with parsely, preserved lemons and pine nuts
+- Freekeh with parsely, preserved lemons and pine nuts (+ sausage/schnitzel)
 - Pineapple lentil curry
 - Carrot soup with Bosnian bread
 - Shakshuka crossed with pytt-i-panna
-- Freekeh with preserved lemon and pine nuts + sausage/schnitzel
+

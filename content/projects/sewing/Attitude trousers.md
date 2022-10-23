@@ -26,10 +26,12 @@ Youtube tutorial (in French): https://www.youtube.com/watch?v=DoCPTrjvvKw&t=498s
 
 ### Prepare the fabric pieces
 
-1. Iron interfacing on the ones where necessary.
+1. Iron interfacing on the ones where necessary:
+	1. 2x piece 11 on main fabric
+	2. 1x piece 6 on main fabric
 2. Transfer the markings for the fly on the front pieces to the fabric (on the wrong side), then baste stitch with a contrasting thread so it appears on the right side. 
 3. Only on right-side front piece: Press 1 cm fold on the fly tab.
-4. Only left-side front piece: Trim away the 1 cm fly tab.
+4. Only left-side front piece: Trim away the 1 cm fly tab (that you just pressed to the back on the right-side front piece)
 5. On each of the front pieces, sew a form tape interfacing (1 cm width, non-stretch) along the waist line.  _Helps to prevent deformation and stretching of the waist._
 6. If Italian pockets are done: fuse a 3 cm wide piece of interfacing all along the future pocket opening on the front pieces (on wrong side of fabric).
 7. Overlock the insides of the legs of the front and back pieces. On the right-side front, only up to the fly where the tab starts, but no the fly tab (that was pressed to the inside). Also overlock the bottom parts of the legs on the front and back pieces, as well as the outside of the legs on the back pieces.

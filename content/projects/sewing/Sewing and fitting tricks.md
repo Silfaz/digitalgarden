@@ -8,16 +8,22 @@ Fit one thing at a time and try on in between!
 
 ## Crotch curve
 
+If "comma"-shaped lines around crotch and bluging fabric --> too much fabric, scooping out of crotch curve needed.
+
+If "whiskers"-shaped lines pointing towards crotch or butt and tightness when walking --> too little fabric, more space is needed in the front/back crotch curve. Make the crotch curve more shallow.
+
 Too tight in butt, draglines across butt pointing straight at crotch --> crotchline not scooped out enough
-![](Pasted%20image%2020221011204143.png)
+![](projects/attachments/Pasted%20image%2020221011204143.png)
 _Top: well-fitting trousers; bottom: too tight around butt. Solution: scoop out crotchline more (Credit: Melly Sews https://www.youtube.com/watch?v=JyH7QzfWmzo)_
+
+If you scoop out a lot (i.e. more than 1 cm), add that to the outside at the hip!
 
 
 Crotch point should sit nicely in the middle of your crotch. If you feel like you need to pull the trousers backwards or forwards to make them fit well, you probably need to adjust the crotch curve.
 
 If It _either_ fits when you pull it towards the back _or_ towards the front, but not both --> extend crotch curve slightly on either the front or the back piece. If you pull it towards the front and it fits, but then the crotch point is too far forward, it needs extension on the front piece. Vice versa for the back piece.
 
-![](Pasted%20image%2020221011204649.png)
+![](projects/attachments/Pasted%20image%2020221011204649.png)
 _Bottom piece: extended crotch curve to fit better and give you more length in the crotch (Credit: Melly Sews https://www.youtube.com/watch?v=JyH7QzfWmzo)_
 
 
