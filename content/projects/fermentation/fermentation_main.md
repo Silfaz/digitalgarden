@@ -2,7 +2,7 @@
 title: "Fermentation projects"
 ---
 
-[[All fermentation products]]
+[[projects/fermentation/All fermentation products]]
 
 ## Vegetables fermentations
 [[Vegetable fermentation notes]]
@@ -21,7 +21,7 @@ title: "Fermentation projects"
 
 [[Yogurt production]]
 
-[[Pre-, pro- and postbiotics]]
+[[projects/fermentation/Pre-, pro- and postbiotics]]
 
 
 ## Tempeh

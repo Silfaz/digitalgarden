@@ -26,3 +26,9 @@ title: "Fermented vegetable production"
 
 [Chili sauce](projects/fermentation/Chili%20sauce.md)
 
+[[projects/fermentation/Rough-chopped celeriac and carrot]]
+
+[[projects/fermentation/Brussel sprouts with garlic and pepper corns]]
+
+[[Beet roots]]
+

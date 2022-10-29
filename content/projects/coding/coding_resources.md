@@ -33,6 +33,7 @@ title: "Coding resources"
 
 [[JS resources]]
 
+[[projects/coding/Machine learning with ml5.js]]
 
 ### p5.js
 [[p5.js basics]]
@@ -50,3 +51,7 @@ title: "Coding resources"
 [[projects/coding/Genart inspo]]
 
 
+## Bioinformatics
+[[projects/coding/AlphaFold]]
+
+[[projects/coding/Rosalind]]

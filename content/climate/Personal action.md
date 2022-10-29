@@ -48,7 +48,7 @@ But again, how is anything supposed to change if no one is making ANY change? Ma
 And very importantly: 
 > People seek information that **makes them feel good about themselves and allows them to be a better version of themselves**. If you start with this understanding of the human mind and behavior, you can design campaigns that help people see where your values intersect and how the issues you are working on matter to them.
 
-![](Pasted%20image%2020221022204336.png)
+![](projects/attachments/Pasted%20image%2020221022204336.png)
 
 
 >People tend to avoid or remain unmoved by stories and situations that attempt to make them feel bad. They avoid information that makes them feel sad, fearful, or guilty when there isn’t a way to resolve those feelings.

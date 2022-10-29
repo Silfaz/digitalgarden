@@ -102,8 +102,41 @@ Start tasting the kraut after 5 days. It’s ready when it’s pleasingly sour. 
 
 When the kraut is ready, store it in jars, with lids tightened, in the fridge. It will keep like that for >12 months.
 
+## Rough-chopped celeriac and carrot
+Inspired by Shockery, "Fermented vegetables", p158
+_Made 2022-10-26:_ [Rough-chopped celeriac and carrot](projects/fermentation/Rough-chopped%20celeriac%20and%20carrot.md)
+- 300 g celeriac, peeled and chopped into roughly 2x2 cm pieces
+- 250 g carrot, not pelled (just washed)
+- 1 tsp caraway seeds
+
+Brine:
+3% salt brine (1L water with 3 g salt)
+
+
+Slice carrots lengthwise twice to get quarter sticks. Then cut into roughly 3 cm long pieces. Mix with the celeriac pieces.
+
+In a clean jar, place the caraway seeds at the bottom, then fill in the vegetable pieces. Fill up to the top with brine so everything is covered. Top with 2 clean wine leaves and push the vegetables down with a weight. 
+
+Place in a sun-protected place at room temperature and let ferment for 1-2 weeks.
+
+
 ## Dill pickles
 _Made 2022-04-20_: [Dill pickles](projects/fermentation/Dill%20pickles.md)
+
+## Brussel sprouts with garlic and pepper corns
+_Made 2022-10-26:_ [Brussel sprouts with garlic and pepper corns](projects/fermentation/Brussel%20sprouts%20with%20garlic%20and%20pepper%20corns.md)
+- 350 g Brussel sprouts, cleaned (outer 2-4 leaves removed)
+- 1 big garlic cloves, peeld and whole
+- 1 Tbsp black pepper corns
+- 3 small green chilies, whole
+
+Brine:
+- 3.5% salt (1L + 35 g salt)
+
+Cut Brussel sprouts in half, then fill into a clean jar with the rest of the ingredients. Top with enough brine to submerge everything. Cover with 2 clean wine leaves. Make sure that no pepper corns are floating on the surface (remove if necessary). 
+
+Leave in place out of sunlight at room temperature.
+
 
 ## Fermented lotus root
 Adapted recipe from [Vietnamese pickled carrot and daikon](projects/fermentation/Vegetable%20recipes.md#Vietnamese%20pickled%20carrot%20and%20daikon)
@@ -136,6 +169,7 @@ Basic **3%** vegetable brine: 1000 mL water + 30 g salt
 Cut fennel into large chunks. Arrange vegetables in jar and place the lemon slices and mint leaves around the outside. Cover with 1 vine leaf and weigh down so everything's submerged. Leave at RT for a few days.
 
 When the brine starts to get cloudy, start tasting. When sour enough, discard the lemon slices and mint leaves, transfer to jar with a lid and place in the fridge.
+
 
 ## UFO peaches 
 Inspired by [The Noma Guide to Fermentation](projects/fermentation/noma_guide.md) and https://www.tyrantfarms.com/how-to-make-lacto-fermented-fruit-with-recipes/
