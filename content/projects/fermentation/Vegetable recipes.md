@@ -61,7 +61,9 @@ Start tasting the liquid on day 5. If you want something more like a vinegar, fe
 
 ## Vietnamese pickled carrot and daikon
 Shockey, “Fermented vegetables”, p150
+
 _Made 2022-03:_ [Fermented carrot and parsley root](projects/fermentation/fermented_carrot_parsley.md)
+
 _Made 2022-07-25_: [Vietnamese pickled carrot and daikon](projects/fermentation/vietnamese_carrot_daikon.md)
 
 - Brine: 1/4 cup (68 g) salt, 2.2 L water (= **3 g salt per 100 mL water**) + 1/2 tablespoons sugar per L
@@ -85,6 +87,7 @@ Store in jars, with lids tightened, in the fridge. These will keep refrigerated 
 
 ## Hungarian celeriac kraut
 Shockey, “Fermented vegetables”, p158
+
 _Made 2022-03:_ [Hungarian celeriac kraut](projects/fermentation/Hungarian%20celeriac%20kraut.md)
 - 450 g celeriac, shredded
 - 2-3 Hungarian wax peppers, thinly sliced
@@ -104,6 +107,7 @@ When the kraut is ready, store it in jars, with lids tightened, in the fridge. I
 
 ## Rough-chopped celeriac and carrot
 Inspired by Shockery, "Fermented vegetables", p158
+
 _Made 2022-10-26:_ [Rough-chopped celeriac and carrot](projects/fermentation/Rough-chopped%20celeriac%20and%20carrot.md)
 - 300 g celeriac, peeled and chopped into roughly 2x2 cm pieces
 - 250 g carrot, not pelled (just washed)
@@ -140,7 +144,8 @@ Leave in place out of sunlight at room temperature.
 
 ## Fermented lotus root
 Adapted recipe from [Vietnamese pickled carrot and daikon](projects/fermentation/Vegetable%20recipes.md#Vietnamese%20pickled%20carrot%20and%20daikon)
-_Made 2022-06-26: **Did not work! No growth, despite the fact that I added an unpeeled carrot.The lotus roots were too sterile/preserved to allow any bacterial growth... Despite the fact that I added an unpeeled carrot.**
+
+_Made 2022-06-26: **Did not work! No growth, despite the fact that I added an unpeeled carrot.The lotus roots were too sterile/preserved to allow any bacterial growth... Despite the fact that I added an unpeeled carrot.**_
 
 - 3% Brine: **3 g salt per 100 mL water** + 1 Tbsp sugar per 1L water
 - 500 g fresh lotus root (slices and preserved in water, salt and ascorbic acid, bought at Asian Shop Helsingborg)
@@ -157,6 +162,7 @@ When the brine starts to get cloudy, start tasting. They are ready when they are
 
 ## Fennel with mint and lemon
 Inspired by https://farmsteady.com/blogs/field-guide/recipe-fennel-lemon-mint-kraut
+
 _Made 2022-07-25_: [Fennel with mint and lemon](projects/fermentation/fennel_mint_lemon.md)
 
 - 1 fennel bulb
@@ -173,6 +179,7 @@ When the brine starts to get cloudy, start tasting. When sour enough, discard th
 
 ## UFO peaches 
 Inspired by [The Noma Guide to Fermentation](projects/fermentation/noma_guide.md) and https://www.tyrantfarms.com/how-to-make-lacto-fermented-fruit-with-recipes/
+
 _Made 2022-07-25_: [UFO_peaches](projects/fermentation/UFO_peaches.md)
 
 - 300 g of UFO peaches, cut into bite-sized chunks
@@ -184,10 +191,10 @@ Put the salt and fruit pieces in a jar and fill up with water until all fruits a
 
 
 ## Turkish peppers
+_Made 2022-07-25_: [Turkish peppers](projects/fermentation/Turkish%20peppers.md)
 - 500 g Turkish (or Hungarian) peppers
 - vine leaf
 
-_Made 2022-07-25_: [Turkish peppers](projects/fermentation/Turkish%20peppers.md)
 Basic **3%** vegetable brine: 1000 mL water + 30 g salt 
 
 Cut peppers into bite-sized chunks. Arrange vegetables in jar and fill up with brine until everything is covered. Top off with 1 vine leaf and weigh down so everything's submerged. Leave at room temperature for a 7-14 days. When it has a nice pickel-y taste, it's ready for eating (or storing in the fridge).
@@ -195,12 +202,13 @@ Cut peppers into bite-sized chunks. Arrange vegetables in jar and fill up with b
 
 ## Sauerkraut
 ### Mama's Sauerkraut (Tupperware)
+Made 2021-12-13: [Sauerkraut](projects/fermentation/Sauerkraut.md)
+
 - 10kg gehobeltes Kraut
 - 80g Salz (= 8g/kg)
 - 200g Milchzucker
 - Kümmel, Wacholder
 
-Made 2021-12-13: [Sauerkraut](projects/fermentation/Sauerkraut.md)
 Gut mischen bis Saft entsteht. In Kübel drücken bis Saft darüber steht. Deckel regelmäßig lüften (1-14 Tage, RT). Nach 14 Tagen kühl stellen und fest verschließen. Saft sollte immer über Kraut stehen. Wenn notwendig mit Salzwasser (1L + 1 EL Salz) auffüllen.
 
 ### Sauerkraut von Chefkoch.at
@@ -234,12 +242,13 @@ Kraut waschen, 1-2 große grüne Krautblätter zum Abdecken beiseite legen. Stru
 ## Basic chili ferment (for hot sauce)
 Inspired by https://farmsteady.com/blogs/field-guide/recipe-fermented-peach-hot-sauce and Shockey "Fiery Ferments" p107
 
+_Made 2022-08-13_: [Fermented triple chili & peach sauce](projects/fermentation/Chili%20sauce.md)
+
 - approx. 450 g chili peppers
 - 1 whole white onion
 - 3 big garlic cloves
 - vine leaf
 
-_Made 2022-08-13_: [Fermented triple chili & peach sauce](projects/fermentation/Chili%20sauce.md)
 Basic **3%** vegetable brine: 1000 mL water + 30 g salt 
 
 Deseed chili peppers (wear gloves! 😬) and cut into bite-sized chunks. Peel and cut onion into rough cubes. Peel garlic cloves. 
@@ -252,6 +261,8 @@ Fill into clean bottles and keep in fridge for 2-12 months.
 ## Kimchi (vegan)
 Recipe adapted from: https://www.seriouseats.com/homemade-vegan-kimchi-recipe
 
+_Made: 2022- [Kimchi](projects/fermentation/Kimchi.md)
+
 - 1 large Chinese cabbage
 - 1 small daikon radish
 - 8 spring onions
@@ -261,8 +272,6 @@ Recipe adapted from: https://www.seriouseats.com/homemade-vegan-kimchi-recipe
 - 1/2 cup gochugaru (Korean chili flakes)
 - 2 Tbsp miso paste (white or red)
 - 1 Tbsp sugar
-
-_Made: 2022- [Kimchi](projects/fermentation/Kimchi.md)
 
 1. Wash cabbage, then remove trunk and cut the leaves into rough pieces (approx. 3x3 cm).
 2. Wash the daikon and cut into little sticks. 
