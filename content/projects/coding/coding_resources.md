@@ -48,10 +48,15 @@ title: "Coding resources"
 ## Generative art / creative coding
 [Genart ideas](projects/coding/Genart%20ideas.md)
 
-[[projects/coding/Genart inspo]]
+[Genart inspo](projects/coding/Genart%20inspo.md)
 
 
 ## Bioinformatics
-[[projects/coding/AlphaFold]]
+[AlphaFold](projects/coding/AlphaFold.md)
 
-[[projects/coding/Rosalind]]
+[Rosalind](projects/coding/Rosalind.md)
+
+
+## Web design (HTML, CSS, etc.)
+[How to build a personal (static) webpage from scratch](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#an-overview-of-static-webpage-development)
+
