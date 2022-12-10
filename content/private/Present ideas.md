@@ -1,5 +1,31 @@
 #family #presents 
 
+## Angie's 40er Geburtstag
+- selbstgenähte Bluse? (Stoff ist noch nicht hier!)
+- Reise mit mir
+
+## Christmas 2023
+### Mama & Papa
+- Netflix Abo
+
+### Luna
+- Hundepopcorn
+
+
+### Duncan
+- Windmühle - DONE
+- Flaschenhals
+- Käse --> muss noch in Lund kaufen
+
+### Angie & Christian
+- lange Wärmflasche - DONE (bestellt 2022-12-07)
+- Papierblumen-bastelset - DONE
+- Oatly Rucksack - DONE (wenn ich meinen nehme)
+- riesiges Teei --> schau in HBG Tee-shop
+
+
+
+
 # Silfa
 - **Around the world in 80 trees by Jonathan Drori** (hard cover)
 - Around the world in 80 plants by Jonathan Drori

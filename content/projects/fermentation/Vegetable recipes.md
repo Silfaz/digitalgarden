@@ -190,6 +190,18 @@ _Made 2022-07-25_: [UFO_peaches](projects/fermentation/UFO_peaches.md)
 Put the salt and fruit pieces in a jar and fill up with water until all fruits are covered. Stir with a chop stick. Cover with a vine leave, weigh down with a weight so everything is submerged. Leave standing at room temperature, taste every day until it has a pleasant taste.
 
 
+## Fermented apples and butternut squash
+Inspired by https://www.thekitchn.com/lacto-fermented-squash-and-apples-23102791
+
+Made 2022-10-30: [Fermented apple with butternut squash](Fermented%20apple%20with%20butternut%20squash.md)
+
+- 600 g apples, peeled and cored, cut into bite-sized chunks
+- 1 medium-sized butternut squash, peeled and de-seeded, cut into small, 0.5-cm thick slices
+
+3% brine: 30 g salt + 1 L water
+
+Cut the fruits and drop the apple pieces into the prepared brine as soon as they are cut to avoid browning. When everything is cut, fill into jars and pack tickly, cover with the brine, and weigh down with a weight so everything is nicely submerged. Leave at room temperature and start tasting when the liquid becomes cloudy.
+
 ## Turkish peppers
 _Made 2022-07-25_: [Turkish peppers](projects/fermentation/Turkish%20peppers.md)
 - 500 g Turkish (or Hungarian) peppers

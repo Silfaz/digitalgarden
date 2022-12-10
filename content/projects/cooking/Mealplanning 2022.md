@@ -17,19 +17,54 @@ title: "Mealplanning 2022"
 - Ottolenghi's giant couscous
 - Mushroom mapo tofu
 - Bibimbap
-- Keema sandwiches
+- Keema sandwiches (East, p174)
 - Tomato soup with bread
 - Pasta with olives, capers, pine nuts, sugar snaps
 - Misir wat
 - Hyderabadi sour dal
 - Burgers
 - Pasta with tomato-meatball sauce
-- Creamy mushroom pasta with meatballs
 - Pasta with roasted fennel and cocktail tomatoes
+- Creamy mushroom pasta with meatballs
 - Duncan's chili
 - Fried rice
 - Freekeh with parsely, preserved lemons and pine nuts (+ sausage/schnitzel)
 - Pineapple lentil curry
 - Carrot soup with Bosnian bread
 - Shakshuka crossed with pytt-i-panna
+- Carrot ginger soup
+- Mushroom mapo tofu (East, p171)
+- Dumplings + rice + quick-fried pak choi
+- Lemongrass udon (Yeung man)
+- Burgers + salad
+- Schnitzel with roasted carrots and cabbage with gojuchang (East, p238)
+- Couscous with parsely, halloumi and roasted pine nuts
+- Sweet potato in tomato, lime and cardamom sauce (Ottolenghi)
+- Mushroom, coriander and lentil curry with gramflour pancakes (East p218)
+- Duncan's fried rice (onion, pea, quorn, spring onions)
+- Banh mi with Sriracha-marinated tempeh
+- Jackfruit jerk burritos with coriander rice and black beans + sweet corn
+- Full veggie English breakfast
+- Courgette and goat's cheese pasta
+- Vietnamese pancakes (East p197)
+- Bao with chicken wings, coriander and pickles
+- Chow mein (Yeung Man)
+- Halal cart chicken
+- Marmite risotto
+- Grilled veggies with sausage and chimichurri
+- Tortillas with roasted corn, chickpeas, feta, radishes and chimichurri
+- Soba noodles with sesame-garlic pak choi
+- Roasted butternut squash pumpkin soup
+- Vegan tomato soup
+- Leek and potato soup
+- Majscarbonara
+- Okonomiyaki
+- Hyderabadi sour dal
+- Baked potato with baked beans and sour cream
+- Shiitake and leek pho (East p87)
+- Gado gado
+- Cardamom tofu with lime greens (Ottolenghi p172)
+- Ben ben noodles (East p77)
+- Scrambled tofu
+- Tempeh Wellington
 

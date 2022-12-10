@@ -1,6 +1,4 @@
----
-title: "Cooking"
----
+
 
 [Recipes (tried & tested)](projects/cooking/Recipes%20(tried%20&%20tested).md)
 
@@ -10,3 +8,4 @@ title: "Cooking"
 
 [Weihnachtskekserl](projects/cooking/Weihnachtskekserl.md)
 
+[[Lunchboxes / Bowls]]
