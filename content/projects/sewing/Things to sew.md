@@ -50,7 +50,7 @@ https://papercutpatterns.com/products/stacker-jacket: Boxy outdoor jacket. Every
 
 ## Blouses
 ### Noella Blouse (Juliana Martejevs)
-- [[Noella blouse pictues & fabric]]
+- [[projects/sewing/Noella blouse pictues & fabric]]
 
 ## Dog things
 ### Dog bed

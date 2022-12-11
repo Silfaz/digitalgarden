@@ -30,7 +30,7 @@ title: "Fermented vegetable production"
 
 [Brussel sprouts with garlic and pepper corns](projects/fermentation/Brussel%20sprouts%20with%20garlic%20and%20pepper%20corns.md)
 
-[[Fermented apple with butternut squash]]
+[[projects/fermentation/Fermented apple with butternut squash]]
 
 [[Beet roots]]
 

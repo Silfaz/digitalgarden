@@ -2,7 +2,7 @@
 title: "Noella Blouse"
 ---
 
-![](Pasted%20image%2020221113092924.png)
+![](projects/attachments/Noella%20blouse%2001.png)
 
 
 ## Tutorial
@@ -19,9 +19,9 @@ https://www.youtube.com/watch?v=Cw2_kK--cuc
 8. Seitennaht schließen (mit French seams): Bluse mit Vorderseite nach oben hinlegen, Ärmelnähte und Seitennähte aufeinander (**links auf links**). Mit Nadeln fixieren. Mit 5 mm Nahtzugabe nähen. Die Naht platt bügeln und mit Stecknadeln fixieren. Dann von der linken Seite (Stoffteile liegen rechts auf rechts) knapp neben der anderen Naht (also mit ca. 6 mm Abstand) Ärmel und Seitennaht entlang nähen. Naht platt bügeln mit Nahtzugaben zur Vorderseite hin. 
 9. Kragen: Beide Kragenteile rechts auf rechts aufeinenderlegen. Die kurzen Seiten und die lange obere Seite mit Stecknadeln fixieren. Mit 1 cm Nahtzugabe an diesen drei Seiten entlang nähen. Ecken diagonal abschneiden, dann Kragen umdrehen und bügeln. _Optional: den ganzen Kragen in 5 mm Abstand rundum absteppen._ Einen der Stege mit Rundunden nach oben (und rechts nach oben)hinlegen, die Knipse mit der ungenähten Kante des Kragens abstimmen. Dann den anderen Steg rechts auf rechts drauflegen (der Kragen ist also zwischen den zwei Stegen), und die gesamte obere Kante feststecken. Mit 1 cm Abstand nähen: die Rundungen der Stege, dann weiter entlang der Kante des Kragenteils. _Achtung: nicht direkt an der Kante der Stege zu nähen beginnen, sondern 1 cm frei lassen (am Anfang und am Ende._ Nahtzugaben an den Rundungen kürzen und einschneiden. Dann alles umdrehen und bügeln. 
 10. Kragen annähen: Kragen-Steg-Teil rechts auf rechts auf das Vorderteil legen, Ecke mit Nahtzugabe genau an die Kante. Nur den inneren Steg mit Nadeln auf das Vorderteil stecken. Das selbe mit der Ecke auf der anderen Seite. Dann die ganze Kante des Stegs entlang an das Hauptteil stecken. Mit 1 cm Abstand annähen. **Sicherstellen dass die Ecken des Stegs wirklich genau mit den Kanten des Vorderteils abschließen!** Hauptteil umdreehen, d.h. mit links nach unten auflegen. Dann die Nahtzugaben des äußeren Stegs nach innen falten, ca. 1 cm, aber soweit dass es ein bisschen über die Naht am Hauptteil hinausgeht, d.h. dass diese Naht verdeckt wird. Alles entlang mit Nadeln abstecken. Dann auf der rechten Seite entlang nähen, möglichst nahe neben der Falte. _Auf der linken Seite kontrollieren ob alle Stofflagen erwischt wurden._
-![](Pasted%20image%2020221113103133.png)
+![](projects/attachments/Noella%20blouse%2002.png)
 11. Optional: Knopflock am Kragen: Horizontales Knopfloch am Ende des Stegs nähen. 
-![](Pasted%20image%2020221113103713.png)
+![](projects/attachments/Noella%20blouse%2004.png)
 
 12. Säume: An der Unterkante der Bluse 1 cm umbügeln. Dann nochmal 1 cm umbügeln, mit Nadeln fixieren, möglichst nahe an der umgebügelten Kante festnähen. Das selbe mit den Ärmeln. 
 13. Knöpfe annähen. 

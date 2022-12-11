@@ -16,6 +16,8 @@ title: "🪴 Digital Garden"
 
 ### [Photography](photography/photography_main.md)
 
+### [Cooking & Baking](projects/cooking/cooking_main.md)
+
 
 ## Other
 

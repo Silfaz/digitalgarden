@@ -193,7 +193,7 @@ Put the salt and fruit pieces in a jar and fill up with water until all fruits a
 ## Fermented apples and butternut squash
 Inspired by https://www.thekitchn.com/lacto-fermented-squash-and-apples-23102791
 
-Made 2022-10-30: [Fermented apple with butternut squash](Fermented%20apple%20with%20butternut%20squash.md)
+Made 2022-10-30: [Fermented apple with butternut squash](projects/fermentation/Fermented%20apple%20with%20butternut%20squash.md)
 
 - 600 g apples, peeled and cored, cut into bite-sized chunks
 - 1 medium-sized butternut squash, peeled and de-seeded, cut into small, 0.5-cm thick slices

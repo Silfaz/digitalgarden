@@ -1,5 +1,5 @@
 ---
-title: "To cook (recipes)"
+title: "Try out new recipes"
 ---
 
 ### Homemade ramen noodles
@@ -15,11 +15,6 @@ Cold ramen with different toppings, crunchy veggies in a vinegary sauce.
 https://www.smarticular.net/bohnenschmalz-vegan-rezept-selber-machen-ohne-kokosoel-palmoel/
 Recommended by Angie.
 
-### Vegan brownies
-https://jessicainthekitchen.com/vegan-almond-flour-brownies-gluten-free-fudgy/
-
-### Vegan almond cardamom cake 
-https://www.cookwithmanali.com/vegan-almond-cardamom-cake/
 
 ### Yaki Onigiri
 https://vegnews.com/2019/7/vegan-grilled-onigiri-with-japanese-style-bbq-glaze
