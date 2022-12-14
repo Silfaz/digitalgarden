@@ -2,7 +2,7 @@
 title: "Fermentation projects"
 ---
 
-[[projects/fermentation/All fermentation products]]
+[[Fermentation collection]]
 
 ## Vegetables fermentations
 [[Vegetable fermentation notes]]

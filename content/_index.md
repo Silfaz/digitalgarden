@@ -1,6 +1,14 @@
 ---
 title: "🪴 Digital Garden"
 ---
+This is my digital garden, a place that is never finished and always growing. It reflects some of my past, current and future interests, projects and collections. 
+
+Feel free to walk around and explore. 
+
+
+![](Pasted%20image%2020221214194904.png)
+
+
 ## Projects
 
 ### [Fungi](fungi/fungi_main.md)
@@ -28,3 +36,9 @@ title: "🪴 Digital Garden"
 ### [Trips](trips/trips_main.md)
 
 ### [Quotes](quotes.md)
+
+
+
+----
+Silvia Hüttner, @silfaz
+
