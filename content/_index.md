@@ -7,7 +7,7 @@ This is my digital garden, a place that is never finished and always growing. It
 Feel free to walk around and explore. 
 
 
-![](Pasted%20image%2020221214194904.png)
+![](projects/attachments/Walk%20to%20Råå.png)
 
 ----
 
