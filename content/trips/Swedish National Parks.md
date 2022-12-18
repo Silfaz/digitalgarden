@@ -8,7 +8,7 @@ Excellent website also here with interactive hiking trails: https://www.sveriges
 
 
 
-### [Nationalparks_Götaland](trips/nationalparks_götaland.md)
+### [Nationalparks Götaland](trips/nationalparks_götaland.md)
 - Blå Jungfruns nationalpark
 - Dalby Söderskogs nationalpark
 - Djurö nationalpark
@@ -39,7 +39,7 @@ Excellent website also here with interactive hiking trails: https://www.sveriges
 - Vadvetjåkka nationalpark
 
 
-### Svealand [[nationalparks_svealand]]
+### [Nationalparks Svealand](nationalparks_svealand)
 - Fulufjällets nationalpark
 - Garphyttans nationalpark
 - Tyresta nationalpark

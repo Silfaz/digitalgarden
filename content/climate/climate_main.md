@@ -9,7 +9,7 @@ Thoughts on [personal action](climate/Personal%20action.md)
 ## Reading list
 [How we will fight climate change](climate/How%20we%20will%20fight%20climate%20change.md)
 
-[[climate/Oil is the new data]]
+[Oil is the new data](climate/Oil%20is%20the%20new%20data.md)
 
 [[How to blow up a pipeline]]
 
