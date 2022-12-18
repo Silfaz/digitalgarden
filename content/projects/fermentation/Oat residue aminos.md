@@ -2,7 +2,7 @@
 title: "Oat residue aminos"
 ---
 
-(photo)
+![](projects/attachments/Oat%20residue%20aminos.png)
 
 Recipe: [Koji recipes - Oat residue aminos](projects/fermentation/Koji%20recipes.md#Oat%20residue%20aminos)
 

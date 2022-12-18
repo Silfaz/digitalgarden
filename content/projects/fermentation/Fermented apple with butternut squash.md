@@ -4,7 +4,7 @@ title: "Fermented apple with butternut squash"
 
 Recipe: **[Fermented apples and butternut squash](projects/fermentation/Vegetable%20recipes.md#Fermented%20apples%20and%20butternut%20squash)**
 
-![](Pasted%20image%2020221218165414.png)
+![](projects/attachments/Squash%20and%20apple%2002.png)
 
 Made: _2022-10-30_
 
@@ -32,5 +32,5 @@ Great addition to any "boring" lunchbox to add acidity and some fruitiness.
 
 **The best of the four are number 3 and 4.** The apples retained the most crunch, while still being nicely fermented. For the butternut squash, there is not really any difference between the four jars (and starter cultures). In general, the one with Acidophilus is probably my least favourite, because the apples became a bit mushy and everything tastes a bit more "rotten"-fermented than in the others (which are more fresh and acidic-fermented). That was also the sample where yeast grew most while standing in the fridge.
 
-![](Pasted%20image%2020221218165352.png)
+![](projects/attachments/Squash%20and%20apple%2001.png)
 

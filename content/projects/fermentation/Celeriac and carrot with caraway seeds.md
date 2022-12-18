@@ -4,7 +4,7 @@ title: "Celeriac and carrot with caraway seeds"
 
 Recipe: [Celeriac and carrot with caraway seeds](projects/fermentation/Vegetable%20recipes.md#Celeriac%20and%20carrot%20with%20caraway%20seeds)]
 
-![](Pasted%20image%2020221218164822.png)
+![](projects/attachments/Celeria%20and%20carrot%2001.png)
 
 Made: _2022-10-26_
 
@@ -16,4 +16,4 @@ _Harvested 2022-11-08 (13 days)_: Place in fridge
 
 _Conclusion_: Very nice and fresh flavour. Crunchy. Carrot and celeriac are a good combination, and the caraway gives it a nice additional freshness. 
 
-![](Pasted%20image%2020221218164845.png)
+![](projects/attachments/Celeriac%20and%20carrot%2002.png)

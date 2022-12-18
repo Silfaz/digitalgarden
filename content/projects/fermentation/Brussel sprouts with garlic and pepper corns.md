@@ -6,7 +6,7 @@ Recipe: **[Brussel sprouts with garlic and pepper corns](projects/fermentation/V
 
 Made: _2022-10-26_
 
-![](Pasted%20image%2020221218164349.png)
+![](projects/attachments/Fermented%20brussel%20sprouts%2001.png)
 
 _Tasted 2022-10-31 (5 days)__: Light cloudiness visible in the jar. Brussel sprouts are very crunchy and raw, not very sour yet. Definitely need longer.
 
@@ -17,7 +17,7 @@ _Harvested 2022-11-08 (13 days)_: Still have nice shape and light green colour. 
 _Conclusion:_ Taste is delicious, especially after a few days/weeks in the fridge. The sprouts are crunchy, sour, slightly cabbagy and very slightly spicy from the green chilies. Maybe only cutting them in half resulted in too large pieces - next time try quarters. Will definitely make again!
 
 
-![](Pasted%20image%2020221218164427.png)
+![](projects/attachments/Fermented%20brussel%20sprouts%2002.png)
 
 
 
