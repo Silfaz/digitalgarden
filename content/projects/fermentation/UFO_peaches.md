@@ -19,6 +19,6 @@ _Conclusion:_ Much more fermented tasting on the bottom than on the top of the j
 
 After 1-2 weeks in the fridge, the peaches have softened even more and disintegrated a bit, but also acidity has increased. They don't taste salty any more, but more fizzy, fruity and sour. quite a lot of kahm yeast growth on the top during fridge storage, but no bad smell or taste. 
 
-Maybe add it to fermented chili peppers to make a hot sauce? [[Fermented hot sauce]]
+Maybe add it to fermented chili peppers to make a hot sauce? [Fermented hot sauce](Fermented%20hot%20sauce) --> It was really good to add to the hot sauce! Gave it a nice fruity tone.
 
 ![](projects/attachments/Peaches%2002.jpeg)

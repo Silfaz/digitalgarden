@@ -105,10 +105,11 @@ Start tasting the kraut after 5 days. It’s ready when it’s pleasingly sour. 
 
 When the kraut is ready, store it in jars, with lids tightened, in the fridge. It will keep like that for >12 months.
 
-## Rough-chopped celeriac and carrot
+
+## Celeriac and carrot with caraway seeds
 Inspired by Shockery, "Fermented vegetables", p158
 
-_Made 2022-10-26:_ [Rough-chopped celeriac and carrot](projects/fermentation/Rough-chopped%20celeriac%20and%20carrot.md)
+_Made 2022-10-26:_ [Celeriac and carrot with caraway seeds](projects/fermentation/Celeriac%20and%20carrot%20with%20caraway%20seeds.md)
 - 300 g celeriac, peeled and chopped into roughly 2x2 cm pieces
 - 250 g carrot, not pelled (just washed)
 - 1 tsp caraway seeds
@@ -126,6 +127,7 @@ Place in a sun-protected place at room temperature and let ferment for 1-2 weeks
 
 ## Dill pickles
 _Made 2022-04-20_: [Dill pickles](projects/fermentation/Dill%20pickles.md)
+
 
 ## Brussel sprouts with garlic and pepper corns
 _Made 2022-10-26:_ [Brussel sprouts with garlic and pepper corns](projects/fermentation/Brussel%20sprouts%20with%20garlic%20and%20pepper%20corns.md)
@@ -202,6 +204,7 @@ Made 2022-10-30: [Fermented apple with butternut squash](projects/fermentation/F
 
 Cut the fruits and drop the apple pieces into the prepared brine as soon as they are cut to avoid browning. When everything is cut, fill into jars and pack tickly, cover with the brine, and weigh down with a weight so everything is nicely submerged. Leave at room temperature and start tasting when the liquid becomes cloudy.
 
+
 ## Turkish peppers
 _Made 2022-07-25_: [Turkish peppers](projects/fermentation/Turkish%20peppers.md)
 - 500 g Turkish (or Hungarian) peppers
@@ -273,7 +276,7 @@ Fill into clean bottles and keep in fridge for 2-12 months.
 ## Kimchi (vegan)
 Recipe adapted from: https://www.seriouseats.com/homemade-vegan-kimchi-recipe
 
-_Made: 2022- [Kimchi](projects/fermentation/Kimchi.md)
+_Made: 2022:_ [Kimchi](projects/fermentation/Kimchi.md)
 
 - 1 large Chinese cabbage
 - 1 small daikon radish

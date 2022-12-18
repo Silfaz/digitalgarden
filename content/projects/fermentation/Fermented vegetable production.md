@@ -26,11 +26,11 @@ title: "Fermented vegetable production"
 
 [Chili sauce](projects/fermentation/Chili%20sauce.md)
 
-[Rough-chopped celeriac and carrot](projects/fermentation/Rough-chopped%20celeriac%20and%20carrot.md)
+[Celeriac and carrot with caraway seeds](projects/fermentation/Celeriac%20and%20carrot%20with%20caraway%20seeds.md)
 
 [Brussel sprouts with garlic and pepper corns](projects/fermentation/Brussel%20sprouts%20with%20garlic%20and%20pepper%20corns.md)
 
-[[projects/fermentation/Fermented apple with butternut squash]]
+[Fermented apple with butternut squash](projects/fermentation/Fermented%20apple%20with%20butternut%20squash.md)
 
 [[Beet roots]]
 

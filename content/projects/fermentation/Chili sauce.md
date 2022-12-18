@@ -34,6 +34,7 @@ Add a few good pinches of salt. Heat up in a pot to simmering and leave for 2 mi
 
 ![](projects/attachments/IMG_20220821_140334.jpg)
 
+
 ### Fermented chili sauce with orange zest
 Blend half of the fermented chilies in a blender with 30 mL of apple cider vinegar. Add a few good pinches of salt. Add one package of Dr. Oetker orange zest for baking:
 ![](projects/attachments/IMG_20220821_142921.jpg)
