@@ -1,6 +1,8 @@
 ---
 title: "Vegetable (and some fruit) recipes"
 ---
+![](Pasted%20image%2020221219212911.png)
+
 
 ## Fermented daikon radish
 [https://www.fermentingforfoodies.com/fermented-radishes-for-a-delicious-snack/](https://www.fermentingforfoodies.com/fermented-radishes-for-a-delicious-snack/)
