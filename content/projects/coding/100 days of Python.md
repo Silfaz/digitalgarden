@@ -485,7 +485,8 @@ For example:
 
 ## Object-oriented programming (OOP)
 **OOP analogy:**
-You come to a foreign country and don't know the language, don't know the city and don't have local money, but you want your clothes dry-cleaned. Instead of doing it yourself, you ask the hotel staff to do it, who know the language, the city and have local money.
+>You come to a foreign country and don't know the language, don't know the city and don't have local money, but you want your clothes dry-cleaned. Instead of doing it yourself, you ask the hotel staff to do it, who know the language, the city and have local money.
+
 `hotel.dry_clean_clothes()`
 
 

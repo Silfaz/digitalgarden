@@ -81,8 +81,8 @@ Habt schöne Weihnachtsfeiertage und liebe Grüße an alle!
 Silvia, Duncan & Laika
 
 
-### Hüttner
-### Angie & Chris
+- Hüttner
+- Angie & Chris
 - Tina Spitzer
 - Tine Barg
 - Natasa
@@ -104,3 +104,52 @@ Silvia, Duncan & Laika
 - Markus & Conny
 - Christoph & Babsi
 - Manuela + Familie
+
+# 2022 Christmas card
+![](Christmas%20card%202022%20(Silfa).png)
+
+- Duncan's family - DONE
+- Duncan's relatives - DONE
+- Ausra - DONE
+- Eva & Kennet - DONE
+- Chris - DONE
+- Stefan & Sara - DONE
+- Scott & Aurora - DONE
+- Siri & Mikael - DONE
+- Josh & Helén - DONE
+- Pawel - DONE
+- Cathi - DONE
+- Johan - DONE
+- Jenny - DONE
+- Frida & Karl - DONE
+- Jonas & Lisa - DONE
+- 
+
+
+![](Christmas%20card%202022%20(Silvia,%20deutsch).png)
+
+- Mama & Papa - DONE
+- Angie & Chris - DONE
+- Tante Gerti & Onkel Harald - DONE
+- Tante Angela & Onkel Heini - DONE
+- Tina Spitzer - DONE
+- Tine Barg - DONE
+- OB & TI - DONE
+- Lisi Halbmayr - DONE
+- Kathi Spath - DONE
+- Kathi Bleier - DONE
+- Martina Baumann - DONE
+- Alba Hykollari - DONE
+- Stocki - DONE
+- Eva - DONE
+- Steffi - DONE
+- O. Christian + Renate - DONE
+- Markus & Conny - DONE
+- Christoph & Babsi - DONE
+- Carina - DONE
+- Manuela + Familie - DONE
+- Stefan Krautzer - DONE
+- Stephan Stefan - DONE
+- Natasa - DONE
+- Gina & Björn - DONE
+

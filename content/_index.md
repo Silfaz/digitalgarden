@@ -15,11 +15,11 @@ Feel free to walk around and explore.
 
 ### [Fungi](fungi/fungi_main.md)
 
-### [Fermentation](projects/fermentation/fermentation_main.md)
+### [Fermentation](projects/fermentation/01%20fermentation_main.md)
 
 ### [Sewing](projects/sewing/sewing_main.md)
 
-### [Coding](projects/coding/coding_main.md)
+### [Coding](projects/coding/01%20coding_main.md)
 [The fantastical street names of Gothenburg](https://silfaz.github.io/gbgclusters/)
 
 ### [Environment & Climate Action](climate/climate_main.md)
@@ -37,7 +37,7 @@ Feel free to walk around and explore.
 
 ### [Trips](trips/trips_main.md)
 
-### [Quotes](quotes.md)
+### [Quotes](Quotes.md)
 
 
 

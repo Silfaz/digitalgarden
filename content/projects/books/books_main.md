@@ -15,9 +15,12 @@ title: "Books main"
 - The Happy Isles of Oceania (Paul Theroux)
 - Animal Farm (George Orwell) (audiobook)
 - **How to Blow Up a Pipeline (Andreas Malm)**
-- **The Dispossessed (Ursula K. Le Guin)** [[projects/books/The Dispossessed]]
+- **[The Dispossessed](projects/books/The%20Dispossessed.md) (Ursula K. Le Guin)**
 - Transcendent Waves: How Listening Shapes Our Creative Lives (Lavender Suarez) [[projects/books/Transcendent Waves]]
-- 
+- How to be an Antiracist (Ibram X. Kendi)
+- Recursion (Blake Crouch)
+- Pathways (Jeri Taylor)
+- **[Exhalation](Exhalation.md) (Ted Chiang)** 
 
 
 
