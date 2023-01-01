@@ -48,6 +48,11 @@ https://openstudiopatterns.com/patterns/p/shop-pant: Casual trousers. The Shop P
 https://papercutpatterns.com/products/stacker-jacket: Boxy outdoor jacket. Everyday utility button-up in a cropped boxy fit. Choice of flapped in-seam pockets, or oversized patch pockets. Fully lined and features a drop shoulder and a classic collar.
 - [Stacker Jacket pictures & fabric](projects/sewing/Stacker%20Jacket.md)
 
+## Tops
+### Nature Top (Thread + Sprout)
+https://www.threadandsprout.com/tutorials/make-your-own-nature-top
+
+
 ## Blouses
 ### Noella Blouse (Juliana Martejevs)
 - [[projects/sewing/Noella blouse pictues & fabric]]

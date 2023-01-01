@@ -13,7 +13,9 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 
 [All fermentation products](projects/fermentation/All%20fermentation%20products.md) - An ongoing collection of all fermentation products I come across 
 
-[[projects/fermentation/Fermentation reading list]] - Interesting articles and books
+[Fermentation reading list](projects/fermentation/Fermentation%20reading%20list.md)- Interesting articles and books
+
+[[Fermentation experimentation]]
 
 
 ## Vegetables fermentations

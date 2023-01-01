@@ -51,3 +51,18 @@ Facebook group
 ### Meetings & communications in the comms team
 - 17:00-18:30, first Monday of the month
 - Whatsapp group --> **Silfa** will set up
+
+
+## 2023-01-02
+
+### Website
+https://klimatavtalet.se/
+
+- Only in Swedish: can we install a "switch language" button?
+- What's the first and most important thing on that website?
+	- What are we and why should you join?
+	- How can you get involved and what's going on?
+- Moment 22 should probably be archived
+- Links to the social media presence
+- Barnens klimatlöfte: what is that? Is it ok to collect data from children?
+- 

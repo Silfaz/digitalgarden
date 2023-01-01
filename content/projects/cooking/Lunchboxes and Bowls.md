@@ -1,7 +1,13 @@
 ---
 title: "Lunchboxes and bowls"
 ---
+## 2023
 
+### Week 1
+- Svenska kvarngryn (whole oat, wheat and rye kernels) with chickpeas and kidney beans
+- Finely sliced red cabbage with beetroot and red pepper pieces, peas, mixed with homemade zucchini chutney.
+- Soy meatballs
+- Roasted sunflower seeds
 
 ## 2022
 
