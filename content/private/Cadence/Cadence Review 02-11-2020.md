@@ -48,6 +48,6 @@ Currently I'm very undecided about which job direction I should take in the futu
 Otherwise, look back at 100 days ago and see how much better you're exercising now and how much better your coding skills are than last time! It pays off to do something, right? ;) 
 
 [Cadence](private/Cadence/Cadence.md)
-[Cadence Review](Cadence%20Review)
+[Cadence Review](private/Cadence/Cadence%20Review.md)
 [Cadence spring 2020](private/Cadence/Cadence%20spring%202020.md)
 [Cadence Review 31-10-2021](private/Cadence/Cadence%20Review%2031-10-2021.md)

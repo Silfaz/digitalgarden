@@ -32,7 +32,7 @@ Chop in food processor until most beans have been chopped, 4-5 pulses (although 
 
 Interesting that the soybeans take so much longer to cook than e.g. black beans. They remain very dense and crunchy (like carrot) for a long time, whereas other bean varieties get starchy already after 5 min boiling, even the whole beans with hulls. The soybeans also don't seem to get soggy and there's no gradient visible between outside and inside of the bean or between small pieces and intact beans being cooked earlier or mushier. Also, no difference between small bean pieces and whole beans in terms of done-ness.
 
-![](Pasted%20image%2020221219211253.png)
+![](projects/attachments/Pasted%20image%2020221219211253.png)
 
 Freeze half, heat-treat the other half (wrapped in aluminium foil, **85°C for 30 min** in the oven). Boiling in 200 mL water + 60 mL light soy sauce for 2 min on each side. The soy cake holds up perfectly. Store in fridge until use.
 

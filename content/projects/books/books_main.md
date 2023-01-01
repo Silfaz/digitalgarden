@@ -20,7 +20,7 @@ title: "Books main"
 - How to be an Antiracist (Ibram X. Kendi)
 - Recursion (Blake Crouch)
 - Pathways (Jeri Taylor)
-- **[Exhalation](Exhalation.md) (Ted Chiang)** 
+- **[Exhalation](projects/books/Exhalation.md) (Ted Chiang)** 
 
 
 
@@ -33,7 +33,7 @@ title: "Books main"
 - Star Trek Deep Space 9 - Avatar 1/2 (S.D. Perry)
 - Eloquent JavaScript: A modern introduction to programming (Marijn Haverbeke)
 - Show your work: 10 ways to share your creativity and get discovered (Austin Kleon)
-- **The Ministry for the Future (Kim Stanley Robinson)** [[The Ministry for the Future]]
+- **The Ministry for the Future (Kim Stanley Robinson)** [[projects/books/The Ministry for the Future]]
 - The Address Book (Deidre Mask)
 - Mr. Penumbra's 24 hour bookstore (Robin Sloan)
 - A fine balance (Rohinton Mistry)

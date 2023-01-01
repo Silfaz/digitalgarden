@@ -2,7 +2,7 @@
 title: "Tempeh experiments"
 ---
 
-![](Pasted%20image%2020221219212030.png)
+![](projects/attachments/Pasted%20image%2020221219212030.png)
 
 ### In short: What has worked best so far
 #### Fermentation
@@ -38,4 +38,4 @@ When placed in the oven, it continues to ferment and change in taste and texture
 
 ## Cooking tempeh
 
-[[Different cooking methods]]
+[[projects/fermentation/Different cooking methods]]

@@ -106,7 +106,7 @@ Silvia, Duncan & Laika
 - Manuela + Familie
 
 # 2022 Christmas card
-![](Christmas%20card%202022%20(Silfa).png)
+![](private/Yearly%20reviews/2022%20Review/photos/Christmas%20card%202022%20(Silfa).png)
 
 - Duncan's family - DONE
 - Duncan's relatives - DONE
@@ -126,7 +126,7 @@ Silvia, Duncan & Laika
 - 
 
 
-![](Christmas%20card%202022%20(Silvia,%20deutsch).png)
+![](private/Yearly%20reviews/2022%20Review/photos/Christmas%20card%202022%20(Silvia,%20deutsch).png)
 
 - Mama & Papa - DONE
 - Angie & Chris - DONE

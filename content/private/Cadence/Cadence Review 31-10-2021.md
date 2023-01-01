@@ -79,7 +79,7 @@ Oh dear, my last message was about greatly improved coding skills and exercise. 
 Anyway, hello future self! I hope you found a way to get to know some people in Helsingborg and feel more at home there. It will probably not be the place that you stay in forever (will there ever be one?) but I'm sure it will be a place that feels good for a part of your life. Don't feel stressed about things you haven't achieved yet. Try to see other people's work as inspiration, rather than as a reminder that you don't do enough. Take work seriously, but make sure that at the end of the day you still have energy to do things for yourself. And just start something. Right now, I feel like I want to work on some design skills, like learning pixel art or doing a pattern design course. Who knows where it leads, but I will keep some kind of progress log to be able to look back and be proud and excited of all the things that I tried this year. I think that's the most important thing: try new things, even if you then realise it wasn't for you. Document the outcome, file it away and try the next thing. If there is something that fits you, deepen the knowledge. Just read more about it. Go to the library to find some books about it. Collect pictures of nice patterns. Make a database about edible fungi. Make a garden of projects on your personal website. 
 
 [Cadence](private/Cadence/Cadence.md)
-[Cadence Review](Cadence%20Review)
+[Cadence Review](private/Cadence/Cadence%20Review.md)
 [Cadence spring 2020](private/Cadence/Cadence%20spring%202020.md)
 [Cadence Review 02-11-2020](private/Cadence/Cadence%20Review%2002-11-2020.md)
 

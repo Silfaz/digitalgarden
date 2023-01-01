@@ -10,13 +10,13 @@ title: "Tempeh links"
 [Instagram @eattempeh](instagram.com/eattempeh)
 They incubate in food-grade, perforated LDPE bags.
 
-![](Pasted%20image%2020221219202156.png)
+![](projects/attachments/Pasted%20image%2020221219202156.png)
 
-![](Pasted%20image%2020221219202216.png)
+![](projects/attachments/Pasted%20image%2020221219202216.png)
 
-![](Pasted%20image%2020221219202223.png)
+![](projects/attachments/Pasted%20image%2020221219202223.png)
 
-![](Pasted%20image%2020221219202307.png)
+![](projects/attachments/Pasted%20image%2020221219202307.png)
 
 
 

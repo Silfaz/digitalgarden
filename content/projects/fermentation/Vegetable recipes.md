@@ -1,7 +1,7 @@
 ---
 title: "Vegetable (and some fruit) recipes"
 ---
-![](Pasted%20image%2020221219212911.png)
+![](projects/attachments/Pasted%20image%2020221219212911.png)
 
 
 ## Fermented daikon radish

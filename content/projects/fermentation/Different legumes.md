@@ -45,7 +45,7 @@ _Test: Gula ärtor (yellow peas), Gotland linser (lentils from Gotland), Lins An
 	6. White quinoa: **No soaking**. Rinse very thoroughly and cook for **9 min** in a lot of water. Fluffy and nice pop, slightly bitter, earthy taste, very voluminous.
 	7. Toor dal: **Soak over night**, cook for **10 min**. 
 
-![](Pasted%20image%2020221219200730.png)
+![](projects/attachments/Pasted%20image%2020221219200730.png)
 
 - Inoculation: Drain, add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**), mix and heat up in dry pan to remove moisture. Spread on clean tea towel and let dry a bit. Mix in a tub thoroughly with 1/4 tsp (**2 tsp/kg**) starter (_topcultures_). 
 - Growth: 
@@ -80,7 +80,7 @@ _Test: Gula ärtor (yellow peas), Gotland linser (lentils from Gotland), Lins An
 ![[projects/attachments/Pasted image 20220528095616.png]]
 
 ### Cooking
-See [Boil in soy-water](Different%20cooking%20methods.md#Boil%20in%20soy-water)
+See [Boil in soy-water](projects/fermentation/Different%20cooking%20methods.md#Boil%20in%20soy-water)
 
 
 ## Fava beans + additions (2020-09-30)
@@ -116,13 +116,13 @@ NB: The sesame seed mix developed immediately a very strong sulfurous smell (poo
 **63h**. Harvest. The sesame mix has slightly started to sporulate in the corner. Nicely colonised, but not super dense mycelium. The beans and seeds are very dense. Sesame seeds are very much collected on the bottom of the tub. Smell is good for all of them, nothing unpleasant or alcoholic.
 
 1. Fava beans + Toasted sesame seeds: Slightly bitter. Sesame taste comes through a little bit, but not too strong.
-![](Pasted%20image%2020221219201417.png)
+![](projects/attachments/Pasted%20image%2020221219201417.png)
 
 2. Fava beans + Sunflower seeds: Bit nutty.
-![](Pasted%20image%2020221219201512.png)
+![](projects/attachments/Pasted%20image%2020221219201512.png)
 
 3. Fava beans + Gotland lentils: Embedded lentils are nice since they stay intact; the rest is nicely chewy. Nice texture. Winner! (Although when tempeh is being boiled, the lentils tend to fall out quite a lot)
-![](Pasted%20image%2020221219201546.png)
+![](projects/attachments/Pasted%20image%2020221219201546.png)
 
 ## Test starter cultures - LUVI vs. Topcultures (2020-10-07)
 
@@ -136,11 +136,11 @@ NB: The sesame seed mix developed immediately a very strong sulfurous smell (poo
 
 **40h**: Topcultures is now also colonised, but not as much as the LUVI sample. 
 
-![](Pasted%20image%2020221219203258.png)
+![](projects/attachments/Pasted%20image%2020221219203258.png)
 
-![](Pasted%20image%2020221219203317.png)
+![](projects/attachments/Pasted%20image%2020221219203317.png)
 
-![](Pasted%20image%2020221219203418.png)
+![](projects/attachments/Pasted%20image%2020221219203418.png)
 
 ### Conclusions
 The Topcultures starter must have lost quite a lot of activity while stored at RT, from now on store all starter in the fridge (or freezer if larger batch)!
@@ -156,19 +156,19 @@ Unfortunately I stored the tempeh samples untreated in the fridge for 6 days and
 
 Cut in half and freeze one half immediately. Heat-treat the other half by wrapping in aluminium foil and baking in a **85°C oven for 30 min**. Then leave on the counter a bit to cool, put in a tub and store in the fridge.
 
-![](Pasted%20image%2020221219203738.png)
+![](projects/attachments/Pasted%20image%2020221219203738.png)
 
-![](Pasted%20image%2020221219203801.png)
+![](projects/attachments/Pasted%20image%2020221219203801.png)
 
-![](Pasted%20image%2020221219203820.png)
+![](projects/attachments/Pasted%20image%2020221219203820.png)
 
-![](Pasted%20image%2020221219203843.png)
+![](projects/attachments/Pasted%20image%2020221219203843.png)
 
 Cook 8 days later:
 
 Split into 4 pieces, let thaw (if frozen). No visual difference between frozen and heat-treated tempeh (other than that the not heat-treated one is slightly whiter). Slight difference in smell: frozen & thawed has fresh mushroomy smell, the heat-treated one smells mild and slightly stale.
 
-For details of cooking experiment, see [Boiled vs. non-boiled - toor dal and black bean tempeh](Different%20cooking%20methods.md#Boiled%20vs.%20non-boiled%20-%20toor%20dal%20and%20black%20bean%20tempeh)
+For details of cooking experiment, see [Boiled vs. non-boiled - toor dal and black bean tempeh](projects/fermentation/Different%20cooking%20methods.md#Boiled%20vs.%20non-boiled%20-%20toor%20dal%20and%20black%20bean%20tempeh)
 
 ## Black bean + fava bean mix
 
@@ -180,16 +180,16 @@ Mix both beans together, add 1.5 Tbsp vinegar (**4 Tbsp/kg**), mix, spread on ba
 
 **24h**: Harvest. Freeze one half immediately, heat-treat the other half immediately by wrapping in aluminium foil and baking at **85°C for 30 min**, then cool down and store in fridge.
 
-![](Pasted%20image%2020221219204646.png)
+![](projects/attachments/Pasted%20image%2020221219204646.png)
 
-![](Pasted%20image%2020221219204701.png)
+![](projects/attachments/Pasted%20image%2020221219204701.png)
 
 **Conclusions**: Good tempeh! No off notes at all. Very little sporulation, very good and fast mycelium growth. However, because of the relatively short incubation time, it tastes quite "fresh" and beany/starchy. Not chewy at all. Could be due to shorter time, more or less cooked beans, heat treatment or lack of boiling in soy-water. 
 
 
 Cook 8 days later:
 
-For details of cooking experiment, see [Boiled vs. non-boiled - toor dal and black bean tempeh](Different%20cooking%20methods.md#Boiled%20vs.%20non-boiled%20-%20toor%20dal%20and%20black%20bean%20tempeh)
+For details of cooking experiment, see [Boiled vs. non-boiled - toor dal and black bean tempeh](projects/fermentation/Different%20cooking%20methods.md#Boiled%20vs.%20non-boiled%20-%20toor%20dal%20and%20black%20bean%20tempeh)
 
 
 ## Fava beans + Gotland lentils - different incubation times (2020-10-28)
@@ -231,7 +231,7 @@ Very loose cake, falls apart when I try to lift it since the mycelium is not str
 
 Quite loose cake, not as loose as the black eyed peas, but almost. Falls apart when boiling in soy water. The chopping helped to have the mycelium grow better, but it's still not strong enough to hold the mostly whole beans together. Looks good with the black skins though.
 
-![](Pasted%20image%2020221219210824.png)
+![](projects/attachments/Pasted%20image%2020221219210824.png)
 
 `The chopping doesn't really remove the hulls at all and just an irregular picture. However, the whole beans (black eyed beans) were not penetrated well by the mycelium and the cake was very loose. Therefore, chopping might be necessary for bigger beans with a tough skin.`
 
@@ -266,11 +266,11 @@ LUVI grows fastest, very dense cake after 24h. Raprima only slightly less dense.
 
 Harvest LUVI and Raprima at 9:00 (**40h**) and Topcultures at 20:00 (**51h**). LUVI and Topcultures: 285g, Raprima 230g.
 
-![](Pasted%20image%2020221219211955.png)
+![](projects/attachments/Pasted%20image%2020221219211955.png)
 
 Store in fridge until the next day, then heat treat at **85c for 30 min**.
 
-![](Pasted%20image%2020221219212022.png)
+![](projects/attachments/Pasted%20image%2020221219212022.png)
 
 Smell of LUVI and Raprima is mild and very slightly alcoholic or yeasty, whereas Topcultures is a bit off and musty. Topcultures also has a few patches of bad growth.
 
@@ -282,7 +282,7 @@ Cut half of each cake into thick slices and boil in 400 mL water + 60 mL light s
 Fry the slices and taste.
 
 
-![](Pasted%20image%2020221219212102.png)
+![](projects/attachments/Pasted%20image%2020221219212102.png)
 
 
 All samples have a very similar consistency: chewy and juicy, but still with some beans inside, but not starchy! Yay! The toor dal has become more like a homogeneous mass that is nicely chewy and the black beans embedded in it give it a nice look and a nice change of texture, since they stayed a bit more beany.

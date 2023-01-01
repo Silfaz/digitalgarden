@@ -8,7 +8,7 @@ In dark copper cordoroy, linen or flexible canvas
 
 ### Joe Blazer (Ready to Sew)
 https://readytosew.fr/en/women-pdf/17-joe-blazer.html: A slim-fit tailored jacket with some classic features. The jacket is lined, partially interfaced and has princess seams. Details include welt pockets with flaps, two collar options and tailored sleeves.
-- [[Joe blazer pictures & fabric]]
+- [[projects/sewing/Joe blazer pictures & fabric]]
 
 ### Heather Blazer (Friday Pattern Company)
 https://fridaypatterncompany.com/products/heather-blazer-pdf-pattern: Unstructured, modern blazer. This comfortable and stylish jacket has a slightly oversized fit and can be worn in all seasons.

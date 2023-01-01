@@ -30,7 +30,7 @@
 - Have the ability and confidence to go on cartrips with Duncan, Laika and friends. Visit many places. 
 
 [Cadence](private/Cadence/Cadence.md)
-[Cadence Review](Cadence%20Review)
+[Cadence Review](private/Cadence/Cadence%20Review.md)
 [Cadence Review 02-11-2020](private/Cadence/Cadence%20Review%2002-11-2020.md)
 [Cadence Review 31-10-2021](private/Cadence/Cadence%20Review%2031-10-2021.md)
 

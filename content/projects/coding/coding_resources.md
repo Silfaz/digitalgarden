@@ -37,13 +37,13 @@ title: "Coding resources"
 
 
 ### p5.js
-[[p5.js basics]]
+[[projects/coding/p5.js basics]]
 
 [p5.js log](projects/coding/p5.md)
 
-[[p5.js projects]]
+[[projects/coding/p5.js projects]]
 
-[[p5.js resources]]
+[[projects/coding/p5.js resources]]
 
 
 ## Generative art / creative coding

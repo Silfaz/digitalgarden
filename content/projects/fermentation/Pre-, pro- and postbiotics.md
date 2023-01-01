@@ -2,7 +2,7 @@
 title: "Pre-, pro- and post-biotics"
 ---
 
-> _Symbiogenesis_ with thousands of different bacterial genes has decisively enriched the limited metabolic potential of eukaryotic organisms, accelerating and facilitating their adaptation much more than would have been achieved by random mutation alone. - _Microbiologists Sorin Sonea and Léo G. Mathieu in Sandor Katz's [[The Art of Fermentation]]_, [Quotes](Quotes.md)
+> _Symbiogenesis_ with thousands of different bacterial genes has decisively enriched the limited metabolic potential of eukaryotic organisms, accelerating and facilitating their adaptation much more than would have been achieved by random mutation alone. - _Microbiologists Sorin Sonea and Léo G. Mathieu in Sandor Katz's [[projects/books/The Art of Fermentation]]_, [Quotes](Quotes.md)
 
 
 ## Prebiotics

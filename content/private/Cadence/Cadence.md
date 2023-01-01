@@ -41,7 +41,7 @@ Instant reviews: Defaults
 
 
 
-[Cadence Review](Cadence%20Review)
+[Cadence Review](private/Cadence/Cadence%20Review.md)
 [Cadence spring 2020](private/Cadence/Cadence%20spring%202020.md)
 [Cadence Review 02-11-2020](private/Cadence/Cadence%20Review%2002-11-2020.md)
 [Cadence Review 31-10-2021](private/Cadence/Cadence%20Review%2031-10-2021.md)

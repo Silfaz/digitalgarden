@@ -17,7 +17,7 @@ Feel free to walk around and explore.
 
 ### [Fermentation](projects/fermentation/01%20fermentation_main.md)
 
-### [Sewing](projects/sewing/sewing_main.md)
+### [Sewing](projects/sewing/01%20sewing_main.md)
 
 ### [Coding](projects/coding/01%20coding_main.md)
 [The fantastical street names of Gothenburg](https://silfaz.github.io/gbgclusters/)
