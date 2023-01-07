@@ -49,12 +49,3 @@ I like the concise description about each book read, and that it's not just a co
 https://melanie-richards.com/blog/
 Very simple design, similar to her projects page. I like the monthly Learning log, with lists of interesting articles, things she came across, etc. I might steal this to collect my finds and projects in a chronological way. 
 
-
-## Projects to put into the garden
-- Sewing
-- Fermentation
-- Digital art/generative art/coding/maps/dataviz
-- Books and tiny reviews
-- Meals and recipes (incl. vegan baking, meal plan generator, meal plan template, etc.)
-- Inspirational things
-- Climate action

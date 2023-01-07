@@ -38,6 +38,7 @@ Feel free to walk around and explore.
 ### [Quotes](Quotes.md)
 
 
+[_What is a digital garden?_](digital%20garden/What%20is%20a%20digital%20garden.md)
 
 ----
 Silvia Hüttner, [@silfaz](https://www.instagram.com/silfaz/)
