@@ -29,7 +29,7 @@ Feel free to walk around and explore.
 
 ## Other
 
-### [Learning log](blog/Disovery,%20learning%20and%20activity%20log.md)
+### [Disovery, learning and activity log](blog/Disovery,%20learning%20and%20activity%20log.md)
 
 ### [Books](projects/books/books_main.md)
 

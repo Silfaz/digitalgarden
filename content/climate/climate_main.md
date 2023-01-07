@@ -13,7 +13,7 @@ Thoughts on [personal action](climate/Personal%20action.md)
 
 [[How to blow up a pipeline]]
 
-[Stop raising awareness already](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#an-overview-of-static-webpage-development)
+[Stop raising awareness already](https://ssir.org/articles/entry/stop_raising_awareness_already)
 >(...) labeling certain fish as ecofriendly had little effect on most consumers. The labels did not diminish the demand for overfished seafood. In fact, the only people who were found to be influenced by the labels already belonged to environmental organizations.
 
 >To move the needle on the issues we care about the most, research and experience both show that we must define actionable and achievable calls to action **that will lead a specific group of people to do something they haven’t done before**.
