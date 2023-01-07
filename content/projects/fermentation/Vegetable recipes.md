@@ -3,64 +3,6 @@ title: "Vegetable (and some fruit) recipes"
 ---
 ![](projects/attachments/Pasted%20image%2020221219212911.png)
 
-
-## Fermented daikon radish
-[https://www.fermentingforfoodies.com/fermented-radishes-for-a-delicious-snack/](https://www.fermentingforfoodies.com/fermented-radishes-for-a-delicious-snack/)
-- Daikon radish
-- Beetroot (optional)
-- 2 cups (473 mL) of water + 2 tsp (12 g) of salt = **2.5 g salt per 100 mL water**
-
-Wash, peel and slice large daikon radish into 1 cm thick slices. Pack into a jar, together with a few slices of beetroot if you want a pink colour. NB: the beet root will make everything nicely pink, but also give everything an earthy, beety note.
-
-Mix 2 cups of water with 2 tsp of salt. Fill up the jar with the vegetables and weigh down so the vegetables are under the liquid. With a loose lid, keep at RT for 3-5 days and observe fermentation. Taste regularly. When sour enough, store in the fridge.
-
-## Japanese pickled cucumbers
-[https://okonomikitchen.com/japanese-pickled-cucumbers/](https://okonomikitchen.com/japanese-pickled-cucumbers/), adapted
-
-_Very good and quick to make! Not fermented, but pickled. Tasty with rice or on sandwiches. Almost obscenely umami, because it contains so much soy sauce. You can also add bell pepper to the cucumber (or other similar vegetables)._
-
-- 500g cucumber
-- 1 tsp salt
-- 150g soy sauce
-- 1 Tbsp rice vinegar
-- 40g sugar
-- 30g ginger
-- 1 red chili pepper
-
-Chop cucumber into 1 cm thick slices. Mix with salt in a bowl and let sit for 30 min.
-
-Finely slice ginger and chili. Add to soy sauce, vinegar and sugar in a saucepan. Heat up and simmer until the sugar has dissolved. Pour out the cucumber water and press a bit, then pat the slices a bit dry with a paper towel. Add to the saucepan with the soy sauce mix. Let simmer for 5 min, then let cool down. Fill into a jar and store in the fridge. Consume within approx. 10 days.
-
-## Curtido Rojo
-Shockey “Fermented vegetables”, p121
-
-- 1/2 head of cabbage (red or green), finely sliced
-- 1 beet, peeled and shredded
-- 115 g green beans, sliced in 1 cm pieces
-- 2 cloves garlic, minced
-- 1 fresh jalapenos, seeded and minced
-- 1/2 tablespoon cumin seed
-- 1/2 tablespoon grated orange or lime zest
-- 1/2 tablespoon dried oregano
-- 1/4 teaspoon red chili flakes
-- 1 tablespoons unrefined sea salt
-- 2 bay leaves
-- Optional: 1 carrot, thinly sliced
-- Optional: 1 onion, thinly sliced
-
-Massage the salt and spices into the cabbage and vegetables, like for Sauerkraut. When the brine has developed and is ready to pack, lay the bay leaves in the bottom of a approx. 2 L vessel, pack tightly.
-
-## Beet kvass
-Shockey “Fermented vegetables”, p125
-- 700 g beets, peeled
-- 950 mL water
-- 2 teaspoons salt
-
-Chop the beets into 1 cm pieces and but them in a 2 L vessel. Add water to fill and mix in the salt. Cover loosely. Set aside on a baking sheet to ferment, out of direct sunlight, in a cool spot for 5-7 days, stirring daily.
-
-Start tasting the liquid on day 5. If you want something more like a vinegar, ferment for 1 week longer.
-
-
 ## Vietnamese pickled carrot and daikon
 Shockey, “Fermented vegetables”, p150
 
@@ -219,6 +161,61 @@ Basic **3%** vegetable brine: 1000 mL water + 30 g salt
 
 Cut peppers into bite-sized chunks. Arrange vegetables in jar and fill up with brine until everything is covered. Top off with 1 vine leaf and weigh down so everything's submerged. Leave at room temperature for a 7-14 days. When it has a nice pickel-y taste, it's ready for eating (or storing in the fridge).
 
+## Fermented daikon radish
+[https://www.fermentingforfoodies.com/fermented-radishes-for-a-delicious-snack/](https://www.fermentingforfoodies.com/fermented-radishes-for-a-delicious-snack/)
+- Daikon radish
+- Beetroot (optional)
+- 2 cups (473 mL) of water + 2 tsp (12 g) of salt = **2.5 g salt per 100 mL water**
+
+Wash, peel and slice large daikon radish into 1 cm thick slices. Pack into a jar, together with a few slices of beetroot if you want a pink colour. NB: the beet root will make everything nicely pink, but also give everything an earthy, beety note.
+
+Mix 2 cups of water with 2 tsp of salt. Fill up the jar with the vegetables and weigh down so the vegetables are under the liquid. With a loose lid, keep at RT for 3-5 days and observe fermentation. Taste regularly. When sour enough, store in the fridge.
+
+## Japanese pickled cucumbers
+[https://okonomikitchen.com/japanese-pickled-cucumbers/](https://okonomikitchen.com/japanese-pickled-cucumbers/), adapted
+
+_Very good and quick to make! Not fermented, but pickled. Tasty with rice or on sandwiches. Almost obscenely umami, because it contains so much soy sauce. You can also add bell pepper to the cucumber (or other similar vegetables)._
+
+- 500g cucumber
+- 1 tsp salt
+- 150g soy sauce
+- 1 Tbsp rice vinegar
+- 40g sugar
+- 30g ginger
+- 1 red chili pepper
+
+Chop cucumber into 1 cm thick slices. Mix with salt in a bowl and let sit for 30 min.
+
+Finely slice ginger and chili. Add to soy sauce, vinegar and sugar in a saucepan. Heat up and simmer until the sugar has dissolved. Pour out the cucumber water and press a bit, then pat the slices a bit dry with a paper towel. Add to the saucepan with the soy sauce mix. Let simmer for 5 min, then let cool down. Fill into a jar and store in the fridge. Consume within approx. 10 days.
+
+## Curtido Rojo
+Shockey “Fermented vegetables”, p121
+
+- 1/2 head of cabbage (red or green), finely sliced
+- 1 beet, peeled and shredded
+- 115 g green beans, sliced in 1 cm pieces
+- 2 cloves garlic, minced
+- 1 fresh jalapenos, seeded and minced
+- 1/2 tablespoon cumin seed
+- 1/2 tablespoon grated orange or lime zest
+- 1/2 tablespoon dried oregano
+- 1/4 teaspoon red chili flakes
+- 1 tablespoons unrefined sea salt
+- 2 bay leaves
+- Optional: 1 carrot, thinly sliced
+- Optional: 1 onion, thinly sliced
+
+Massage the salt and spices into the cabbage and vegetables, like for Sauerkraut. When the brine has developed and is ready to pack, lay the bay leaves in the bottom of a approx. 2 L vessel, pack tightly.
+
+## Beet kvass
+Shockey “Fermented vegetables”, p125
+- 700 g beets, peeled
+- 950 mL water
+- 2 teaspoons salt
+
+Chop the beets into 1 cm pieces and but them in a 2 L vessel. Add water to fill and mix in the salt. Cover loosely. Set aside on a baking sheet to ferment, out of direct sunlight, in a cool spot for 5-7 days, stirring daily.
+
+Start tasting the liquid on day 5. If you want something more like a vinegar, ferment for 1 week longer.
 
 ## Sauerkraut
 ### Mama's Sauerkraut (Tupperware)

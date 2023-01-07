@@ -19,12 +19,12 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 
 
 ## Vegetables fermentations 🥕🥬🌶️
-- [Vegetable fermentation notes](projects/fermentation/Vegetable%20fermentation%20notes.md)
 - [Vegetable recipes](projects/fermentation/Vegetable%20recipes.md)
 - [Fermented vegetable production](projects/fermentation/Fermented%20vegetable%20production.md)
 
 > Myriad beings beneath my sight, thank you for your transformations. May you nourish me as I nourish you. May you thrive in me as I thrive on earth. In all the worlds may nourishment follow hunger as the echo follows the call. - _Kraut Prayer by Eli Brown, from [The Art of Fermentation](projects/books/The%20Art%20of%20Fermentation.md) (Sandor Katz)_, [Quotes](Quotes.md)
 
+- [Vegetable fermentation notes](projects/fermentation/Vegetable%20fermentation%20notes.md)
 
 ## Dairy- and plant-based milk fermentations 🥛🌾
 - [Dairy fermentation notes](projects/fermentation/Dairy%20fermentation%20notes.md)
