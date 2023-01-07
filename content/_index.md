@@ -2,7 +2,7 @@
 title: "🪴 Digital Garden"
 ---
 
-This is my digital garden, a place that is never finished and always growing. It reflects some of my past, current and future interests, projects, inspirations, and collections. 
+This is my digital garden, a place that is never finished and always growing. It reflects some of my past, current and future interests, projects, and inspirations. Not a complete resource, more of a collection of notes, a documentation of experiments, a second brain. 
 
 Feel free to walk around and explore. 
 
