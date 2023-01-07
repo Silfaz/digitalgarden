@@ -30,13 +30,6 @@ Planned episode:
 _Fungi collection in Industrial Biotechnology, Chalmers University of Technology, 2016. (Credit: Silvia Hüttner)_
 
 
-## Fungi inspiration
-
-
-## Fungi books
-[[Mycelium running]]
-[The Mushroom at the End of the World](The%20Mushroom%20at%20the%20End%20of%20the%20World)
-
 
 ## Fungi news
 - [Meat substitute from Aspergillus](fungi/Meat%20substitute%20from%20Aspergillus.md)
