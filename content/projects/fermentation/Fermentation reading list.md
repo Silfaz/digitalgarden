@@ -7,6 +7,8 @@ title: "Fermentation reading list"
 - Genomics of Lactic Acid Bacteria. Joel Schroeter, Todd Klaenhammer. _FEMS Microbiology Letters 292(1):1 (2008)_
 - The Importance of Traditional Fermented Foods. C. W. Hesseltine, Hwa L. Wang. _BioScience 30(6):402 (1980)_
 - ![# Yogurt-Like Beverages Made With Cereals. Coda et al., 2017](coda2017%201.pdf)
+- https://www.mdpi.com/2072-6643/14/22/4828 Effects of Fermentation Time and Type of Tea on the Content of Micronutrients in Kombucha Fermented Tea. Karolina Jakubczyk et al., 2022. Nutrients. 
+- 
 
 
 

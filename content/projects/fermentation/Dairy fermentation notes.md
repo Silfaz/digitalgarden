@@ -1,6 +1,47 @@
 ---
 title: "Dairy fermentation notes"
 ---
+## Fermented milk products
+https://dairyprocessinghandbook.tetrapak.com/chapter/fermented-milk-products
+
+- Milk is inoculated with starter culture that converts (part of) the lactose into lactic acid. Depending on type of lactic acid bacteria (LAB), in addition CO2, acetic acid, diacetyl, acetaldehyate, ethanol and other substances can also be formed --> gives the final product its distinct taste. 
+- For production of fermented milk products, the best possible growth conditions must be created for the starter culture: 
+	- Heat treatment to destroy competing microorganisms
+	- Hold milk at optimum temperature for the relevant starter cutlure. 
+	- Cool product quickly once best flavour has been achieved. 
+- In today's industrial production, milk solid (milk solid no fat - MSNF) content is usually adjusted. 
+
+### Yogurt
+- Depending on region, can be highly viscous liquid, soft gel, or drink. 
+	- Set-type: Incubated and cooled in package.
+	- Stirred type: Incubated in tanks, cooled, packaged. 
+	- Drinking type: Similar to stirred type, but coagulum is broken down to liquid before packing.
+	- Concentrated/strained: Incubated in tanks, concentrated (i.e. whey removed), packaged.
+- Volatile aromatic substances include acetic acid and acetaldehyde.
+- May have a fat content of 0-10%, most typical is 0.5-3.5%. 
+
+#### Milk standardization
+Dry matter (DM) content is standardized by:
+- Evaporation
+- Addition of skim milk or protein powder
+- Addition of milk concentration
+- Ultrafiltration or reverse osmosis
+
+#### De-aeration
+Air content should be as low as possible (LAB are facultative anaerobic). In addition de-aeration improves stability, removes off flavours and reduces risk of fouling during heat treatment. 
+
+#### Homogenization
+Generally done at 20-25 MPA and 65-70C. Improves viscosity of final product and prevents creaming. 
+
+#### Heat treatment
+Before inoculation, usually 90-95C for 5 min. Denatures about 70-80% of the whey proteins (mainly beta-lactoglobulin), which then interacts with the kappa-casein to form a stable body. 
+
+#### Choice of culture
+Different mouth thickness, gel firmness, acidity, fermentation time, post acidification. 
+
+In industrial dairy yogurt production, fermentation time is 4-5 hours at 42-43C, and pH will reach 4.2-4.5 in the end.  Then cooling to below 20C to stop fermentation. 
+
+
 
 ## Recipes
 

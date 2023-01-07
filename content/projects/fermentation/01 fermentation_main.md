@@ -5,7 +5,7 @@ title: "Fermentation projects"
 Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and in many cases fermentation generates additional nutrients or **removes anti-nutrients** or toxins. This is also true for ferments that have been heated. Ferments with **live (lactic-acid producing) bacteria** intact are especially supportive of digestive health, immune function, and general well-being. And of course ferments **taste delicious** and add interesting flavours and textures. 
 
 
-> To ferment your own food is a declaration of independence from an economy that would much prefer we were all passive consumers of its commodities, rather than creators of unique products expressive of ourselves and the places we live in. Because your sauerkraut or homebrew will be nothing like mine or anyone else's. - _Michael Pollan in the forword of Sandor Katz's [The Art of Fermentation](projects/books/The%20Art%20of%20Fermentation.md), [Quotes](Quotes.md)
+> To ferment your own food is a declaration of independence from an economy that would much prefer we were all passive consumers of its commodities, rather than creators of unique products expressive of ourselves and the places we live in. Because your sauerkraut or homebrew will be nothing like mine or anyone else's. - _Michael Pollan in the forword of Sandor Katz's [The Art of Fermentation](projects/books/The%20Art%20of%20Fermentation.md), [Quotes](Quotes.md)_
 
 
 > **Culture**: noun, 1. Starter that initiates fermentation. 2. The totality of all that humans seek to pass from generation to generation. - _Paraphrased, from [The Art of Fermentation](projects/books/The%20Art%20of%20Fermentation.md) (Sandor Katz)_
@@ -48,3 +48,4 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 
 ## Drinks
 - [Kombucha](projects/fermentation/Kombucha.md)
+- [[Kombucha cultures]]
