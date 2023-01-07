@@ -31,6 +31,7 @@ See also [Personal canon](private/Cadence/Personal%20canon.md), [Cadence Review]
 - Serve smaller portions and don't over eat.
 - Limit snacking to right after meals. 
 - Aim for 3x 20 min on exercise bike per week.
+- Book health check.
 
 
 ## Community

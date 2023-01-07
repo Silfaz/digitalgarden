@@ -27,7 +27,7 @@ _Barley miso made with barley koji has a lighter taste than rice miso made with 
 
 
 ### Bread koji
-See [Koji recipes - Bread aminos](Koji recipes#Bread aminos)
+See [Bread aminos](projects/fermentation/Koji%20recipes.md#Bread%20aminos)
 
 
 ### Rice koji
@@ -67,6 +67,9 @@ More prone to overheating! Nutty chestnut aroma when done. Will look less fuzzy 
 5. Incubate at 30C, check internal temperature every few hours (should be 27-35C).
 6. After 24-36h, surface growth and sweet, mushroomy smell. Monitor heat closely, stir and break up lumps, make furrows to dissipate heat. Adjust moisture if needed.
 7. After about **40 h total**, incubation is done.
+
+### Koji from LUVI
+(500g), Grind in mixer to powder. Add 200g water and mix to reconstitute = 700g fresh koji.
 
 
 ## Shoyus and aminos
@@ -155,6 +158,11 @@ Made 2021-10-16 [Oat residue aminos](Oat residue aminos)
 7. After about 2 weeks at RT in the open glass jar, divide between small plastic tubs with screw-top lids, fill completely to the brim and seal. Now leave at RT for up to 12 months.
 8. Strain away the solids and filter the liquid. Store in fridge until use. Use as flavouring agent when cooking.
 
+### Shio koji
+(1-2 weeks), Shockey
+- 250g (125g) rice koji
+- 50g (25g) salt
+- 470-705mL (235-352mL) water
 
 ## Misos
 ### Barley + fava miso
@@ -162,4 +170,35 @@ Made 2021-10-16 [Oat residue aminos](Oat residue aminos)
 2. Prepare barley koji (**48ish h**). Grind up equal amounts of fava and barely koji and mix with salt (10-ish%?). Put in jar, cover and leave for 6 months.
 
 
+### Sweet white miso
+(3-5 weeks), Shockey
+- 175g (87.5g) soybeans
+- 600g (300g) rice koji
+- 42g (21g) salt
+- 16g (8g) seed miso
 
+Made in 2020. Turned out very good. Quite salty, but delicious. Quite straight flavour.
+
+
+### Light miso
+(6-12 months), Shockey
+- 350g (175g) soybeans
+- 440g (220g) rice koji
+- 135g (67.5g) salt
+- 16g (8g) seed miso
+
+### Chickpea miso
+(2 months), Shockey
+- 350g (175g) chickpeas
+- 440g (220g) rice koji
+- 150g (75g) salt
+- 16g (8g) seed miso
+
+
+### Favabean miso
+(10 days), [umami-chef.co.uk](http://umami-chef.co.uk)
+- 500g fava beans
+- 200g koji
+- 62g salt
+
+Soak beans o/n. Boil and simmer until soft.

@@ -30,3 +30,7 @@ Thoughts on [personal action](climate/Personal%20action.md)
 https://www.newweather.se/hem1
 Badvertising. Reports about flying, bilism, etc. 
 
+
+## Circular cities
+[Link list circular cities](climate/Link%20list%20circular%20cities.md)
+

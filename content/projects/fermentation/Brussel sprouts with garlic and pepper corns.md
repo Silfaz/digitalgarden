@@ -22,5 +22,9 @@ _Conclusion:_ Taste is delicious, especially after a few days/weeks in the fridg
 
 
 
+_Made: 2022-12-24_
 
-
+I followed the recipe above, but split the sprouts into three jars:
+- + peppercorns and green chilies
+- + Nigella seeds
+- + pul biber (Aleppo pepper)

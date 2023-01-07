@@ -80,7 +80,7 @@ _Test: Gula ärtor (yellow peas), Gotland linser (lentils from Gotland), Lins An
 ![[projects/attachments/Pasted image 20220528095616.png]]
 
 ### Cooking
-See [Boil in soy-water](projects/fermentation/Different%20cooking%20methods.md#Boil%20in%20soy-water)
+See [Boil in soy-water](projects/fermentation/Tempeh%20cooking%20methods.md#Boil%20in%20soy-water)
 
 
 ## Fava beans + additions (2020-09-30)
@@ -168,7 +168,7 @@ Cook 8 days later:
 
 Split into 4 pieces, let thaw (if frozen). No visual difference between frozen and heat-treated tempeh (other than that the not heat-treated one is slightly whiter). Slight difference in smell: frozen & thawed has fresh mushroomy smell, the heat-treated one smells mild and slightly stale.
 
-For details of cooking experiment, see [Boiled vs. non-boiled - toor dal and black bean tempeh](projects/fermentation/Different%20cooking%20methods.md#Boiled%20vs.%20non-boiled%20-%20toor%20dal%20and%20black%20bean%20tempeh)
+For details of cooking experiment, see [Boiled vs. non-boiled - toor dal and black bean tempeh](projects/fermentation/Tempeh%20cooking%20methods.md#Boiled%20vs.%20non-boiled%20-%20toor%20dal%20and%20black%20bean%20tempeh)
 
 ## Black bean + fava bean mix
 
@@ -189,7 +189,7 @@ Mix both beans together, add 1.5 Tbsp vinegar (**4 Tbsp/kg**), mix, spread on ba
 
 Cook 8 days later:
 
-For details of cooking experiment, see [Boiled vs. non-boiled - toor dal and black bean tempeh](projects/fermentation/Different%20cooking%20methods.md#Boiled%20vs.%20non-boiled%20-%20toor%20dal%20and%20black%20bean%20tempeh)
+For details of cooking experiment, see [Boiled vs. non-boiled - toor dal and black bean tempeh](projects/fermentation/Tempeh%20cooking%20methods.md#Boiled%20vs.%20non-boiled%20-%20toor%20dal%20and%20black%20bean%20tempeh)
 
 
 ## Fava beans + Gotland lentils - different incubation times (2020-10-28)
@@ -212,22 +212,24 @@ Fry and taste.
 
 **48h incubation samples**: Browns the best. Nice flavours, a bit more interesting. Bit dry and the fried lentils on the surface got quite (too?) crunchy.
 
-### Conclusions:
+### Conclusions
 Overall, 24h sample falls apart too much and doesn't really taste of tempeh, just of lentils and beans. 36h and 48h are very close with 48h being slightly better. 36h tastes of several things, whereas 48h has a more rounded flavour profile. Both have kept a "healthy" tasting texture, i.e. more beans and lentils than meaty. Interesting since I'm sure earlier tempeh trials that resulted in very chewy-juicy tempeh were also incubated for 36-48h. Must be either the starter, the beans (e.g. soybeans) or the "suboptimal" incubation conditions in the fridge cupboard that cause the different texture. Both the 36h and 48h ones would be suitable for restaurants, whereas e.g. for a burger you'd want something chewier and juicier.
 
 `Run some more trials with different conditions and beans to see when I get a juicier texture vs. a beanier-healthier texture.`
 
 
-## Black eyed beans & black beans
+## Black eyed beans & black beans (2020-11-05)
 
 Soak for 24h: 125g black eyed beans, 125g black beans (from Fram).
 
-**Black-eyed beans**: Use as they are, don't try to dehull. Change water and cook for **5 min**, then they are nicely done (almost too much maybe). Drain, add 0.5 Tbsp vinegar (**4 Tbsp/kg**), let dry in oven at 40°C. Mix in 1/4 tsp LUVI starter (**2 tsp/kg**), fill in bag and incubate in oven at 30°C (start: 21:00). Turn off oven at 22:00 (after 25h) and leave at RT until 12:00. Total incubation: **39h**. 
+#### Black-eyed beans
+Use as they are, don't try to dehull. Change water and cook for **5 min**, then they are nicely done (almost too much maybe). Drain, add 0.5 Tbsp vinegar (**4 Tbsp/kg**), let dry in oven at 40°C. Mix in 1/4 tsp LUVI starter (**2 tsp/kg**), fill in bag and incubate in oven at 30°C (start: 21:00). Turn off oven at 22:00 (after 25h) and leave at RT until 12:00. Total incubation: **39h**. 
 
 Very loose cake, falls apart when I try to lift it since the mycelium is not strong enough to hold the whole beans together. Would've been probably better to chop the beans a bit, and the skin is possibly also too tough for the fungus to penetrate properly. It also looks a bit unpleasant, since the black spots look like spore formation through the white mycelium.
 
 
-**Black beans**: Chop in food processor, 2-3 pulses. Rinse and boil for 2 min. (I could've probably treated the black beans like the black-eyed beans, i.e. not chopping or dehulling, and cooking for 5 min). Drain, add 0.5 Tbsp vinegar (**4 Tbsp/kg**), let dry in oven at 40°C. Mix in 1/4 tsp LUVI starter (**2 tsp/kg**), fill in bag and incubate in oven at 30°C (start: 21:00). Turn off oven at 22:00 (after 25h) and leave at RT until 12:00. Total incubation: **39h**. 
+#### Black beans
+Chop in food processor, 2-3 pulses. Rinse and boil for 2 min. (I could've probably treated the black beans like the black-eyed beans, i.e. not chopping or dehulling, and cooking for 5 min). Drain, add 0.5 Tbsp vinegar (**4 Tbsp/kg**), let dry in oven at 40°C. Mix in 1/4 tsp LUVI starter (**2 tsp/kg**), fill in bag and incubate in oven at 30°C (start: 21:00). Turn off oven at 22:00 (after 25h) and leave at RT until 12:00. Total incubation: **39h**. 
 
 Quite loose cake, not as loose as the black eyed peas, but almost. Falls apart when boiling in soy water. The chopping helped to have the mycelium grow better, but it's still not strong enough to hold the mostly whole beans together. Looks good with the black skins though.
 
@@ -289,5 +291,122 @@ All samples have a very similar consistency: chewy and juicy, but still with som
 
 **LUVI tastes best, no off flavours, mild notes. Topcultures also tastes nice. However, Raprima has an unpleasant off-flavour!** `—> Maybe it was over-fermented, or the 32°C were too high?? Test again by keeping everything else exactly the same but with lower temperature and take different time samples.` It was quite long fermented (40-50h!), because I turned off the heating during the nights, which is not ideal.
 
-**Definitely keep the long cooking time for the black beans and don't bother chopping or dehulling**. However, mash a small part of it with a fork, I think that definitely helped for growth.
+**Definitely keep the long cooking time for the black beans and don't bother chopping or dehulling**. However, mash a small part of it with a fork, that definitely helped for growth.
+
+
+## Compare different incubation times (28h & 40h); black beans and Toor dal (2020-11-18)
+**Toor dal**: 90 g, rinse and soak o/n, cook for **10 min**. `The beans are quite soft, probably overcooked —> mix with the black beans to balance that.`
+Drain and let cool down, add a bit less than 0.5 Tbsp apple cider vinegar (**4 Tbsp/kg**) and mix.
+
+**Black beans**: 125g, rinse and soak o/n, cook for **45 min**. Drain and let cool down. Add 0.5 Tbsp apple cider vinegar (**4 Tbsp/kg**) and squash some beans with a fork to create some easily available starch for the fungi colonisation.
+
+Mix toor dal and black beans together, add 1/4 tsp Raprima starter, fill in bag, incubate at 30°C in the oven. Start: 17:00.
+
+**21h**: Turn off the oven and let incubate for another 7 hours. 
+
+**28h**: Harvest 2/3 of the block and freeze immediately. 
+
+**40h**: Harvest the rest and freeze immediately. 
+
+Both blocks look amazing with dense white mycelium and nicely embedded beans, smell mild and nice, no ammonia smell, uniform. The 40h block has a very thick white mycelium layer all around, no sporulation visible at all.
+
+
+## Fava beans with salt, grey peas (2020-11-24)
+**Favabeans**:  Different kind this time, they look rounder and less fragmented. Ville picked them up directly from Marcus (18 SEK/kg). Soak o/n, cook for **4 min**. Add **1/2 tsp** to the cooking water so that the salt is just about tastable. The cooked beans taste nice and the salt definitely improves the taste. Add 1/2 Tbsp (4 Tbsp/kg) apple cider vinegar and let dry in 30°C oven
+
+**Grey peas**: From Ville. Soak o/n, cook for **10 min**. Add 1/2 Tbsp (**4 Tbsp/kg**) apple cider vinegar and let dry in 30°C oven. Squash a few peas with a fork to provide starting material for fungus.
+
+Mix each bean portion with 1/4 tsp Raprima starter (**2 tsp/kg**), then incubate at 30°C in the oven. Start: 13:00.
+
+**24h**: Favabean cake is nicely dense and has 35°C, so take out of the oven and let incubate at RT for another 5h (=29h). Store in fridge for 2 days. Grey pea cake is still somewhat loose, so incubate for another 24h (=48h). Store in fridge for 1 day.
+
+### Conclusion
+Favabenas worked really well and they make a nice, slightly chewy tempeh. They salt improved the taste a little bit, but not really enough to make it worth losing a bit of viability. Grey peas didn't work at all, the tempeh is very loose, barely holds together and in between the peas it has actually started to sporulate. Throw away! `—> Salt addition is not really worth it for the taste, better to boil or marinate afterwards. Grey peas don't work at all if they are not dehulled and split!`
+
+
+
+
+
+
+
+## Red quinoa burgers (2020-11-27)
+
+**Red quinoa**: Garant, 125g. Wash thoroughly. Boil in 2-3x as much water for **15 min**, then drain, add 0.5 Tbsp (**4 Tbsp/kg**) apple cider vinegar, spread on baking tray, let dry in oven. Add 1/4 tsp Raprima starter (**2 tsp/kg**), fill into small glass jars. Incubate in 30°C oven.
+
+**24h**: Turn off the heat, then leave for another 22h (=**44h)**. 
+
+![](projects/attachments/Pasted%20image%2020230106113226.png)
+
+### Conclusion
+Very nice and dense cake. Need a lot of air, so good to incubate in open dish. Turn off heat quite early, it produces a lot of heat.
+
+
+
+## Toor dal + black bean, Fava bean + black bean (2020-12-01)
+
+**Toor dal**: 250g, rinse and soak o/n, cook for **10 min**. Drain and let cool down, add 1 Tbsp apple cider vinegar (4 Tbsp/kg) and mix. Dry in oven at 30°C. Add 1/2 tsp (2 tsp/kg) of Raprima starter, mix.
+
+**Black beans**: 250g, rinse and soak o/n, cook for **45 min**. Drain and let cool down, add 1 Tbsp apple cider vinegar (4 Tbsp/kg) and mix. Dry in oven at 40°C. Add 1/2 tsp (2 tsp/kg) of Raprima starter, mix.
+
+**Fava beans**: 250g, rinse and soak o/n, cook for **10 min**. `Much too long, should've been 3-4 min only! They are quite mushy and fragmented.` Drain and let cool down, add 1 Tbsp apple cider vinegar (4 Tbsp/kg) and mix. Dry in oven at 40°C. Add 1/2 tsp (2 tsp/kg) of Raprima starter, mix.
+
+Mix toor dal with half of black beans (cooked weight: 225g). Mix favabeans with half of black beans (cooked weight: 225g). Then fill in bags (new bags ordered from Fyndiq: Zip bag 16x12cm, PE-LD): **300g** are a good amount to completely fill the bag and get a nice thick cake. Total: 4x300g and a small bag with the rest of all beans mixed (150g) (i.e. 750g dry beans made 1350g wet beans/tempeh).
+
+Incubate in oven at 30°C (start: 17:00).
+
+**21h**: Fava beans + black beans grew very fast (faster than the other mix) and also got hotter, so remove from oven and leave at RT for a few more hours (=24h in total). 
+
+**28h**: Harvest fava beans + toor dal.
+
+### Heat treatment
+In the bags (LD-PE has a melting point of >105°C), wrap them in aluminium foil and leave at 85°C for 30 min, then they were still only 55°C on the surface, so I left them for another approx. 1h (so **1.5h** in total). Then the cakes had shrunk a bit and become a bit soft, so maybe I overdid it. They kept in the fridge for more than 2 weeks though, without a negative effect on taste!
+
+
+### Conclusion
+Very nice dense cakes, but the thickness of the cakes made them VERY hot during incubation (>45°C!) and that's probably why they tasted a bit "ripe". Not inedible, but not ideal (in my opinion, Duncan doesn't care that much). `—> Don't fill the bags quite as full, 250g is probably enough to get a nice thickness.`
+
+Heat-treated in the bag worked fine.
+
+![](projects/attachments/Pasted%20image%2020230106115308.png)
+
+
+
+## Black bean, Adzuki bean, fava bean
+**Fava bean**s: From Ville (the rounder kind, dehulled). 250g, soak o/n. Cook for **2.5 min**. After cooking and drying: 430g (=1.7x). Add 1 Tbsp apple cider vinegar (4 Tbsp/kg). Add 1/2 tsp Raprima starter (2 tsp/kg). 
+
+**Black beans**: From Kville Indian Shop. 125g, soak o/n, cook for 45 min without dehulling. After cooking and drying: 243 (=1.8x). Add 1/2 Tbsp apple cider vinegar (4 Tbsp/kg). Add 1/4 tsp Raprima starter (2 tsp/kg).
+
+**Soy beans**: From Kville Indian shop. 250g, soak o/n, roughly dehull part of it, cook for **45 min**. After cooking and drying: 500 (=2x). Add 1 Tbsp apple cider vinegar (4 Tbsp/kg). Add 1/2 tsp Raprima starter (2 tsp/kg).
+
+**Adzuki beans**: From rawfoods.se. 125g, soak o/n, cook for **8 min** without dehulling. They lose a bit of the nice red colour, but are still pretty. After cooking and drying: 227 (=1.8x). Add 1/2 Tbsp apple cider vinegar (4 Tbsp/kg). Add 1/4 tsp Raprima starter (2 tsp/kg).
+
+Put at 30°C in oven, start temperature of all bags: 27°C.
+
+**17h**: Turn oven off for a while, since all cakes are at 35°C.
+
+**21h**: Take soybeans out (36°C) to incubate a little longer on countertop. Leave the others (31-33°C) in the oven and turn on the oven again to 30°C.
+
+**26h**: Harvest and heat treat in plastic bags wrapped in aluminium foil, for 45 min at 85°C. 
+
+### Conclusion
+This incubation was too rapid and the tempeh tasted a bit ripe. 
+
+## Soy bean + oat residue tempeh (2022-01-27)
+**Soy beans**: 250 g. Soak o/n, cook for 45 min, then drain and dry off a bit. Add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**). Add 1/2 tsp Raprima starter (**2 tsp/kg**).
+
+**Oat residue**: Leftovers from oat milk production, about 30% moisture. Stored in freezer until use. Microwave for a few minutes to kill off microbes. 
+
+Soy bean + oat residue tempeh: Mix inoculated soy beans 1:1 with oat residue. Incubate in warm oven. Periodically turn oven on and off and open door, depending on temperature of tempeh blocks (thermometer sensor inside one block). 
+
+### Conclusion:
+Nice dense cake without much sporulation (only around air holes). 
+
+![](projects/attachments/Pasted%20image%2020230106143024.png)
+
+![](projects/attachments/Pasted%20image%2020230106143050.png)
+
+After frying in oil: Texture is not bad. Dense and a little chewy. Also a bit fibrous but not too unpleasantly. Maybe a bitter hint (when unflavoured). Pretty good when flavoured with soy sauce.
+
+![](projects/attachments/Pasted%20image%2020230106143208.png)
+
 

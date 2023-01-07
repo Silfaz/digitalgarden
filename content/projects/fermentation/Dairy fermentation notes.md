@@ -1,3 +1,6 @@
+---
+title: "Dairy fermentation notes"
+---
 
 ## Recipes
 

@@ -8,6 +8,7 @@ title: "Lunchboxes and bowls"
 - Finely sliced red cabbage with beetroot and red pepper pieces, peas, mixed with homemade zucchini chutney.
 - Soy meatballs
 - Roasted sunflower seeds
+![](projects/attachments/Pasted%20image%2020230102200152.png)
 
 ## 2022
 

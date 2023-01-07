@@ -133,6 +133,9 @@ _Made 2022-04-20_: [Dill pickles](projects/fermentation/Dill%20pickles.md)
 
 ## Brussel sprouts with garlic and pepper corns
 _Made 2022-10-26:_ [Brussel sprouts with garlic and pepper corns](projects/fermentation/Brussel%20sprouts%20with%20garlic%20and%20pepper%20corns.md)
+
+_Made 2022-12-24_: [Brussel sprouts with garlic and pepper corns](projects/fermentation/Brussel%20sprouts%20with%20garlic%20and%20pepper%20corns.md)
+
 - 350 g Brussel sprouts, cleaned (outer 2-4 leaves removed)
 - 1 big garlic cloves, peeld and whole
 - 1 Tbsp black pepper corns
@@ -141,7 +144,7 @@ _Made 2022-10-26:_ [Brussel sprouts with garlic and pepper corns](projects/ferme
 Brine:
 - 3.5% salt (1L + 35 g salt)
 
-Cut Brussel sprouts in half, then fill into a clean jar with the rest of the ingredients. Top with enough brine to submerge everything. Cover with 2 clean wine leaves. Make sure that no pepper corns are floating on the surface (remove if necessary). 
+Cut Brussel sprouts in half or quarters, then fill into a clean jar with the rest of the ingredients. Top with enough brine to submerge everything. Cover with 2 clean wine leaves. Make sure that no pepper corns are floating on the surface (remove if necessary). 
 
 Leave in place out of sunlight at room temperature.
 

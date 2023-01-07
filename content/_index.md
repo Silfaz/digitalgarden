@@ -6,11 +6,9 @@ This is my digital garden, a place that is never finished and always growing. It
 
 Feel free to walk around and explore. 
 
-
 ![](projects/attachments/Walk%20to%20Råå.png)
 
 ----
-
 ## Projects
 
 ### [Fungi](fungi/fungi_main.md)
@@ -42,5 +40,5 @@ Feel free to walk around and explore.
 
 
 ----
-Silvia Hüttner, @silfaz
+Silvia Hüttner, [@silfaz](https://www.instagram.com/silfaz/)
 

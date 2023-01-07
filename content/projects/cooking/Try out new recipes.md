@@ -2,6 +2,11 @@
 title: "Try out new recipes"
 ---
 
+### Fluffy japanese pancakes (vegan) (Hottokeiki)
+https://www.okonomikitchen.com/vegan-fluffy-japanese-pancakes/. Recommended by Yoga (though he said that he hasn't managed to get them that high yet). 
+
+On the same website, the [Black Sesame Orange Load Cake](https://www.okonomikitchen.com/black-sesame-orange-loaf-cake/) looks really good! And I _definitely_ want to try the vegan [tamagoyaki](https://www.okonomikitchen.com/tamagoyaki/). 
+
 ### Homemade ramen noodles
 https://www.seriouseats.com/2018/11/the-ultimate-guide-to-making-ramen-noodles-at-home.html
 This seems to be quite hard, as the dough has extremely low hydration and will probably break your pasta maker.

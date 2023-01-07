@@ -421,15 +421,22 @@ Plans for next year include 2 big walks (one in spring, one in autumn), a big 3-
 - Star Trek: Lower Decks
 - Star Trek: Strange New Worlds. _SO GOOD!_
 - Star Trek TOS (Seasons 1+2 so far)
+- The Power of the Dog. _Award-winning western with Benedict Cumberbatch. Slow and atmospheric. Good ending._
+- Cowboy Bebop
 - The French Dispatch
+- Sune på Bilsemester
 - The Tinder Swindler
 - Everything, Everywhere, All at Once. _Crazy, fast, funny, loved it._
 - The personal history of David Copperfield. _Amazing and fun!_
 - Wednesday
 - Forged in Fire _(still!)_
 - The Great British Bake Off 2022
+- Blown Away (season 3)
+- The Sandman (season 1)
+- School of Chocolate
 - Eurovision 2022
 - Severance
+- Pirate Gold of Adak Island
 - Amazing Race (a few seasons while cycling)
 - Stranger Things (season 4)
 - Brooklyn 99 (last season)
