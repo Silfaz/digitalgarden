@@ -4,11 +4,21 @@ title: "Daily log 2023"
 
 ## January
 
+### 8, söndag
+- Helsingborg, 🌧️ 6 ºC
+- Laundry
+- Long morning (10-12) walk through Fredriksdal with Luciane and Amit. Saw some nice cows and cats and goats 🐮🐈🐐💕
+- Lunch: Bread with stuff. Dinner: 
+- Started playing In Other Waters. Very nice and calm. Nice colour palette. 
+- Science reading
+
 
 ### 7, lördag
 - Helsingborg, 🌥️/🌧️ 5 ºC
 - Long morning walk through Rosengården
-- 
+- Lunch: [Tempeh Banh Mi-style](projects/fermentation/Cooking%20with%20tempeh.md#Tempeh%20Banh%20Mi-style). Dinner: Chili garlic noodles with choy sum; blood orange + kiwi  for dessert.
+- Read a lot about lactic acid bacteria, yogurt production, microbes in kombucha, and a central Asian fermented grain drink called [Boza](https://en.wikipedia.org/wiki/Boza#). 
+- Catchup online chat with Max about her moving to Berlin, fermentations and continuation of our dairy fermentation project. 
 
 ### 6, fredag
 _Trettondagen jul! Day off_

@@ -2,6 +2,10 @@
 title: "AlphaFold basics"
 ---
 
+[What's next for AlphaFold and the AI protein-folding revolution (Nature News)](https://www.nature.com/articles/d41586-022-00997-5)
+
+[ColabFold: Making protein folding accessible to all (Nature Methods)](https://www.nature.com/articles/s41592-022-01488-1)
+
 
 ## Original AlphaFold paper
 https://www.nature.com/articles/s41586-021-03819-2
