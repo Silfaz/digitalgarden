@@ -4,13 +4,45 @@ title: "Daily log 2023"
 
 ## January
 
+
+### 12, torsdag
+- Helsingborg/Landskrona, 🌧️💧 6 ºC
+- Cycled to work
+- Oatly: Homogenizer was broken, so no lab trials today. Instead, a lot of gurt tasting. Spent about 2 h double-checking allergen calculations for a new enzyme in Vlissingen. Meetings with Chr. Hansen regarding culture screenings. 
+- Lunch: Lunchbox. Dinner: Ramen and edamame beans in Barski.
+
+### 11, onsdag
+- Helsingborg/Landskrona, 🌧️ 6 ºC
+- Cycled to work
+- Oatly: Enzyme calculations and gurt lab trials. With the last sample, the homogenizer gave up.
+- Lunch: Lunchbox. Dinner: Gnocci with tomato sauce + Schnitzel. Sweets, since we stopped doing "No-Sugar-January".
+- Played In Other Waters, then watches Instagram Reels for 2 h in bed. So exhausted. 😴
+
+### 10, tisdag
+- Helsingborg, 🌥️/🌧️ 5 ºC
+- Lunch: Leftover dal and fried rice. Dinner: 
+- Vet with Laika: Kennelhosta vaccination; got her little nodule next to the ear checked (probably just a clogged pore); need to brush her teeth more.
+- Oatly: Mostly meetings (gurt, TD). 
+- Klimatavtal strategimöte in the evening. Very productive and good discussions. Updates from groups, discussion about our standpoint on Väla extension.
+
+### 9, måndag
+- Helsingborg, 🌧️ 6 ºC
+- Slept SO badly (woke up at 2:30 and didn't really fall asleep after that) 😴🥱
+- Lunch: Tomato soup + Somun bread. Dinner: Fried rice (Duncan's recipe).
+- Oatly: Gurt squad start-up meeting after Christmas, planning of new lab trials, organisational stuff (pilot trials, Tetra Pak trials). Cyan meeting to discuss latest results and plan more experiments. Spent a whole hour looking online for autoclavable bottles with rubber plugs for sterile sampling. They're called injection vials! 
+- Started making [Keckek el Fouqara (Poor man's cheese)](projects/fermentation/Keckek%20el%20Fouqara%20(Poor%20man's%20cheese).md) from bulgur. 
+- Finished Derry Girls Season 3. What a show ❤️🤣😢💔
+- Read up on The Troubles, the Goodfriday Agreement and Bloody Sunday.
+
+
 ### 8, söndag
 - Helsingborg, 🌧️ 6 ºC
 - Laundry
 - Long morning (10-12) walk through Fredriksdal with Luciane and Amit. Saw some nice cows and cats and goats 🐮🐈🐐💕
-- Lunch: Bread with stuff. Dinner: 
-- Started playing In Other Waters. Very nice and calm. Nice colour palette. 
-- Science reading
+- Lunch: Bread with stuff. Dinner: Hyderabadi sour dal (from Madhur Jaffrey's Curry Easy Vegetarian), with Chana dal instead of Toor dal. Very good! 😋
+- Started playing **In Other Waters**. Very nice and calm. Nice colour palette. 
+![](Pasted%20image%2020230109172008.png)
+- Science reading: Nature and Science news. Deep-dive into [AlphaFold](projects/coding/AlphaFold.md). 
 
 
 ### 7, lördag
@@ -31,7 +63,7 @@ _Trettondagen jul! Day off_
 
 
 ### 5, torsdag
-- Helsingborg, 🌧️/☁️ 5 ºC
+- Helsingborg/Landskrona, 🌧️/☁️ 5 ºC
 - Cycled to work
 - Oatly: Finished clearing out the expired ingredients. Inventory of enzymes fridge. Reading report on citrate and other buffering salts --> investigation for project Cyan and gurt squad.
 - Lunch: Lunchbox. Dinner: Green curry + basmati rice, blood oranges as dessert.
@@ -39,7 +71,7 @@ _Trettondagen jul! Day off_
 
 
 ### 4, onsdag
-- Helsingborg, 🌧️💧 6 ºC
+- Helsingborg/Landskrona, 🌧️💧 6 ºC
 - Cycled to work (VERY wet)
 - Oatly: Gurt lab trials (different proteins tested). A lot of clearing out expired ingredients in preparation for the move into the newly renovated labs (once they're done). 
 - Lunch: Lunchbox. Dinner: Pasta with tomato sauce and salad. 
@@ -48,7 +80,7 @@ _Trettondagen jul! Day off_
 
 
 ### 3, tisdag
-- Helsingborg, 🌧️/☁️ 6 ºC
+- Helsingborg/Landskrona, 🌧️/☁️ 6 ºC
 - Cycled to work
 - Oatly: Plan, and prepare ingredients for gurt lab trials tomorrow.
 - Lunch: Lunchbox. Dinner: Laoganma tofu rice + choy sum + fermented veggies.
