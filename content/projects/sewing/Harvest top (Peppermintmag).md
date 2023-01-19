@@ -2,4 +2,4 @@
 title: "Harvest top (Peppermintmag)"
 ---
 
-![](DSCF7996.jpg)
+![](projects/attachments/DSCF7996.jpg)

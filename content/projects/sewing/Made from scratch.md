@@ -1,0 +1,26 @@
+---
+title: "Made from scratch"
+---
+
+- [[projects/sewing/Tulip skirt (Sew Over It)]]
+- [[projects/sewing/Lotta dress (Tilly and the Buttons)]]
+- [[projects/sewing/Ultimate shift dress (Sew Over It)]]
+- [[projects/sewing/Self-drafted shift dress]]
+- [[projects/sewing/Self-drafted quilt]]
+- [[projects/sewing/Self-drafted summer dress]]
+- [[projects/sewing/Dress Patti 60s style (Burda Vintage E082)]]
+- [[projects/sewing/Indigo dress (Tilly and the Buttons)]]
+- [[projects/sewing/Bianca bolero jacket (Sinclair Patterns)]]
+- [[projects/sewing/Self-drafted t-shirts]]
+- [[projects/sewing/Tula pants & shorts (Papercut Patterns)]]
+- [[projects/sewing/Stacker jacket (Papercut Patterns)]]
+- [[projects/sewing/Attitude trousers (Atelier Scammit)]]
+- [[projects/sewing/Frances boxy top (Fibremood)]]
+- [[projects/sewing/Trillium dress (Made by Rae)]]
+- [[projects/sewing/Nenuphar jacket (Deer and Doe)]]
+- [[projects/sewing/Dress and jumper (Ninelee)]]
+- [[projects/sewing/Self-drafted long summer skirt]]
+- [[projects/sewing/Blouse]]
+- [[projects/sewing/Harvest top (Peppermintmag)]]
+- [[projects/sewing/Jogginghose und -shirt (Tilly and the Buttons)]]
+- 

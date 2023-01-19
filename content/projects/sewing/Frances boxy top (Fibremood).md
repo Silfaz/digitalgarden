@@ -3,4 +3,4 @@ title: "Frances boxy top (Fibremood)"
 ---
 
 
-![](DSCF7872.jpg)
+![](projects/attachments/DSCF7872.jpg)

@@ -22,7 +22,7 @@ Thoughts on [personal action](climate/Personal%20action.md)
 
 **--> We need more people _doing_ something instead of not doing something. Action is better than silent sacrifice**
 
-![](Pasted%20image%2020230114202807.png)
+![](projects/attachments/Pasted%20image%2020230114202807.png)
 _From: A climate activist holds up a sign during a protest against financial firms investing in fossil fuels in New York in 2022. Photograph credit: Ron Adar/REX/Shutterstock_
 
 > The impact of your diet and how you get to work may pale in comparison to the impact of your money in the bank.
@@ -33,7 +33,7 @@ _From: A climate activist holds up a sign during a protest against financial fir
 
 > In 2019, Swedish climate activist Greta Thunberg said we must embrace “cathedral thinking”, adding: “We must lay the foundation while we may not know exactly how to build the ceiling.”
 
-![](Pasted%20image%2020230114204617.png)
+![](projects/attachments/Pasted%20image%2020230114204617.png)
 _From an [essay](https://commongood.cc/reader/a-few-rules-for-predicting-the-future-by-octavia-e-butler/) by Octavia E. Butler_. 
 
 

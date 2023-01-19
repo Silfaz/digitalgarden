@@ -31,6 +31,6 @@ I followed the recipe above, but cut the sprouts into quarters and put them into
 
 Fermentation time: 13 days
 
-![](Pasted%20image%2020230119190821.png)
+![](projects/attachments/Pasted%20image%2020230119190821.png)
 
-![](Screenshot%202023-01-19%20at%2019.10.19.png)
+![](projects/attachments/Screenshot%202023-01-19%20at%2019.10.19.png)

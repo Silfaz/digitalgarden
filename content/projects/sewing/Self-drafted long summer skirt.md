@@ -3,4 +3,4 @@ title: "Selft-drafted long summer skirt"
 ---
 
 
-![](DSCF7872%201.jpg)
+![](projects/attachments/DSCF7872%201.jpg)
