@@ -2,6 +2,9 @@
 title: "Try out new recipes"
 ---
 
+### Pan de cristal bread
+100% hydration bread with HUGE air holes and a thin, crispy crust. https://www.kingarthurbaking.com/recipes/pan-de-cristal-recipe 
+
 ### Fluffy japanese pancakes (vegan) (Hottokeiki)
 https://www.okonomikitchen.com/vegan-fluffy-japanese-pancakes/. Recommended by Yoga (though he said that he hasn't managed to get them that high yet). 
 

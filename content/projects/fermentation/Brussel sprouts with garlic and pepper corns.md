@@ -24,7 +24,13 @@ _Conclusion:_ Taste is delicious, especially after a few days/weeks in the fridg
 
 _Made: 2022-12-24_
 
-I followed the recipe above, but split the sprouts into three jars:
+I followed the recipe above, but cut the sprouts into quarters and put them into three jars:
 - + peppercorns and green chilies
 - + Nigella seeds
 - + pul biber (Aleppo pepper)
+
+Fermentation time: 13 days
+
+![](Pasted%20image%2020230119190821.png)
+
+![](Screenshot%202023-01-19%20at%2019.10.19.png)

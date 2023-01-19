@@ -4,12 +4,38 @@ title: "Daily log 2023"
 
 ## January
 
+### 16, måndag
+- Helsingborg/Landskrona, 🌥  4 ºC
+- Oatly: Mostly meetings and gurt tastings. A bit of salt addition improves the gurt. Masking flavours we tried didn't contribute anything.
+- Lunch: Lunchbox. Dinner: Vegan tamagoyaki with fermented veggies and kimchi. Dessert: Oatly ice cream.
+
+### 15, söndag
+- Helsingborg, 🌥️/🌧️ 5 ºC
+- Chore day: Dog walk - mealplan - grocery shopping - laundry - meal prep.
+- Finally managed to get all my self-made clothes from the last 3 (?) years out on the bed, try them on and take pictures of myself. I've been wanting to document that for a while. So now let's see what I do with the pictures. 
+- 1h quatschen mit M&P&A. M&P waren am Samstag am Buchberg oben (schönes Wetter, schöne Fernsicht), backten Hundekekse und überfluteten das Backrohr mit geschmolzenem Ofenkäse. Angie und Chris waren beim Schloss Belvedere und suchten sich einen Baum für die Baumpatenschaft aus, die sie zur Hochzeit gekriegt hatten. 
+- Angefangen mit "The Mountain in the Sea", das ich von Duncan zu Weihnachten bekommen hab. 
+
+### 14, lördag
+ - Helsingborg, 🌧️ 6 ºC
+ - Spent most of the day looking at what improvements I could make to the Klimatavtal website, and creating a post about signing a petition against an extension of Väla shopping center.
+ - Went to Pingstkyrkan Second Hand shop, found some fabric and two zips. 
+ - Watched part 1 of a 2x2h workshop by Oliver Burkman about imperfectionism. 
+ - Exercise bike for 30 min. 
+
+### 13, fredag
+ - Helsingborg/Landskrona, 🌧️ 6 ºC
+ - Cycled to work
+ - Oatly: Tasted _a lot_ of gurts. Renovation team meeting. Got 10 pints of new ice cream flavours (Strawberry Confusion, coffee + chocolate, Salted Caramel) to take home 😋
+ - Lunch: Lunchbox. Dinner: [Erdäpfelgulasch](projects/cooking/Recipes%20(tried%20&%20tested).md#Erdäpfelgulasch), dessert: Oatly ice cream.
+ - Just chilled in the evening. Got a big dog food package delivered, including a muzzle for Laika for our upcoming Interrail adventure. Took down Christmas decoration (it's St. Knut today!). Listened to some podcasts, started watching Knives Out.
+ - So sick of this RAIN!!! 😩 I want winter. I dreamt of snow.
 
 ### 12, torsdag
 - Helsingborg/Landskrona, 🌧️💧 6 ºC
 - Cycled to work
 - Oatly: Homogenizer was broken, so no lab trials today. Instead, a lot of gurt tasting. Spent about 2 h double-checking allergen calculations for a new enzyme in Vlissingen. Meetings with Chr. Hansen regarding culture screenings. 
-- Lunch: Lunchbox. Dinner: Ramen and edamame beans in Barski.
+- Lunch: Lunchbox. Dinner: Ramen and edamame beans in Barski. Very cosy there. Was that the first proper evening beer inside a bar in Helsingborg (since Corona)?
 
 ### 11, onsdag
 - Helsingborg/Landskrona, 🌧️ 6 ºC
@@ -20,7 +46,7 @@ title: "Daily log 2023"
 
 ### 10, tisdag
 - Helsingborg, 🌥️/🌧️ 5 ºC
-- Lunch: Leftover dal and fried rice. Dinner: 
+- Lunch: Leftover dal and fried rice. Dinner: Bread + stuff.
 - Vet with Laika: Kennelhosta vaccination; got her little nodule next to the ear checked (probably just a clogged pore); need to brush her teeth more.
 - Oatly: Mostly meetings (gurt, TD). 
 - Klimatavtal strategimöte in the evening. Very productive and good discussions. Updates from groups, discussion about our standpoint on Väla extension.
@@ -41,7 +67,7 @@ title: "Daily log 2023"
 - Long morning (10-12) walk through Fredriksdal with Luciane and Amit. Saw some nice cows and cats and goats 🐮🐈🐐💕
 - Lunch: Bread with stuff. Dinner: Hyderabadi sour dal (from Madhur Jaffrey's Curry Easy Vegetarian), with Chana dal instead of Toor dal. Very good! 😋
 - Started playing **In Other Waters**. Very nice and calm. Nice colour palette. 
-![](Pasted%20image%2020230109172008.png)
+![](projects/attachments/Pasted%20image%2020230109172008.png)
 - Science reading: Nature and Science news. Deep-dive into [AlphaFold](projects/coding/AlphaFold.md). 
 
 

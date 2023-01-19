@@ -3,6 +3,14 @@ title: "Lunchboxes and bowls"
 ---
 ## 2023
 
+### Week 2
+- Bulgur, mixed beans, chopped fresh mint and rosemary, cubed cucumbers.
+- Finely slices red cabbage, carrot slices, cubed beet root, crumbled feta and sour cream.
+- Fried Quorn pieces.
+- Fermented squash and apples.
+
+![](projects/attachments/Pasted%20image%2020230113201433.png)
+
 ### Week 1
 - Svenska kvarngryn (whole oat, wheat and rye kernels) with chickpeas and kidney beans
 - Finely sliced red cabbage with beetroot and red pepper pieces, peas, mixed with homemade zucchini chutney.

@@ -4,7 +4,9 @@ title: "Sewing"
 
 ## Sewing projects
 
-### Sewing from scratch
+![](Pasted%20image%2020230119203000.png)
+
+### [[Made from scratch]]
 
 ### Mending 
 

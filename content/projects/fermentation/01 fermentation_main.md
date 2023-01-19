@@ -48,4 +48,4 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 
 ## Drinks
 - [Kombucha](projects/fermentation/Kombucha.md)
-- [[Kombucha cultures]]
+- [[projects/fermentation/Kombucha cultures]]
