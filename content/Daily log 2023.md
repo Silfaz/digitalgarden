@@ -4,6 +4,24 @@ title: "Daily log 2023"
 
 ## January
 
+### 19, torsdag
+- Helsingborg/Landskrona, 🌧️  3 ºC
+- Cycled to work
+- Oatly: Meetings from 8-17, mostly Cyan project. Cleared out freezer drawer and threw away loads of old samples in preparation for the lab move.
+- Filled my Digital Garden > Sewing section with lots of pictures of my makes. Feels nice to compile it :) 
+- Lunch: Lunchbox. Dinner: Leftover majscarbonara, leftover popcorn.
+
+### 18, onsdag
+- Helsingborg, 🌥  3 ºC
+- Exercise bike, 20 min
+- Finished watching **Knives Out**. Really enjoyed it, despite Daniel Craig's aweful Southerner accent.
+
+### 17, tisdag
+- Helsingborg, 🌧️ 5 ºC
+- Oatly: Research into B12 stability.
+- Lunch: Leftover potato gulasch. Dinner: Take-away sushi.
+- Klimatavtal workshop about activities we could do around our "Transport" focus. Was fun, but also a bit disheartening in the end, because it feels like we can't really change people's (and especially car drivers') behaviour anyway :( 
+
 ### 16, måndag
 - Helsingborg/Landskrona, 🌥  4 ºC
 - Oatly: Mostly meetings and gurt tastings. A bit of salt addition improves the gurt. Masking flavours we tried didn't contribute anything.
@@ -14,13 +32,13 @@ title: "Daily log 2023"
 - Chore day: Dog walk - mealplan - grocery shopping - laundry - meal prep.
 - Finally managed to get all my self-made clothes from the last 3 (?) years out on the bed, try them on and take pictures of myself. I've been wanting to document that for a while. So now let's see what I do with the pictures. 
 - 1h quatschen mit M&P&A. M&P waren am Samstag am Buchberg oben (schönes Wetter, schöne Fernsicht), backten Hundekekse und überfluteten das Backrohr mit geschmolzenem Ofenkäse. Angie und Chris waren beim Schloss Belvedere und suchten sich einen Baum für die Baumpatenschaft aus, die sie zur Hochzeit gekriegt hatten. 
-- Angefangen mit "The Mountain in the Sea", das ich von Duncan zu Weihnachten bekommen hab. 
+- Angefangen mit **"The Mountain in the Sea"**, das ich von Duncan zu Weihnachten bekommen hab. 
 
 ### 14, lördag
  - Helsingborg, 🌧️ 6 ºC
  - Spent most of the day looking at what improvements I could make to the Klimatavtal website, and creating a post about signing a petition against an extension of Väla shopping center.
  - Went to Pingstkyrkan Second Hand shop, found some fabric and two zips. 
- - Watched part 1 of a 2x2h workshop by Oliver Burkman about imperfectionism. 
+ - Watched part 1 of a 2x2h workshop by **Oliver Burkman** about imperfectionism. 
  - Exercise bike for 30 min. 
 
 ### 13, fredag
@@ -42,7 +60,7 @@ title: "Daily log 2023"
 - Cycled to work
 - Oatly: Enzyme calculations and gurt lab trials. With the last sample, the homogenizer gave up.
 - Lunch: Lunchbox. Dinner: Gnocci with tomato sauce + Schnitzel. Sweets, since we stopped doing "No-Sugar-January".
-- Played In Other Waters, then watches Instagram Reels for 2 h in bed. So exhausted. 😴
+- Played **In Other Waters**, then watches Instagram Reels for 2 h in bed. So exhausted. 😴
 
 ### 10, tisdag
 - Helsingborg, 🌥️/🌧️ 5 ºC
@@ -57,7 +75,7 @@ title: "Daily log 2023"
 - Lunch: Tomato soup + Somun bread. Dinner: Fried rice (Duncan's recipe).
 - Oatly: Gurt squad start-up meeting after Christmas, planning of new lab trials, organisational stuff (pilot trials, Tetra Pak trials). Cyan meeting to discuss latest results and plan more experiments. Spent a whole hour looking online for autoclavable bottles with rubber plugs for sterile sampling. They're called injection vials! 
 - Started making [Keckek el Fouqara (Poor man's cheese)](projects/fermentation/Keckek%20el%20Fouqara%20(Poor%20man's%20cheese).md) from bulgur. 
-- Finished Derry Girls Season 3. What a show ❤️🤣😢💔
+- Finished **Derry Girls Season 3**. What a show ❤️🤣😢💔
 - Read up on The Troubles, the Goodfriday Agreement and Bloody Sunday.
 
 
