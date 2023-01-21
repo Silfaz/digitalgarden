@@ -4,6 +4,18 @@ title: "Daily log 2023"
 
 ## January
 
+
+### 21, lördag
+ - Helsingborg, 🌫️/🌥  0 ºC
+ - Long walk through Jordbodalen to Erikshjälpen. Bought a little corner shelf for Duncan's desk area to put plants on, and a paper cutter. Some bias bands for sewing. And we also had carrot cake there, very cosy. 
+ - 
+
+### 20, fredag
+- Helsingborg/Landskrona, 🌥  3 ºC
+- Cycled to work
+- Oatly: A lot of gurt tasting and discussions, some lab samples clear-up, planning for Cyan pilot trial.
+- Watched 4 episodes of **Special Forces: World's Toughest Test**, which was incredibly silly and delightful.
+
 ### 19, torsdag
 - Helsingborg/Landskrona, 🌧️  3 ºC
 - Cycled to work
