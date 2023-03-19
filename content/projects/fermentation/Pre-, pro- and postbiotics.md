@@ -13,6 +13,15 @@ When prebiotics are ingested, gastrointestinal bacteria ferment them and bioacti
 ## Probiotics 
 Live microbes that provide health benefits when ingested (in sufficiency), generally by improving or restoring the gut microflora. 
 
+Probiotics are products designed to deliver potentially beneficial bacterial cells to the microbiotic ecosystem of humans and other animals. Strains of lactic acid bacteria are the most common microbes employed as probiotics, especially Lactobacillus and Bifidobacterium species, but lactococci, some enterococci and some streptococci are also included as probiotics.
+
+Of the more than 100 [Lactobacillus](projects/science/Lactic%20acid%20bacteria.md#Lactobacilli) species, the following are commonly used probiotics: _L. acidophilus, L. fermentum, L. paracasei, L. brevis, L. gasseri, L. plantarum, L. bulgaricus, L. helveticus, L. reuteri, L. casei, L. jensenii, L. rhamnosus, L. crispatus, L. johnsonii, L. salivarius_.
+
+With the new taxonomy (Zheng et al., 2020) it's easy to remember that most probiotic lactobacilli are derived from three genera: _Lactobacillus_, _Ligilactobacillus_ and _Limosilactobacillus_. 
+
+Among the 30+ [Bifidobacterium](Lactic%20acid%20bacteria#Bifidobacterium) species, the following are recognized as probiotics: _B. adolescentis., B. breve, B. longum, B. animalis, B. infantis, B. thermophilum, B. bifidum  
+B. lactis_
+
 
 ## Postbiotics
 Metabolites of probiotics. 

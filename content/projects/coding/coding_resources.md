@@ -11,6 +11,7 @@ title: "Coding resources"
 
 [[Python resources]]
 
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Command line
 [Command line basics](projects/coding/Command%20line%20basics.md)
@@ -53,9 +54,17 @@ title: "Coding resources"
 
 
 ## Bioinformatics
-[AlphaFold](projects/coding/AlphaFold.md)
 
-[Rosalind](projects/coding/Rosalind.md)
+- 
+- [AlphaFold](projects/coding/AlphaFold.md)
+- Rosettafold:
+	- Hallucination Rosettafold on Github https://github.com/RosettaCommons/RFDesign/tree/main/hallucination
+	- Rosetta Colab https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.0/tr/design.ipynb
+- AF Design Colab https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.0/af/design.ipynb
+- [ProteinMPNN](projects/coding/ProteinMPNN.md)
+- [Inpainting](https://github.com/RosettaCommons/RFDesign/tree/main/inpainting) = autocompleting proteins 
+- MPNN: input = protein structure (.pdb), output = sequene variants with same fold
+- [Rosalind](projects/coding/Rosalind.md)
 
 
 ## Web design (HTML, CSS, etc.)

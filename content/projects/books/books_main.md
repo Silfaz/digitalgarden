@@ -1,6 +1,14 @@
 ---
 title: "Books main"
 ---
+## Read 2023
+- **[Exhalation](projects/books/Exhalation.md) (Ted Chiang)** 
+- Children of Time (Adrian Tchaikovsky, audiobook)
+- Flowers for Algernon (Daniel Keyes, audiobook)
+- **A Psalm for the Wild-Built (Becky Chambers)**
+- Hunder Jahre Einsamkeit (Gabriel García Márquez)
+- **The Mountain in the Sea (Ray Nayler)**
+
 
 ## Read 2022
 - Star Trek Deep Space 9 - Avatar 2/2 (S. D. Perry)
@@ -13,15 +21,13 @@ title: "Books main"
 - A Hat Full of Sky (Terry Pratchett)
 - Where the Crawdads Sing (Delia Owens)
 - The Happy Isles of Oceania (Paul Theroux)
-- Animal Farm (George Orwell) (audiobook)
+- Animal Farm (George Orwell, audiobook)
 - **How to Blow Up a Pipeline (Andreas Malm)**
 - **[The Dispossessed](projects/books/The%20Dispossessed.md) (Ursula K. Le Guin)**
-- Transcendent Waves: How Listening Shapes Our Creative Lives (Lavender Suarez) [[projects/books/Transcendent Waves]]
-- How to be an Antiracist (Ibram X. Kendi)
+- [Transcendent Waves: How Listening Shapes Our Creative Lives](Transcendent Waves(projects/books/Transcendent%20Waves.md) (Lavender Suarez) 
+- How to be an Antiracist (Ibram X. Kendi, audiobook)
 - Recursion (Blake Crouch)
 - Pathways (Jeri Taylor)
-- **[Exhalation](projects/books/Exhalation.md) (Ted Chiang)** 
-
 
 
 ## Read 2021
@@ -55,7 +61,7 @@ title: "Books main"
 - Reef Life: An Underwater Memoir (Robert Callum)
 - **Humankind (Rutger Bregman)**
 - Das flüssige Land (Raphaela Edelbauer)
-- The Mushroom at the End of the World (Anna Lownhaupt Tsing) [[The Mushroom at the End of the World]]
+- The Mushroom at the End of the World (Anna Lownhaupt Tsing) [[projects/books/The Mushroom at the End of the World]]
 - Station Eleven (Emily St. John Mandel)
 - Picture This (Molly Bang)
 - Das Geburtstagsfest (Judith Taschler)

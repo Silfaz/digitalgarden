@@ -1,6 +1,11 @@
 ---
 title: "Dairy fermentation notes"
 ---
+
+Molecular processes initiated during fermentation of dairy milk by lactic acid bacteria:
+- Proteolysis of caseins into peptides and amino acids
+- Utilisation of carbohydrates for form lactic acid and exopolysaccharides
+
 ## Fermented milk products
 https://dairyprocessinghandbook.tetrapak.com/chapter/fermented-milk-products
 

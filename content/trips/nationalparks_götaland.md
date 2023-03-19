@@ -27,7 +27,7 @@ Sweden's smallest national park. Old southern Swedish leafy forest (oak, beech).
 - The naturrum is in Skrylle naturreservat.
 
 #### How to get there on public transport
-Bus (50 min) from Lund Central.
+Bus (30 min) from Lund Central to either Dalby Söderskog or Skrylle naturum.
 
 #### Stay overnight
 Vinskydd in neighbouring Skrylle naturreservat. 
@@ -35,6 +35,7 @@ Vinskydd in neighbouring Skrylle naturreservat.
 #### Hiking routes
 Three walking routes (0.5-3.5 km). One of them - Skryllestigen - then continues on through the naturreservat Dalby Norreskog and further to Skrylle naturreservat, which is actually much bigger than Dalby Söderskog. 
 
+Went there in March 2023: [Dalby Söderskog](trips/Dalby%20Söderskog.md)
 
 ## Söderåsen nationalpark
 North-western Skåne, near Helsingborg. Goes from Åstorp to Röstånga. Lies exactly between European and Scandinavian continental plates, which formed a ravine and pushed up a small mountain (Kopparhatten, 200 m). 

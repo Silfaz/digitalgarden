@@ -23,7 +23,6 @@ https://readytosew.fr/en/women-pdf/16-juliette-leather-skirt.html: High-waisted 
 
 
 ## Tank top-bra
-
 ### Weiland tank
 Tank top with integrated shelf bra https://elbetextiles.com.au/products/weiland-tank-digital-sewing-pattern: Basic tank top cropped at the waist. Top half is lined and finished with elastic under the bust, creating a built-in shelf bra. Scooped neckline or V neck. To be worn alone or as layering piece.
 - [Weiland tank top pictures & fabric](projects/sewing/Weiland%20tank%20top.md)
@@ -41,12 +40,26 @@ https://openstudiopatterns.com/patterns/p/shop-pant: Casual trousers. The Shop P
 
 ## Cardigan
 ### Marlo Cardigan (True Bias)
-
+https://truebias.com/products/marlo-sweater-1: Oversized sweater with a dropped shoulder, deep V-neck, wide bands and large buttons. Cropped or above mid thifh with patch pockets.
+- [Marlo Sweater pictures & fabric](projects/sewing/Marlo%20Sweater.md)
 
 ## Jackets
 ### Stacker Jacket (Papercut Patterns)
 https://papercutpatterns.com/products/stacker-jacket: Boxy outdoor jacket. Everyday utility button-up in a cropped boxy fit. Choice of flapped in-seam pockets, or oversized patch pockets. Fully lined and features a drop shoulder and a classic collar.
 - [Stacker Jacket pictures & fabric](projects/sewing/Stacker%20Jacket.md)
+
+### Jameela Jacket (by masin)
+https://www.sewingpatternsbymasin.com/sewing-patterns/jameela: Cozy jacket pattern with two length options: Hip length or cropped. Unlined.
+- [Jameela Jacket pictures & fabric](projects/sewing/Jameela%20Jacket.md)
+
+### Paola Workwear Jacket (by Fabrics Store)
+https://fabrics-store.com/jackets/paola-workwear-jacket-pattern-type-pdf: Workwear-inspired, straight boxy fit, four large patch pockets and flat-felled seams for sturdiness. 
+
+
+## Sweatshirts and jumpers
+### Dale Sweatshirt
+
+
 
 ## Tops
 ### Nature Top (Thread + Sprout)
@@ -55,7 +68,67 @@ https://www.threadandsprout.com/tutorials/make-your-own-nature-top
 
 ## Blouses
 ### Noella Blouse (Juliana Martejevs)
-- [[projects/sewing/Noella blouse pictues & fabric]]
+- [Noella blouse pictues & fabric](projects/sewing/Noella%20blouse%20pictues%20&%20fabric.md)
+
+
+## Pyjamas
+### Samford set (Peppermint magazine)
+https://peppermintmag.com/sewing-school/samford-set/
+
+
+## Bags, pouches, etc.
+
+### Padded pouch for synth modules
+https://cremacaffe.shop/products/padded-pouches?variant=39296115867734
+
+![](projects/attachments/Pasted%20image%2020230305151255.png)
+
+
+https://www.bowoonyc.com/shop/teenage-engineering-op-1-synth-canvas-felt-carry-case-orange
+
+![](projects/attachments/Pasted%20image%2020230130204750.png)
+
+![](projects/attachments/Pasted%20image%2020230130204801.png)
+
+• Water repellent finish  
+• Heavy #10 duck canvas  
+• Protective foam padding  
+• Felt lining throughout the interior  
+• Hidden magnetic closures  
+• Cable pouch
+
+### Padded pouch for ipad
+
+![](projects/attachments/Pasted%20image%2020230130204906.png)
+
+• Water repellent finish  
+• Heavy #10 duck canvas  
+• Protective foam padding  
+• Felt lining throughout the interior  
+• Hidden magnetic closures
+
+### Pouch for e-book reader
+
+From Etsy seller [Einzelfabrikate](https://www.etsy.com/se-en/listing/1178377280/ultralight-high-quality-dog-blanket-to?click_key=5c2a02c28c450256333dbde9458cfcae1f2b9f44%3A1178377280&click_sum=3270f91f&ref=search2_top_narrowing_intent_modules_top_rated-6)
+![](projects/attachments/Pasted%20image%2020230218165308.png)
+
+
+![](projects/attachments/Pasted%20image%2020230218165353.png)
+
+
+From alibaba:
+![](projects/attachments/Pasted%20image%2020230305150734.png)
+
+
+From Etsy:
+![](projects/attachments/Pasted%20image%2020230305151052.png)
+
+
+### Dust cover for synth modules
+https://www.etsy.com/se-en/shop/WaveTable
+Very simple, just a piece of thick felt with holes for the knobs cut out.
+![](Pasted%20image%2020230319092552.png)
+
 
 ## Dog things
 ### Dog bed
@@ -68,5 +141,30 @@ https://www.threadandsprout.com/tutorials/make-your-own-nature-top
 
 ### Dog travel blanket
 
+From Etsy seller [Einzelfabrikate](https://www.etsy.com/se-en/listing/1178377280/ultralight-high-quality-dog-blanket-to?click_key=5c2a02c28c450256333dbde9458cfcae1f2b9f44%3A1178377280&click_sum=3270f91f&ref=search2_top_narrowing_intent_modules_top_rated-6)
+
+Padded dog travel blanket that can be rolled up and stored in a little water-resistsant pouch. Elastic bands hold the rolled up blanked together. Waterproof underside, carrying strap. Thin thermal fleece as the central layer. 
+![](projects/attachments/Pasted%20image%2020230218164553.png)
+
+![](projects/attachments/Pasted%20image%2020230218164643.png)
+
+![](projects/attachments/Pasted%20image%2020230218164755.png)
 
 
+From Etsy seller [bandandroll](https://www.etsy.com/se-en/listing/1306531255/lightweight-dog-travel-mat-dog-travel?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog+travel+blanket&ref=sr_gallery-1-2&sts=1&organic_search_click=1):
+
+Materials: dralon, bio cotton, plum wood buttons, recycled polyester, eco friendly dralon, eco friendly polyester, recycled fabric. The quilted surface is soft and cuddly on both sides and gives your dog a comfortable place to rest.
+
+![](projects/attachments/Pasted%20image%2020230218165954.png)
+
+
+From Etsy seller [SabiSew](https://www.etsy.com/se-en/listing/1375827314/dog-blanket-dog-travel-blanket-outdoor?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog+travel+blanket&ref=sr_gallery-1-4&sts=1&organic_search_click=1):
+
+![](projects/attachments/Pasted%20image%2020230218170257.png)
+
+
+From Etsy seller [BeBobi](https://www.etsy.com/se-en/listing/1397196289/dog-bed-pillow-for-dog-grey-recycled?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dog+travel+blanket&ref=sc_gallery-1-10&frs=1&plkey=65ba8b6c391a70ef15d5a9577dd0dcfb2ff98d0d%3A1397196289):
+
+Roll-up dog blanket with pillow.
+
+![](projects/attachments/Pasted%20image%2020230218170451.png)

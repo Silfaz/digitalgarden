@@ -1,4 +1,24 @@
-#job #oatly #skåne #apartment #househunting #boplats #moving #helsingborg #landskrona #lund
+#job #oatly #skåne #apartment #househunting #boplats #moving #helsingborg #landskrona #lund #malmö
+
+
+## Malmö
+
+List of fastighetsbolag in Malmö, check their websites (some don't have queues).
+
+Heimstaden
+Akelius
+Stadsbostäder
+Contentus
+Deromefastighet.se (västra hamnen)
+Ikanobostad.se
+Vitaorn.se (limhamn /västra hamnen)
+Jyma.se
+Hagagruppen.com (Willhelm)
+[https://www.hpforvaltning.se/lediga-lokaler/](https://www.hpforvaltning.se/lediga-lokaler/)
+Victoria park
+Boplats Sverige
+
+
 
 
 ## Apartmenthotels in Lund

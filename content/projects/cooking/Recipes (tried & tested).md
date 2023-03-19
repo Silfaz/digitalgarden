@@ -41,3 +41,29 @@ Adapted from: https://www.ichkoche.at/erdaepfelgulasch-auf-wiener-art-rezept-313
 6. Wenn die Suppe noch zu wässrig ist, die Maisstärke in etwas kaltem Wasser anrühren und zur Suppe geben. Dann kurz aufkochen, damit die Stärke eindickt. 
 7. Von der Hitze nehmen und Sauerrahm einrühren. 
 8. (Mit Würstlscheibchen) servieren.
+
+
+## Vegetarian lasagne
+Silfa's recipe
+- 5 carrots, finely chopped
+- 1 large onion, finely chopped
+- 1/4 celeriac, finely chopped
+- 2 garlic cloves, crushed
+- Other veggies (courgette, spinach) (optional)
+- Olive oil, salt, pepper
+- 2 packages chopped tomatoes
+- 2 Tbsp tomato paste
+- Oregano (dried or fresh)
+- Lasagne sheets (10ish)
+- 75 g flour
+- 75 g butter/margarine
+- 750 mL plant milk
+- 75 g grated cheese (mozarella, cheddar)
+
+1. Preheat oven to 200C.
+2. In a large pan, fry the onions in olive oil until nicely brown. Add the carrots, celeria, garlic and other veggies and keep frying for a few minutes until nicely roasted.
+3. Stir in the chopped tomatoes, and season with oregano, salt and pepper. Bring to a boil and simmer for  20 min. Set aside.
+4. For the bechamel sauce, toast the flour in a dry pot, then add butter and keep stirring. When starting to take colour, add the milk and whisk vigorously until everything is smooth and without lumps. Stir in half of the cheese. Set aside.
+5. Assemble in a large oven dish: tomato sauce, lasagne sheets, bechamel sauce. Keep doing this until finished. Last layer should be bechamel sauce. 
+6. Sprinkle the remaining cheese on top and cook in the oven for 40 min. Let stand for 5 min before cutting. 
+- 

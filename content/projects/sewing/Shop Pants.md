@@ -43,27 +43,27 @@ Youtube tutorial: https://www.youtube.com/watch?v=DXlssllVSVE
 
 
 ### Pockets
-1. Overlock the two shorter sides (i.e. the interior edges) of Front Pocket Facing (pieces 6).
-2. Stitch the **wrong** side of piece 6 to **right** side of Pocket Bags (pieces 7) along the serged edges with **0.6 cm** seam allowance. 
+1. Overlock the shortest and the longest sides (i.e. the interior edges) of Front Pocket Facing (pieces 6).
+2. Stitch the **wrong** side of piece 6 to **right** side (i.e. the nice patterned side that you want on the inside of the pockets in the end) of Pocket Bags (pieces 7) along the serged edges with **0.6 cm** seam allowance. 
 3. Right sides together, align the pocket bags with the front trouser legs, stitch with **1 cm** seam allowance. Pivot the needle in the corner to get a sharp edge. When finished stitching, clip the sharp point for clean turning.
 4. Press the seams of the pocket bag open and turn the pocket bags. Then top stitch at 0.3 cm from the finished edge through both layers, sandwiching the seam allowance in between those layers.
-5. Then, fold the pocket bag in on itself and align with the outer edge of the front leg. Stay stitch on the top (waist) and the side (hip) at the pocket opening, for about 4 cm. Don't stitch over the pocket opening though!
-6. Overlock the lower edges of the pocket bag together to close the pocket bag.
+5. Overlock the lower, rounded edges of the pocket bag together to close the pocket bag.
+6. Then, fold the pocket bag in on itself and align with the outer edge of the front leg. Align notches, Stay stitch on the top (waist) and the side (hip) at the pocket opening, for about 4 cm. Don't stitch over the pocket opening though!
 7. Topstitch a little **0.6 cm** wide rectangle on short end of the pocket opening through all layers of fabric. This is to hold the pocket down so it doesn't flip inside out later.
 
 ### Back pockets
 1. Fold over the top of the back pockets by 1.9 cm, press. Fold over again by **1.9 cm**, press.
-2. Topstitch the folded-over hem **0.3 cm** from the edge. 
+2. Topstitch the folded-over hem **0.3 cm** from the **inner** edge. 
 3. Overlock the other sides of the back pockets, fold over by **0.9 cm**, press.
 4. Line up one of the back pockets with the marks on the back legs and top stitch **0.3 cm** from the edge to the back leg. Reinforce the openings by sewing a little triangle. 
 5. Pin on the second back pocket on the trouser leg. Before sewing on the second back pocket, make triple sure that they line up, even after the two back legs are sewn together! 
 
 ### Fly and zipper
-1. Fold fly extension (piece 8) right sides together in half and stitch the bottom closed with **1.27 cm **seam allowance. Clip the corner and fold inside out.
+1. Fold fly extension (piece 8) right sides together in half and stitch the bottom closed with **1.27 cm**  seam allowance. Clip the corner and fold inside out.
 2. Press the fly extension and sew the raw edge closed with **0.6 cm** seam allowance. Overlock the raw edge. 
 3. Fly front (piece 9): overlock the curved edge. 
-4. Place right and left front legs right sides together on top of each other (there will be a little overhang on the right leg, which is normal). Stitch the rise at **1.27 cm** seam allowance up to the drill hole marked on the right leg pattern piece. Press the seam open.
-5. Line up the zipper tape with the serged edge of the fly extension (align top of zipper on the serged short edge) and stay stitch.
+4. Place right and left front legs right sides together on top of each other (there will be a little overhang on the right leg, which is normal). Stitch the rise at **1.27 cm** seam allowance up to the drill hole marked on the right leg pattern piece. _Follow the piece without overhang for the seam allowance._ Press the seam open.
+5. On the fly extension: Make sure you mark the the notch towards the bottom on the unserged short end. Line up the zipper (right side up)  so the zipper **stop** is where this notch is. Line up the zipper tape with the serged edge of the fly extension (align top of zipper on the serged short edge) and stay stitch to keep the zipper in place.
 6. With right sides together, stitch the fly extension to the right leg, **1.27 cm** from serged edge. Stop at the end of the zipper end, approx. **1.5 cm** before the end of the fly extension.
 7. Fold the fly extension open and press the seam allowance towards the side of the trouser leg. Then top stitch along the zipper and stop again 1.5 cm before the end of the fly extension.
 8. Fly front: with right sides together, sew onto the left leg with **1.27 cm** seam allowance, all the way (as much as possible) to the end of the fly front. Then press the seams open and press the fly front onto the inside of the leg.

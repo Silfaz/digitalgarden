@@ -16,3 +16,7 @@ Goes with everything, especially with plain rice (together with tofu cubes), as 
 SO GOOD!!! 
 
 And even if you're not vegetarian/vegan, I find this version with miso paste much better than any I've had with fish sauce.
+
+[Kimchi fermentation](projects/fermentation/Kimchi%20fermentation.md)
+
+

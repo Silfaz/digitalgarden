@@ -38,7 +38,7 @@ _From an [essay](https://commongood.cc/reader/a-few-rules-for-predicting-the-fut
 
 
 - https://billmckibben.substack.com/p/your-money-is-your-carbon
-- 
+- [Scales of Change](climate/Scales%20of%20Change.md) - podcast
 
 - [How we will fight climate change](climate/How%20we%20will%20fight%20climate%20change.md)
 - [Oil is the new data](climate/Oil%20is%20the%20new%20data.md)
@@ -58,6 +58,10 @@ _From an [essay](https://commongood.cc/reader/a-few-rules-for-predicting-the-fut
 ## Environmental initiatives
 https://www.newweather.se/hem1
 Badvertising. Reports about flying, bilism, etc. 
+
+https://klimataktion.se/lokalorganisationer-3/skane/
+Klimataktion - Skåne chapter
+
 
 
 ## Circular cities

@@ -13,7 +13,7 @@ Whole archive can be found on [Buttondown](https://buttondown.email/Filaments/ar
 Planned episode:
 - Medical uses of fungi
 - (Obscure) fungal facts and records
-- Cleaning up with fungi
+- Cleaning up with fungi [Bioremediation with fungi](fungi/Bioremediation%20with%20fungi.md)
 - The symbiosis with plants (mycorrhiza etc.)
 - The dark side of fungi (diseases, toxins, etc.)
 - Plants vs. fungi vs. pests

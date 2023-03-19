@@ -11,11 +11,11 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 > **Culture**: noun, 1. Starter that initiates fermentation. 2. The totality of all that humans seek to pass from generation to generation. - _Paraphrased, from [The Art of Fermentation](projects/books/The%20Art%20of%20Fermentation.md) (Sandor Katz)_
 
 
-[All fermentation products](projects/fermentation/All%20fermentation%20products.md) - An ongoing collection of all fermentation products I come across 
+- [All fermentation products](projects/fermentation/All%20fermentation%20products.md) - An ongoing collection of all fermentation products I come across 
 
-[Fermentation reading list](projects/fermentation/Fermentation%20reading%20list.md)- Interesting articles and books
+- [Fermentation reading list](projects/fermentation/Fermentation%20reading%20list.md)- Interesting articles and books
 
-[Fermentation experimentation ideas](projects/fermentation/Fermentation%20experimentation%20ideas.md)
+- [Fermentation experimentation ideas](projects/fermentation/Fermentation%20experimentation%20ideas.md)
 
 
 ## Vegetables fermentations 🥕🥬🌶️
@@ -28,7 +28,7 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 
 ## Dairy- and plant-based milk fermentations 🥛🌾
 - [Dairy fermentation notes](projects/fermentation/Dairy%20fermentation%20notes.md)
-- [[Plant-based dairy fermentation notes]]
+- [[projects/attachments/Plant-based dairy fermentation notes]]
 - [[Yogurt recipes]]
 - [[Yogurt production]]
 - [Pre-, pro- and postbiotics](projects/fermentation/Pre-,%20pro-%20and%20postbiotics.md)

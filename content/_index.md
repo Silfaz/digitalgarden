@@ -33,7 +33,7 @@ Feel free to walk around and explore.
 
 ### [Books](projects/books/books_main.md)
 
-### [Trips](trips/trips_main.md)
+### [Trips](trips/01%20trips_main.md)
 
 ### [Quotes](Quotes.md)
 
