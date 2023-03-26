@@ -68,7 +68,29 @@ Silfa's recipe
 6. Sprinkle the remaining cheese on top and cook in the oven for 40 min. Let stand for 5 min before cutting. 
 
 
+## Uttapam
+My own recipe that tastes really good!
+- 2 parts rice flour
+- 2 parts Urad flour
+- 1 part glutinous rice flour
+- 5 parts water
+- 1 tsp salt
+- 1 onion, finely chopped
+- 1 tomato, finely chopped
+- 3 spring onions, finely chopped
+- Some coriander, finely chopped
+
+1. Preheat oven to 150C.
+2. Make a nice, smooth batter from the flours, the salt and the water. 
+3. Add the chopped vegetables and coriander and stir in.
+4. Heat up a non-stick pan to medium heat (6 of 9), distribute some oil, then spoon in the batter and flatten it a bit. Make either one big pancake or a few smaller ones. 
+5. Put the lid on and let cook for several minutes, until the underside starts browning slightly. Flip, add some oil to the side, continue to fry (with lid off) until it starts to brown. 
+6. Transfer the finished uttapam into an oven-proof dish, cover with aluminium foil and put in the oven to keep warm while frying the rest of the pancakes. 
+7. Serve with thin dal, some chutney, yogurt, etc.
+
+
 ## Home-made seitan chicken
+**Has not worked well so far, needs to be improved!!**
 
 From: https://www.youtube.com/watch?v=yY2YN6krVtk
 

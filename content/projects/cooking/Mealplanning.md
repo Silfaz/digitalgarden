@@ -1,5 +1,5 @@
 ---
-title: "Mealplanning 2022"
+title: "Mealplanning"
 ---
 
 - Kimchi udon (don't forget the gochugaru!)
@@ -67,4 +67,5 @@ title: "Mealplanning 2022"
 - Ben ben noodles (East p77)
 - Scrambled tofu
 - Tempeh Wellington
+- [Uttapam](projects/cooking/Recipes%20(tried%20&%20tested).md#Uttapam) with onion & tomato + dal + chutney
 
