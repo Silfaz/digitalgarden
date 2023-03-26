@@ -30,7 +30,7 @@ Changes in pH and colony forming units (CFUs) during the entire dongchimi fermen
 	- Day 30: Glucose and fructose drop rapidly again after day 30 and stay low. Ethanol increases rapidly. 
 	
 
-![](Pasted%20image%2020230319104845.png)
+![](projects/attachments/Pasted%20image%2020230319104845.png)
 
 
 

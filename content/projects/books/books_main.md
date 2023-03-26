@@ -7,7 +7,7 @@ title: "Books main"
 - Flowers for Algernon (Daniel Keyes, audiobook)
 - **A Psalm for the Wild-Built (Becky Chambers)**
 - Hunder Jahre Einsamkeit (Gabriel García Márquez)
-- **The Mountain in the Sea (Ray Nayler)**
+- **[[The Mountain in the Sea]] (Ray Nayler)** 
 
 
 ## Read 2022
@@ -39,7 +39,7 @@ title: "Books main"
 - Star Trek Deep Space 9 - Avatar 1/2 (S.D. Perry)
 - Eloquent JavaScript: A modern introduction to programming (Marijn Haverbeke)
 - Show your work: 10 ways to share your creativity and get discovered (Austin Kleon)
-- **The Ministry for the Future (Kim Stanley Robinson)** [[projects/books/The Ministry for the Future]]
+- **The Ministry for the Future (Kim Stanley Robinson)** [The Ministry for the Future](projects/books/The%20Ministry%20for%20the%20Future.md)
 - The Address Book (Deidre Mask)
 - Mr. Penumbra's 24 hour bookstore (Robin Sloan)
 - A fine balance (Rohinton Mistry)

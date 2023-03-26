@@ -63,7 +63,17 @@ Silfa's recipe
 1. Preheat oven to 200C.
 2. In a large pan, fry the onions in olive oil until nicely brown. Add the carrots, celeria, garlic and other veggies and keep frying for a few minutes until nicely roasted.
 3. Stir in the chopped tomatoes, and season with oregano, salt and pepper. Bring to a boil and simmer for  20 min. Set aside.
-4. For the bechamel sauce, toast the flour in a dry pot, then add butter and keep stirring. When starting to take colour, add the milk and whisk vigorously until everything is smooth and without lumps. Stir in half of the cheese. Set aside.
-5. Assemble in a large oven dish: tomato sauce, lasagne sheets, bechamel sauce. Keep doing this until finished. Last layer should be bechamel sauce. 
+4. For the bechamel sauce, toast the flour in a dry pot, then add butter and keep stirring. When starting to take colour, add the milk and whisk vigorously until everything is smooth and without lumps. Set aside.
+5. Assemble in a large oven dish: tomato sauce, lasagne sheets, bechamel sauce, some sprinkling of cheese. Keep doing this until finished. Last layer should be bechamel sauce. 
 6. Sprinkle the remaining cheese on top and cook in the oven for 40 min. Let stand for 5 min before cutting. 
-- 
+
+
+## Home-made seitan chicken
+
+From: https://www.youtube.com/watch?v=yY2YN6krVtk
+
+1. Mix gluten flour with water and knead to form a nice, chewing-gum like dough. Let rest for 10 min.
+2. Mix seasoned broth: 4 cups water, 1 tsp onion powder, 1 tsp garlic powder, 1 tsp white pepper, 2 tsp smoked paprika, 1 stock cube, 2 tsp maggi seasoning, 2 tsp soy sauce. 
+3. Stretching the protein: flatten and stretch the dough into a rectangle, then cut into three strips that are connected at the top. Braid into a tight braid, stretch the strands while doing it. At the end, tuck the ends in to close it off. Streatch out the braid gently into a rope. Then knot the rope tightly several times (to minimize puffing during simmering). As many knots as possible.
+4. Simmer the gluten dough: Place the tight knot into the simmering broth, simmer for 1h (flip over halfway through). After 1h, let it rest in the same liquid for a few hours, up to o/n in the fridge. 
+5. Shred the seitan into chickeny strips with your hands. 

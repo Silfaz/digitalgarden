@@ -127,7 +127,7 @@ From Etsy:
 ### Dust cover for synth modules
 https://www.etsy.com/se-en/shop/WaveTable
 Very simple, just a piece of thick felt with holes for the knobs cut out.
-![](Pasted%20image%2020230319092552.png)
+![](projects/attachments/Pasted%20image%2020230319092552.png)
 
 
 ## Dog things

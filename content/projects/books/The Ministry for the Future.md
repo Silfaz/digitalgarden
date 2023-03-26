@@ -2,4 +2,5 @@
 title: "The Ministry for the Future"
 ---
 
-_Read: _
+_Read: 2022_
+
