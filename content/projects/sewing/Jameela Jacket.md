@@ -16,6 +16,8 @@ Mid- to heavy weight woven fabrics are best suited for this pattern, like:
 
 For thicker fabrics like wool or heavy weight jacquard, sew the boxy sleeve option of view B. It is very hard to sew the sleeve placket and cuff of view A with thicker fabrics.
 
+## Photos
+
 ![](projects/attachments/Pasted%20image%2020230206203016.png)
 _(https://www.instagram.com/p/Cn2f2TovqMP/ Credit: @chrisinseams)_
 

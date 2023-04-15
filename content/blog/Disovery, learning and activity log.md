@@ -1,13 +1,17 @@
 ---
 title: "Disovery, learning and activity log"
 ---
+
+## w15 2023
+- This Easter weekend, we walked a half of Skåneleden North to South: [SL2 Nord till syd](trips/SL2%20Nord%20till%20syd.md). It was not only a nice walk, but I also learned a lot about the history of Skåne and the areas we walked through, observed trees, birds and insects, visited the geographical centre of Skåne and the location of Sweden's oldest settlement, and got to know several new mid-sized towns (Hässleholm, Höör, Hörby). 
+
+![|400](projects/attachments/Imports%20-%2060%20of%20123.jpeg)
+
+
 ## w12 2023
 - Finished watching **The Last of Us**. I thought it was excellently made. The way it keeps you on your toes, without being _too_ graphic or scary most of the time. And the way it has calm epidoses in between the faster ones. It was actually much more slow-paced than I had expected, but that makes the fast scenes even more exciting and important. Something I have problems with in newer Star Trek series, like Discovery: there's no time to take a breath, every single incident is threatening the whole of the universe, etc. You just get tired of the high stakes and everything becomes a bit meaningless. Thankfully, they manage to get to a better balance (and better storytelling) again in the newest (third) **Picard** season - it's really good! I'm halfway through the season.
 - Also started watching the BBC show **Race Across the World**. I LOVED season 1. During the midst of the pandemic in 2020, I was really craving pictures and impressions from other countries and cultures, and it was so nice to follow 5 teams as they make their way over land (and sea) from London, via Greece and Central Asia, to China, Vietnam and finally Singapore. It was varied, both in terms of transport, nature and culture. Season 2 was North to South from Mexico City to Ushuaia, and it was also good but a looot of bus travel, since that's the only mode of public transport available in a lot of places in Central and South America. So we'll see how season 3 plays out now, where the teams travel from Vancouver to St. John's on Newfoundland, via Yukon and Northern Manitoba. So far, car sharing seems to be *the* way to go in Canda, at least in the part where they're starting from. The nature is amazing, of course. It somewhat scratches my travel itch, but it also makes me long to go to all of these places. 
 - Inspired by Race Across the World, I read about **Haida Gwaii** and found several interesting documentaries I want to watch: [Haida Gwaii: On the Edge of the World](https://vimeo.com/ondemand/haidagwaii), [Hadwin's Judgement](https://vimeo.com/ondemand/hadwinsjudgement) and [Canda Over the Edge: Haida Gwaii South](https://www.youtube.com/watch?v=oBNlrk59bZ8). 
-- 
-
-
 
 
 ## w11 2023

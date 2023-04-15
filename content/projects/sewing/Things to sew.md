@@ -54,12 +54,30 @@ https://www.sewingpatternsbymasin.com/sewing-patterns/jameela: Cozy jacket patte
 
 ### Paola Workwear Jacket (by Fabrics Store)
 https://fabrics-store.com/jackets/paola-workwear-jacket-pattern-type-pdf: Workwear-inspired, straight boxy fit, four large patch pockets and flat-felled seams for sturdiness. 
+- [Paola Workwear Jacket](projects/sewing/Paola%20Workwear%20Jacket.md)
 
 
 ## Sweatshirts and jumpers
 ### Dale Sweatshirt
 
+## Dresses
 
+### Bertie Shift Dress (Liberty)
+https://thefoldline.com/product/bertie-shift-dress/
+Loose-fitting dress with sleeves gathered into cuffs and a back zip. The dress features two design options, with full instructions and fabric requirements for each dress size. Design A has pockets.
+- [Bertie shift dress pictures & fabric](projects/sewing/Bertie%20shift%20dress%20pictures%20&%20fabric.md)
+
+
+### Shirt tress: Lyra Shirt Dress (Tilly and the Buttons)
+https://shop.tillyandthebuttons.com/products/lyra
+- [[Lyra shirt dress]]
+![|300](projects/attachments/Pasted%20image%2020230402094659.png)
+
+
+### Shirt dress: Camp shirt and dress (Liesl + Co)
+https://thefoldline.com/product/camp-shirt-and-dress-pdf/
+
+![|300](projects/attachments/Pasted%20image%2020230402094813.png)
 
 ## Tops
 ### Nature Top (Thread + Sprout)

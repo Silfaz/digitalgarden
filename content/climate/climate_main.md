@@ -37,7 +37,7 @@ _From: A climate activist holds up a sign during a protest against financial fir
 _From an [essay](https://commongood.cc/reader/a-few-rules-for-predicting-the-future-by-octavia-e-butler/) by Octavia E. Butler_. 
 
 
-- https://billmckibben.substack.com/p/your-money-is-your-carbon
+- [[Your money is your carbon]]
 - [Scales of Change](climate/Scales%20of%20Change.md) - podcast
 
 - [How we will fight climate change](climate/How%20we%20will%20fight%20climate%20change.md)

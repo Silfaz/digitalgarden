@@ -31,3 +31,12 @@ Ideas are just actionable thoughts.
 - A year of fermentation - get local and seasonal things and ferment them
 - ...
 
+After creative work, leave some time for new ideas to grow (e.g. going for a walk).
+
+## Note-taking
+- Keep it in one place
+- Keep things messy
+- Keep notes atomic (single note for single idea )
+- Verbatim quotes are fine
+- Usefulness is everything
+

@@ -1,7 +1,7 @@
 ---
 title: "The Mountain in the Sea"
 ---
-![|300](cover.jpg)
+![|300](projects/attachments/cover.jpg)
 _Read: March 2023_
 
 Loved it! It's not a long book, and I generally like when there's no unnecessary filling material in a book. When it doesn't drag on. This one was almost too short, especially towards the end I was wondering how they will wrap everything up (and it did feel slightly rushed towards the end). But overall a great book. Very pleasant, quite dry writing, and a good example of "showing not telling". For example when the characters use futuristic tech, like a kind of virtual mask that conceals your identity. Nothings _over_-explained. 
