@@ -70,7 +70,7 @@ Loose-fitting dress with sleeves gathered into cuffs and a back zip. The dress f
 
 ### Shirt tress: Lyra Shirt Dress (Tilly and the Buttons)
 https://shop.tillyandthebuttons.com/products/lyra
-- [[Lyra shirt dress]]
+- [[projects/sewing/Lyra shirt dress]]
 ![|300](projects/attachments/Pasted%20image%2020230402094659.png)
 
 
