@@ -139,6 +139,16 @@ _Made 2022-07-25_: [UFO_peaches](projects/fermentation/UFO_peaches.md)
 Put the salt and fruit pieces in a jar and fill up with water until all fruits are covered. Stir with a chop stick. Cover with a vine leave, weigh down with a weight so everything is submerged. Leave standing at room temperature, taste every day until it has a pleasant taste.
 
 
+## Preserved lemons
+
+_Made 2023-01-21_: [Preserved lemons](projects/fermentation/Preserved%20lemons.md)
+- 3-4 lemons (organic, throroughly washed)
+- salt
+
+Cut the lemons into quarters that are still attached at the end. Sprinkle salt (generously!) on the exposed lemon, then squish it face down into a clean jar and press down to release some liquid. Salt the top of the lemon. Press some more. Proceed with the next lemon, salting and pressing on top of the other lemon. 
+
+
+
 ## Fermented apples and butternut squash
 Inspired by https://www.thekitchn.com/lacto-fermented-squash-and-apples-23102791
 

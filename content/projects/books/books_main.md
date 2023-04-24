@@ -8,6 +8,8 @@ title: "Books main"
 - **A Psalm for the Wild-Built (Becky Chambers)**
 - Hunder Jahre Einsamkeit (Gabriel García Márquez)
 - **[[The Mountain in the Sea]] (Ray Nayler)** 
+- Jade City (Fonda Lee)
+- 
 
 
 ## Read 2022
@@ -24,7 +26,7 @@ title: "Books main"
 - Animal Farm (George Orwell, audiobook)
 - **How to Blow Up a Pipeline (Andreas Malm)**
 - **[The Dispossessed](projects/books/The%20Dispossessed.md) (Ursula K. Le Guin)**
-- [Transcendent Waves: How Listening Shapes Our Creative Lives](Transcendent Waves(projects/books/Transcendent%20Waves.md) (Lavender Suarez) 
+- Transcendent Waves: How Listening Shapes Our Creative Lives (Lavender Suarez) 
 - How to be an Antiracist (Ibram X. Kendi, audiobook)
 - Recursion (Blake Crouch)
 - Pathways (Jeri Taylor)

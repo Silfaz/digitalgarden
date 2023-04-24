@@ -49,7 +49,7 @@ See also: [Mycobrewery instagram 01-10-202](https://www.instagram.com/p/CFy-JEeB
 - Block of tempeh (soy works best), cut in thick slices
 - Baguette
 - Cucumber slices (fresh or pickled)
-- Mayonnaise (even better: [[preserved lemons]] mayonnaise)
+- Mayonnaise (even better: [[projects/fermentation/Preserved lemons]] mayonnaise)
 - Tempeh in [Sriracha-peanut marinade](projects/fermentation/Cooking%20with%20tempeh.md#Marinades#Sriracha-peanut%20marinade)
 - Sriracha
 - Fresh coriander
