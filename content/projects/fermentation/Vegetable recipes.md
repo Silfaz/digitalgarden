@@ -313,3 +313,45 @@ _Made: 2022:_ [Kimchi](projects/fermentation/Kimchi.md)
 It will not develop much CO2, so it's actually ok to close the jar tightly. I still air it from time to time during the first days and weeks, when I think about it. 
 
 It will last forever in the fridge and just get more sour and softer. 
+
+
+## Quick pickles (with vinegar)
+
+_Technically not fermented, but still delicious!_
+
+### Quick-pickled carrots & cucumbers
+Adapted from: https://livelytable.com/asian-style-quick-pickled-carrots/
+
+- 2 carrots, cut into matchsticks 
+- 1/2 cucumber or several baby cucumbers, cut into matchsticks
+- ¼ cup rice vinegar
+- ½ cup hot water
+- ½ tsp sugar
+- 1 tsp salt
+- optional: fresh ginger slices
+
+1. Pack vegetables tightly into a freshly cleaned and sterilised jar.
+2. Optional: Add a few ginger slices.
+3. Mix water, vinegar, salt and sugar. Stir to dissolve. 
+4. Pour the mix over the vegetables to cover them completely. 
+5. Let cool down and then place in fridge (or for immediate use, let soak for min. 30 min). Lasts about 2 weeks in the fridge.
+
+
+### Japanese-pickled cucumbers with sesame oil
+Adapted from: https://thelemonbowl.com/japanese-quick-pickled-cucumbers/
+
+- 1 cucumber, halved and thinly sliced
+- 2 spring onions, diced
+- ¼ cup rice vinegar
+- 2 Tbsp light soy sauce
+- 1 tsp sugar
+- 1 tsp sesame oil
+- Optional: 1 tsp chili paste
+- Optional garnish: black roasted sesame seeds
+
+1. In a medium bowl, whisk together vinegar, soy, sugar, sesame oil and chili paste until everything is dissolved. 
+2. Add cucumbers and scallions to bowl and toss well. Let sit at room temperature for 15 minutes or longer before serving.
+3. Garnish with black roasted sesame seeds.
+4. If made in advance, add some water to the liquid, pour everything over the cucumbers in a cleaned and sterilised jar and store in the fridge (for up to 2 weeks). 
+
+

@@ -2,6 +2,10 @@
 title: "Sewing Links"
 ---
 
+## Nähzubehör & Stoff
+https://www.snaply.de/
+
+
 
 ## Papertheory Patterns
 https://papertheorypatterns.com/

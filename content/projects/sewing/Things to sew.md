@@ -125,6 +125,11 @@ https://www.bowoonyc.com/shop/teenage-engineering-op-1-synth-canvas-felt-carry-c
 • Felt lining throughout the interior  
 • Hidden magnetic closures
 
+Pattern available here: https://lalillyherzileien.de/produkt/kombi-anleitung-grande-trabajador
+![](Pasted%20image%2020230507110314.png)
+
+![](Pasted%20image%2020230507110251.png)
+
 ### Pouch for e-book reader
 
 From Etsy seller [Einzelfabrikate](https://www.etsy.com/se-en/listing/1178377280/ultralight-high-quality-dog-blanket-to?click_key=5c2a02c28c450256333dbde9458cfcae1f2b9f44%3A1178377280&click_sum=3270f91f&ref=search2_top_narrowing_intent_modules_top_rated-6)

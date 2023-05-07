@@ -1,3 +1,7 @@
+---
+title: "Cooking"
+---
+
 
 [Lunchboxes and Bowls](projects/cooking/Lunchboxes%20and%20Bowls.md)
 
