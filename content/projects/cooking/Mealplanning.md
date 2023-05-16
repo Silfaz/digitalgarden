@@ -68,4 +68,13 @@ title: "Mealplanning"
 - Scrambled tofu
 - Tempeh Wellington
 - [Uttapam](projects/cooking/Recipes%20(tried%20&%20tested).md#Uttapam) with onion & tomato + dal + chutney
+- Red lentil curry [link](https://rainbowplantlife.com/vegan-red-lentil-curry/)
+- Chinese stir fry with preserved black beans and tofu [link](https://ofnkzfc.rouxbe.com/recipes/4995-stir-fried-vegetables-tofu-w-black-bean-sauce)
+- Banh mi (with tempeh/tofu/fish fingers) 
+- Green thai curry
+- Cheese toastie
+- Rolex 
+- Fish finger sandwich
+- Bacon sandwich
+- 
 
