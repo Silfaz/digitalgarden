@@ -3,7 +3,8 @@ title: "Sewing Links"
 ---
 
 ## Nähzubehör & Stoff
-https://www.snaply.de/
+https://www.snaply.de/ - Stoffe, Garne, Zubehör, Reißverschlüsse, Gurtband, etc. etc. etc. So viel Nähzubehör! Ich war vor allem an dem Druckknopfsortiment interessiert. 
+
 
 https://www.madameiris.com/ - Such pretty fabrics! My favourite one is currently [this one](https://www.madameiris.com/products/tissu-auguste) which I saw in an [Instagram post](https://www.instagram.com/p/Crd-01AyyZ4/) about the Array dress from Papercut Patterns 😍
 

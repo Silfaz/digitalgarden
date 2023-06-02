@@ -8,7 +8,7 @@ In dark copper cordoroy, linen or flexible canvas
 
 ### Joe Blazer (Ready to Sew)
 https://readytosew.fr/en/women-pdf/17-joe-blazer.html: A slim-fit tailored jacket with some classic features. The jacket is lined, partially interfaced and has princess seams. Details include welt pockets with flaps, two collar options and tailored sleeves.
-- [[projects/sewing/Joe blazer pictures & fabric]]
+- [Joe Blacer pictures & fabric](projects/sewing/Joe blazer pictures & fabric)
 
 ### Heather Blazer (Friday Pattern Company)
 https://fridaypatterncompany.com/products/heather-blazer-pdf-pattern: Unstructured, modern blazer. This comfortable and stylish jacket has a slightly oversized fit and can be worn in all seasons.
@@ -27,6 +27,7 @@ https://readytosew.fr/en/women-pdf/16-juliette-leather-skirt.html: High-waisted 
 Tank top with integrated shelf bra https://elbetextiles.com.au/products/weiland-tank-digital-sewing-pattern: Basic tank top cropped at the waist. Top half is lined and finished with elastic under the bust, creating a built-in shelf bra. Scooped neckline or V neck. To be worn alone or as layering piece.
 - [Weiland tank top pictures & fabric](projects/sewing/Weiland%20tank%20top.md)
 
+
 ## Trousers
 Dark grey or blue twill, denim, canvas
 
@@ -38,10 +39,12 @@ https://www.atelier-scammit.com/women/89-attitude.html: Neatly cut, elegant, sty
 https://openstudiopatterns.com/patterns/p/shop-pant: Casual trousers. The Shop Pants have a fitted high waist, roomy thigh and tapered leg. Feature a zipper fly and patch pockets. Full Youtube tutorial available with good explanations.
 - [Shop Pants pictures & fabric](projects/sewing/Shop%20Pants.md)
 
+
 ## Cardigan
 ### Marlo Cardigan (True Bias)
 https://truebias.com/products/marlo-sweater-1: Oversized sweater with a dropped shoulder, deep V-neck, wide bands and large buttons. Cropped or above mid thifh with patch pockets.
 - [Marlo Sweater pictures & fabric](projects/sewing/Marlo%20Sweater.md)
+
 
 ## Jackets
 ### Stacker Jacket (Papercut Patterns)
@@ -60,6 +63,7 @@ https://fabrics-store.com/jackets/paola-workwear-jacket-pattern-type-pdf: Workwe
 ## Sweatshirts and jumpers
 ### Dale Sweatshirt
 
+
 ## Dresses
 
 ### Bertie Shift Dress (Liberty)
@@ -70,7 +74,7 @@ Loose-fitting dress with sleeves gathered into cuffs and a back zip. The dress f
 
 ### Shirt tress: Lyra Shirt Dress (Tilly and the Buttons)
 https://shop.tillyandthebuttons.com/products/lyra
-- [[projects/sewing/Lyra shirt dress]]
+- [Lyra shift dress picture & fabric](projects/sewing/Lyra shirt dress)
 ![|300](projects/attachments/Pasted%20image%2020230402094659.png)
 
 
@@ -92,6 +96,9 @@ https://www.threadandsprout.com/tutorials/make-your-own-nature-top
 ## Pyjamas
 ### Samford set (Peppermint magazine)
 https://peppermintmag.com/sewing-school/samford-set/
+
+### Carolyn pyjamas (Closetcore Patterns)
+
 
 
 ## Bags, pouches, etc.
