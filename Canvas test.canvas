@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"f60cf9184979d090","x":-40,"y":-320,"width":400,"height":600,"type":"file","file":"projects/fermentation/01 fermentation_main.md"},
+		{"id":"bbbe702b58b1fbb1","x":-440,"y":-50,"width":250,"height":60,"type":"text","text":""},
+		{"id":"71066d5b103f3071","x":540,"y":-620,"width":380,"height":285,"type":"file","file":"projects/attachments/2022 April - Bergensbana.jpg"}
+	],
+	"edges":[
+		{"id":"b4db68f07f580931","fromNode":"bbbe702b58b1fbb1","fromSide":"right","toNode":"f60cf9184979d090","toSide":"left"},
+		{"id":"74da4115897c0f0f","fromNode":"bbbe702b58b1fbb1","fromSide":"top","toNode":"f60cf9184979d090","toSide":"top"},
+		{"id":"1863553b5bcc3b05","fromNode":"f60cf9184979d090","fromSide":"right","toNode":"71066d5b103f3071","toSide":"left","label":"look at pic"}
+	]
+}
