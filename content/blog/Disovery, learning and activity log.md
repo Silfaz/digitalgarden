@@ -1,6 +1,7 @@
 ---
 title: "Disovery, learning and activity log"
 ---
+
 ## w22 2023
 - Some learnings from booking a 3 week train travel through Europe (Sweden-Denmark-Germany-Netherlands-Belgium-Luxembourg-Germany-Austria-Germany-Sweden). With our dog 🐶.
 	- Don't chain trains. Delays will occur. It's so much nicer, and less stressful to stop more frequently, only have a few hours of train travel each day, arrive in the next destination earlier in the day and have a chance to explore it a bit. 

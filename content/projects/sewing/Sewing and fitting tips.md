@@ -1,4 +1,4 @@
 ---
-title:"Sewing and fitting tips"
+title: "Sewing and fitting tips"
 ---
 

@@ -5,7 +5,10 @@ title: "Sewing Links"
 ## Nähzubehör & Stoff
 https://www.snaply.de/
 
+https://www.madameiris.com/ - Such pretty fabrics! My favourite one is currently [this one](https://www.madameiris.com/products/tissu-auguste) which I saw in an [Instagram post](https://www.instagram.com/p/Crd-01AyyZ4/) about the Array dress from Papercut Patterns 😍
 
+![|300](Pasted%20image%2020230602112720.png)
+_(Array dress, Papercut Patterns. https://www.instagram.com/p/Crd-01AyyZ4/. Image credit: Papercut Patterns)_
 
 ## Papertheory Patterns
 https://papertheorypatterns.com/
