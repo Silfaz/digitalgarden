@@ -98,6 +98,8 @@ https://www.threadandsprout.com/tutorials/make-your-own-nature-top
 https://peppermintmag.com/sewing-school/samford-set/
 
 ### Carolyn pyjamas (Closetcore Patterns)
+https://closetcorepatterns.com/collections/sewing-patterns-all/products/carolyn-pajama-sewing-pattern
+
 
 
 
