@@ -12,3 +12,5 @@ title: "Cooking"
 [Weihnachtskekserl](projects/cooking/Weihnachtskekserl.md)
 
 [Recipes (tried & tested)](projects/cooking/Recipes%20(tried%20&%20tested).md)
+
+[Cooking links](projects/cooking/Cooking%20links.md)
