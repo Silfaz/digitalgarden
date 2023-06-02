@@ -1,9 +1,16 @@
 ---
 title: "Disovery, learning and activity log"
 ---
+## w22 2023
+- Some learnings from booking a 3 week train travel through Europe (Sweden-Denmark-Germany-Netherlands-Belgium-Luxembourg-Germany-Austria-Germany-Sweden). With our dog 🐶.
+	- Don't chain trains. Delays will occur. It's so much nicer, and less stressful to stop more frequently, only have a few hours of train travel each day, arrive in the next destination earlier in the day and have a chance to explore it a bit. 
+	- Don't be overly ambitious. We usually left a place at around 10, that leaves time for a nice breakfast and morning walk. Then buy a snack, get on the train for a few hours. Dog sleeps, we read, listen, watch, chat, snooze, eat. Early afternoon, we arrive, walk to the hotel, drop off our stuff, rest a bit and then head out for exploring the city and look for a nice café or restaurant for early dinner. 
+	- Pick _one_ thing to see in each place. Even in the most boring seeming places, there is _something_ to explore. It's good to look that thing up before you arrive, so the visits in the various places are not all just aimless wandering. It can be nice to aimlessly wander, but it also gets a bit tiring. For example in Kolding, we visited the model village Minibyn and the botanical garden around it. In Hamburg, we went to the Speicherstadt. In Utrecht, along the Nieuwe Gracht. 
+
+
 ## w17 2023
 - The Netherlands produces an astonishing amount of food, both vegetables and meat. Here's an article that portrays the scale of it, and describes how it runs actually very energy- and resource-efficiently (or as good as possible): https://www.washingtonpost.com/business/interactive/2022/netherlands-agriculture-technology/
-- 
+
 
 ## w16 2023
 - This week I refreshed my Phython pandas knowledge to analyse and plot some fermentation data. From work I have a lot of recordings of fermentation pH and temperature values over time, and most of them are in huge Excel sheets and it's a pain to analyse by hand. But I'm always in this dilemma that my datasets are still small enough to be able to do it by hand, and it's usually faster than sitting down and trying to figure out how to program a pipeline for analysis, that would make things quicker in the long run. Anyway, I finally had some time and watched a few Youtube videos about pandas, and followed some tutorials about [Matplotlib](https://matplotlib.org/. And - tataaa - I have now sucessfully created a Jupyter notebook with a pipeline that cleanes up my data, calculates some essential things, and then creates a nice graph. It still needs some improvements, like some loops over iterative file names, but in general I'm pretty happy that I managed to produce something useful. 

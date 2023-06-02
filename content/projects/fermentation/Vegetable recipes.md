@@ -1,6 +1,7 @@
 ---
 title: "Vegetable (and some fruit) recipes"
 ---
+
 ![](projects/attachments/Pasted%20image%2020221219212911.png)
 
 ## Vietnamese pickled carrot and daikon
