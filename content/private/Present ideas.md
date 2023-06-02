@@ -12,15 +12,7 @@
 - Hundepopcorn
 
 
-### Duncan
-- Windmühle - DONE
-- Flaschenhals
-- Käse --> muss noch in Lund kaufen
-
 ### Angie & Christian
-- lange Wärmflasche - DONE (bestellt 2022-12-07)
-- Papierblumen-bastelset - DONE
-- Oatly Rucksack - DONE (wenn ich meinen nehme)
 - riesiges Teei --> schau in HBG Tee-shop
 
 
@@ -42,8 +34,17 @@
 	- https://www.stickermule.com/eu/products/die-cut-stickers
 	- https://www.etsy.com/se-en/shop/kindersticker
 
-- solar-powered wind turbine for desk or window
-- Almnäs Tegel cheese http://www.almnas.com/en/ (Gold in World Cheese Awards 2019): Find at -   Möllans Ost, Malmö; Ost & Vänner, Malmö; Reko deli, Lund
+- Bettzeug da für seine Bettdecke passt:
+	- https://www.avocadostore.de/products/376883-bettdeckenbezug-baumwolle-paula-lavie?variant_id=3298894
+	- https://www.avocadostore.de/products/254487-bettdeckenbezug-leinen-linus-lavie?variant_id=3227593
+	- https://www.grueneerde.com/de/produkte/schlafen/ge-ps-bettwaesche-elif.html
+	- https://www.grueneerde.com/ge-c-bettwaesche-sets.html
+	- https://shop.maryrose.at/collections/bettwasche/products/c2c-bio-popeline-bettwasche-karo-gewebt?variant=34020439851139
+	- https://lyocello.com/collections/tencel-bettwaesche?awc=35365_1685628324_f07eba64c4e029b82ddaf15ed2c83b27
+	- https://www.yumeko.de/bettwascheset-gewaschen-leinen-blue-stripe-155x220-1-80x80
+	- https://www.atisan.de/collections/bettwaesche-sets/products/leinen-bettwasche-set-lua-grau-gestreift?variant=39472936255551
+	- 
+
 - 
 
 # Angie

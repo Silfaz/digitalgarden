@@ -16,7 +16,7 @@ title: "Mealplanning"
 - Couscous salad
 - Ottolenghi's giant couscous
 - Mushroom mapo tofu
-- Bibimbap
+- Bibimbap ([recipe](https://www.loveandlemons.com/bibimbap-recipe/))
 - Keema sandwiches (East, p174)
 - Tomato soup with bread
 - Pasta with olives, capers, pine nuts, sugar snaps
@@ -68,8 +68,8 @@ title: "Mealplanning"
 - Scrambled tofu
 - Tempeh Wellington
 - [Uttapam](projects/cooking/Recipes%20(tried%20&%20tested).md#Uttapam) with onion & tomato + dal + chutney
-- Red lentil curry [link](https://rainbowplantlife.com/vegan-red-lentil-curry/)
-- Chinese stir fry with preserved black beans and tofu [link](https://ofnkzfc.rouxbe.com/recipes/4995-stir-fried-vegetables-tofu-w-black-bean-sauce)
+- Red lentil curry ([recipe](https://rainbowplantlife.com/vegan-red-lentil-curry/))
+- Chinese stir fry with preserved black beans and tofu ([recipe](https://ofnkzfc.rouxbe.com/recipes/4995-stir-fried-vegetables-tofu-w-black-bean-sauce))
 - Banh mi (with tempeh/tofu/fish fingers) 
 - Green thai curry
 - Cheese toastie
