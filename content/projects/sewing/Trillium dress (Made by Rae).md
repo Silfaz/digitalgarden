@@ -2,6 +2,12 @@
 title: "Made by Rae"
 ---
 
-![](projects/attachments/DSCF7900.jpg)
+### Pattern
 
-![](projects/attachments/DSCF7895.jpg)
+
+### Fabric
+
+
+![|500](projects/attachments/DSCF7900.jpg)
+
+![|500](projects/attachments/DSCF7895.jpg)

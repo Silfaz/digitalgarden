@@ -6,7 +6,6 @@ title: "Good quotes"
 > It always seems impossible until it's done. - _Nelson Mandela_ 
 
 
-
 > Wealth consists not in having great possessions, but in having few wants. - _Epictetus_
 
 
@@ -15,7 +14,7 @@ title: "Good quotes"
 
 > The ultimate form of preparation is not planning for a specific scenario, but a mindset that can handle uncertainty. - _James Clear_ (via Dense Discovery newsletter)
 
-
+> Anyone who thinks you can have infinite growth on a finite planet is either a madman or an economist. - _Kenneth Boulding_
 
 
 

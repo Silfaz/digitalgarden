@@ -2,5 +2,10 @@
 title: "Frances boxy top (Fibremood)"
 ---
 
+### Pattern
 
-![](projects/attachments/DSCF7872.jpg)
+
+### Fabric
+
+
+![|500](projects/attachments/DSCF7872.jpg)

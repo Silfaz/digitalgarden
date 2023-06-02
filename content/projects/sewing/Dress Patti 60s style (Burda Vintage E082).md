@@ -2,10 +2,13 @@
 title: "Dress Patti 60s style (Burda Vintage E082)"
 ---
 
-Fabric:
+### Pattern
 
-![](projects/attachments/DSCF7930.jpg)
 
-![](projects/attachments/DSCF7933.jpg)
+### Fabric
 
-![](projects/attachments/DSCF7936.jpg)
+![|500](projects/attachments/DSCF7930.jpg)
+
+![|500](projects/attachments/DSCF7933.jpg)
+
+![|500](projects/attachments/DSCF7936.jpg)

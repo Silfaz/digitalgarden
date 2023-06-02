@@ -2,9 +2,12 @@
 title: "Indigo dress (Tilly and the Buttons)"
 ---
 
-Fabric:
+### Pattern
 
-![](projects/attachments/DSCF7966.jpg)
+### Fabric
 
-![](projects/attachments/DSCF7967.jpg)
+
+![|500](projects/attachments/DSCF7966.jpg)
+
+![|500](projects/attachments/DSCF7967.jpg)
 

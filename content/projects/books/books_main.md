@@ -41,7 +41,7 @@ title: "Books main"
 - Star Trek Deep Space 9 - Avatar 1/2 (S.D. Perry)
 - Eloquent JavaScript: A modern introduction to programming (Marijn Haverbeke)
 - Show your work: 10 ways to share your creativity and get discovered (Austin Kleon)
-- **The Ministry for the Future (Kim Stanley Robinson)** [The Ministry for the Future](projects/books/The%20Ministry%20for%20the%20Future.md)
+- **[The Ministry for the Future](projects/books/The%20Ministry%20for%20the%20Future.md) (Kim Stanley Robinson)**
 - The Address Book (Deidre Mask)
 - Mr. Penumbra's 24 hour bookstore (Robin Sloan)
 - A fine balance (Rohinton Mistry)

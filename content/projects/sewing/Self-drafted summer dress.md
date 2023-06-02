@@ -2,7 +2,8 @@
 title: "Self-drafted summer dress"
 ---
 
-Fabric:
+### Fabric
+Double gauze
 
 ![](projects/attachments/DSCF7979.jpg)
 

@@ -8,8 +8,16 @@ https://www.snaply.de/ - Stoffe, Garne, Zubehör, Reißverschlüsse, Gurtband, e
 
 https://www.madameiris.com/ - Such pretty fabrics! My favourite one is currently [this one](https://www.madameiris.com/products/tissu-auguste) which I saw in an [Instagram post](https://www.instagram.com/p/Crd-01AyyZ4/) about the Array dress from Papercut Patterns 😍
 
-![|300](Pasted%20image%2020230602112720.png)
+![|300](projects/attachments/Pasted%20image%2020230602112720.png)
 _(Array dress, Papercut Patterns. https://www.instagram.com/p/Crd-01AyyZ4/. Image credit: Papercut Patterns)_
+
+https://www.bonnieandbuttermilk.com/ - Coole und kindische, kunterbunte print Stoffe. 
+
+
+
+### Print on demand fabrics
+https://caspar-design.com/
+
 
 ## Papertheory Patterns
 https://papertheorypatterns.com/

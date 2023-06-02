@@ -2,8 +2,10 @@
 title: "Bianca bolero jacket (Sinclair Patterns)"
 ---
 
-Fabric:
+### Pattern
 
-![](projects/attachments/DSCF7974.jpg)
+### Fabric
 
-![](projects/attachments/DSCF7971.jpg)
+![|500](projects/attachments/DSCF7974.jpg)
+
+![|500](projects/attachments/DSCF7971.jpg)

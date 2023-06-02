@@ -135,9 +135,9 @@ https://www.bowoonyc.com/shop/teenage-engineering-op-1-synth-canvas-felt-carry-c
 • Hidden magnetic closures
 
 Pattern available here: https://lalillyherzileien.de/produkt/kombi-anleitung-grande-trabajador
-![](Pasted%20image%2020230507110314.png)
+![](projects/attachments/Pasted%20image%2020230507110314.png)
 
-![](Pasted%20image%2020230507110251.png)
+![](projects/attachments/Pasted%20image%2020230507110251.png)
 
 ### Pouch for e-book reader
 
