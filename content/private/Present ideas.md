@@ -24,6 +24,8 @@
 - Ottolenghi Kochbuch (simple)
 - Ätiopisches Kochbuch
 - Vietnamesische Lampions https://www.etsy.com/se-en/listing/217141499/set-8-pcs-hoi-an-silk-lanterns-35cm-for?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=vietnamesische+lampoons&ref=sr_gallery-1-6&pro=1 or https://www.lampionsenzo.com/about-us/
+- Linoldruck set https://www.kunstpark-shop.de/linoldruck-set/ oder https://www.hobbyshop.de/Kuenstlerbedarf/Linoldruck
+- 
 - 
 
 # Duncan
