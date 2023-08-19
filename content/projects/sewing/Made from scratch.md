@@ -25,4 +25,4 @@ My self-mades, including pictures, and some info on fit, pattern and fabric choi
 - [Blouse](projects/sewing/Blouse.md)
 - [Harvest top (Peppermintmag)](projects/sewing/Harvest%20top%20(Peppermintmag).md)
 - [Jogginghose und -shirt (Tilly and the Buttons)](projects/sewing/Jogginghose%20und%20-shirt%20(Tilly%20and%20the%20Buttons).md)
-- 
+- [Donny shirt (Friday Pattern Company)](projects/sewing/Donny%20shirt.md)

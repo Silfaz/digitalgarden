@@ -120,12 +120,19 @@ _Made 2022-07-25_: [Fennel with mint and lemon](projects/fermentation/fennel_min
 - 1 lemon, scrubbed and thinly sliced, seeds removed
 - vine leaf (optional)
 
-Basic **3%** vegetable brine: 1000 mL water + 30 g salt 
+Basic **3%** brine: 1000 mL water + 30 g salt 
 
 Cut fennel into large chunks. Arrange vegetables in jar and place the lemon slices and mint leaves around the outside. Cover with 1 vine leaf and weigh down so everything's submerged. Leave at RT for a few days.
 
 When the brine starts to get cloudy, start tasting. When sour enough, discard the lemon slices and mint leaves, transfer to jar with a lid and place in the fridge.
 
+## Fennel
+_Made 2023-07-22:_ [[projects/fermentation/Fennel]]
+
+- 1 fennel bulb
+- vine leaf
+
+Basic **3%** brine: 500 mL water + 15 g salt
 
 ## UFO peaches 
 Inspired by [The Noma Guide to Fermentation](projects/fermentation/noma_guide.md) and https://www.tyrantfarms.com/how-to-make-lacto-fermented-fruit-with-recipes/

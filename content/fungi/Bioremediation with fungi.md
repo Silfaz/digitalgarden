@@ -55,4 +55,4 @@ Though many studies show the degradation ability of various fungi, very few of t
 Genetic engineering could improve the ability of fungi to biodegrade plastic polymers, and enzyme engineering could improve the efficiency of isolated enzymes and enzyme cocktails to attack the bonds in plastic polymers. 
 Strategies to make the plastic polymers more accessible to degradation by fungi or enzymes are also important, as well as mixing different strains or enzymes together to be able to degrade a wide variety of different polymers. 
 
-There have been studies of edible fungi - Pleurotus ostreatus, Pleurotus abalones, Agaricus bisporus - that degrade and can grow on plastic films.
+There have been studies of edible fungi - _Pleurotus ostreatus_, _Pleurotus abalones_, _Agaricus bisporus_ - that degrade and can grow on plastic films.

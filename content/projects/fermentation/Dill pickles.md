@@ -14,7 +14,10 @@ In the beginning (after a few days fermentation at RT and then 1-2 weeks in the 
 
 After 1 month in the fridge the liquid has penetrated the whole cucumber and they taste really nice. To stay crunchy, I added 2 bay leaves to the brine during fermentation, which seems to have worked well.
 
-After 4 months in the fridge, the cucuber started to get quite soft. Still delicious, but crunch is missing. So next time, **consume within 3 months**.
+After 4 months in the fridge, the cucumber started to get quite soft. Still delicious, but crunch is missing. So next time, **consume within 3 months**.
 
+_2022-07-25_:
+
+This time I found the right cucumbers in the supermarket, the ones with the very textured surface. Left out at RT for 5 days, then transferred to the fridge. 
 
 

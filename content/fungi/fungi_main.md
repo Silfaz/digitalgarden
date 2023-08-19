@@ -22,8 +22,10 @@ Planned episode:
 - [[fungi/Mycorrhizal networks]]
 - ...
 
-## Growing mushrooms
-[Yellow oyster mushrooms](fungi/Yellow%20oyster%20mushrooms.md) grew quite well in the living room in a perforated plastic box on top of damp Vermiculite.
+## Growing & finding mushrooms
+- [Yellow oyster mushrooms](fungi/Yellow%20oyster%20mushrooms.md) grew quite well in the living room in a perforated plastic box on top of damp Vermiculite.
+- [Chicken of the woods](fungi/Chicken%20of%20the%20woods.md) (_Laetiporus_, mainly _L. sulphureus_ and _L. cincinnatus_) Apparently tastes more like chicken than chicken itself.
+
 
 
 ## Growing filamentous fungi
@@ -32,6 +34,13 @@ _Fungi collection in Industrial Biotechnology, Chalmers University of Technology
 
 
 
-## Fungi news
+## Fungi  & and notes
 - [Meat substitute from Aspergillus](fungi/Meat%20substitute%20from%20Aspergillus.md)
 - [Filamentous fungal carriers for cultivated meat](fungi/Filamentous%20fungal%20carriers%20for%20cultivated%20meat.md)
+- [[fungi/Combining lactic acid bacteria + fungi to utilise side and waste streams]]
+
+## To read
+
+
+
+

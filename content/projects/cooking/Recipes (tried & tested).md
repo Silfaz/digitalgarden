@@ -2,6 +2,23 @@
 title: "'Recipes (tried & tested)'"
 ---
 
+## Chimichurri
+Adapted from: https://cafedelites.com/authentic-chimichurri-uruguay-argentina/
+
+- 1/2 cup olive oil
+- 2 tablespoons red wine vinegar (or lemon juice)
+- 1/2 cup finely chopped parsley
+- 2-3 cloves garlic , finely chopped or minced
+- 2 small red chilies , or 1 red chili, deseeded and finely chopped (about 1 tablespoon finely chopped chili)
+- 3/4 teaspoon dried oregano
+- 1 level teaspoon coarse salt
+- pepper, to taste (about 1/2 teaspoon)
+
+1. Mix all ingredients together in a bowl. Allow to sit for 5-10 minutes to release all of the flavours into the oil before using. Ideally, let it sit for more than 2 hours, if time allows.
+2. Chimichurri can be prepared earlier than needed, and refrigerated for 24 hours, if needed.
+
+
+
 ## Homemade pasta (tagliatelli)
 - 350 mL water
 - 5 Tbsp olive oil

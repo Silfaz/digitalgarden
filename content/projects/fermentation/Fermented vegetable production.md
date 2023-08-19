@@ -4,7 +4,7 @@ title: "Fermented vegetable production"
 
 ![](projects/attachments/Fermentation%20station.jpg)
 
-[Fermtented carrot and parsley root](projects/fermentation/fermented_carrot_parsley.md)
+[Fermented carrot and parsley root](projects/fermentation/fermented_carrot_parsley.md)
 
 [Hungarian celeriac kraut](projects/fermentation/Hungarian%20celeriac%20kraut.md)
 
@@ -34,3 +34,12 @@ title: "Fermented vegetable production"
 
 [[Beet roots]]
 
+[Chayote - plain and Jamaican-style](projects/fermentation/Chayote%20-%20plain%20and%20Jamaican-style.md)
+
+[Green papaya Thai-style](projects/fermentation/Green%20papaya%20Thai-style.md)
+
+[Bottle gourd](projects/fermentation/Bottle%20gourd.md)
+
+[Water melon rinds](projects/fermentation/Water%20melon%20rinds.md)
+
+[Fennel](projects/fermentation/Fennel.md)

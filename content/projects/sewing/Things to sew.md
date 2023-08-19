@@ -87,6 +87,11 @@ https://thefoldline.com/product/camp-shirt-and-dress-pdf/
 ### Nature Top (Thread + Sprout)
 https://www.threadandsprout.com/tutorials/make-your-own-nature-top
 
+### Donny shirt (Friday Pattern Company)
+https://fridaypatterncompany.com/products/donny-shirt-pdf-pattern
+Boxy pull-on top, dartless, with a lapel collar and (optional) patch pocket. The Donny is a great  
+everyday top that can be worn with practically anything. Because of its boxy silhouette, the Donny is comfortable but still cool. Pair it with jeans or a skirt, layer it over or under a dress.
+- [[projects/sewing/Donny shirt pictures & fabric]]
 
 ## Blouses
 ### Noella Blouse (Juliana Martejevs)

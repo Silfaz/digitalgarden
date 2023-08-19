@@ -9,7 +9,12 @@ title: "Books main"
 - Hunder Jahre Einsamkeit (Gabriel García Márquez)
 - **[[The Mountain in the Sea]] (Ray Nayler)** 
 - Jade City (Fonda Lee)
-- 
+- The Birthday of the World and other stories (Ursula K. Le Guin)
+- [New York 2140](projects/books/New%20York%202140.md) (Kim Stanley Robinson)
+- Story of your Life and others (Ted Chiang)
+- The Left Hand of Darkness (Ursula K. Le Guin)
+- Sommaren 1985 (John Ajvide Linqvist, audiobook)
+- Pod (Laline Paull, audiobook)
 
 
 ## Read 2022
