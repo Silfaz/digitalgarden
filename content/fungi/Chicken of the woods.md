@@ -6,7 +6,7 @@ _Laetiporus sulphureus_
 English: Chicken of the wood, crab of the wood, sulphur shelf, sulphur polypore
 German: Gemeiner Schwefelporling
 Swedish: Svavelticka
-![|400](Pasted%20image%2020230730101834.png)_(Photo credit: https://www.inaturalist.org/taxa/53713-Laetiporus-sulphureus)_
+![|400](projects/attachments/Pasted%20image%2020230730101834.png)_(Photo credit: https://www.inaturalist.org/taxa/53713-Laetiporus-sulphureus)_
 
 As food:
 - Tastes best when grown on cherry trees

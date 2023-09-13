@@ -76,7 +76,7 @@ _(Calathea ornata (Goeppertia ornata, pin-stripe calathea))_
 	- Leaves drying up or drooping: Too low humidity.
 	- Burnt leaves, brown patches: Too much light.
 	- Leaves that curl inwards: Underwatering
-	- Yellowing or wiltink leaves: Overwatering
+	- Yellowing or wilting leaves: Overwatering
 	- Faded leaves: Too much light.
 - Occasional lukewarm shower is good to remove dust from the leaves. Best with distilled water, as mineral-rich water can leave white chalky deposits on the leaves. 
 - Very good for bathrooms (high humidity), but they do need some light.

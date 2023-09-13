@@ -66,7 +66,7 @@ Soak o/n, cook for **8 min** without dehulling. Lose most of the pretty red colo
 
 
 ### Post-fermentation
-When placed in the oven, it continues to ferment and change in taste and texture. So for slightly under-fermented cakes that's a good think to do for 1-2 days. For well-fermented cakes however, I wouldn't store it in the fridge without heat-treating (and inactivating, i.e. killing) the fungus. 
+When placed in the fridge, it continues to ferment and change in taste and texture. So for slightly under-fermented cakes that's a good think to do for 1-2 days. For well-fermented cakes however, I wouldn't store it in the fridge without heat-treating (and inactivating, i.e. killing) the fungus. 
 
 #### Heat treatment
 Remove the tempeh cake from the plastic bag or glass dish and wrap in aluminium foil. Place in **85°C oven for 30 min**, then let cool down on the counter top. After this, the tempeh is good in the fridge for about 1-2 weeks.
