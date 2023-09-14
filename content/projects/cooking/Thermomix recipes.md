@@ -1497,3 +1497,21 @@ title: "Thermomix recipes"
 
 
 
+
+## Apricot balls
+
+https://thermobliss.com/thermomix-healthy-apricot-balls/
+
+### Ingredients
+- 190 g dried apricots
+- 70 g rolled oats
+- 20 g desiccated coconut
+- 1 tbs chia seeds
+- 2 tbs coconut oil melted
+- 2 tbs rice malt syrup or honey
+
+### Preparation
+
+1. Chop the dried apricots for 5 seconds, Speed 8. Scrape down the sides of the bowl.
+2. Add all of the remaining ingredients and mix together for 10 seconds, Speed 6.
+3. Roll the mixture into balls.
