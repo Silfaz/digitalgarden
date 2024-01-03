@@ -24,11 +24,9 @@
 	- https://www.grindstore.com/accessories/patches/
 	- https://www.stickermule.com/eu/products/die-cut-stickers
 	- https://www.etsy.com/se-en/shop/kindersticker
-- Bubble tea set und Zutaten
 - Messerschleifkurs
 - Schnupperstunde für Schlagzeugspielen
 - Wohin fahren wo man den Nachthimmel sehen kann
-- Trendglas Jena Teetasse aus Glas mit integriertem Glasteesieb
 
 
 ### Mama
@@ -50,5 +48,6 @@
 
 
 ### Angie & Christian
-- riesiges Teei
+
+
 

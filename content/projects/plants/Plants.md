@@ -10,7 +10,7 @@ title: "Plants"
 
 - https://www.thespruce.com/growing-pilea-peperomioides-5090425
 - Nettle family
-- Native to Southern China, grows along the base of the Himalyan mountains.
+- Native to Southern China, grows along the base of the Himalayan mountains.
 - Needs:
 	- Well-draining soil, pH 6-7
 	- Partial sun exposure, medium to bright **indirect** light

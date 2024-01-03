@@ -333,7 +333,7 @@ Adapted from: https://livelytable.com/asian-style-quick-pickled-carrots/
 - 2 carrots, cut into matchsticks 
 - 1/2 cucumber or several baby cucumbers, cut into matchsticks
 - ¼ cup rice vinegar
-- ½ cup hot x
+- ½ cup hot water
 - ½ tsp sugar
 - 1 tsp salt
 - optional: fresh ginger slices

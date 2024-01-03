@@ -15,6 +15,12 @@ title: "Books main"
 - The Left Hand of Darkness (Ursula K. Le Guin)
 - Sommaren 1985 (John Ajvide Linqvist, audiobook)
 - Pod (Laline Paull, audiobook)
+- F (Daniel Kehlmann)
+- The Immortalists (Chloe Benjamin)
+- How Big Things Get Done (Bent Flyvbjerg)
+- Masala Lab: The Science of Indian Cooking (Krish Ashok)
+- A Prayer for the Crown-Shy (Becky Chambers)
+- All Systems Red - Murderbot Diaries #1 (Martha Wells)
 
 
 ## Read 2022

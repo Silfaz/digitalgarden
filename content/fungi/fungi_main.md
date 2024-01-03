@@ -38,7 +38,7 @@ _Fungi collection in Industrial Biotechnology, Chalmers University of Technology
 - [Meat substitute from Aspergillus](fungi/Meat%20substitute%20from%20Aspergillus.md)
 - [Filamentous fungal carriers for cultivated meat](fungi/Filamentous%20fungal%20carriers%20for%20cultivated%20meat.md)
 - [[fungi/Combining lactic acid bacteria + fungi to utilise side and waste streams]]
-
+- https://fungalpedia.org/glossary/mycoprotein/
 ## To read
 
 

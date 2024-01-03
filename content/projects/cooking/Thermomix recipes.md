@@ -2,6 +2,7 @@
 title: "Thermomix recipes"
 ---
 
+
 ## Walnuss-Risotto mit gebackenen Tomaten
 ![|300](projects/attachments/Pasted%20image%2020230821075607.png)
 
@@ -169,7 +170,7 @@ title: "Thermomix recipes"
 - 150 g pancetta, cubed (2 cm) or guanciale, cubed (2 cm)
 - 15 g olive oil
 - 1 medium egg
-- 3 egg yolks, from medium eggs
+- 1 egg yolk, from medium egg
 - 25 g white miso (or shiro miso)
 - 3 pinches ground black pepper
 - 800 g fresh udon noodles

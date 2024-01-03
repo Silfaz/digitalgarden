@@ -22,3 +22,6 @@ new 01-01-2023
 - Sandor Katz, book [[projects/books/The Art of Fermentation]]: wild fermentation icon but pleasingly scientific in his explanations, dares to experiment, seems like a nice person, values community
 - Photographers on instagram: Gustav Grall - Swedish everyday life; simple; nice colours; nostalgic https://www.instagram.com/gustavgrall/. Marcus Westberg - wildlife explorer, conservation photographer https://www.instagram.com/marcuswestbergphotography/
 - Future Ecologies podcast
+
+new 16-12-2023
+- Monk & Robot series (by Becky Chambers). Connected to solarpunk, but deserves its own mention since it's such a nice and positive alternative vision for a sci-fi setting. 

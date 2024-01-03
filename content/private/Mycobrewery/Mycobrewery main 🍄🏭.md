@@ -1,5 +1,5 @@
 ---
-title: "Mycobrewery main"
+title: Mycobrewery main
 ---
 
 # What is The Mycobrewery?

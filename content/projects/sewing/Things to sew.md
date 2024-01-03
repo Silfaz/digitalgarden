@@ -59,7 +59,8 @@ https://www.sewingpatternsbymasin.com/sewing-patterns/jameela: Cozy jacket patte
 https://fabrics-store.com/jackets/paola-workwear-jacket-pattern-type-pdf: Workwear-inspired, straight boxy fit, four large patch pockets and flat-felled seams for sturdiness. 
 - [Paola Workwear Jacket](projects/sewing/Paola%20Workwear%20Jacket.md)
 
-
+### Emmi Jacket (Papercut Patterns)
+https://papercutpatterns.com/collections/outerwear-printed/products/emmi-jacket?variant=40275840630850: Boxy, easy fit, with a shaped two piece sleeve. Choose between three different lengths - cropped, a curved hem or long. The cropped and long lengths can also have a drawstring hem. Four interchangeable collar options.
 ## Sweatshirts and jumpers
 ### Dale Sweatshirt
 
@@ -110,6 +111,14 @@ https://closetcorepatterns.com/collections/sewing-patterns-all/products/carolyn-
 
 ## Bags, pouches, etc.
 
+### Mini shoulder bag
+https://www.youtube.com/watch?v=6mub9Kbs3LE
+
+
+### All well Full Moon bag
+https://allwellworkshop.com/full-moon-bag
+
+![](projects/attachments/Pasted%20image%2020231123203151.png)
 ### Padded pouch for synth modules
 https://cremacaffe.shop/products/padded-pouches?variant=39296115867734
 

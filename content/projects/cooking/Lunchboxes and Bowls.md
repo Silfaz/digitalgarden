@@ -3,6 +3,34 @@ title: "Lunchboxes and bowls"
 ---
 ## 2023
 
+### Week 16
+- Veggie meatballs.
+- Giant couscous with sweet corn.
+- Sliced carrots and cucumbers.
+![|400](private/Yearly%20reviews/2023%20Review/photos/Pasted%20image%2020231231181147.png)
+### Week 6
+- Veggie chorizo.
+- Ajvar.
+- Bulgur.
+- Fried pepper, carrots and courgette with chimichurri.
+![|400](projects/attachments/Pasted%20image%2020231231173716.png)
+### Week 5
+- Meatballs
+- Fried peppers and green beans.
+- Fermented brussels sprouts and beets.
+- Rice with quinoa and dal.
+- 
+![|400](projects/attachments/Pasted%20image%2020231231173412.png)
+### Week 4
+- Quinoa with green beans.
+- Rökt tofu.
+- Veggies with creamy sauce.
+![|400](projects/attachments/Pasted%20image%2020231231172507.png)
+### Week 3
+- Onigiri with ume plum.
+- Broccoli and edamame beans.
+![|400](projects/attachments/Pasted%20image%2020231231171729.png)
+
 ### Week 2
 - Bulgur, mixed beans, chopped fresh mint and rosemary, cubed cucumbers.
 - Finely slices red cabbage, carrot slices, cubed beet root, crumbled feta and sour cream.
