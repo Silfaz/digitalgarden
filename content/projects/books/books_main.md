@@ -21,6 +21,7 @@ title: "Books main"
 - Masala Lab: The Science of Indian Cooking (Krish Ashok)
 - A Prayer for the Crown-Shy (Becky Chambers)
 - All Systems Red - Murderbot Diaries #1 (Martha Wells)
+- [**Things Become Other Things (Craig Mod)**](projects/books/Things%20Become%20Other%20Things.md)
 
 
 ## Read 2022

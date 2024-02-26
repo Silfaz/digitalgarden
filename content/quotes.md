@@ -17,4 +17,10 @@ title: "Good quotes"
 > Anyone who thinks you can have infinite growth on a finite planet is either a madman or an economist. - _Kenneth Boulding_
 
 
+> Sometimes you don’t know the value of a moment until it becomes a memory. - _Gunnar Freyr (via Dense Discovery newsletter)_
+
+
+> When you’re accustomed to privilege, equality feels like oppression. - _Clay Shirky (via Dense Discovery newsleetter)
+
+
 

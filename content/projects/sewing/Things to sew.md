@@ -1,6 +1,27 @@
 ---
 title: "Things to sew"
 ---
+## To sew list
+- Simple shirt in plain fabric, e.g. blue Chambrey. Pattern suggestion: [Stevie tunic (Tilly & the buttons)](https://shop.tillyandthebuttons.com/collections/sewingpatterns/products/stevie) [Inari dress (Named Clothing](https://www.namedclothing.com/products/inari-crop-tee)
+![](projects/attachments/Screenshot%202024-01-13%20at%2015.52.47.png)
+
+- [Bertie shift dress (Liberty)](projects/sewing/Bertie%20shift%20dress%20pictures%20&%20fabric.md) in more modern fabric, e.g. grey with neon graphic print, or orange + white graphic print. Or uni-coloured, a strong colour, e.g. orange, rust or blue.
+- Shirt dress in white and black graphic print or a big fun colourful print. Pattern suggestion: Helmi tunic
+![](projects/attachments/Screenshot%202024-01-13%20at%2015.56.34.png)
+
+![](projects/attachments/Screenshot%202024-01-13%20at%2015.58.50.png)
+
+- Shirts with nice collars for underneath jumpers. Pattern suggestion: Helmi shirt
+- Short-sleeved shirts with cool patterns for summer. Maybe even with a matching skirt to combine to look like a dress. Pattern suggestion: Donny shirt, Gilbert top --> Neither of those work well underneath a jumper because of the camp collar!  ![](projects/attachments/Screenshot%202024-01-13%20at%2016.05.12.png)
+- White textured shirt with collar for underneath jumpers and dresses. Long or short sleeves?? Pattern suggestion: Helmi shirt
+![](projects/attachments/Screenshot%202024-01-13%20at%2016.11.02.png)
+- Simple skirt made from tough material. Pattern suggestion: 
+- Sleeveless shift dress in e.g. dark-grey wool to wear with colourful shirts with collars underneath.
+- Donny shirts + simple skirt to make a two-part dress. 
+
+
+
+
 
 
 ## Blazer 
@@ -64,6 +85,13 @@ https://papercutpatterns.com/collections/outerwear-printed/products/emmi-jacket?
 ## Sweatshirts and jumpers
 ### Dale Sweatshirt
 
+### Sloane Sweatshirt (Named Clothing)
+https://www.namedclothing.com/products/sloane-sweatshirt
+
+This smart and casual sweatshirt sewing pattern has a straight cut, but the semi-loose fit and long diagonal bust darts add a touch of form and sophistication, which makes Sloane ideal for many occasions. The neckline, hem, and cuffs are finished with ribbing.
+
+![|300](projects/attachments/Pasted%20image%2020240113154731.png)
+
 
 ## Dresses
 
@@ -84,6 +112,17 @@ https://thefoldline.com/product/camp-shirt-and-dress-pdf/
 
 ![|300](projects/attachments/Pasted%20image%2020230402094813.png)
 
+### Shirt dress: Helmi tunic shirt and dress (Named Clothing)
+https://www.namedclothing.com/products/helmi-trench-blouse
+The Helmi sewing pattern includes two variations: The straight-cut blouse has elements from the classic trench coat, such as the cape and sleeve straps. The rounded collar and slightly curved hem with slits add a touch of soft femininity to this shirt. The more streamlined tunic variation is also straight-cut and has a simple stand-up collar, half sleeves, and a curved hem. Both variations have a discreet and elegant hidden button placket.
+
+![|300](projects/attachments/Pasted%20image%2020240113154429.png)
+
+### Azure shirt and dress (Atelier Scammit)
+https://thefoldline.com/product/azur-shirt-and-dress/
+Azur is a feminine-cut shirt with long sleeves which can be rolled up with tabs for a casual look. The shoulder, offset to the front, is ruched, echoing the gathers on the back. There are two collar options: a shirtwaist collar (simple and elegant) or a Victorian collar (equally pretty if worn open or closed). The sleeves have a tearproof tab, two ease pleats and either a simple cuff or flounce cuff. The shirt can be finished with a straight cut or rounded hemline. It features a French seam finish with an all-in-one facing yoke. Azur can also be made as a dress.
+
+![|300](projects/attachments/Pasted%20image%2020240113154618.png)
 ## Tops
 ### Nature Top (Thread + Sprout)
 https://www.threadandsprout.com/tutorials/make-your-own-nature-top
@@ -93,6 +132,10 @@ https://fridaypatterncompany.com/products/donny-shirt-pdf-pattern
 Boxy pull-on top, dartless, with a lapel collar and (optional) patch pocket. The Donny is a great  
 everyday top that can be worn with practically anything. Because of its boxy silhouette, the Donny is comfortable but still cool. Pair it with jeans or a skirt, layer it over or under a dress.
 - [[projects/sewing/Donny shirt pictures & fabric]]
+
+### Inari dress and top tee (Clothing Pattern)
+https://www.namedclothing.com/products/inari-crop-tee
+![|300](projects/attachments/Pasted%20image%2020240113154518.png)
 
 ## Blouses
 ### Noella Blouse (Juliana Martejevs)
@@ -107,7 +150,15 @@ https://peppermintmag.com/sewing-school/samford-set/
 https://closetcorepatterns.com/collections/sewing-patterns-all/products/carolyn-pajama-sewing-pattern
 
 
-
+## Long skirt
+### Pocket skirt (Peppermint magazine)
+https://peppermintmag.com/sewing-school/pocket-skirt/
+Pay what you want pattern. Eher ohne Taschen, aber sonst ganz netter Sommerrock.
+![|300](projects/attachments/Pasted%20image%2020240213181059.png)
+## Short skirt
+### Kami skirt (The Hemming)
+https://thehemming.com/blogs/the-tutorials/the-kami-skirt-diy-sewing-tutorial
+Free pattern. Kurzer Sommerrock mit Rüschen in der Mitte und elastischem Bund.
 
 ## Bags, pouches, etc.
 

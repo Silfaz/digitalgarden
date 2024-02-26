@@ -16,3 +16,6 @@ title: "Cooking"
 [Cooking links](projects/cooking/Cooking%20links.md)
 
 [Thermomix recipes](projects/cooking/Thermomix%20recipes.md)
+
+[Banana bread investigation](projects/cooking/Banana%20bread%20investigation.md)
+

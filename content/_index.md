@@ -24,6 +24,7 @@ Feel free to walk around and explore.
 ### 🌿 [Environment & Climate Action](climate/climate_main.md)
 ### 📷 [Photography](photography/photography_main.md)
 ### 🍳 [Cooking & Baking](projects/cooking/cooking_main.md)
+### 🌻 [Plants & Gardening](projects/plants/01%20plants_main.md)
 
 
 ## Other

@@ -8,9 +8,9 @@ title: "Inspo"
 - Well fitting black or blue jeans or black trousers
 - A few good belts and necklaces to accessorise with plain shirts/tops and trousers
 - Shirt dress
-## Graphic shift dress
+## Graphic shift dress or shirt
 I.e. bold graphic fabric but vintage pattern 
-
+e.g. Kalle, Helmi 
 
 ## Statement jacket or blazer (bright colour?)
 

@@ -47,5 +47,6 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 - [Koji production](Koji%20production)
 
 ## Drinks
-- [Kombucha](projects/fermentation/Kombucha.md)
+- [Kombucha (base recipe)](projects/fermentation/Kombucha%20(base%20recipe).md)
+- [[projects/fermentation/Kombucha - 2nd fermentation experiments]]
 - [[projects/fermentation/Kombucha cultures]]
