@@ -32,7 +32,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 
 ### Djungelgurka / Melothria scabra / cucamelon / pepquinos
 ![](Pasted%20image%2020240225165544.png)
-- https://zetas.se/products/djungelgurka-mouse-melon-melothria-scabra-mouse-melon. 59 SEK
+
 - Djungelgurka 'Mouse Melon' är en lättodlad ranka från Sydamerika med en intensiv tillväxt. Ger massor av små, 3-5 cm långa, vackra ovala grönrandiga frukter med mild sötsyrlig smak. Använd färsk i sallad eller inlagd.  
 - Såtid: Mars-april.  Läge: Sol. Höjd: ca. 250 cm.  Grotid: 7-14 dagar. Planteringsavstånd: 50 cm. Skördetid: Juli – september. Typ av växt: Ettårig.
 - Provide support for climbing vines (e.g. trellis).  Unsupported plants will sprawl in any direction.
@@ -42,7 +42,10 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Open-pollinated and produce both male and female flowers on the same plant. 
 - Perfect for pickling. 
 
-### Kinesisk gräslök
+#### Varieties
+- https://zetas.se/products/djungelgurka-mouse-melon-melothria-scabra-mouse-melon. 59 SEK
+- https://www.plantagen.se/djungelgurka-flerfargad-528903.html
+
 
 ### Bay laurel (Gewürzlorbeer, Laurus nobilis)
 
@@ -69,6 +72,9 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Mint will flower in the summer. When a stem has flowered, cut it back to 5 cm to encourage nice new, tidy growth. 
 - After 1-2 years when the plant starts to look tired, separate out a fresh-looking bit and replant into a new pot. 
 
+#### Varieties
+- Pepparmynta: https://www.plantagen.se/pepparmynta-535119.html
+
 
 ### Tomatoes
 ![](Pasted%20image%2020240225165514.png)
@@ -76,7 +82,15 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Keep moist, warm and sunny. Feed regularly with tomato fertiliser. 
 - Pinch of trusses after 5-6 have appeared to encourage fruits instead of growing just the plant.
 - Provide support for vines if they grow upwards. 
-- 
+
+#### Varieties
+- Pärontomat "Perun". Yellow: https://www.blomsterlandet.se/produkter/vaxter/froer/gronsaksfroer/tomat-aubergin/parontomat-perun-169327/
+- Körsbärstomat "Ildi". Yellow: https://www.blomsterlandet.se/produkter/vaxter/froer/gronsaksfroer/tomat-aubergin/korsbarstomat-ildi-169324/
+- Körsbärstomat F1 "Sungold". Orange: https://www.plantagen.se/korsbarstomat-f1-sungold-gul-536043.html
+- Plommontomat "Celsior". Red: https://www.plantagen.se/plommontomat-celsior-rod-554471.html
+- Pärontomat "Pear shaped yellow". Yellow: https://www.plantagen.se/parontomat-pear-shaped-yellow-524967.html
+
+
 ## Grass
 
 ### Pampasgräs
@@ -97,7 +111,18 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Lieben Sonne, je sonniger desto mehr Blüten. Nicht düngen, das unterstützt die Blatt- aber nicht die Blütenentwicklung!
 - Rankhilfe wenn sie vertikal wachsen soll. 
 - Nicht wählerisch und wird bis zum Frost unermüdlich blühen. Leicht zu pflegen. 
-- Blätter, Knospen und Blüten sind essbar. 
+- Blätter, Knospen und Blüten sind essbar. Unreife Samen kann man einlegen wie Kapern. 
+- Vor dem aussäen, Samen über Nacht in Wasser legen damit sie weicher werden. 
+
+#### Varieties
+- Buskkrasse "Alaska". Halvlånga rankor för amplar, lådor och kanter: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/buskkrasse-alaska-73556/
+- Slingerkrasse mix, får 1,5 meter långa rankor.: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/klattervaxter/slingerkrasse-mix-65357/
+- Slingerkrasse mix, får 1,5 meter långa rankor: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/klattervaxter/slingerkrasse-mix-62347/
+- Slingerkrasse "Jewel of Africa". Mycket blomvillig. Utmärkt slingerväxt och marktäckare.: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/klattervaxter/slingerkrasse-jewel-of-africa-73550/
+![](Pasted%20image%2020240226202927.png)
+- Buskkrasse "Peach Melba". Kompakta plantor med ljust gula, persikofärgade blommor. Fin som kantväxt, i balkonglådor, rabatter och stenparti.: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/buskkrasse-peach-melba-6922/
+- Slingerkrasse: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/klattervaxter/slingekrasse-6926/
+- 
 ### Geranium/pelargonium
 ![|400](Pasted%20image%2020240225153551.png)
 - Popular choice for containers and hanging baskets as they grow basically anywhere. 
@@ -105,6 +130,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Can be bought very cheap as plants or plugs. Water and repot. They don't mind being crowded. 
 - Don't like too much water: a soaking every week in summer when the top soil feels dry is enough. 
 - Can be kept outside in the winter in a sheltered spot. Only water once every few weeks, and after winter cut everything back to 5 cm above the soil to encourage new growth. 
+- Very easy to buy cheaply in garden centre, so maybe better than growing from seeds.
 
 
 ### Osteospermum (daisy)
@@ -119,6 +145,9 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Can be kept outside in the winter in a sheltered spot. Only water once every few weeks, and after winter cut everything back to 5 cm above the soil to encourage new growth. 
 - Take cuttings to have inside during the winter to be ready to plant outside next spring. Cut off fresh 10 cm stems from the plant, remove all leaves, put into a small pot with damp soil and keep in a warm spot out of direct sunlight. When roots appear, put into a proper pot in a bright spot. 
 
+#### Varieties
+
+
 ### Pansies
 ![](Pasted%20image%2020240225155842.png)
 - Can be grown all year round, flower in any season, tolerate windy, wet and cold weather. 
@@ -128,6 +157,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Can be sown directly into soil, outside or inside. Inside in the warmth they will germinate sooner (within 1 week). When they have 8-10 leaves, plant them into a pot outside. 
 - Are happy in a container and will fill the space they're given. Plant about 15 cm apart from each other. 
 - After several months of growing season, they will die down and put seeds into the ground. So you can just leave them grow for the next season. 
+- Very easy to buy them cheaply as plants in garden centre, so maybe better buy as plant than grow from seed. 
 
 ### Mohn/poppy/vallmo
 
@@ -138,11 +168,15 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Insektenmagnet. 
 - Besonders pflegeleichte Sorten: Türkischer Mohn, Falling in love, Goldmohn Butterbush, Rembrandt's best, White delight, Black peony. 
 - Um Samen zu bekommen: Kapsel bis Ende Herbst auf der Pflanze reifen lassen. Dann die trockene Kapsel abschneiden und dunkel und trocken aufbewahren. 
-#### Sibirisk vallmo
+#### Varieties
+- Sibirisk vallmo: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/blomstermix3/vallmo-sibirisk-7971/
 ![](Pasted%20image%2020240225162018.png)
 
-#### Kornvallmo
+- Kornvallmo: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/kornvallmo-72718/
 ![|400](Pasted%20image%2020240225162040.png)
+
+- Red poppy: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/vallmo-62319/
+- Orientvallmo "Red": https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/orientvallmo-red-62314/
 
 ### Jätteverbena / Patagonisches Eisenkraut / Argentinische Verben / Verbena bonariensis
 ![](Pasted%20image%2020240225163324.png)
@@ -155,6 +189,10 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Im Spätsommer/Herbst Stecklinge (ca. 10 cm lange Triebspitzen) schneiden und drinnen in Anzuchterde an einem hellen, kühlen Platz überwintern. Wenn sich Wurzeln gebildet haben, in einen Topf setzen. Wenn sie im Mai groß und kräftig genug sind, auspflanzen. 
 - Varianten mit kräftigen und hängenden Trieben (z.B. für Ampeln): Samira, Empress, Lanai, Tapien. 
 
+#### Varieties
+- Stor hängverbena "Imagination". Fantastisk, rikblommande sort som bjuder på hela "vattenfall" av små, blåvioletta blommor.: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/stor-hangverbena-imagination-72048/
+
+
 ### Blåklint / Kornblume / Corn flower / Centaurea cyanus
 
 ![](Pasted%20image%2020240225163832.png)
@@ -166,7 +204,13 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Sparsam gießen, Kornblumen sind Trockenheit gewohnt. Verträgt keine dauernässe.
 - Verblühte Teile gleich entfernen. 
 - Trockene Blütenköpfchen kann man ernten und Samen fürs nächste Frühjahr aufheben. 
-#### Blåklint "Polka Dot"
+
+#### Varieties
+- Blåklint "Polka Dot". Blandningen innehåller rosa, röda, violetta och blåa nyanser samt vit. Sorten har ett buskigt växtsätt.: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/snittblommor/blaklint-polka-dot-6811/
+![](Pasted%20image%2020240226203344.png)
+
+- Blåklint "Kejsar Wilhelm": https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/snittblommor/blaklint-kejsar-wilhelm-62230/
+- Gammaldags blåklint: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/gammaldags-blaklint-71527/
 
 ### Sonnenblume / Helianthus annuus / Solros
 
@@ -188,6 +232,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Wahoo: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/solros-waooh-72114/
 - Moonwalker, buschig: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/solros-moonwalker-7875/
 - Ring of fire: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/snittblommor/solros-ring-of-fire-72111/
+![](Pasted%20image%2020240226203606.png)
 - Pachine Gold, buschig und klein: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/solros-pacino-gold-7872/
 
 ### Hollyhocks / Alcea / Stockrosen / Stockros
@@ -202,8 +247,6 @@ https://villalivet.se/tradgard/japansk-lonn/
 - No need for fertilising or much care. Water once a week, perhaps more during hot weather. 
 - Prune off flower stems after the seed heads have burst and cut back the plant in autumn once it's died back. 
 - Hollyhocks are perennials, so you could move the pots somewhere sheltered over winer and ensure the roots still get some water. If cared for properly, the plant should sprout again in spring. 
-### Tagetes
-#### Liten tagetes "Tangerine Gem"
 
 
 ## Plants
@@ -211,6 +254,10 @@ https://villalivet.se/tradgard/japansk-lonn/
 ### Strawberries
 Tips for huge harvest: https://www.youtube.com/watch?v=9MKkBy93yqA
 
+
+#### Varieties
+- Smultron "Regina": https://www.plantagen.se/smultron-regina-rod-536017.html
+- 
 
 
 ## Soil

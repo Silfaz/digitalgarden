@@ -1,6 +1,7 @@
 
 Växtzoner i Sverige
 https://nordensgard.se/zonkartan/
+https://svensktradgard.se/tradgardsrad/zonkartan/
 
 ![|300](Pasted%20image%2020240218110934.png)
 ## Sources
