@@ -14,7 +14,7 @@ Plans for balcony gardening in 2024
 
 ## Trellis
 - No drilling garden trellis with Sugru: https://www.youtube.com/watch?v=LNF3mYQG7sw
-- ![|300](Pasted%20image%2020240225212056.png)
+- ![|300](projects/attachments/Pasted%20image%2020240225212056.png)
 - 
 
 ## Trees
@@ -31,7 +31,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 ## Vegetables & Herbs
 
 ### Djungelgurka / Melothria scabra / cucamelon / pepquinos
-![](Pasted%20image%2020240225165544.png)
+![](projects/attachments/Pasted%20image%2020240225165544.png)
 
 - Djungelgurka 'Mouse Melon' är en lättodlad ranka från Sydamerika med en intensiv tillväxt. Ger massor av små, 3-5 cm långa, vackra ovala grönrandiga frukter med mild sötsyrlig smak. Använd färsk i sallad eller inlagd.  
 - Såtid: Mars-april.  Läge: Sol. Höjd: ca. 250 cm.  Grotid: 7-14 dagar. Planteringsavstånd: 50 cm. Skördetid: Juli – september. Typ av växt: Ettårig.
@@ -49,7 +49,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 
 ### Bay laurel (Gewürzlorbeer, Laurus nobilis)
 
-![](Pasted%20image%2020240218110608.png)
+![](projects/attachments/Pasted%20image%2020240218110608.png)
 
 - **Wuchshöhe:** bis 500 cm
 - lässt sich problemlos durch Schnitt kleinhalten
@@ -63,7 +63,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 
 
 ### Mint
-![](Pasted%20image%2020240225165417.png)
+![](projects/attachments/Pasted%20image%2020240225165417.png)
 - Very easily grown from cuttings. Just put a freshly cut twig into some water until it forms roots. 
 - Best in pot that is wider than deep, bit like a salad bowl. Make sure it has drainage holes on the bottom. 
 - Grows best in partial shade and moist soil. 
@@ -77,7 +77,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 
 
 ### Tomatoes
-![](Pasted%20image%2020240225165514.png)
+![](projects/attachments/Pasted%20image%2020240225165514.png)
 - Easy to grow from seeds. Start them off on a windowsill in mid-March. Keep the soil moist, you should have seedlings within 2 weeks. Plant outside in mid-May. 
 - Keep moist, warm and sunny. Feed regularly with tomato fertiliser. 
 - Pinch of trusses after 5-6 have appeared to encourage fruits instead of growing just the plant.
@@ -103,7 +103,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 
 
 ### Nasturtium / Tropaeolum / Krassesläktet / Kapuzinerkresse
-![](Pasted%20image%2020240225170301.png)
+![](projects/attachments/Pasted%20image%2020240225170301.png)
 
 - Unkompliziert im Eierkarton vorziehen oder direkt in Balkonkübel säen (ab Mai). Innerhalb von 6 Wochen zeigen sich die ersten Blüten. 5 cm Abstand zwischen den Samen lassen, 1 cm tief drücken und mit Erde bedecken. Erde gut wässern und mit Folie abdecken. Sobald die ersten Blätter kommen (14 Tage), Folie entfernen. 
 - Sehr wuchsfreudig. Triebe werden bis zu 3 m lang. 
@@ -119,12 +119,12 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Slingerkrasse mix, får 1,5 meter långa rankor.: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/klattervaxter/slingerkrasse-mix-65357/
 - Slingerkrasse mix, får 1,5 meter långa rankor: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/klattervaxter/slingerkrasse-mix-62347/
 - Slingerkrasse "Jewel of Africa". Mycket blomvillig. Utmärkt slingerväxt och marktäckare.: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/klattervaxter/slingerkrasse-jewel-of-africa-73550/
-![](Pasted%20image%2020240226202927.png)
+![](projects/attachments/Pasted%20image%2020240226202927.png)
 - Buskkrasse "Peach Melba". Kompakta plantor med ljust gula, persikofärgade blommor. Fin som kantväxt, i balkonglådor, rabatter och stenparti.: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/buskkrasse-peach-melba-6922/
 - Slingerkrasse: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/klattervaxter/slingekrasse-6926/
 - 
 ### Geranium/pelargonium
-![|400](Pasted%20image%2020240225153551.png)
+![|400](projects/attachments/Pasted%20image%2020240225153551.png)
 - Popular choice for containers and hanging baskets as they grow basically anywhere. 
 - Sun-worshippers and can put up with some wind. 
 - Can be bought very cheap as plants or plugs. Water and repot. They don't mind being crowded. 
@@ -134,7 +134,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 
 
 ### Osteospermum (daisy)
-![](Pasted%20image%2020240225154125.png)
+![](projects/attachments/Pasted%20image%2020240225154125.png)
 - Loves sun and can tolerate wind very well - can be hung over the balcony. 
 - Dozens of varieties available. 
 - Will spread out in the space that you give them, so they are a good choice to fill up empty corners in planters. 
@@ -149,7 +149,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 
 
 ### Pansies
-![](Pasted%20image%2020240225155842.png)
+![](projects/attachments/Pasted%20image%2020240225155842.png)
 - Can be grown all year round, flower in any season, tolerate windy, wet and cold weather. 
 - Exist in every colour of the rainbow and are easy to grow from seeds. 
 - Like good drainage and moist soil, happy in sun or shade (but more likely to flower in sun). Warm temperatures and dry soil will cause them to suffer and get leggy. 
@@ -161,7 +161,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 
 ### Mohn/poppy/vallmo
 
-![](Pasted%20image%2020240225161945.png)
+![](projects/attachments/Pasted%20image%2020240225161945.png)
 - Direkt im März/April aussäen und auf einen Abstand von 20-30 cm ausdünnen. Spätestens April, dann blühen sie noch im selben Jahr. 9 cm Topf mit Anzuchterde befüllen, Erde gießen, mit Zahnstocher 4 Samenkörner auf der Erdoberfläche verteilen, Erde über die Samen rieseln lassen (ca. 1 mm), vorsichtig mit der Brause-Gießkanne gießen. Erde immer feucht halten. Keimung nach ca. 2-3 Wochen. Wenn am Balkon gehalten, dann kann man direkt in Kübel säen. 
 - Pflegeleicht. Sonnig bis lichter Schatten. Sobald sich die Blätter krümmen, bewässern. 
 - Blütezeit Mai bis Ende September. Verblühtes regelmäßig entfernen um Selbstaussaat zu verhindern. Immer über einer Blattachsel schneiden. Hohe Sorten an einen Stock anbinden. 
@@ -170,16 +170,16 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Um Samen zu bekommen: Kapsel bis Ende Herbst auf der Pflanze reifen lassen. Dann die trockene Kapsel abschneiden und dunkel und trocken aufbewahren. 
 #### Varieties
 - Sibirisk vallmo: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/blomstermix3/vallmo-sibirisk-7971/
-![](Pasted%20image%2020240225162018.png)
+![](projects/attachments/Pasted%20image%2020240225162018.png)
 
 - Kornvallmo: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/kornvallmo-72718/
-![|400](Pasted%20image%2020240225162040.png)
+![|400](projects/attachments/Pasted%20image%2020240225162040.png)
 
 - Red poppy: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/vallmo-62319/
 - Orientvallmo "Red": https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/orientvallmo-red-62314/
 
 ### Jätteverbena / Patagonisches Eisenkraut / Argentinische Verben / Verbena bonariensis
-![](Pasted%20image%2020240225163324.png)
+![](projects/attachments/Pasted%20image%2020240225163324.png)
 
 - Einjährig, 15-30 cm, überhängend. Blütezeit Mai-Oktober. Je nach Sorte aufrecht oder kriechend, hängend oder kompakt. Stängel sind auffallend vierkantig. Verströmen einen leicht würzigen Duft und locken damit viele Schmetterlinge an. 
 - Nicht besonders anspruchsvoll. Sonnig und warm, vertragen gut sommerliche Hitze. Auch Wind und Regen machen ihnen generell nichts aus. Substrat soll etwas feucht und gut durchlässig sein. Gute Blumenerde und Ausrichtung nach Süden sind optimal. 
@@ -195,7 +195,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 
 ### Blåklint / Kornblume / Corn flower / Centaurea cyanus
 
-![](Pasted%20image%2020240225163832.png)
+![](projects/attachments/Pasted%20image%2020240225163832.png)
 
 - Wachsen unkompliziert auf dem Balkon. Blütezeit Juni-September. 50-80 cm Wuchshöhe. 
 - Dekorative Blütenblätter schmecken zart und verschönern Salate und Süßspeisen. Insektenmagnet.
@@ -207,14 +207,14 @@ https://villalivet.se/tradgard/japansk-lonn/
 
 #### Varieties
 - Blåklint "Polka Dot". Blandningen innehåller rosa, röda, violetta och blåa nyanser samt vit. Sorten har ett buskigt växtsätt.: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/snittblommor/blaklint-polka-dot-6811/
-![](Pasted%20image%2020240226203344.png)
+![](projects/attachments/Pasted%20image%2020240226203344.png)
 
 - Blåklint "Kejsar Wilhelm": https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/snittblommor/blaklint-kejsar-wilhelm-62230/
 - Gammaldags blåklint: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/gammaldags-blaklint-71527/
 
 ### Sonnenblume / Helianthus annuus / Solros
 
-![](Pasted%20image%2020240225165239.png)
+![](projects/attachments/Pasted%20image%2020240225165239.png)
 
 - Wachsen schnell und hoch. 
 - Brauchen viel Sonne und recht große Behälter (min. 30 cm Durchmesser und min. 25 cm Tiefe). Sollen als Solitärpflanzen gepflanzt werden (eine pro Topf). 
@@ -232,7 +232,7 @@ https://villalivet.se/tradgard/japansk-lonn/
 - Wahoo: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/solros-waooh-72114/
 - Moonwalker, buschig: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/solros-moonwalker-7875/
 - Ring of fire: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/snittblommor/solros-ring-of-fire-72111/
-![](Pasted%20image%2020240226203606.png)
+![](projects/attachments/Pasted%20image%2020240226203606.png)
 - Pachine Gold, buschig und klein: https://www.blomsterlandet.se/produkter/vaxter/froer/blomsterfroer/rabattblommor/solros-pacino-gold-7872/
 
 ### Hollyhocks / Alcea / Stockrosen / Stockros

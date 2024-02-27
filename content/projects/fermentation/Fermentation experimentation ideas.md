@@ -13,8 +13,8 @@ title: "Fermentation experimentation ideas"
 - Misozuke - miso-fermented tofu "cheese": https://www.youtube.com/watch?v=X7bwE7bNlss
 - Fermented tofu (in brine)
 - Fermented watermelon rinds: _started 2023-07-16_: [Water melon rinds](projects/fermentation/Water%20melon%20rinds.md)
-- [Kishk](projects/fermentation/Dairy%20fermentation%20notes.md#Kishk) or poor-man's cheese (from bulgur): _started 2023-01-09_: [Keckek el Fouqara (Poor man's cheese)](projects/fermentation/Keckek%20el%20Fouqara%20(Poor%20man's%20cheese).md) Another try, following 
-
+- [Kishk](projects/fermentation/Dairy%20fermentation%20notes.md#Kishk) or poor-man's cheese (from bulgur): _started 2023-01-09_: [Keckek el Fouqara (Poor man's cheese)](projects/fermentation/Keckek%20el%20Fouqara%20(Poor%20man's%20cheese).md) Another try, following https://www.instagram.com/p/C3m6fUWuP7_/
+- Sauerkrauts with nice additions: carrots, peppers, celeriac, apple. 
 
 
 

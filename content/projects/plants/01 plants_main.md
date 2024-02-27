@@ -3,11 +3,11 @@ Växtzoner i Sverige
 https://nordensgard.se/zonkartan/
 https://svensktradgard.se/tradgardsrad/zonkartan/
 
-![|300](Pasted%20image%2020240218110934.png)
+![|300](projects/attachments/Pasted%20image%2020240218110934.png)
 ## Sources
 [Gardening books & websites](projects/plants/Gardening%20books%20&%20websites.md)
 
-[[Garden centres and shops]]
+[[projects/plants/Garden centres and shops]]
 
 ## Balcony gardening
 [Plans 2024](projects/plants/Plans%202024.md)
