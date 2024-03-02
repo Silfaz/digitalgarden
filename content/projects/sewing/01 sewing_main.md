@@ -17,7 +17,7 @@ title: "Sewing"
 ### [Inspo](projects/sewing/Inspo.md)
 ### [Sewing links](projects/sewing/Sewing%20links.md)
 ### [Capsule wardrobe](projects/sewing/Capsule%20wardrobe.md)
-### [Sewing and fitting tricks](projects/sewing/Sewing and fitting tricks)
+### [Sewing and fitting tricks](projects/sewing/Sewing%20and%20fitting%20tricks.md)
 ### [Stitching](projects/sewing/stitching)
 
 

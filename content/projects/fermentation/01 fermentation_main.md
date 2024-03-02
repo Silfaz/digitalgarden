@@ -28,7 +28,7 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 
 ## Dairy- and plant-based milk fermentations 🥛🌾
 - [Dairy fermentation notes](projects/fermentation/Dairy%20fermentation%20notes.md)
-- [[projects/attachments/Plant-based dairy fermentation notes]]
+- [Plant-based dairy fermentation notes](projects/attachments/Plant-based%20dairy%20fermentation%20notes.md)
 - [[Yogurt recipes]]
 - [[Yogurt production]]
 - [Pre-, pro- and postbiotics](projects/fermentation/Pre-,%20pro-%20and%20postbiotics.md)
@@ -48,5 +48,5 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 
 ## Drinks
 - [Kombucha (base recipe)](projects/fermentation/Kombucha%20(base%20recipe).md)
-- [[projects/fermentation/Kombucha - 2nd fermentation experiments]]
-- [[projects/fermentation/Kombucha cultures]]
+- [Kombucha - 2nd fermentation experiments](projects/fermentation/Kombucha%20-%202nd%20fermentation%20experiments.md)
+- [Kombucha cultures](projects/fermentation/Kombucha%20cultures.md)

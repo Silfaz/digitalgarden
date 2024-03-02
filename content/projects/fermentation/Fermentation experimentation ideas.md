@@ -15,7 +15,8 @@ title: "Fermentation experimentation ideas"
 - Fermented watermelon rinds: _started 2023-07-16_: [Water melon rinds](projects/fermentation/Water%20melon%20rinds.md)
 - [Kishk](projects/fermentation/Dairy%20fermentation%20notes.md#Kishk) or poor-man's cheese (from bulgur): _started 2023-01-09_: [Keckek el Fouqara (Poor man's cheese)](projects/fermentation/Keckek%20el%20Fouqara%20(Poor%20man's%20cheese).md) Another try, following https://www.instagram.com/p/C3m6fUWuP7_/
 - Sauerkrauts with nice additions: carrots, peppers, celeriac, apple. 
-
+- Less spicy kimchi with Chinese cabbage and carrot. Like the one they serve in Mai Bento in Mitt Möllan. Can basically be eaten like a crunchy, sour and slightly spicy salad.
+- 
 
 
 ## Inspiration

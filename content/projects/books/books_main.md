@@ -1,6 +1,12 @@
 ---
 title: "Books main"
 ---
+## Read 2024
+- All Systems Red - Murderbot Diaries #1 (Martha Wells)
+- [**Things Become Other Things**](projects/books/Things%20Become%20Other%20Things.md) (Craig Mod)
+- Jag är Zlatan (autobiography) (Zlatan Ibrahimovic
+- Der beste Platz zum Leben (Anne Weiss)
+
 ## Read 2023
 - **[Exhalation](projects/books/Exhalation.md) (Ted Chiang)** 
 - Children of Time (Adrian Tchaikovsky, audiobook)
@@ -11,7 +17,7 @@ title: "Books main"
 - Jade City (Fonda Lee)
 - The Birthday of the World and other stories (Ursula K. Le Guin)
 - [New York 2140](projects/books/New%20York%202140.md) (Kim Stanley Robinson)
-- Story of your Life and others (Ted Chiang)
+- **Story of your Life and others** (Ted Chiang)
 - The Left Hand of Darkness (Ursula K. Le Guin)
 - Sommaren 1985 (John Ajvide Linqvist, audiobook)
 - Pod (Laline Paull, audiobook)
@@ -19,9 +25,8 @@ title: "Books main"
 - The Immortalists (Chloe Benjamin)
 - How Big Things Get Done (Bent Flyvbjerg)
 - Masala Lab: The Science of Indian Cooking (Krish Ashok)
-- A Prayer for the Crown-Shy (Becky Chambers)
-- All Systems Red - Murderbot Diaries #1 (Martha Wells)
-- [**Things Become Other Things (Craig Mod)**](projects/books/Things%20Become%20Other%20Things.md)
+- **A Prayer for the Crown-Shy**(Becky Chambers)
+
 
 
 ## Read 2022
@@ -40,7 +45,7 @@ title: "Books main"
 - **[The Dispossessed](projects/books/The%20Dispossessed.md) (Ursula K. Le Guin)**
 - Transcendent Waves: How Listening Shapes Our Creative Lives (Lavender Suarez) 
 - How to be an Antiracist (Ibram X. Kendi, audiobook)
-- Recursion (Blake Crouch)
+- **Recursion** (Blake Crouch)
 - Pathways (Jeri Taylor)
 
 
@@ -60,14 +65,14 @@ title: "Books main"
 - **[Let my people go surfing](projects/books/Let%20my%20people%20go%20surfing.md) (Yvon Chouinard)**
 - Project Hail Mary (Andy Weir)
 - Våran hud, vårat blod, våra ben (John Ajvide Lindqvist)
-- The physician (Noah Gordon)
+- **The Physician** (Noah Gordon)
 
 
 ## Read 2020
 - The Cat's Table (Michael Ondaatje)
-- **Atomic Habits (James Clear)** [[Atomic Habits]]
+- **Atomic Habits (James Clear)** 
 - How to Be a Bad Birdwatcher (Simon Barnes)
-- Tyll (Daniel Kehlmann) 
+- **Tyll** (Daniel Kehlmann) 
 - The Wizard and the Prophet (Charles C. Mann)
 - Fallensteller (Sasa Stanisic)
 - Ein ganzes Leben (Robert Seethaler)
@@ -75,10 +80,10 @@ title: "Books main"
 - Reef Life: An Underwater Memoir (Robert Callum)
 - **Humankind (Rutger Bregman)**
 - Das flüssige Land (Raphaela Edelbauer)
-- The Mushroom at the End of the World (Anna Lownhaupt Tsing) [[projects/books/The Mushroom at the End of the World]]
+- **The Mushroom at the End of the World** (Anna Lownhaupt Tsing) 
 - Station Eleven (Emily St. John Mandel)
 - Picture This (Molly Bang)
 - Das Geburtstagsfest (Judith Taschler)
 - Star Trek Mosaic (Jeri Taylor)
 - Mushrooms, a Natural and Cultural History (Nicholas P. Money)
-- **Kissa by Kissa (Craig Mod)** [[Kissa by Kissa]]
+- **Kissa by Kissa (Craig Mod)**

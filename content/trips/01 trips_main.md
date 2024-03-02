@@ -18,7 +18,7 @@ Any travelling necessary for them is done by public transport (preferably train)
 ## Train journeys
 [Train journey Sweden-Finland](trips/Train%20journey%20Sweden-Finland.md)
 [[Train journey through Europe]]
-[[trips/Inlandsbanan]]
+[Inlandsbanan](trips/Inlandsbanan.md)
 
 
 ## National Parks in Sweden
@@ -26,7 +26,8 @@ Any travelling necessary for them is done by public transport (preferably train)
 #### [Nationalparks Norrland](trips/nationalparks_norrland.md)
 ### [Nationalparks Götaland](trips/nationalparks_götaland.md)
 
-
+## Cities
+[Malmö](trips/Malmö.md)
 
 
 ## Destinations

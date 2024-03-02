@@ -11,7 +11,7 @@ title: "Tempeh experiments"
 
 [Different legumes](projects/fermentation/Different%20legumes.md)
 
-[[projects/fermentation/Notes from other sources]]
+[Notes from other sources](projects/fermentation/Notes%20from%20other%20sources.md)
 
 
 ## Detailed experiments on different cooking methods
