@@ -39,3 +39,33 @@ Very nice and very cakey, almost too fluffy. The texture is like store-bought ca
 
 
 
+## 2. BBC GoodFood (adapted)
+https://www.bbcgoodfood.com/recipes/vegan-banana-bread
+Also, incidentally, almost the exact same recipe as here: https://www.ambitiouskitchen.com/vegan-banana-bread/
+
+Ok, already made the "mistake" of adapting a recipe and not sticking 100% to the instructions. I'll write down the ingredients how I used them, and not the original recipe.
+
+### Ingredients
+- 3 bananas - I used frozen and thawed and poured away the excess liquid
+- 75 g vegetable oil - (actually the original recipe said 75 _mL_... I used half coconut fat and half linseed oil
+- 100 g brown sugar
+- 225 g flour in total - I used about 150 g normal flour, 50 g Graham flour and 25 g oat flakes for some bite
+- 3 tsp baking powder
+- 2 tsp cinnamon
+- 50 g dried fruits or nuts (optional) - I used 30 g dried cranberries and 20 g chopped walnuts
+
+### Instructions
+1. Preheat oven to 200°C. Grease a loaf tin and powder with flour.
+2. Mash the banana with a fork and mix with the sugar and fat.
+3. Mix together the other dry ingredients.
+4. Mix dry ingredients into the wet ingredients and stir well until no dry lumps are left. The batter didn't flow, it had almost a (wet) cookie dough consistency. 
+5. Fill batter into the tin and bake for 20 min, then cover with aluminium foil and bake another 20 min. 
+
+![|500](Pasted%20image%2020240325192525.png)
+### Verdict
+**8/10**
+I gave it higher points than the previous recipe, because it had the heartiness that I like in a banana bread. Unfortunately it didn't rise much, which could be due to the flour mix that I used, a lack of liquid (since I poured away some banana liquid), or not enough raising power from the baking powder. 
+The denseness/moistness and the dried fruits and nuts make it taste like a mix between a banana bread and a fruit bread. 
+Next time try this recipe with some (vegan) yogurt to both increase the moisture and also provide an acidic component to increase rising from the baking powder. Also, don't use coconut oil, must use 100% liquid vegetable oil. 
+
+

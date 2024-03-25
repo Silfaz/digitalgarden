@@ -106,3 +106,81 @@ We had a last stop in the forest to eat the pies that we had purchased the previ
 Just when we thought that it had been quietly cancelled it turned around the corner, 8 minutes late. 45 minutes later, we got on an Öresundståg in Lund that brought us home to Helsingborg. 
 
 ![](projects/attachments/Imports%20-%20123%20of%20123.jpeg)
+
+
+
+# SL2 Southern half
+
+## Planning
+20-30 km chunks with good public transport connections on either side
+Easter week 2024 (24 March - 1 April)
+
+### Day 1 Hörby - Löberöd (23 km)
+Bus: From Malmö C, Skåneexpressen 1 (to Kristianstad), 51 min to Hörby busstation. 
+Train + bus: From Malmö Triangeln, train to Lund (20 min), then Skåneexpressen 2 (to Hörby), 38 min to Hörby busstation. 
+
+6 km to Ringsjöstrand
+13 km Ringsjöstrang - Rövarekulan
+4 km Rövarekulan - Löberöd
+**23 km total**
+
+ICA Nära Löberöd
+
+Bus + bus (+ train): ==Bus only goes once an hour at :33== Regionbus 436 (to Eslöv), 10 min to Hurva E22; SkåneExpressen 1, 37 min to Malmö C; walk to Triangeln or take train or bus. 
+
+
+### Day 2 Löberöd - Dalby (28 km)
+Train + bus + tram
+Bus + bus
+
+6 km to Höghult (start of next leg)
+10 km Höghult - Krankesjön (going through Harlösa)
+9 km to Knivsås
+3 km to Dalby
+**28 km total** 
+
+Bus + train: Bus 160 to Lund C (20 min), train to Malmö Triangeln (20 min)
+Bus: Bus 174 to Malmö Södervärn (36 min)
+
+### Day 3 Dalby - Häckeberga slott (28.3 km)
+Train + bus
+Bus
+
+2.8 km to Dalby Fälad No 5
+21 km Knivsås -Väderkullen - Kullatorpet - near Dörred
+4.5 km to Häckebergaslott (stay overnight)
+**28.3 km total** (but could be shorter if we want to get to the hotel more direct)
+
+### Day 4 Häckeberga slott - Torup slott (bokskogen) (21.5 km)
+
+4.15 km to where we left off from Skåneleden
+2 km to start of next leg
+6 km Sturup - Eksholmssjön
+9 km Eksholmssjön - Torup
+Visit Torup slott + slottsträdgård + bokskogen
+**21.5 km total**
+
+Bus: Torup Bokskogen, bus 148 to Malmö Spångatan (30 min)
+
+
+### Day 5 Torup - Trelleborg (30 km)
+Bus (30 min)
+
+17 km Torup - Fru Alstad
+13 km Trelleborg
+**30 km total**
+
+Train: Pågatåg to Malmö Triangeln (27 min)
+
+
+
+
+
+
+
+
+
+
+### Possible accomodation
+[Häckeberga Slott](https://www.booking.com/hotel/se/the-norrmans-castle.en-gb.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaMgBiAEBmAEJuAEHyAEP2AEB6AEB-AELiAIBqAIDuAL-kPqvBsACAdICJDBjYTBhZTA0LWY4NjktNDUyMS1hMDAwLTBlMzJiNmQyYmFiYdgCBuACAQ&sid=87f9adc219f209235d23edb096a0495c&atlas_src=sr_iw_btn;checkin=2024-03-25;checkout=2024-03-26;dest_id=-2487025;dest_type=city;dist=0;group_adults=2;group_children=0;highlighted_blocks=864600501_354566664_2_41_0;nflt=hotelfacility%3D4;no_rooms=1;room1=A%2CA;sb_price_type=total;type=total;ucfs=1&) near Genarp on Häckeberga lake
+

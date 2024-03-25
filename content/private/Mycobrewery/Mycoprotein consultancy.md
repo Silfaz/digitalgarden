@@ -82,3 +82,95 @@ So for a whole line from seed reactor to 10 m3 with installation and all control
 
 
 ### 7. White spaces you see / lacking innovations
+
+
+
+## Unique selling points of mycoprotein
+
+- **Muscle building**
+	- Mycoprotein can be as effective in muscle building as a high-protein omnivorous diet
+	- Study published in Journal of Nutrition: Quorn https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/vegan-protein-supports-muscle-building-as-effectively-as-animal-protein-according-to-study/
+	- Comparable to animal protein in terms of its ability to facilitate increases in muscle mass and strength
+	- Mycoprotein (Quorn) stimulated post-exercise muscle buidling to a greater extent than milk protein.
+	- https://www.sciencedaily.com/releases/2019/07/190703121431.htm
+- **Dietary fiber**
+	- Prebiotic
+	- Mycoprotein contains two thirds beta-glucans and one third chitin
+	- Around 25% fiber per dry weight or 6% per 100 g wet weight.
+	- Possibly cholesterol-lowering effects due to fiber, as well as lowering of glycemic index (blood glucose). 
+	- Possible positive effect on gut microbiota. 
+- **Protein**
+	- Up to 45% protein per dry weight, or around 11% per 100 g wet weight.
+	- Rich in essential amino acids, good amino acid profile (better than most plants)
+![300](Pasted%20image%2020240307163539.png)
+
+- **Relatively low environmental impact**
+	- 10 times less carbon, water or land use compared to beef. 
+	- Depends very much on production process, feedstock, what it's compared to, etc. 
+	- Study in Nature 2022: replacing 20% of per-capita beef consumption with mycoprotein could cut global deforestation and CO2 emissions by 50% in addition to lowering methane emissions.
+- **Fibrous structure**
+	- More pleasant texture than a lot of other meat analogues
+- Fungal strains can be adapted, engineered and improved (more easily than plants or animals)
+	- **Genetic engineering, directed evolution, screening, selection**
+- Potential to use much cheaper feedstock (e.g. agricultural waste streams) compared to other meat analogue production. 
+## Challenges in production process
+- Sterility/contamination
+- Yield
+- Expensive nutrients need to be added (vitamins, nitrogen/protein)
+- Waste products
+- Removal or inactivation of RNA
+- Separation of substrate from fungal mycelium
+- Energy consumption or optimisation of production parameters
+- Use of waste streams vs. high yield and uniform production process
+- Depending on how it's calculated and where the energy comes from, mycoprotein is not necessarily the best in terms of environmental impact. https://link.springer.com/article/10.1007/s11367-015-0931-6
+- 
+
+### Other challenges
+- Many different fungal species and strains that can behave in different ways
+- Mycotoxins, allergic reactions, sensitivity
+- Fiber could also be a challenge in protein extraction, functionality
+- Novel food/FDA approval
+- Environmental figures always look best in comparison to beef. Whole production process needs to be considered.
+
+## Cultivation in general
+- Yield depends on type of organism,  substrate and production process. 
+- Some GRAS species: Fusarium venenatum (Quorn), Rhizopus oryzae (tempeh), Aspergillus oryzae (koji), Monascus purpureus, Paradendryphiella salina.
+- 
+
+## Submerged cultivation grown on starch
+- Quick, controlled
+- Very pure and controlled feedstock. Usually cheap and available.
+- Promotes monocultures for feedstock cultivation. 
+- Not the most environmentally sustainable. 
+- Easy to post-process (RNA inactivation, pumping, filtering, freezing, packaging)
+
+
+## Submerged cultivation grown on edible fibrous material (e.g. brewer's spent grain)
+- Growth, yield and type of product depends very much on feedstock.
+- Feedstock likely not completely degraded/metabolised by fungus, so will remain to some degree part of the final product. 
+- Effects taste and nutritional composition.
+- Might have to be supplemented with sugar, nitrogen or vitamins. 
+- Perhaps enzyme treatment might increase nutrient availability. 
+- High potential of finding a unique fungus that is very well suited for cultivation on a specific substrate.
+- Allergen potential and variability of substrate if sourced from different sources.
+- Microbial contamination depending on how it's handled at the primary production site.
+
+
+## Solid state cultivation
+- Less prone to contamination
+- Usually slower than submerged (several days to weeks). 
+- Harder to have uniform nutrient composition, mixing, heat transfer, dispersion of mycelium. 
+- Some fungi only grow as solid state
+- Usually used for growing basidiomycetes, fungi that develop fruiting bodies (mushroooms). 
+- Tricky to separate (fibrous) substrate material from mycelium. 
+- Surface cultivation could be done (like Atlast/Mybacon/Ecovative that grow sheets of mycelium on top of the substrate).  
+- Some companies (e.g. Israeli Kinoko or US Mycotechnology) call their process solid state fermentation, though it's more like a tempeh process - growing fungi on beans and grains to create a food product.
+- Possibility of actual protein extraction from fibre-mycelium mix via drying, air fractionation, pH precipitation, etc. 
+
+
+
+2024-03-08
+
+BG call
+- company with starch and sugar rich side streams
+- 

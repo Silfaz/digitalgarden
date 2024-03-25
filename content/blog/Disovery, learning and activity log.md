@@ -1,6 +1,21 @@
 ---
 title: "Disovery, learning and activity log"
 ---
+## w12 2024
+- I started planting some **seedlings** indoors (cherry tomato, snack pepper, peppermint, tagetes, wild strawberries) for my big balcony [Plans 2024](projects/plants/Plans%202024.md) a few weeks ago. So far only the tomatoes and the peppers have germinated. 
+- Today is Palm Sunday and I took the whole of next week off work! At least a few of these days we want to walk the second half of [**Skåneleden**](trips/Skåneleden.md) North-South. We walked the first half last year at Easter. Then we did 5 days in a row with overnight stays, but this time we want to do it spread out over some single day hikes, because we live much closer to the trail. 
+- Last week, I finished the second **woodworking course** module at ReFab Lab, where I learned all about joining two pieces of wood together: box joings, mitre joints, half laps, full laps, etc. We got to use the router, which is super fun. When using the machinery with rotating, sharp parts I have all these intrusive thoughts about touching the blade, etc. But it gets better the more I use the equipment. 
+- I also went to a **pottery afternoon** to Artibus, part of Duncan's Christmas present. I made six different things in two hours. Should be able to pick them up any day now. 
+![|500](projects/attachments/IMG_20240225_115635.jpg)
+- Last season of **The Expanse**. I still love it, though the constant fighting between factions and Earthers, Martians, Inners, Belters, etc. gets a bit tiring. The world right now is in a grim state (Palestine, Ukraine, ...), so I could use some peacemaking and getting along with each other, even if it's only fictional. What I particularly like about The Expanse compared to many other sci-fi shows is that the space travel actually seems believable. Having said that, I also starting watching the **Dune** movie, because part 2 was just released in the cinema and I want to see it, but need to catch up first. It's bombastic, slow, theatrical opera. Quite enjoyable, but I need to be in the right mood to be able to sit through it.
+- We are starting our **apartment selling** process. Last week we went to Gothenburg to receive the keys from our tenants and now we're looking for a mäklare. Hemnet is of course _the_ Swedish real estate site, and all apartments look idential: white, minimalistic, styled, unpersonal. So ours needs to look like that as well. Currently it's completely empty and perhaps needs a paint job. But I don't want to paint over our nice Tapetorama wall papers: one graphic, one slightly childish one with thunderstorm clouds. 
+- **IDLES** concert in Copenhagen was fun, but we left halfway through because I didn't feel well and standing in a crowd of drunk, smelly people, not seeing a thing on stage didn't help. Another concert that was a lot more chill was **Elin Piel **in Inkonst - ambient modular synth music.
+- Had a consultancy call about **mycoprotein**. It's nice to still be a little connected to the alternative protein and fungal cultivation field. If anything, it gives me a reason to keep myself updated. 
+- My cousin Carina and her boyfriend visited Malmö, which was very nice. We went to some fantastic restaurants - one of which (Rue Hamra Meza Beirut) literally filled the whole table with platters of (vegetarian) mezze. 
+- The oatgurt that I helped develop finally launched. Currently only in the DACH market and Netherlands, but I hope that we can also get it in Sweden soon. I love it, it's the best vegan yogurt I've ever had (totally unbiased, obvs). 
+![|500](projects/attachments/IMG_20240209_145557.jpg)
+
+
 ## w7 2024
 - Happy Chinese New Year! Baohong at work brought some Chinese sweets to celebrate. 
 - Tuesday was Fettisdagen/Faschingsdienstag/Shrove Tuesday, which in Sweden of course means semla. I had pre-ordered a semla at our local bakery Farina, but just when I wanted to pick it up I got a text that their booking system had messed up and I wouldn't get my semla today (but could pick up a free one any other day in the next 2 weeks). To be honest, I wasn't too sad about it because semlor are quite rich and creamy and I wasn't in the mood for that on Tuesday evening. So I'm still looking forward to my yearly semla. I'll report back next week. 

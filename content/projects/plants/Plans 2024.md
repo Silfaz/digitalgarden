@@ -8,9 +8,45 @@ Plans for balcony gardening in 2024
 - **Strawberries**: loads and loads, different kinds, and ones that ripen at different times of the year
 - Lots of **flowers** that are beautiful, attract pollinators, have different colours, last long: pansies, geraniums, poppy flowers, sunflowers, hollyhocks, nasturtiums, daisies. Different heights, so some can grow up a trellis (if I make one) and some can stick above the balcony railing, and some can just look nice between tomato plants. 
 - Nice flower meadow (with no fertiliser): corn flower, poppy, daisy, marguerite.
-- **Climbing plants** on a trellis or the wall on the balcony: nasturtium, tomato, cucamelon. 
+- **Climbing plants** on a trellis or the wall on the balcony: nasturtium, tomato, cucamelon. Fertiliser for tomato, but NO fertiliser for nasturtiums!
 - Some **herbs**: mint, rosemary
 - Some winterhard **trees** in pots
+
+## Pre-sowing
+### March
+- [Smultron (wild strawberry)](projects/plants/Smultron%20(wild%20strawberry).md)
+- [Tomato](projects/plants/Tomato.md)
+- [Pepper](projects/plants/Pepper.md)
+- [Peppermint](projects/plants/Peppermint.md)
+- [Tagetes](projects/plants/Tagetes.md)
+
+
+### April
+- [Sunflower](projects/plants/Sunflower.md)
+- [Nasturtium](projects/plants/Nasturtium.md)
+- [Peppermint](projects/plants/Peppermint.md)
+
+## Sow directly outside
+
+### April
+- [Poppy](projects/plants/Poppy.md)
+- [Cornflower](projects/plants/Cornflower.md)
+- [Ringblomma](projects/plants/Ringblomma.md)
+- [Sugar pea](projects/plants/Sugar%20pea.md)
+
+### May
+- [Nasturtium](projects/plants/Nasturtium.md)
+
+## Test germination
+- Tagetes (expired 2023)
+- Citronbasilika (expired 2022)
+- Roman salad (expired 2022)
+- Plocksallad (expired 2022)
+- Bladpersilja (expired 2022)
+- Sunflower (expired 2018)
+- Nasturtium (expired 2020)
+
+
 
 ## Trellis
 - No drilling garden trellis with Sugru: https://www.youtube.com/watch?v=LNF3mYQG7sw
@@ -257,7 +293,9 @@ Tips for huge harvest: https://www.youtube.com/watch?v=9MKkBy93yqA
 
 #### Varieties
 - Smultron "Regina": https://www.plantagen.se/smultron-regina-rod-536017.html
-- 
+
+#### Bought
+- Weibulls Junior Månadssmultron Rügen
 
 
 ## Soil

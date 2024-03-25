@@ -9,11 +9,12 @@ Feel free to walk around and explore.
 ![](projects/attachments/Walk%20to%20Råå.png)
 
 ----
-## Projects
+## Selected
 - [The fantastical street names of Gothenburg](https://silfaz.github.io/gbgclusters/) - in [Coding](projects/coding/coding_misc.md)
 - [Made from scratch](projects/sewing/Made%20from%20scratch.md) - in [Sewing](projects/sewing/01%20sewing_main.md)
 - [Mealplanning](projects/cooking/Mealplanning.md) - in [Cooking](projects/cooking/cooking_main.md)
 - [Fermented vegetable (& fruit) production](projects/fermentation/Fermented%20vegetable%20production.md) - in [Fermentation](projects/fermentation/01%20fermentation_main.md)
+- [Skåneleden](trips/Skåneleden.md) - in [Trips](trips/01%20trips_main.md)
 
 
 ## Topics

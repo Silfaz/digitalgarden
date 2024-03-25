@@ -7,7 +7,7 @@ https://svensktradgard.se/tradgardsrad/zonkartan/
 ## Sources
 [Gardening books & websites](projects/plants/Gardening%20books%20&%20websites.md)
 
-[[projects/plants/Garden centres and shops]]
+[Garden centres and shops](projects/plants/Garden%20centres%20and%20shops.md)
 
 ## Balcony gardening
 [Plans 2024](projects/plants/Plans%202024.md)

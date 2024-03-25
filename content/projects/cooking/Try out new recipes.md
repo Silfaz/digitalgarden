@@ -1,10 +1,12 @@
 ---
 title: "Try out new recipes"
 ---
+### Hot cross buns (vegan)
+https://www.theguardian.com/food/2024/mar/19/vegan-baking-recipes-hot-cross-buns-coconut-slice-chocolate-cookies-georgia-irwin
 
 
-
-
+### Lemon black sesame cake (vegan)
+https://www.theguardian.com/food/2024/feb/10/meera-sodha-vegan-recipe-lemon-black-sesame-loaf-cake
 
 ### Pan de cristal bread
 100% hydration bread with HUGE air holes and a thin, crispy crust. https://www.kingarthurbaking.com/recipes/pan-de-cristal-recipe 
