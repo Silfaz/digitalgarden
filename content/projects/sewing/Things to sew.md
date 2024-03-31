@@ -23,6 +23,14 @@ title: "Things to sew"
 
 
 
+## Dungarees
+### Elsie Dungarees (Atelier Jupe)
+https://thefoldline.com/product/atelier-jupe-elsie-dungarees
+![|400](Pasted%20image%2020240331101732.png)
+
+
+
+
 
 ## Blazer 
 In dark copper cordoroy, linen or flexible canvas
@@ -95,6 +103,13 @@ This smart and casual sweatshirt sewing pattern has a straight cut, but the semi
 
 ## Dresses
 
+### Lynn Caftan dress and blouse (Atelier Jupe)
+https://thefoldline.com/product/atelier-jupe-lynn-caftan-dress-and-blouse/
+
+![|400](Pasted%20image%2020240331102216.png)
+### Ava Summer Dress (Atelier Jupe)
+https://thefoldline.com/product/atelier-jupe-ava-summer-dress/
+![|400](Pasted%20image%2020240331101849.png)
 ### Bertie Shift Dress (Liberty)
 https://thefoldline.com/product/bertie-shift-dress/
 Loose-fitting dress with sleeves gathered into cuffs and a back zip. The dress features two design options, with full instructions and fabric requirements for each dress size. Design A has pockets.
