@@ -1,6 +1,26 @@
 ---
 title: "Disovery, learning and activity log"
 ---
+
+## w14 2024
+- Finished reading De som inte syns
+- Walk to Bulltofta and back
+- Went to Naturkompaniet
+- Ate at Manto
+
+## w13 2024
+- Easter holidays
+- Skåneleden Hörby-Löberöd
+- Watched 3 Body Problem
+- Watched Woodstock '99
+- Went to Lucu Foods
+- Sewing: Helmi blouse
+- Cut down Christmas tree on balcony and sowed new thing
+- Talked to 3 mäklare and chose one of them
+- Ate spinach on Gründonnerstag and Juicy Marbles on Easter Sunday
+- Finished Reading Der beste Platz zum Leben
+- Summer time switch
+
 ## w12 2024
 - I started planting some **seedlings** indoors (cherry tomato, snack pepper, peppermint, tagetes, wild strawberries) for my big balcony [Plans 2024](projects/plants/Plans%202024.md) a few weeks ago. So far only the tomatoes and the peppers have germinated. 
 - Today is Palm Sunday and I took the whole of next week off work! At least a few of these days we want to walk the second half of [**Skåneleden**](trips/Skåneleden.md) North-South. We walked the first half last year at Easter. Then we did 5 days in a row with overnight stays, but this time we want to do it spread out over some single day hikes, because we live much closer to the trail. 
