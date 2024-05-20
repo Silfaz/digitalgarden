@@ -240,7 +240,7 @@ Start tasting the liquid on day 5. If you want something more like a vinegar, fe
 Made 2021-12-13: [Sauerkraut](projects/fermentation/Sauerkraut.md)
 
 - 10kg gehobeltes Kraut
-- 80g Salz (= 8g/kg)
+- 80g Salz (= 8g/kg) = 0.8%
 - 200g Milchzucker
 - Kümmel, Wacholder
 
@@ -248,7 +248,7 @@ Gut mischen bis Saft entsteht. In Kübel drücken bis Saft darüber steht. Decke
 
 ### Sauerkraut von Chefkoch.at
 - 10kg Weißkraut
-- 120 Salz (= 12g/kg)
+- 120 Salz (= 12g/kg) = 1.2%
 - 20g Kümmel
 - 10g Dillsamen
 
@@ -256,14 +256,14 @@ Fein hobeln, mit Salz vermischen, kneten bis Saft rauskommt. Gläser auskochen, 
 
 ### Mama's Sauerkraut im Tontopf
 - 10kg Weißkraut
-- 50-100g Salz (= 5-10g/kg)
+- 50-100g Salz (= 5-10g/kg) = 0.5-1%
 - Kümmel
 
 Krautschnitzel und Salz schichten. Stampfen bis Saft übersteht, Topf mit sauberem Geschirrtuch abdecken. Gewichte drauf. Saft sollte in jedem Fall über Kraut stehen. Tuch, Deckel und Gewichte 1x pro Woche reinigen. Bei zu wenig Flüssigkeit einfach mit Salzwasser auffüllen. Kühl lagern, 4-6 Wochen.
 
 ### Sauerkraut von OÖ Nachrichten
 - 1 kg Weißkraut
-- 8-15 g Salz (= 8-15 g/kg)
+- 8-15 g Salz (= 8-15 g/kg) = 0.8-1.5%
 - 1 EL Kümmel
 - 4-5 Wacholderbeeren
 - 1-3 Weinblätter

@@ -54,8 +54,8 @@ title: "Thermomix recipes"
 ### Ingredients
 - 40 g Parmesan cheese, cut into pieces (3 cm)
 - 1 eschalot or brown onion (30 g)
-- 40 g butter
-- 40 g extra virgin olive oil
+- 30 g butter
+- 30 g extra virgin olive oil
 - 320 g risotto rice (e.g. Arborio)
 - 60 g dry white wine
 - 1 - 2 tbsp Vegetable stock paste (see Tips)
@@ -972,17 +972,17 @@ title: "Thermomix recipes"
 
 ### Ingredients
 
-- 2 oz Parmesan cheese, in pieces (1 in.), plus extra shaved, to serve
-- 5 oz fresh baby spinach, de-stemmed
-- 2 oz onion, in pieces
+- 60 g Parmesan cheese, in pieces (1 in.), plus extra shaved, to serve
+- 140 g fresh baby spinach, de-stemmed
+- 1/2 onion, in pieces
 - 2 garlic cloves
-- 1 oz unsalted butter
-- 1 oz extra virgin olive oil
-- 10 oz arborio rice
-- 2 oz dry white wine
-- 25 oz vegetable stock
+- 28 g unsalted butter
+- 28 g extra virgin olive oil
+- 284 g arborio rice
+- 60 g dry white wine
+- 700 g vegetable stock
 - 2 vegetable stock cubes
-- 5 oz peas frozen
+- 140 g peas frozen
 
 ### Preparation
 

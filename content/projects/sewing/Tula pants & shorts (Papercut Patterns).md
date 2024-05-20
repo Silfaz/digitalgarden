@@ -3,10 +3,11 @@ title: "Tula pants & shorts (Papercut Patterns)"
 ---
 
 ### Pattern
-
+Papercut Patterns, size 4 (for me) and size 5 (for Duncan). 
 
 ### Fabric
-
+1. Herringbone wool (?)
+2. Linen, dust blue. 
 
 ![|500](projects/attachments/DSCF8052%201.jpg)
 ![|500](projects/attachments/DSCF8055.jpg)![|500](projects/attachments/DSCF8067.jpg)

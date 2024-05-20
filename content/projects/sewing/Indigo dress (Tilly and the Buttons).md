@@ -3,7 +3,8 @@ title: "Indigo dress (Tilly and the Buttons)"
 ---
 
 ### Pattern
-
+Tilly and the Buttons, size 3. 
+Knee-length, short sleeves. 
 ### Fabric
 
 

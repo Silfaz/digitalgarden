@@ -22,6 +22,62 @@ title: "Things to sew"
 
 
 
+## T-shirts
+### Jeanne T-shirt (Ready to Sew)
+https://readytosew.fr/en/women-pdf/13-jeanne-t-shirtdress.html
+
+Classic boyfriend-cut t-shirt with a dress option. The pattern comes with four variations you can make, from classic t-shirt to lightweight sweater.  
+[#jeannereadytosew](https://www.instagram.com/explore/tags/jeannereadytosew/)
+[Sew-along](https://readytosew.fr/en/journal/sew-along-the-jeanne-t-shirt-b119.html)
+
+I've been looking for a simple t-shirt pattern for a while. I made my own, but they are not perfect. I've made two [[Stellan Tees]], but they bunch up a bit around the armhole and are maybe a bit too heavy/boxy for my liking. This Jeanne t-shirt looks perfect proportion-wise. Maybe make it with slightly chunkier hem, neckband and sleeve hems to make it look even neater? The sleeves look a bit slim... They are also quite short, could lengthen a bit.
+
+![|400](Pasted%20image%2020240420105053.png)
+
+
+## Fancy, flowy summer dress
+### Teahouse dress and top (Sewhouse 7)
+https://sewhouse7.com/products/the-tea-house-top-and-dress
+
+![](Pasted%20image%2020240420110541.png)
+
+![|400](Pasted%20image%2020240420110517.png)
+
+
+### Charlie Caftan (Closet Core Pattern)
+https://closetcorepatterns.com/products/charlie-caftan-pattern?variant=39419162755206
+Apparently the waist part is very tricky to sew, a lot of people online complaining about how difficult it was and that it was hard even with the video tutorial.
+
+![|400](Pasted%20image%2020240420110736.png)
+
+### Alana dress (Atelier Jupe)
+https://atelierjupe.com/products/alana-dress-pdf-pattern
+
+![|200](Pasted%20image%2020240420113839.png)
+
+![|400](Pasted%20image%2020240420113815.png)
+
+
+
+### Cuff dress (Assembly Line)
+https://theassemblylineshop.com/products/cuff-midi-dress-sewing-pattern
+
+
+![|400](Pasted%20image%2020240420114541.png)
+
+
+### Sequence blouse/dress (Papercut Patterns)
+https://papercutpatterns.com/collections/dresses-jumpsuits/products/sequence-blouse-dress?variant=39450667483202
+
+![|400](Pasted%20image%2020240420114429.png)
+
+![|400](Pasted%20image%2020240420114341.png)
+
+
+### Robyn dress (Fibremood)
+https://www.fibremood.com/en/patterns/532-robyn-dress
+
+![|400](Pasted%20image%2020240420114014.png)
 
 ## Dungarees
 ### Elsie Dungarees (Atelier Jupe)

@@ -31,3 +31,7 @@ e.g. Kalle, Helmi
 
 ## Simple shirt combined with skirts or cardigans
 ![](projects/attachments/Screenshot%202024-01-13%20at%2016.11.02.png)
+
+
+## Fancy-ish summer dress 
+

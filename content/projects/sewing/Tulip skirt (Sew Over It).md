@@ -8,9 +8,9 @@ I love this skirt, especially in the slightly heaver and stiffer upholstery fabr
 Sew Over It, size 10. https://sewoverit.com/product/tulip-skirt-pdf-sewing-pattern/
 
 ### Fabric
-Version 1: Leftover sofa upholstery fabric, gifted by ReCreate Design, Gothenburg. Light green with beige relief (embroidered?) checkered pattern. 
+1. Leftover sofa upholstery fabric, gifted by ReCreate Design, Gothenburg. Light green with beige relief (embroidered?) checkered pattern. 
 
-Version 2: Canvas, bought at fabric outlet Skroten, Kinna. Teal-coloured with dark blue, white and mustard-coloured brushes or eyes.  
+2. Canvas, bought at fabric outlet Skroten, Kinna. Teal-coloured with dark blue, white and mustard-coloured brushes or eyes.  
 
 ![](projects/attachments/DSCF7940.jpg)
 

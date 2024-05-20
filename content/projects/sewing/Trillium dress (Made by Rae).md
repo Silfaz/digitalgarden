@@ -3,7 +3,7 @@ title: "Made by Rae"
 ---
 
 ### Pattern
-
+Made by Rae, size S.
 
 ### Fabric
 

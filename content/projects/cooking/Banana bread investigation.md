@@ -66,6 +66,40 @@ Ok, already made the "mistake" of adapting a recipe and not sticking 100% to the
 **8/10**
 I gave it higher points than the previous recipe, because it had the heartiness that I like in a banana bread. Unfortunately it didn't rise much, which could be due to the flour mix that I used, a lack of liquid (since I poured away some banana liquid), or not enough raising power from the baking powder. 
 The denseness/moistness and the dried fruits and nuts make it taste like a mix between a banana bread and a fruit bread. 
-Next time try this recipe with some (vegan) yogurt to both increase the moisture and also provide an acidic component to increase rising from the baking powder. Also, don't use coconut oil, must use 100% liquid vegetable oil. 
+Next time try this recipe with some (vegan) yogurt to both increase the moisture and also provide an acidic component to increase rising from the baking powder. Also, don't use coconut oil, use 100% liquid vegetable oil. 
+
+
+
+## 3. BBC GoodFood (adapted again)
+Same base recipe as above, with the following changes
+- Only liquid vegetable oil (rapeseed). 
+- 200 g normal flour + 25 g Graham flour
+- 30 g dried cranberries, 20 g chopped walnuts
+- 3 non-frozen bananas
+- 1 tsp baking powder + 3/4 tsp baking soda (because we ran out of baking powder, and baking soda is about 3x as strong, according to the internet)
+
+### Instructions
+1. Preheat oven to 200°C. Grease a loaf tin and powder with flour.
+2. Mash the banana with a fork and mix with the sugar and fat.
+3. Mix together the other dry ingredients.
+4. Mix dry ingredients into the wet ingredients and stir well until no dry lumps are left. The batter didn't flow, it had almost a (wet) cookie dough consistency. 
+5. Fill batter into the tin and bake for 20 min, then cover with aluminium foil and bake another 20 min. 
+
+### Verdict
+**9.5/10**
+Pretty much the perfect banana bread. What would I improve? Maybe slightly higher variation in dough texture? Try a teeny tiny bit of rolled oats in the next one. Slightly too sweet perhaps? 
+
+## 4. BBC GoodFood (3rd variation)
+Same recipe as in trial 3, with the following changes:
+- 190 g normal flour (72 g normal wheat flour + 118 g wheat pattiserie flour, because I ran out of normal flour) + 25 g Graham flour + 10 g rolled oats
+- Cardamom instead of cinnamon (1/2 tsp finely ground and 1/2 roughly ground) - just to mix things up
+- 90 g brown sugar (Muscovado sugar, have used that in all the recipes)
+- 1/4 tsp salt
+- 30 g chopped dried lingonberries, 18 g chopped walnuts, 5 g roasted and lightly salted sunflower seeds (because I ran out of walnut)
+
+Instructions as above. Baking tin greased with vegan butter and dusted with breadcrumbs.
+
+### Verdict
+
 
 
