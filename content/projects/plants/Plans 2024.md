@@ -3,7 +3,7 @@ title: Plans 2024
 ---
 Plans for balcony gardening in 2024
 
-## What to plant
+## Plans what to plant
 
 - **Strawberries**: loads and loads, different kinds, and ones that ripen at different times of the year
 - Lots of **flowers** that are beautiful, attract pollinators, have different colours, last long: pansies, geraniums, poppy flowers, sunflowers, hollyhocks, nasturtiums, daisies. Different heights, so some can grow up a trellis (if I make one) and some can stick above the balcony railing, and some can just look nice between tomato plants. 
@@ -11,6 +11,7 @@ Plans for balcony gardening in 2024
 - **Climbing plants** on a trellis or the wall on the balcony: nasturtium, tomato, cucamelon. Fertiliser for tomato, but NO fertiliser for nasturtiums!
 - Some **herbs**: mint, rosemary
 - Some winterhard **trees** in pots
+- Berries: black raspeberries
 
 ## Pre-sowing
 ### March
@@ -37,15 +38,11 @@ Plans for balcony gardening in 2024
 ### May
 - [Nasturtium](projects/plants/Nasturtium.md)
 
-## Test germination
-- Tagetes (expired 2023)
-- Citronbasilika (expired 2022)
-- Roman salad (expired 2022)
-- Plocksallad (expired 2022)
-- Bladpersilja (expired 2022)
-- Sunflower (expired 2018)
-- Nasturtium (expired 2020)
+## Plant/place directly outside
 
+- Smultron from parents' garden
+- Black raspberries, purchased at Malmö Garden show, 2024-05-25
+![](Pasted%20image%2020240526150654.png)
 
 
 ## Trellis

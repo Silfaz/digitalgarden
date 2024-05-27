@@ -2,7 +2,7 @@
 title: "Things to sew"
 ---
 ## To sew list
-- Simple shirt in plain fabric, e.g. blue Chambrey. Pattern suggestion: [Stevie tunic (Tilly & the buttons)](https://shop.tillyandthebuttons.com/collections/sewingpatterns/products/stevie) [Inari dress (Named Clothing](https://www.namedclothing.com/products/inari-crop-tee)
+- Simple dress in plain fabric, e.g. blue Chambrey. Pattern suggestion: [Stevie tunic (Tilly & the buttons)](https://shop.tillyandthebuttons.com/collections/sewingpatterns/products/stevie) [Inari dress (Named Clothing](https://www.namedclothing.com/products/inari-crop-tee)
 ![](projects/attachments/Screenshot%202024-01-13%20at%2015.52.47.png)
 
 - [Bertie shift dress (Liberty)](projects/sewing/Bertie%20shift%20dress%20pictures%20&%20fabric.md) in more modern fabric, e.g. grey with neon graphic print, or orange + white graphic print. Or uni-coloured, a strong colour, e.g. orange, rust or blue.
@@ -79,6 +79,11 @@ https://www.fibremood.com/en/patterns/532-robyn-dress
 
 ![|400](Pasted%20image%2020240420114014.png)
 
+
+### Judy Dress (Notches)
+https://www.notchespatterns.com/products/judy-dress-top-skirt
+
+![|400](Pasted%20image%2020240523212926.png)
 ## Dungarees
 ### Elsie Dungarees (Atelier Jupe)
 https://thefoldline.com/product/atelier-jupe-elsie-dungarees
@@ -204,7 +209,7 @@ Boxy pull-on top, dartless, with a lapel collar and (optional) patch pocket. The
 everyday top that can be worn with practically anything. Because of its boxy silhouette, the Donny is comfortable but still cool. Pair it with jeans or a skirt, layer it over or under a dress.
 - [[projects/sewing/Donny shirt pictures & fabric]]
 
-### Inari dress and top tee (Clothing Pattern)
+### Inari dress and top tee (Named Clothing Pattern)
 https://www.namedclothing.com/products/inari-crop-tee
 ![|300](projects/attachments/Pasted%20image%2020240113154518.png)
 

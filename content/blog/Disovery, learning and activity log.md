@@ -3,15 +3,22 @@ title: "Disovery, learning and activity log"
 ---
 
 ## w21 2024
-- 
-
-
+- Weather has been loooovely for 2 weeks now - 22C and sunny. Quite breezy/windy though, because it's Malmö, but that's ok. North India is getting up to 50C this weekend, parts of Mexico hotter than ever at 40-50C ☹️
+- **Earth** game
+- Yoga with Adriene
+- Sold apartment
+- Southern Sweden Design days
+- Lime garden concert
+- Malmö Garden show
+- Good podcast episode https://open.spotify.com/episode/3nh76bwjB1FIAlmZ9Nbl1v?si=ajeqNBtuSpOcjqVwE8DGag. World food program Direktor: das Klima ist mittlerweile eins der sichersten Dinge. Ob es nächstes Jahr noch Krieg in Ukraine gibt kann man nicht sagen, aber dass es wärmer werden wird kann man
+- https://open.spotify.com/episode/19dhL2AVy0b0rwpwxYqhj4?si=x-TXRpZFS5q8sp9YiLmIng
+- https://www.takahe.org.nz/heat-death-of-the-internet/
 ## w20 2024
 - Went to the **dentist** for yearly check-up. She just said that I have very clean teeth and that I should keep doing what I'm doing. 
 - **Workshop about community circles** at STPLN, organised by wou creative. It was a small group of people talking about different aspects of communities, and it was the first time I participated in a discussion round with a "talking stone" that goes around and only the person holding it is allowed to talk. It took me some time to get used to that, or mentally let go of the "normal" style of discussion and conversation. But once I had landed in that, it was very calming. It removes the need to have to respond to what is being said, instead of listening and reflecting quietly. And it allows you to collect your thoughts without feeling pressed for time or being talked over by someone faster or louder. So it was a really interesting and nice experience.
 - Loud Numbers had a **vernissage** at Kulturhotellet Helsingborg on Friday evening. Their work was a  sonification and visualisation of Skåne's forest fires in 2018, a particularly dry and hot summer. The whole exhibition was really nice, called Nature's Harmony. It featured Paul Khedra making music with plants, a tulip-shaped rug mural, a moss-covered heap, a life-sized sculpture of a kneeling person, a big photo of a Swedish forest, wax cloth drapings in the shape of beehives, and decorative pieces by Gothenburg's own sprayer artist Ollio. 
 - For the first time in more than 10 years, I am without a **Spotify** premium account. We decided to jump ship after the most recent 20% price increase and declining quality of playlists, worse payment for artists and lots of ads (in podcasts) despite paid subscription. Since we pay for Youtube (to not be tormented by ads), we thought we'd give Youtube Music a go. So far it's been fine. There's a lot of stuff on it, including things that Spotify doesn't have. Bit tricky is to find the right version of songs, e.g. the "official" version instead of a video uploaded by some random person. Then of course Youtube Music also doesn't really know my recent music taste very well, so it needs more curating and finding things myself, but that's part of the fun. It got a bit boring with Spotify suggesting the same things over and over again. So we'll see how it goes. For podcasts I downloaded the free app Podbean, which does the job. 
-- It was Mat & Dryckfestivalen at Folkets Part this weekend. We went for an early lunch, had West African food and enjoyed the sun. The weather right now is **PERFECT** - 22c and sunshine. 
+- It was **Mat & Dryckfestivalen at Folkets Park** this weekend. We went for an early lunch, had West African food and enjoyed the sun. The weather right now is **PERFECT** - 22c and sunshine. 
 - **Plant update**: I finally got all the soil I need (actually, I could use a bit more, but let's leave it for now). I placed all plants on the balcony and the tomatoes and peppers are thriving. Sunflowers are also coming up, and I've finally seeded corn flowers, poppies, nasturtiums and marigolds. 
 ![](plants.jpg)
 ## w19 2024
@@ -36,12 +43,12 @@ title: "Disovery, learning and activity log"
 - [This Nature podcast episode](https://www.nature.com/articles/d41586-024-01158-6) was both educational and entertaining: **_Living on Mars would suck - here's why._** It lays out the realistic scenarios of colonising Mars and Moon. Including incredibly sharp moon dust that clings to everything, ionising radiation that would probably require us to live underground rather than in fancy glass domes with a view, and the fact that a stable outer Earth colony would be a large scale, multi-generational genetic experiment. I'm still a huge sci-fi fan, but over the last decade or so I've completely lost my excitement for colonising other planets, since we're doing such a good job destroying our own. If we can't take care of literally the only known place in the universe that doesn't kill us immediately, what's the use in venturing out and trying to "re-green" Mars?
 - I finished sewing two more **[Donny shirts](projects/sewing/Donny%20shirt.md)**, one for my mum and one for my sister. I still struggle with the pattern a bit at different stages, but it also massively depends on the 
 ## w17 2024
-- Plant update! The tomatoes are thriving, the peppers are doing well, the smultron I grew from seeds are still tiny, so is the lemon basil. Nasturtiums germinated a bit erratic, some didn't do anything and others suddenly shot up. Of the smultron I got as plants from my parents a few survived and look good, and a few dried out. 
+- **Plant update**! The tomatoes are thriving, the peppers are doing well, the smultron I grew from seeds are still tiny, so is the lemon basil. Nasturtiums germinated a bit erratic, some didn't do anything and others suddenly shot up. Of the smultron I got as plants from my parents a few survived and look good, and a few dried out. 
 
 ![](Pasted%20image%2020240425073939.png)
 
 - Duncan's parents were here for a week, and we did a lot of nice **touristy Malmö things**. Malmö is not such a "flashy" city as Stockholm, Copenhagen, or even Gothenburg. It's a bit harder to find places that make tourists go "oh, let's take a picture". Partly because it's so flat, it rarely offers a view. Partly because it doesn't really have many important buildings. There's Malmöhus slott, which stretches the definition of a castle quite a lot. But inside it's very interesting, explaining mostly about the times when Denmark and Sweden fought about the Southern part of (what is now) Sweden. There's the technical museum (which has a U-boat!), the art galleries Konsthall and Moderna Museet, the nice long beach to walk along, the inner city with old buildings and pedestrianised shopping streets, the indie mall Mitt Möllan around where we live, nice parks, amazing restaurants and bakeries, etc. They didn't run out of things to do. And when they did, they went to Lund. 
-- I went to Gothenburg for 24h to paint some walls in our old apartment before selling. Not sure if it will make any difference tough. But also took the chance to catch up with some old friends and their kids.
+- I went to **Gothenburg** for 24h to paint some walls in our old apartment before selling. Not sure if it will make any difference tough. But also took the chance to catch up with some old friends and their kids.
 
 ## w16 2024
 - End of April, and it's still not really above 10C here. I don't mind, I love being able to wear my puffy, light purple jacket. Though right now Duncan's parents are visiting and it would be nice to be able to be outside for a bit without having to briskly walk to stay warm. 

@@ -6,7 +6,7 @@ title: "Sewing"
 
 
 ## Sewing projects
-### [Made from scratch](projects/sewing/Made%20from%20scratch.md)
+### [Made from n scratch](projects/sewing/Made%20from%20scratch.md)
 ### [[Mending]]
 ### Adjusting & thrifting
 
