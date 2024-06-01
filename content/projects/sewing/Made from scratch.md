@@ -9,8 +9,7 @@ My self-mades, including pictures, and some info on fit, pattern and fabric choi
 - [Lotta dress (Tilly and the Buttons)](projects/sewing/Lotta%20dress%20(Tilly%20and%20the%20Buttons).md)
 - [Ultimate shift dress (Sew Over It)](projects/sewing/Ultimate%20shift%20dress%20(Sew%20Over%20It).md)
 - [Self-drafted shift dress](projects/sewing/Self-drafted%20shift%20dress.md)
-- [Self-drafted quilt](projects/sewing/Self-drafted%20quilt.md)
-- [Self-drafted summer dress](projects/sewing/Self-drafted%20summer%20dress.md)
+- [Self-drafted summer dress/skirt](projects/sewing/Self-drafted%20summer%20dress.md)
 - [Dress Patti 60s style (Burda Vintage E082)](projects/sewing/Dress%20Patti%2060s%20style%20(Burda%20Vintage%20E082).md)
 - [Indigo dress (Tilly and the Buttons)](projects/sewing/Indigo%20dress%20(Tilly%20and%20the%20Buttons).md)
 - [Bianca bolero jacket (Sinclair Patterns)](projects/sewing/Bianca%20bolero%20jacket%20(Sinclair%20Patterns).md)
@@ -37,5 +36,6 @@ My self-mades, including pictures, and some info on fit, pattern and fabric choi
 - [[Bertie shift dress (Liberty)]]
 
 ## Utilities
+- [Self-drafted quilt](projects/sewing/Self-drafted%20quilt.md)
 - [[Dust covers]]
 - [[Dog bed]]

@@ -34,6 +34,7 @@ Feel free to walk around and explore.
 ### 🏕️ [Trips](trips/01%20trips_main.md)
 ### ⍞ [Quotes](Quotes.md)
 
+### 💿 [Good things on the internet](Good%20things%20on%20the%20internet.md)
 
 [_What is a digital garden?_](digital%20garden/What%20is%20a%20digital%20garden.md)
 

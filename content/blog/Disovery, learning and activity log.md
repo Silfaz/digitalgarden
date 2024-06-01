@@ -1,18 +1,36 @@
 ---
 title: "Disovery, learning and activity log"
 ---
+## w22 2024
+- I finished reading **The Fabric of Civilization: How Textiles Made the World** by Virginia Postrel. It was a surprisingly interesting book that weaves (😏) history and culture and inventions and chemistry together. I had no idea that there was a lot of silk making in Europe, that during the 1300s and 1400s many European cities had very strict clothing laws that determined what fabric or colour people could wear (and how the people then circumvented those laws), and that fabric dying was the foundation of chemistry and many pharma companies of today. 
+- Went to **Karlshamn** for a project meeting. Sleepy town, but nicely located by the sea with a an extensive archipelago and hiking routes, and a smooth 2h trainride from Malmö. Will definitely go there again and explore a bit more. 
+- My parents picked 16 (!) ticks off their dog after a stroll through the forest. YUCK! It's truly summer now.
+- My company is a sponsor of the **Malmö football club Malmö FF** and raffles away tickets to the box among employees. On Tuesday it was my turn. Being in the box was a cool experience, felt very VIP and fancy. We got (plant-based) dinner, drinks and soft-serve ice cream and had a great view of the pitch. But the game itself... mh, let's just say it didn't convert me to becoming a football fan. After watching, and really enjoying, **Welcome to Wrexham**, I thought that I might want to be a football fan, but sitting through 2h of a game that consists mostly of passing the ball back and forth brought me back to reality.
+- Had a cosy little crochet evening with my friend Tessa. She showed me the gigantic knitting and crocheting resource https://www.ravelry.com/. Drops also has loads of free patterns, and I wanted to make [this top](https://www.garnstudio.com/pattern.php?id=9133&cid=19). But I didn't get very far this time, my needle was too small. 
+- Fascinating article from The New Yorker about solar storms: [What a Major Solar Storm Could do to Our Planet](https://web.archive.org/web/20240528201920/https://www.newyorker.com/magazine/2024/03/04/what-a-major-solar-storm-could-do-to-our-planet).
+- Prejudices about capabilities shape what we are actually capable of. "Stupid" and "clever" rats both have the same ability to run through a maze, but our perception of one makes us treat them differently and influence the outcome. Blind people can echolocate and navigate their world amazingly well if they are not overly coddled. [How to Become Batman](https://www.npr.org/programs/invisibilia/378577902/how-to-become-batman) from the NPR podcast series **Invisibilia**.
+- After a bit of a break from my guitar practice, I've picked it up again. Currently working on playing the chords to Losing my Religion and the melody of O sole mio. 🎶
+- Wou Creative organised the **Communitive Festival** on Saturday at STPLN, and I helped as a volunteer. It was fun and I chatted to a lot of super nice people. Finding nice communities in Malmö is one of my main goals currently, and there is a lot going on. Alanna and Sári did a great job putting together a little guide to 35 clubs and communities in Malmö - mediation circle, choir, urban art, analog photography, dancing, repair cafe, etc. I might join a **communal forest garden** group.
+
 
 ## w21 2024
-- Weather has been loooovely for 2 weeks now - 22C and sunny. Quite breezy/windy though, because it's Malmö, but that's ok. North India is getting up to 50C this weekend, parts of Mexico hotter than ever at 40-50C ☹️
-- **Earth** game
-- Yoga with Adriene
-- Sold apartment
-- Southern Sweden Design days
-- Lime garden concert
+- The **weather** has been loooovely for 2 weeks now - 22C and sunny. Quite breezy/windy though, because it's Malmö, but that's ok. Though North India is getting up to 50C this weekend, parts of Mexico hotter than ever at 40-50C ☹️
+- We played our new boardgame **Earth**. The goal is to fill your ecosystem with plants, grow them, compost them, and fulfil some objectives. It's nice. I especially like all the cards with different trees, flowers and mushrooms, and the range of ecosystems and terrains that you can pick. It's not very collaborative, and only in the very end competitive. You play more along each other than really _with_ each other, but it's still a nice activity.
+- I started the well-known and -loved **Yoga with Adriene** on Youtube. Let's see if I keep up the whole 30 day program. My plan is not to do 30 consecutive days, but rather do yoga at least on the days when I work from home. 
+- We finally sold the **Gothenburg apartment**! Relieved, but a bit sad. Also because we got less than what we paid for in 2017; the market was hot at that time, the interest rate low, and we bid with 6 other people to quite a high price. So we knew we couldn't expect _too_ much now, but for that we got a decent price. Eight people at the viewing, two eventually bid, starting 100 k lower than the starting price, but reaching almost the starting price again. 
+- The **Southern Sweden Design Days** were happening this week. We went to Lokstallarna, a cool former train yard with spacious old brick buildings and industrial flair. There were some cool things, especially the student's projects were very interesting. Some stuff was a bit annoying though - either too arrogant-artsy, or too greenwashing. I did love a model of the Turning Torso made from tempeh, as well as rugs that look like petri dishes or aerial photography.
+
+![|400](Pasted%20image%2020240601171333.png)
+
+![|400](Pasted%20image%2020240601171407.png)
+- **Malmö Garden show** also took place on the weekend, and Slottsparken was full of stands selling plants, garden stuff or locally made chili sauce, kimchi, or kombucha. We had Jamaican food from a food truck, and I bought a little black raspberry bush that will likely only get fruits next year. 
+- **Lime Garden** played a free concert at Plan B. Short setlist, but quite good. I love [I want to be you](https://music.youtube.com/watch?v=jFYemNmWI4M&si=mf5XScj6vcO4dDmk).
 - Malmö Garden show
-- Good podcast episode https://open.spotify.com/episode/3nh76bwjB1FIAlmZ9Nbl1v?si=ajeqNBtuSpOcjqVwE8DGag. World food program Direktor: das Klima ist mittlerweile eins der sichersten Dinge. Ob es nächstes Jahr noch Krieg in Ukraine gibt kann man nicht sagen, aber dass es wärmer werden wird kann man
-- https://open.spotify.com/episode/19dhL2AVy0b0rwpwxYqhj4?si=x-TXRpZFS5q8sp9YiLmIng
-- https://www.takahe.org.nz/heat-death-of-the-internet/
+- Interesting podcast episode with the director of the World Food Program: [Wir könnten den Hunger bis 2030 besiegen](https://www.derstandard.de/story/3000000216337/world-food-programme-martin-frick-koennten-hunger-bist-2030-besiegen). 
+- "Climate (change) is by now one of the most certain things. Whether or not there'll still be a war in Ukraine this time next year no one can tell, but that it's getting warmer is for sure."
+- [Heat Death of the Internet](https://www.takahe.org.nz/heat-death-of-the-internet/). Yay for Wikipedia and local libraries. 
+
+
 ## w20 2024
 - Went to the **dentist** for yearly check-up. She just said that I have very clean teeth and that I should keep doing what I'm doing. 
 - **Workshop about community circles** at STPLN, organised by wou creative. It was a small group of people talking about different aspects of communities, and it was the first time I participated in a discussion round with a "talking stone" that goes around and only the person holding it is allowed to talk. It took me some time to get used to that, or mentally let go of the "normal" style of discussion and conversation. But once I had landed in that, it was very calming. It removes the need to have to respond to what is being said, instead of listening and reflecting quietly. And it allows you to collect your thoughts without feeling pressed for time or being talked over by someone faster or louder. So it was a really interesting and nice experience.

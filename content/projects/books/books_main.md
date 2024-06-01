@@ -4,8 +4,12 @@ title: "Books main"
 ## Read 2024
 - All Systems Red - Murderbot Diaries #1 (Martha Wells)
 - [**Things Become Other Things**](projects/books/Things%20Become%20Other%20Things.md) (Craig Mod)
-- Jag är Zlatan (autobiography) (Zlatan Ibrahimovic
+- Jag är Zlatan (autobiography) (Zlatan Ibrahimovic)
 - Der beste Platz zum Leben (Anne Weiss)
+- De som inte syns (Micha Foss-Ghazarian)
+- Eine Geschichte der Welt in 100 Mikroorganismen (Florian Freistetter, Helmut Jungwirth, audiobook)
+- The Fabric of Civilization: How Textiles Made the World (Virginia Postrel)
+- [[The Hidden Life of Trees]] (Peter Wohlleben)
 
 ## Read 2023
 - **[Exhalation](projects/books/Exhalation.md) (Ted Chiang)** 

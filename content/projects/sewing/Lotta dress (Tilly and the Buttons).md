@@ -1,6 +1,8 @@
 ---
 title: "Lotta dress"
 ---
+![|500](Pasted%20image%2020240601220052.png)
+
 
 Very nice piece! It's a simple dress that you just throw on and you're styled. No buttons, no zips, no fastenings. With the short sleeves it's a nice mix between casual and elegant looking. Love the fabric: it's a bit heavier than "normal" viscose, has a very nice drape, and doesn't crease much. 
 
@@ -22,5 +24,7 @@ After a while the neck facing really bothered me, because it always looked slopp
 - Maybe try a longer version with patch pocket in a double gauze, like [this one](https://www.instagram.com/p/CevjUlwsH4J/?)?
 - In Gingham fabric like [this one](https://www.instagram.com/p/CrTy5Yws9p8/)? Or graphic print like [this one](https://www.instagram.com/p/CsIihHxsnau/))? Or in jersey like [this one](https://www.instagram.com/p/CsqPMfrMm9t/)?
 
+![|500](Pasted%20image%2020240601220015.png)
+Here with Mum-made jumper in cotton yarn.
 
-![](projects/attachments/DSCF7705.jpg)
+![|500](projects/attachments/DSCF7705.jpg)
