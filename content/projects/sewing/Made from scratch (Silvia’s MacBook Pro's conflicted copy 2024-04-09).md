@@ -21,7 +21,7 @@ My self-mades, including pictures, and some info on fit, pattern and fabric choi
 - [Frances boxy top (Fibremood)](projects/sewing/Frances%20boxy%20top%20(Fibremood).md)
 - [Trillium dress (Made by Rae)](projects/sewing/Trillium%20dress%20(Made%20by%20Rae).md)
 - [Nenuphar jacket (Deer and Doe)](projects/sewing/Nenuphar%20jacket%20(Deer%20and%20Doe).md)
-- [Dress and jumper (Ninalee)](projects/sewing/Dress%20and%20jumper%20(Ninelee).md)
+- [Dress and jumper (Ninalee)](projects/sewing/Southbank%20sweaterdress%20and%20jumper%20(Ninelee).md)
 - [Self-drafted long summer skirt](projects/sewing/Self-drafted%20long%20summer%20skirt.md)
 - [Bluse Clariella (Drei M's)](projects/sewing/Bluse%20Clariella%20(Drei%20M's).md)
 - [Harvest top (Peppermintmag)](projects/sewing/Harvest%20top%20(Peppermintmag).md)

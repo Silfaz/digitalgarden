@@ -61,7 +61,7 @@ Ok, already made the "mistake" of adapting a recipe and not sticking 100% to the
 4. Mix dry ingredients into the wet ingredients and stir well until no dry lumps are left. The batter didn't flow, it had almost a (wet) cookie dough consistency. 
 5. Fill batter into the tin and bake for 20 min, then cover with aluminium foil and bake another 20 min. 
 
-![|500](Pasted%20image%2020240325192525.png)
+![|500](projects/attachments/Pasted%20image%2020240325192525%201.png)
 ### Verdict
 **8/10**
 I gave it higher points than the previous recipe, because it had the heartiness that I like in a banana bread. Unfortunately it didn't rise much, which could be due to the flour mix that I used, a lack of liquid (since I poured away some banana liquid), or not enough raising power from the baking powder. 

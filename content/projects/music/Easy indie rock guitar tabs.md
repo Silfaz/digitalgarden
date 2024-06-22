@@ -1,0 +1,14 @@
+---
+title: Easy indie rock guitar tabs
+---
+- Vampire Weekend's first two albums
+- Built to Spill - Big Dipper
+- The Shins - New Slang
+- The XX - Islands
+- Franz Ferdinand - Take me out
+- Interpol - Time to be so small
+- Modest Mouse - Float on
+- Sea Power
+- Muse
+- Grandaddy
+- 

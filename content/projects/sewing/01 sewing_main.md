@@ -4,12 +4,12 @@ title: "Sewing"
 
 ![](projects/attachments/Pasted%20image%2020230119203000.png)
 
-![](Screenshot%202024-06-01%20at%2021.58.15.png)
+![](projects/attachments/Screenshot%202024-06-01%20at%2021.58.15.png)
 
 ## Sewing projects
 ### [Made from scratch](projects/sewing/Made%20from%20scratch.md)
-### [[Mending]]
-### Adjusting & thrifting
+### [Mending](projects/sewing/Mending.md)
+### [[Adjusting & thrifting]]
 
 
 ## Sewing inspiration
@@ -21,9 +21,14 @@ title: "Sewing"
 
 
 ## Other than sewing
-### [Stitching & quilting](projects/sewing/stitching)
 
-### [[Rugs]]
+## [Crochet](projects/sewing/Crochet.md)
+
+## [Stitching & quilting](projects/sewing/stitching)
+
+## [Rugs](projects/sewing/Rugs.md)
+
+
 
 
 

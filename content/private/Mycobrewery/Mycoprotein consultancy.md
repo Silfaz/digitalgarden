@@ -102,7 +102,7 @@ So for a whole line from seed reactor to 10 m3 with installation and all control
 - **Protein**
 	- Up to 45% protein per dry weight, or around 11% per 100 g wet weight.
 	- Rich in essential amino acids, good amino acid profile (better than most plants)
-![300](Pasted%20image%2020240307163539.png)
+![300](projects/attachments/Pasted%20image%2020240307163539.png)
 
 - **Relatively low environmental impact**
 	- 10 times less carbon, water or land use compared to beef. 

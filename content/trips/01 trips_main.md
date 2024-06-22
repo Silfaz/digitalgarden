@@ -17,7 +17,7 @@ Any travelling necessary for them is done by public transport (preferably train)
 
 ## Train journeys
 [Train journey Sweden-Finland](trips/Train%20journey%20Sweden-Finland.md)
-[[Train journey through Europe]]
+[[trips/Train journey through Europe]]
 [Inlandsbanan](trips/Inlandsbanan.md)
 
 

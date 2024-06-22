@@ -42,7 +42,7 @@ Plans for balcony gardening in 2024
 
 - Smultron from parents' garden
 - Black raspberries, purchased at Malmö Garden show, 2024-05-25
-![](Pasted%20image%2020240526150654.png)
+![](projects/attachments/Pasted%20image%2020240526150654.png)
 
 
 ## Trellis

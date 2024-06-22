@@ -12,8 +12,8 @@ title: Inspiration pictures
 ![](projects/attachments/Pasted%20image%2020240212194240.png)
 
 **Balconies from Malmö Garden show 2024**
-![](Pasted%20image%2020240526150354.png)Double-level pallgkrage with snack peppers, herbs, strawberries and flowers.
+![](projects/attachments/Pasted%20image%2020240526150354.png)Double-level pallgkrage with snack peppers, herbs, strawberries and flowers.
 
-![](Pasted%20image%2020240526150445.png)
+![](projects/attachments/Pasted%20image%2020240526150445.png)
 Quarter-circle flower pot for corners. Step-like flower pot. 
 

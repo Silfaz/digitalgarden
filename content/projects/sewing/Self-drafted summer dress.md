@@ -18,4 +18,4 @@ Here with [Stacker Jacket](projects/sewing/Stacker%20Jacket.md) in light blue Co
 ## Adjustments
 After not wearing it very much, I actually chopped off the top and made a skirt out of it.
 
-![|400](Pasted%20image%2020240601220659.png)
+![|400](projects/attachments/Pasted%20image%2020240601220659.png)

@@ -18,7 +18,7 @@ _As the author writes in the end notes:_ "Back in the 1990s the physicist Kip Th
 An individual trying to figure out how their mind works and realises that everyone is a machine whose memories are dependent on air flow and entropy.
 
 _From the author's end notes:_ "(Inspiration for this story came from) the chapter in Roger Penrose's book _The Emporer's New Mind_ in which he discusses entropy. He points out that therer's a sense in which it's incorrect to say we eat food because we need the energy it contains. The conservation of energy means that it is neither created nor destroyed; we are radiating energy constantly, at pretty much the same rate that we absorb it. The difference is that the heat energy we radiate is a high-entropy form of energy, meaning it's disordered. The chemical energy we absorb is a low-entropy form of energy, meaning it's ordered. In effect, we are consuming order and generating disorder; we live by increasing the disorder of the universe. It's only because the universe started in a highly ordered state that we are able to exist at all."
-[Quotes](Quotes.md)
+[Quotes](blog/Quotes.md)
 
 ## What's expected of us
 A simple machine shows people that free will doesn't exist, and a warning from the future to never use it.

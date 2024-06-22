@@ -32,30 +32,30 @@ Classic boyfriend-cut t-shirt with a dress option. The pattern comes with four v
 
 I've been looking for a simple t-shirt pattern for a while. I made my own, but they are not perfect. I've made two [[Stellan Tees]], but they bunch up a bit around the armhole and are maybe a bit too heavy/boxy for my liking. This Jeanne t-shirt looks perfect proportion-wise. Maybe make it with slightly chunkier hem, neckband and sleeve hems to make it look even neater? The sleeves look a bit slim... They are also quite short, could lengthen a bit.
 
-![|400](Pasted%20image%2020240420105053.png)
+![|400](projects/attachments/Pasted%20image%2020240420105053.png)
 
 
 ## Fancy, flowy summer dress
 ### Teahouse dress and top (Sewhouse 7)
 https://sewhouse7.com/products/the-tea-house-top-and-dress
 
-![](Pasted%20image%2020240420110541.png)
+![](projects/attachments/Pasted%20image%2020240420110541.png)
 
-![|400](Pasted%20image%2020240420110517.png)
+![|400](projects/attachments/Pasted%20image%2020240420110517.png)
 
 
 ### Charlie Caftan (Closet Core Pattern)
 https://closetcorepatterns.com/products/charlie-caftan-pattern?variant=39419162755206
 Apparently the waist part is very tricky to sew, a lot of people online complaining about how difficult it was and that it was hard even with the video tutorial.
 
-![|400](Pasted%20image%2020240420110736.png)
+![|400](projects/attachments/Pasted%20image%2020240420110736.png)
 
 ### Alana dress (Atelier Jupe)
 https://atelierjupe.com/products/alana-dress-pdf-pattern
 
-![|200](Pasted%20image%2020240420113839.png)
+![|200](projects/attachments/Pasted%20image%2020240420113839.png)
 
-![|400](Pasted%20image%2020240420113815.png)
+![|400](projects/attachments/Pasted%20image%2020240420113815.png)
 
 
 
@@ -63,31 +63,31 @@ https://atelierjupe.com/products/alana-dress-pdf-pattern
 https://theassemblylineshop.com/products/cuff-midi-dress-sewing-pattern
 
 
-![|400](Pasted%20image%2020240420114541.png)
+![|400](projects/attachments/Pasted%20image%2020240420114541.png)
 
 
 ### Sequence blouse/dress (Papercut Patterns)
 https://papercutpatterns.com/collections/dresses-jumpsuits/products/sequence-blouse-dress?variant=39450667483202
 
-![|400](Pasted%20image%2020240420114429.png)
+![|400](projects/attachments/Pasted%20image%2020240420114429.png)
 
-![|400](Pasted%20image%2020240420114341.png)
+![|400](projects/attachments/Pasted%20image%2020240420114341.png)
 
 
 ### Robyn dress (Fibremood)
 https://www.fibremood.com/en/patterns/532-robyn-dress
 
-![|400](Pasted%20image%2020240420114014.png)
+![|400](projects/attachments/Pasted%20image%2020240420114014.png)
 
 
 ### Judy Dress (Notches)
 https://www.notchespatterns.com/products/judy-dress-top-skirt
 
-![|400](Pasted%20image%2020240523212926.png)
+![|400](projects/attachments/Pasted%20image%2020240523212926.png)
 ## Dungarees
 ### Elsie Dungarees (Atelier Jupe)
 https://thefoldline.com/product/atelier-jupe-elsie-dungarees
-![|400](Pasted%20image%2020240331101732.png)
+![|400](projects/attachments/Pasted%20image%2020240331101732%201.png)
 
 
 
@@ -167,10 +167,10 @@ This smart and casual sweatshirt sewing pattern has a straight cut, but the semi
 ### Lynn Caftan dress and blouse (Atelier Jupe)
 https://thefoldline.com/product/atelier-jupe-lynn-caftan-dress-and-blouse/
 
-![|400](Pasted%20image%2020240331102216.png)
+![|400](projects/attachments/Pasted%20image%2020240331102216%201.png)
 ### Ava Summer Dress (Atelier Jupe)
 https://thefoldline.com/product/atelier-jupe-ava-summer-dress/
-![|400](Pasted%20image%2020240331101849.png)
+![|400](projects/attachments/Pasted%20image%2020240331101849%201.png)
 ### Bertie Shift Dress (Liberty)
 https://thefoldline.com/product/bertie-shift-dress/
 Loose-fitting dress with sleeves gathered into cuffs and a back zip. The dress features two design options, with full instructions and fabric requirements for each dress size. Design A has pockets.

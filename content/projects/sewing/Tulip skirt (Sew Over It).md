@@ -13,7 +13,8 @@ Sew Over It, size 10. https://sewoverit.com/product/tulip-skirt-pdf-sewing-patte
 
 2. Canvas, bought at fabric outlet Skroten, Kinna. Teal-coloured with dark blue, white and mustard-coloured brushes or eyes.  
 
-
+## Next time
+Make the pockets a bit bigger, they are quite small.
 
 ![|500](projects/attachments/DSCF7942.jpg)
 

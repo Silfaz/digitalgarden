@@ -9,10 +9,10 @@ Papercut Patterns, size 4 (for me) and size 5 (for Duncan).
 1. Herringbone wool (?)
 2. Linen, dust blue. 
 
-![|500](Pasted%20image%2020240601221555.png)
+![|500](projects/attachments/Pasted%20image%2020240601221555.png)
 Here with [Donny shirt](projects/sewing/Donny%20shirt.md) in same linen fabric.
 
-![|500](Pasted%20image%2020240601221633.png)
+![|500](projects/attachments/Pasted%20image%2020240601221633.png)
 Here in [Donny shirt](projects/sewing/Donny%20shirt.md) in same linen fabric.
 
 ![|500](projects/attachments/DSCF8052%201.jpg)
