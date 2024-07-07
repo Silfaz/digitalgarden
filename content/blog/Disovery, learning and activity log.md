@@ -10,17 +10,17 @@ title: "Disovery, learning and activity log"
 	- **Pildammsparken** with its many huge, old beech trees, with trunks like elephant legs. We saw a concert by Tensta Gospel Choir in the little amphitheatre there one evening. 
 	- Walking along the sea promenade in **[Västra Hamnen](https://en.wikipedia.org/wiki/V%C3%A4stra_hamnen?useskin=vector)** - an artificial island that's been accumulated since the 1770s and housed previously (in the 1960s) the largest ship dock in the world - with a view of the Öresunds Bridge and Copenhagen on the horizon, [Turning Torso](https://en.wikipedia.org/wiki/Turning_Torso?useskin=vector) behind us. There's also a great skatepark and urban gardening area on an old shipyard ramp. 
 	- [**Foteviken viking village**](https://www.fotevikensmuseum.se/), a 30 min bus ride south of Malmö, beautifully located at the seaside, with a lot of reconstructed buildings and actors that go about their daily viking life.
-	![](25%20Juni%20Foteviken%2012.jpeg)
+	![](projects/attachments/25%20Juni%20Foteviken%2012.jpeg)
 	- Restaurants/Cafés **Lera**, **Farm2Table**, **Sansa** and **Café No 6**. Café No 6 is tiny and has a super cute little garden with tables and chairs on the opposite side of the street. 
 	- Copenhagen's hipster district **Nørrebro**, with the street-arty park **[Superkilen](https://www.archdaily.com/286223/superkilen-topotek-1-big-architects-superflex)** and my favourite streets Jægersborggade, Blågårdsgade and the cycle highway Den Grønne Sti over Åbuen. And then on the complete opposite side of the city (1.5 h walk or a 30 min bus ride) in a formerly industrial area, **[Reffen](https://reffen.dk/en/),** an amazing, relaxed street food market with beergarden tables, sun chairs and soft DJ beats, and a view of the old town across the water. The waste incinerator [**Copenhill**](https://www.copenhill.dk/en) is also worth a visit, not only for the fantastic view but also just for the impressive building with its calm and constant, white puffs of water vapour dissolving into the blue sky. **Nyhavn** in Copenhagen is of course also a tourist must, and especially in the evening sun it's super pretty!
 	
-![](29%20Juni%20Kopenhagen%2018.jpeg)
+![](projects/attachments/29%20Juni%20Kopenhagen%2018.jpeg)
 
-![](29%20Juni%20Kopenhagen%2022.jpeg)
+![](projects/attachments/29%20Juni%20Kopenhagen%2022.jpeg)
 
 - **Hollyhocks** (species _Alcea_) are currently blooming like crazy in Malmö along building walls, and it always amazes me how little actual soil is needed to sprout this enormous plant with its dozens or hundreds of flowers. The other plant that is _everywhere_ right now is **Common Mullein** (_Verbascum_), another impressive thing that grows to human height in just a few months. 
 
-![](25%20Juni%20Foteviken%2007.jpeg)
+![](projects/attachments/25%20Juni%20Foteviken%2007.jpeg)
 
 ## w25 2024
 - I finished **The House in the Cerulean Sea** by TJ Klune. It had been on my to-read list for a while, and was one of those books that had either 5-star or 1-star reviews. Saw it in the library the other week and borrowed it on a whim. Then read it within 2 weeks, the fastest I've read a book in a while. It is incredibly cheesy, sickly sweet, and predictable. But also lovely and heartwarming, and it made me feel things I haven't in a while when reading a book. So even though it's not a literary masterpiece, I have to say I did really enjoy reading it. The story is simple and not super original - protagonist who is a loser but very kind, magical creatures in an orphanage, a mysterious headmaster with a not-very-dark secret, comically evil people but also one-dimensionally good people. But there is a place for feel-good books, and I'm glad I read it. As one Goodreads reviewer wrote: "This book managed to make me cry over a button, how could I not give it 5 stars!". 
