@@ -41,10 +41,11 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 - [Tempeh links](projects/fermentation/Tempeh%20links.md)
 
 
-## Koji, shoyu, aminos 🍜🍶
-- [[Koji fermentation notes]]
+## Koji, miso, shoyu, aminos 🍜🍶
+Recipes that have koji as their basis. 
+- [[projects/fermentation/Koji fermentation notes]]
 - [Koji recipes](projects/fermentation/Koji%20recipes.md)
-- [Koji production](Koji%20production)
+- [Koji production](projects/fermentation/Koji%20production.md)
 
 ## Drinks
 - [Kombucha (base recipe)](projects/fermentation/Kombucha%20(base%20recipe).md)

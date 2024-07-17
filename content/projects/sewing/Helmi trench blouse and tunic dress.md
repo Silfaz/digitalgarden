@@ -7,7 +7,7 @@ title: Helmi trench blouse and tunic dress
 [#helmitrenchblouse](https://www.instagram.com/explore/tags/helmitrenchblouse/)
 [#helmitunicdress](https://www.instagram.com/explore/tags/helmitunicdress/)
 
-Nice pattern with a fancy, but slightly fiddly hidden button plaquet. Nice rounded collar or mandarin-style collar. 
+Nice pattern with a fancy, but slightly fiddly hidden button placket. Nice rounded collar or mandarin-style collar. 
 
 ## Pattern
 Named Clothing, size 38.
@@ -15,6 +15,7 @@ Named Clothing, size 38.
 ## Fabric
 1. Blouse: Wearable toile from an old bedsheet with Gothenburg-themed print: seagulls, oyster catchers, boats, rocks, seals, waves. 
 2. Viscose (?) from Komolka, Vienna. 
+3. Poplin abstract waves black from Kattun Stoffe. 1.3 m bought.
 
 ## Adjustments
 

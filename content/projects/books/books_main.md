@@ -9,8 +9,12 @@ title: "Books main"
 - De som inte syns (Micha Foss-Ghazarian)
 - Eine Geschichte der Welt in 100 Mikroorganismen (Florian Freistetter, Helmut Jungwirth, audiobook)
 - The Fabric of Civilization: How Textiles Made the World (Virginia Postrel)
-- [[projects/books/The Hidden Life of Trees]] (Peter Wohlleben)
 - The House in the Cerulean Sea (TJ Klune)
+- [**A Memory Called Empire**](projects/books/A%20Memory%20Called%20Empire.md) (Arkady Martine)
+- [The Hidden Life of Trees](projects/books/The%20Hidden%20Life%20of%20Trees.md) (Peter Wohlleben)
+
+
+
 
 ## Read 2023
 - **[Exhalation](projects/books/Exhalation.md) (Ted Chiang)** 

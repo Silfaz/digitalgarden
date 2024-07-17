@@ -41,7 +41,7 @@ Plans for balcony gardening in 2024
 ## Plant/place directly outside
 
 - Smultron from parents' garden
-- Black raspberries, purchased at Malmö Garden show, 2024-05-25
+- [Black raspberries](projects/plants/Black%20raspberries.md), purchased at Malmö Garden show, 2024-05-25
 ![](projects/attachments/Pasted%20image%2020240526150654.png)
 
 

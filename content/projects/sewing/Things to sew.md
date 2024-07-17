@@ -132,7 +132,7 @@ https://openstudiopatterns.com/patterns/p/shop-pant: Casual trousers. The Shop P
 
 ## Cardigan
 ### Marlo Cardigan (True Bias)
-https://truebias.com/products/marlo-sweater-1: Oversized sweater with a dropped shoulder, deep V-neck, wide bands and large buttons. Cropped or above mid thifh with patch pockets.
+https://truebias.com/products/marlo-sweater-1: Oversized sweater with a dropped shoulder, deep V-neck, wide bands and large buttons. Cropped or above mid thigh with patch pockets.
 - [Marlo Sweater pictures & fabric](projects/sewing/Marlo%20Sweater.md)
 
 

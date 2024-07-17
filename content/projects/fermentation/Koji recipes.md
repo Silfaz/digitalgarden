@@ -68,8 +68,9 @@ More prone to overheating! Nutty chestnut aroma when done. Will look less fuzzy 
 6. After 24-36h, surface growth and sweet, mushroomy smell. Monitor heat closely, stir and break up lumps, make furrows to dissipate heat. Adjust moisture if needed.
 7. After about **40 h total**, incubation is done.
 
-### Koji from LUVI
+### Koji from LUVI/Fermentationculture.eu
 (500g), Grind in mixer to powder. Add 200g water and mix to reconstitute = 700g fresh koji.
+
 
 
 ## Shoyus and aminos
@@ -179,6 +180,14 @@ Made 2021-10-16 [Oat residue aminos](Oat residue aminos)
 
 Made in 2020. Turned out very good. Quite salty, but delicious. Quite straight flavour.
 
+
+### Medium miso (1:1 koji and soybean)
+6 months - 2 years, from _Miso, Tempeh, Natto (Shockey)_, p269
+- 1 part dry legumes
+- 1 part fresh koji
+- 12% salt
+
+Made in 2024: [Miso with koji from Max](projects/fermentation/Koji%20production.md#Miso%20with%20koji%20from%20Max)
 
 ### Light miso
 (6-12 months), Shockey

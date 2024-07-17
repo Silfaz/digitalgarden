@@ -16,6 +16,8 @@ https://svensktradgard.se/tradgardsrad/zonkartan/
 
 [Inspiration pictures](projects/plants/Inspiration%20pictures.md)
 
+[Compost](projects/plants/Compost.md)
+
 ## Indoor plants
 [How to care for the plants I have at home](projects/plants/How%20to%20care%20for%20the%20plants%20I%20have%20at%20home.md)
 

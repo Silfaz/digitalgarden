@@ -6,6 +6,37 @@ Always fit from the top down! First length of waist, then scroop of crotch, then
 
 Fit one thing at a time and try on in between! 
 
+
+## Lining 
+
+### Lining any garment
+
+https://www.youtube.com/watch?v=THRwKlsfvLA
+
+1. Cut out the same pieces of lining as of shell fabric. 
+2. Trim (shorten) the following lining pieces by 0.5 cm:
+	- neckline
+	- armholes (if no sleeves)
+	- cuffs (if sleeves)
+	- length of the pieces (waist or hem).
+	This will ensure that the shell fabric will be pulled inside a bit by the shortened lining, and the lining will not peek out.
+3. Sew all the shell pieces and all the lining pieces together, so you have two identical sides of the garment.
+4. Join lining and shell:
+	- Make sure right sides of the two pieces are facing each other.
+	- Make sure your seams correspond. Start at centre back, then match up the shoulder seams. Then proceed to front neckline. 
+	- Follow the neckline and pin lining and shell together. Make sure the edges of the two pieces are **flush**, despite the fact that the lining is a bit shorter.
+	- Find your ease and distribute evenly.
+	- Sew around the neckline and part of your hem/waist.
+	- Understitch the seam allowance in the neckline
+5. Sew as far as possible with the machine, but leave a hole to turn everything the right side out. Sew the very last bit by hand. 
+
+### Lining or relining a skirt
+https://www.youtube.com/watch?v=2UCCdsTlcJQ
+
+
+
+
+
 ## Crotch curve
 
 If "comma"-shaped lines around crotch and bluging fabric --> too much fabric, scooping out of crotch curve needed.

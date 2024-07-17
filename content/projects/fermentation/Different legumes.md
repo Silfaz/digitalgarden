@@ -391,10 +391,10 @@ Put at 30°C in oven, start temperature of all bags: 27°C.
 ### Conclusion
 This incubation was too rapid and the tempeh tasted a bit ripe. 
 
-## Soy bean + oat residue tempeh (2022-01-27)
+## Soy bean + oat residue (okara) tempeh (2022-01-27)
 **Soy beans**: 250 g. Soak o/n, cook for 45 min, then drain and dry off a bit. Add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**). Add 1/2 tsp Raprima starter (**2 tsp/kg**).
 
-**Oat residue**: Leftovers from oat milk production, about 30% moisture. Stored in freezer until use. Microwave for a few minutes to kill off microbes. 
+**Oat residue** (okara): Leftovers from oat milk production, about 30% moisture. Stored in freezer until use. Microwave for a few minutes to kill off microbes. 
 
 Soy bean + oat residue tempeh: Mix inoculated soy beans 1:1 with oat residue. Incubate in warm oven. Periodically turn oven on and off and open door, depending on temperature of tempeh blocks (thermometer sensor inside one block). 
 

@@ -2,7 +2,7 @@
 title: "Tempeh experiments"
 ---
 
-![](projects/attachments/Pasted%20image%2020230106110149.png)
+![|500](projects/attachments/Pasted%20image%2020230106110149.png)
 
 
 ## Detailed experiments on different beans

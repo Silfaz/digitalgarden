@@ -15,7 +15,7 @@ Options:
 With or without cuffs:
 ![|400](projects/attachments/Pasted%20image%2020240622202914.png)
 
-Without collar and cuffs:
+Without collar or cuffs:
 ![|400](projects/attachments/Pasted%20image%2020240622203000.png)
 
 Take in waist:

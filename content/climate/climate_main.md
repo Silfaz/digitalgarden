@@ -41,6 +41,11 @@ _From an [essay](https://commongood.cc/reader/a-few-rules-for-predicting-the-fut
 - [Scales of Change](climate/Scales%20of%20Change.md) - podcast
 
 - [How we will fight climate change](climate/How%20we%20will%20fight%20climate%20change.md)
+- [Against thermochauvinism](https://www.solarshades.club/p/against-thermochauvinism ) - From Andrew Dana Hudson's newsletter.  
+> There is something Eurocentric, colonialist, even quasi-racist about thermochauvinism. Brown and Black people live in warmer places, and are then depicted as lazy or uncivilized for the ways they adapt to the heat. White people live in cooler place and are thought to be industrious for adapting to the cold. A siesta or a dip in the river is a primal throwback, while _hygge_ is advanced cultural technology.
+
+Cooling technology is often more efficient, more easily electrified (heat pumps!) and can conveniently be powered by solar energy which is much more abundant throughout the hotter months. So perhaps places with very hot summers are already more climate-resiliant than those in colder climates that will need to retrofit buildings with cooling units in the decades to come. 
+
 - [Oil is the new data](climate/Oil%20is%20the%20new%20data.md)
 - [[How to blow up a pipeline]]
 - [Stop raising awareness already](https://ssir.org/articles/entry/stop_raising_awareness_already)
