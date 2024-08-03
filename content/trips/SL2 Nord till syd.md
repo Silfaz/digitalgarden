@@ -112,10 +112,10 @@ Just when we thought that it had been quietly cancelled it turned around the cor
 # SL2 Southern half
 
 ## Planning
-20-30 km chunks with good public transport connections on either side
-Easter week 2024 (24 March - 1 April)
+20-30 km chunks with good public transport connections on either side. Do in day trips or 2-day trips from Malmö. 
 
 ### Day 1 Hörby - Löberöd (23 km)
+_Easter 2024_
 Bus: From Malmö C, Skåneexpressen 1 (to Kristianstad), 51 min to Hörby busstation. 
 Train + bus: From Malmö Triangeln, train to Lund (20 min), then Skåneexpressen 2 (to Hörby), 38 min to Hörby busstation. 
 
@@ -124,23 +124,30 @@ Train + bus: From Malmö Triangeln, train to Lund (20 min), then Skåneexpressen
 4 km Rövarekulan - Löberöd
 **23 km total**
 
-ICA Nära Löberöd
+We walked this bit in March 2024. 
+It was cool and calm, no leaves on the trees yet. The part along Ringsjö was a bit boring, because it was just straight and flat, but then a bit up and through Rövarekulan was really nice. The wild garlic was _everywhere_. We walked past Kungskällan and drank some water that apparently already some king hundreds of years ago had drunk. Saw animals walking past farms, including bisons and goats. Finally arrived in Löberöd, where there was an ICA that didn't have any ice cream. 
+![](DSCF9417.jpeg)
 
-Bus + bus (+ train): ==Bus only goes once an hour at :33== Regionbus 436 (to Eslöv), 10 min to Hurva E22; SkåneExpressen 1, 37 min to Malmö C; walk to Triangeln or take train or bus. 
+![](DSCF9452.jpeg)
 
-
-### Day 2 Löberöd - Dalby (28 km)
-Train + bus + tram
-Bus + bus
+### Day 2 Löberöd - Hällestad (21 km)
+_July 2024_
+Train + bus
 
 6 km to Höghult (start of next leg)
 10 km Höghult - Krankesjön (going through Harlösa)
-9 km to Knivsås
-3 km to Dalby
-**28 km total** 
+5 km to Hällestad
+**21 km total** 
 
 Bus + train: Bus 160 to Lund C (20 min), train to Malmö Triangeln (20 min)
-Bus: Bus 174 to Malmö Södervärn (36 min)
+
+On a mostly overcast and windy, therefore quite cool (20C), July day we walked from Löberöd to Hällestad. The first part of the walk threw us right into the midst of bursting ripe raspberry bushes; I could've spend hours there! Up and down through fields (Skåne is surprisingly hilly there) of potatoes, wheat, barley and oat, with the occasional little forest in between. 
+A few times we had to walk through cow pastures, but they were mostly just chilling in some corner of the field. Only once did we crawl under the fence prematurily, because the whole cow herd had congregated around the stile that exists the pasture. 
+From Harlösa church there was a view over the flatland of Vombsänkan, and we some some graceful Red Kites circling above. We walked down, and then for hours along a pretty straight path that had been a railroad line before. Paused at Krankesjön to spot some birds, then continued onwards to Hällestad. The last few kilometers were along the old railroad embankment, totally overgrown with wildflowers full of insects and butterflies. It was tough walking (also many nettles) but really nice to see so much different flora and fauna. 
+In Hällestad we got some drinks and ice cream at a lovely little café/shop. 
+
+![](Pasted%20image%2020240719113459.png)
+
 
 ### Day 3 Dalby - Häckeberga slott (28.3 km)
 Train + bus

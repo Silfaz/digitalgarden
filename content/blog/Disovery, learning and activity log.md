@@ -1,9 +1,22 @@
 ---
 title: "Disovery, learning and activity log"
 ---
-## w29 2024
-- Finished [A Memory Called Empire](projects/books/A%20Memory%20Called%20Empire.md) by Arkady Martine. Ursula K. Le Guin with political intrigue dialled up to 11, mixed  memory-implant technology that reminds of the Trill symbionts from Star Trek. The writing is complex but beautiful and intricate, the lack of gender stereotypes is SO refreshing. Bit too much clever strategic back-and-forth conversations that lost me a bit at times, but the last quarter of the book was fast-paced and exciting to make up for it. 
 
+## w31 2024
+- I turned **40**! 🥳
+- **Jason Lytle** had another lovely bedroom concert stream for his subscribers. So nice! 
+- We walked up to Skånes highest point, a whopping 212.2 m! It was named **Skånehatten** in 2024 by a reader of Helsingborgs Dagblad.
+- I spent 3 days in **Karlshamn** for work. Lovely town on the Blekinge coast, with an enormous vegetable oil processing facility (AAK) that extracts oil from 95% of rapeseed seeds from the Nordics. Maybe that's why the whole town smelled a bit like horse fodder. 
+- The last two weeks have been pretty perfect weather-wise. Max. 23C, sunshine, breeze. I LOVE the Swedish summer. Don't know why Swedes leave the country during the best season of the year to rather bake in 40C Greece or can't leave the hotel room because of the heat. 
+
+![](Pasted%20image%2020240803115856.png)
+
+
+## w29 2024
+- Finished [**A Memory Called Empire**](projects/books/A%20Memory%20Called%20Empire.md) by Arkady Martine. Ursula K. Le Guin with political intrigue dialled up to 11, mixed memory-implant technology that reminds of the Trill symbionts from Star Trek. The writing is complex but beautiful and intricate, the lack of gender stereotypes is SO refreshing. Bit too much clever strategic back-and-forth conversations that lost me a bit at times, but the last quarter of the book was fast-paced and exciting to make up for it. 
+- We walked another bit of [Skåneleden](trips/Skåneleden.md), this time [**Löberöd to Hällestad**](trips/SL2%20Nord%20till%20syd.md#SL2%20Southern%20half#Day%202%20Löberöd%20-%20Hällestad%20(21%20km)). The weather was great for it, as this summer so far has been - like last year - quiet cool (max. 20C) and overcast. Lots of ripe wild raspberries, lots of wildflowers and insects and butterflies; fields of potatoes, wheat, oat and barley. 
+
+![](Pasted%20image%2020240719113459.png)
 
 
 ## w28 2024
@@ -11,7 +24,7 @@ title: "Disovery, learning and activity log"
 - I really want to try this veganised recipe for one of my favourite Austrian cakes [Marillenkuchen](https://veganonboard.com/vegan-apricot-cake-marillenkuchen/). Also, Ribislkuchen, which has a crispy meringue top. 
 - My balcony garden has truly exploded into a green jungle now. It's nice, but there are a LOT of leaves, and not so many flowers, sadly. Especially the nasturtiums are growing like crazy, even though I avoided fertilising them (because it enhances leaf over flower production). So I looked up some recipes for the edible nasturtium leaves, which I will try during my holidays now. [Stuffed nasturtium leaves](https://www.attainable-sustainable.net/stuffed-nasturtium-leaves/), nasturtium pesto [1](https://larderlove.com/nasturtium-pesto/), [2](https://mytinylagunakitchen.com/recipe/how-to-make-nasturtium-pesto/), [3](https://askthefoodgeek.com/nasturtium-pesto/), [nasturtium soup](https://larderlove.com/nasturtium-soup/), [nasturtium kimchi](https://www.culinarycrush.biz/all/nasturtium-kimchi), [fermented nasturtium](https://steemit.com/food/@raincountry/fermenting-nasturtium-leaves-and-flowers-recipe), [nasturtium risotto](https://madelocalmagazine.com/2020/03/savorbang-creamy-nasturtium-risotto/), [roasted beetroot ricotta and nasturtium salad](https://www.yummly.com/recipe/Roasted-Beet_-Ricotta-_-Nasturtium-Salad-1642630), etc. 
 - Maybe this will finally be my year of cold bathing (kallbada). As a first step I joined the local swimming group [Söderdoppet](https://www.instagram.com/soderdoppet/). If I start now in summer, and don't stop when it gets colder, it should be easy, right? Right?
-- [Against thermochauvinism](https://www.solarshades.club/p/against-thermochauvinism ) - From Andrew Dana Hudson's newsletter. An interesting counter-argument to thinking that it's unreasonable to live in or move to cities in hot climates.
+- [**Against thermochauvinism**](https://www.solarshades.club/p/against-thermochauvinism ) - From Andrew Dana Hudson's newsletter. An interesting counter-argument to thinking that it's unreasonable to live in or move to cities in hot climates.
 > _There is something Eurocentric, colonialist, even quasi-racist about thermochauvinism. Brown and Black people live in warmer places, and are then depicted as lazy or uncivilized for the ways they adapt to the heat. White people live in cooler place and are thought to be industrious for adapting to the cold. A siesta or a dip in the river is a primal throwback, while hygge is advanced cultural technology._
 
 Cooling technology is often more efficient, more easily electrified (heat pumps!) and can conveniently be powered by solar energy which is much more abundant throughout the hotter months. So perhaps places with very hot summers are already more climate-resiliant than those in colder climates that will need to retrofit buildings with cooling units in the decades to come. 
