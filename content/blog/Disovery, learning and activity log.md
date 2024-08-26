@@ -1,6 +1,29 @@
 ---
 title: "Disovery, learning and activity log"
 ---
+## w34 2024
+- I finally tackled re-structuring my office. After trying out every possible layout of the furniture, I actually ended up with the original arrangement. Just a bit neater. I also re-painted three walls plus the ceiling white, and one wall up to about 3/4 a nice juicy mango  yellow - NCS colour code S 1060-Y10R. I love how it turned out, but annoyingly the perfectly white wall opposite now has a yellow tinge from the reflection. Oh well. 
+
+![500](projects/attachments/Pasted%20image%2020240825170612.png)
+
+- Yesterday was **Overshoot Festival** in Folkets Park, where a lot of climate activist groups were represented. My friend's group Institute for Degrowth Studies (https://degrowth.se/) was there as well, I'll check them out in the future. 
+- I'm slowly exploring **Malmö by bike**, and it's crazy how it changes the perspective on the city, and the distances. Long distances shrink, far away places suddenly become so much more easily reachable. I know it sounds obvious, but it's a revelation when you experience it after either walking everything all the time, or taking the bus that's quite slow and takes roundabout routes. Cycling suddenly feels like a superpower, and especially zooming along the many excellent cycle paths it feels very liberating. I still don't like the crossings without lights, where you have to trust that cars see you and stop. 
+- My friend's [**Creator's Club for the Sea** ](https://www.instagram.com/p/C8JiGE3CVtm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) is coming to an end. The past 5 weeks we met on Thursday evenings to talk about selected species of the nearby Öresund, drew pictures, collected seaweed or braided eelgrass. It was super interesting and my sense of where Malmö ends has extended now further out, into the sea. I really want to learn more about some of the species we talked about, especially eels (what a crazy lifecycle!) and blue mussels (how to mussels actually grow their shell??). Apparently the book [The Gospel of the Eels](https://en.wikipedia.org/wiki/The_Gospel_of_the_Eels?useskin=vector) is very good, and they have it in the local library.
+
+![500](projects/attachments/Pasted%20image%2020240825170104.png)
+
+- After not playing for more than four years, we've started a **DnD** group again! Duncan is DMing. I'm a gnome ranger with heavy eye make-up, but I have to soon make up two more characters, because we are glitch characters in the multiverse and can swap between them.
+- I finished reading two books. **David** by Judith W. Taschler - a intertwined generational novel in the Austrian (Tyrolean) countryside. Not necessarily heavy, but somewhat melancholic. I really enjoyed reading an Austrian book again, should put more German-language books on my reading list. The other was **Monster's Regiment** by Terry Pratchett, a book Duncan recommended for a Pratchett novice like me because it's quite self-contained. It was... a bit confusing. It's partly the typical Pratchett funny/punny/silly, but also super dark. Deals with war and the senselessness of it, how young people get talked into joining the army, sexism, etc. I liked the story, but wished at times that it would be more plain language, or more tension built-up. Pratchett's silliness doesn't work for me with suspense or serious topics.
+- The past two years have of course been shaped by the arrival of large lanugage models and the various **AI** iterations like Chat GPT. I go back and forth between different grades of annoyance about it, but generally I think it's a more a tool for evil (that includes art "creation", finding more efficient ways to sell things to people as well as deep fakes) than for anything really useful. Although I wonder how my fungi newsletter [filaments](https://buttondown.com/Filaments/archive/) would have turned out have I had AI at my disposal at the time. It would be pretty alluring to use Chat GPT to at least find, summarise, and outline things before I go over it, fact check and fine-tune. Maybe I wouldn't have stopped after five episodes then. 
+- I spent a few days in **Karlshamn** for work, where the huge fat and oil producer AAK have their headquarers. Different fats, the compositions and behaviours of them, are an interesting subject that I've just scratched during that time. The two guys that showed me around there described for example how candles used to be made with a mix of tallow and stearin, but at some point big homegood's stored, like IKEA, switched to a non-animal source because to not put off a variety of customers (e.g. vegan, halal). Now it's paraffin, or soy wax, depending on if you mind a petroleum-derived product or not. But all these waxes have different properties and they got for example a request from restaurants in Sicily that can't have certain candles on their outside tables any more because due to increasing summer temperatures the candles they used to buy get too soft now. 
+- Besides learning a lot about fat crystallisation and emulsions, I got reminded again how much I love late Swedish coastal summer evenings, when the sun is low and warm, the shadows are long, and there's a breeze from the sea. 
+
+![500](projects/attachments/Pasted%20image%2020240825170403.png)
+
+- The sunflowers on the balcony are still blooming, the tomatoes are slowly winding down. I had a good harvest throughout the summer.
+
+![500](projects/attachments/Pasted%20image%2020240825170011.png)
+
 
 ## w31 2024
 - I turned **40**! 🥳
@@ -9,14 +32,14 @@ title: "Disovery, learning and activity log"
 - I spent 3 days in **Karlshamn** for work. Lovely town on the Blekinge coast, with an enormous vegetable oil processing facility (AAK) that extracts oil from 95% of rapeseed seeds from the Nordics. Maybe that's why the whole town smelled a bit like horse fodder. 
 - The last two weeks have been pretty perfect weather-wise. Max. 23C, sunshine, breeze. I LOVE the Swedish summer. Don't know why Swedes leave the country during the best season of the year to rather bake in 40C Greece or can't leave the hotel room because of the heat. 
 
-![](Pasted%20image%2020240803115856.png)
+![](projects/attachments/Pasted%20image%2020240803115856.png)
 
 
 ## w29 2024
 - Finished [**A Memory Called Empire**](projects/books/A%20Memory%20Called%20Empire.md) by Arkady Martine. Ursula K. Le Guin with political intrigue dialled up to 11, mixed memory-implant technology that reminds of the Trill symbionts from Star Trek. The writing is complex but beautiful and intricate, the lack of gender stereotypes is SO refreshing. Bit too much clever strategic back-and-forth conversations that lost me a bit at times, but the last quarter of the book was fast-paced and exciting to make up for it. 
 - We walked another bit of [Skåneleden](trips/Skåneleden.md), this time [**Löberöd to Hällestad**](trips/SL2%20Nord%20till%20syd.md#SL2%20Southern%20half#Day%202%20Löberöd%20-%20Hällestad%20(21%20km)). The weather was great for it, as this summer so far has been - like last year - quiet cool (max. 20C) and overcast. Lots of ripe wild raspberries, lots of wildflowers and insects and butterflies; fields of potatoes, wheat, oat and barley. 
 
-![](Pasted%20image%2020240719113459.png)
+![](projects/attachments/Pasted%20image%2020240719113459.png)
 
 
 ## w28 2024

@@ -126,9 +126,9 @@ Train + bus: From Malmö Triangeln, train to Lund (20 min), then Skåneexpressen
 
 We walked this bit in March 2024. 
 It was cool and calm, no leaves on the trees yet. The part along Ringsjö was a bit boring, because it was just straight and flat, but then a bit up and through Rövarekulan was really nice. The wild garlic was _everywhere_. We walked past Kungskällan and drank some water that apparently already some king hundreds of years ago had drunk. Saw animals walking past farms, including bisons and goats. Finally arrived in Löberöd, where there was an ICA that didn't have any ice cream. 
-![](DSCF9417.jpeg)
+![](projects/attachments/DSCF9417.jpeg)
 
-![](DSCF9452.jpeg)
+![](projects/attachments/DSCF9452.jpeg)
 
 ### Day 2 Löberöd - Hällestad (21 km)
 _July 2024_
@@ -146,7 +146,7 @@ A few times we had to walk through cow pastures, but they were mostly just chill
 From Harlösa church there was a view over the flatland of Vombsänkan, and we some some graceful Red Kites circling above. We walked down, and then for hours along a pretty straight path that had been a railroad line before. Paused at Krankesjön to spot some birds, then continued onwards to Hällestad. The last few kilometers were along the old railroad embankment, totally overgrown with wildflowers full of insects and butterflies. It was tough walking (also many nettles) but really nice to see so much different flora and fauna. 
 In Hällestad we got some drinks and ice cream at a lovely little café/shop. 
 
-![](Pasted%20image%2020240719113459.png)
+![](projects/attachments/Pasted%20image%2020240719113459.png)
 
 
 ### Day 3 Dalby - Häckeberga slott (28.3 km)
