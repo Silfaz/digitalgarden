@@ -2,6 +2,7 @@
 title: "Things to sew"
 ---
 ## To sew list
+- Sleeveless [Ultimate shift dress](projects/sewing/Ultimate%20shift%20dress%20(Sew%20Over%20It).md) in dark wool (plaid? dark grey?) or dark green with lining. To wear with colourful shirts (with collars) and blouses underneath.
 - Simple dress in plain fabric, e.g. blue Chambrey. Pattern suggestion: [Stevie tunic (Tilly & the buttons)](https://shop.tillyandthebuttons.com/collections/sewingpatterns/products/stevie) [Inari dress (Named Clothing](https://www.namedclothing.com/products/inari-crop-tee)
 ![](projects/attachments/Screenshot%202024-01-13%20at%2015.52.47.png)
 
@@ -15,9 +16,10 @@ title: "Things to sew"
 - Short-sleeved shirts with cool patterns for summer. Maybe even with a matching skirt to combine to look like a dress. Pattern suggestion: Donny shirt, Gilbert top --> Neither of those work well underneath a jumper because of the camp collar!  ![](projects/attachments/Screenshot%202024-01-13%20at%2016.05.12.png)
 - White textured shirt with collar for underneath jumpers and dresses. Long or short sleeves?? Pattern suggestion: Helmi shirt
 ![](projects/attachments/Screenshot%202024-01-13%20at%2016.11.02.png)
-- Simple skirt made from tough material. Pattern suggestion: 
-- Sleeveless shift dress in e.g. dark-grey wool to wear with colourful shirts with collars underneath.
+- Simple skirt made from tough material. Pattern suggestion: Ava skirt, Sew Over it.
 - Donny shirts + simple skirt to make a two-part dress. 
+- Ava skirt and coordinated top, either cropped [Ultimate shift dress](projects/sewing/Ultimate%20shift%20dress%20(Sew%20Over%20It).md) with short sleeves Vintage McCalls 9701 cropped, like @jo_sews_vintage on Instagram: 
+![|400](Pasted%20image%2020240908141545.png) 
 
 
 

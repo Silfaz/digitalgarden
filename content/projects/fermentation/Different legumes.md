@@ -410,3 +410,17 @@ After frying in oil: Texture is not bad. Dense and a little chewy. Also a bit fi
 ![](projects/attachments/Pasted%20image%2020230106143208.png)
 
 
+
+## Moth bean (+ soy) tempeh (2024-09-10)
+Moth beans (brand: TRS, bought at IndoPak Malmö): 250 g. Soak o/n, cook for 5 min, then drain and dry off a bit. Add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**). Add 1/4 tsp LUVI starter (**1 tsp/kg**).
+
+Soy beans (brand: Heera, bought at IndoPak Malmö): 250 g. Soak o/n, remove some/most skins, cook for 50 min, then drain and dry off a bit. Add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**). Add 1/4 tsp LUVI starter (**1 tsp/kg**).
+
+Make single legume or mixed tempeh and see how it turns out. 
+
+
+## Barley (+soy) tempeh (2024-09-10)
+Pearl barley (brand: Heera, bought at IndoPak, Malmö): 250 g. Soak o/n, cook for 45 min, then drain and dry off well. Add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**). Add 1/4 tsp LUVI starter (**1 tsp/kg**).
+
+Make single barley or mix 20% barely with 80% soy beans. 
+

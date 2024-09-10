@@ -5,6 +5,21 @@ title: "Sewing and fitting tricks"
 Always fit from the top down! First length of waist, then scroop of crotch, then crotch length etc.
 
 Fit one thing at a time and try on in between! 
+## Button hole
+On a Singer Heavy Duty
+https://www.youtube.com/watch?v=2YoKu6hTzq8
+
+1. Pop the button into the button hole foot.
+2. Take off standard presser foot and attach button hole foot.
+3. Pull down the little white lever on the left side (with the arrow saying "PUSH"). Pull it all the way down. Then push it towards the back.
+4. Adjust the tension to a slightly lower setting, e.g. 3, to pull the top stitching more to the back.
+5. Set stitch width all the way to 6.
+6. Set stitch length to the button hole setting (between 0 and 1, but much more towards 0, last notch before 0). 
+7. Select button hole stitch from the stitch selection dial. 
+8. The starting point of the button hole is the lower point of the button hole. It will stitch the button hole away from you (towards the back of the machine), on the left leg of the button hole first. 
+9. Once you've reached all the way around, let it stitch a few more tack stitches, then stop.
+10. For the next button hole, make sure to pull down the white lever again and press it to the back.
+
 
 
 ## Lining 
