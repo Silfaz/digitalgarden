@@ -43,3 +43,7 @@ title: "Fermented vegetable production"
 [Water melon rinds](projects/fermentation/Water%20melon%20rinds.md)
 
 [Fennel](projects/fermentation/Fennel.md)
+
+[Green tomatoes](projects/fermentation/Green%20tomatoes.md)
+
+[Kålrot and kohlrabi](projects/fermentation/Kålrot%20and%20kohlrabi.md)

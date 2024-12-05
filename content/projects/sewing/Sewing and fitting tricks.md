@@ -2,9 +2,6 @@
 title: "Sewing and fitting tricks"
 ---
 
-Always fit from the top down! First length of waist, then scroop of crotch, then crotch length etc.
-
-Fit one thing at a time and try on in between! 
 ## Button hole
 On a Singer Heavy Duty
 https://www.youtube.com/watch?v=2YoKu6hTzq8
@@ -50,7 +47,9 @@ https://www.youtube.com/watch?v=2UCCdsTlcJQ
 
 
 
-
+## Fitting & adjusting
+- Always fit from the top down! First length of waist, then scroop of crotch, then crotch length etc.
+- Fit one thing at a time and try on in between! 
 
 ## Crotch curve
 

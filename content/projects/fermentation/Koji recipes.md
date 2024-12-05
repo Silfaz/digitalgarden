@@ -139,8 +139,6 @@ From [Miso, Natto, Tempeh (Shockey)](Miso, Natto, Tempeh (Shockey))
 ### Oat residue aminos
 Adapted from bread aminos (Shockey recipe) 
 Made 2021-10-16 [Oat residue aminos](Oat residue aminos)
-
-
 #### Ingredients:
 - 430 g dried oat residues (dried in oven at 50C for a day, from 1 kg fresh oat residue)
 - 44 g rice flour
@@ -166,6 +164,46 @@ Made 2021-10-16 [Oat residue aminos](Oat residue aminos)
 - 470-705mL (235-352mL) water
 
 ## Misos
+
+### Soy bean miso
+See _Miso, Tempeh, Natto (Shockey) Barley Miso_, p265.
+- 525 g dry soybeans
+- 830 g barley koji: _Place the koji in a bowl. If it's too dry, add a bit of bean cooking liquid to moisten. It should be well hydrated (every grain all the way through), but not wet. Once the consistency is right, weigh the koji._
+- 150 g salt (+ extra for top)
+- 16 g unpasteurised miso
+
+1. Soak the beans over night in water. Cook for 50 min, drain, reserve the bean cooking water. 
+2. Spread the beans out on a tray to cool down (<38C) and steam off moisture.
+3. Combine in a bowl beans, koji and salt. Mash together with a potato masher. 
+4. Add the miso and thoroughly mix. 
+5. Add enough bean cooking water to achieve the desired consistency - chunky and dry-ish, like mashed potatoes.
+6. Rinse the fermentation jar with some of the bean cooking water, then sprinkle salt on all surfaces. 
+7. Fill the jars with the paste, making sure to remove all air pockets by pressing down. 
+8. Cover with a piece of parchment paper. Sprinkle some salt on the top and the edges. 
+9. Weigh the past down and cover the jar with cloth or tissue paper. 
+
+_Made: October 2024 [Barley miso with self-made barley koji 2024](projects/fermentation/Koji%20experiments.md#Barley%20miso%20with%20self-made%20barley%20koji%202024)_
+
+### Chickpea miso, standard
+See _Miso, Tempeh, Natto (Shockey) Barley Miso_, p266.
+- 350 g dry chickpeas
+- 440 g fresh barley koji (for moistening, see above)
+- 150 g salt
+- 16 g unpasteurised miso
+
+1. Soak chickpeas over night. Cook for 1h. Reserve the cooking water. 
+2. Spread the chickpeas out on a tray to cool down (<38C) and steam off moisture.
+3. Combine in a bowl chickpeas, koji and salt. Mash together with a potato masher. 
+4. Add the miso and thoroughly mix. 
+5. Add enough chickpea cooking water to achieve the desired consistency - chunky and dry-ish, like mashed potatoes.
+6. Rinse the fermentation jar with some of the cooking water, then sprinkle salt on all surfaces. 
+7. Fill the jars with the paste, making sure to remove all air pockets by pressing down. 
+8. Cover with a piece of parchment paper. Sprinkle some salt on the top and the edges. 
+9. Weigh the past down and cover the jar with cloth or tissue paper. 
+
+_Variation made: October 2024 [Chickpea miso (1:1, 10% salt)](projects/fermentation/Koji%20production.md#Chickpea%20miso%20(1%201,%2010%%20salt))
+
+
 ### Barley + fava miso
 1. Cook fava beans until they still have a bit of bite to them. 
 2. Prepare barley koji (**48ish h**). Grind up equal amounts of fava and barely koji and mix with salt (10-ish%?). Put in jar, cover and leave for 6 months.
@@ -185,22 +223,24 @@ Made in 2020. Turned out very good. Quite salty, but delicious. Quite straight f
 6 months - 2 years, from _Miso, Tempeh, Natto (Shockey)_, p269
 - 1 part dry legumes
 - 1 part fresh koji
-- 12% salt
+- 12% salt (of weight of dry legumes + koji)
 
-Made in 2024: [Miso with koji from Max](projects/fermentation/Koji%20production.md#Miso%20with%20koji%20from%20Max)
+_Made in 2024: [Miso with koji from Max](projects/fermentation/Koji%20experiments.md#Miso%20with%20koji%20from%20Max)_: 100 g reconstituted rice koji, 100 g dry soy beans, 24 g salt, 1 tsp seed miso.
+
+1. Soak beans for 8-24h. 
+2. Boil soybeans in plenty of water until they are soft, about 1h. Drain, keep the bean cooking water, spread beans out on a try to cool slightly and steam off moisture. 
+3. Blend dried koji in blender to powder, add 40 g water to make reconstitute.
+4. When the beans are cooled below 38C, combine in a bowl with the koji and the salt. Mash together with a potato masher. Add the miso, mix. Add enough bean cooking water to achieve the desired consistency - chunky and dryish, like mashed potatoes. 
+5. Use the rest of the bean cooking water to rinse out fermentation vessel, then sprinkle some salt into the jar. 
+6. Layer the miso paste into the jar, press together to minimise air pockets. 
+7. Set a piece of parchment paper on top, sprinkle some salt on the edges, weigh down with weight. 
+8. Cover the entire vessel with cloth or paper, secure it in place, place in a tray, and store at room temperature for 6 months to 2 years. Check the tamari on top of the miso regularly during the first few weeks of fermentation. After fermentation, transfer the finished miso to the fridge. 
 
 ### Light miso
 (6-12 months), Shockey
 - 350g (175g) soybeans
 - 440g (220g) rice koji
 - 135g (67.5g) salt
-- 16g (8g) seed miso
-
-### Chickpea miso
-(2 months), Shockey
-- 350g (175g) chickpeas
-- 440g (220g) rice koji
-- 150g (75g) salt
 - 16g (8g) seed miso
 
 
@@ -211,3 +251,34 @@ Made in 2024: [Miso with koji from Max](projects/fermentation/Koji%20production.
 - 62g salt
 
 Soak beans o/n. Boil and simmer until soft.
+
+## Hishio
+
+Hishio contains (barley) koji, cooked soy beans and diced vegetables, and is fermented for a relatively short amount of time - 2-4 weeks. The resulting sauce or chutney is part miso, part shoyu, part pickle. It can be put on rice or noodles and has a rich umami taste with saltiness and sweetness. 
+
+### Recipe
+See _Miso, Tempeh, Natto (Shockey) Barley Miso_, p260.
+_Made in October 2024: [Hishio](projects/fermentation/Hishio.md)
+Ratio: 75% barley koji (fresh), 15% soy beans, 10% vegetables (carrot, daikon, etc.)
+- 60 g dry soybeans
+- 262 g fresh barley koji
+- 88 g diced vegetables
+- 235 mL soy sauce or shoyu
+
+1. Soak the soybeans in water over night. Then cook for 50 min. 
+2. Combine soybeans, koji, vegetables and soy sauce in a jar and ferment at room temperature for 2-4 weeks. The ferment is ready when it develops a miso-like aroma. It will keep many months at room temperature or indefinitely in the fridge. 
+
+## Nattoh miso
+Similar to [Hishio](projects/fermentation/Hishio.md), but a different koji:soybean:vegetable ratio (at least according to _Miso, Tempeh, Natto (Shockey) Barley Miso_, p260.
+_Made in October 2024: [Nattoh miso](projects/fermentation/Nattoh%20miso.md)_
+### Recipe
+See _Miso, Tempeh, Natto (Shockey) Barley Miso_, p260.
+_Made in October 2024._: [Nattoh miso with soy beans, ginger, chili and carrots](projects/fermentation/Koji%20experiments.md#Nattoh%20miso%20with%20soy%20beans,%20ginger,%20chili%20and%20carrots)
+Ratio: 60% barley koji, 35% soy beans, 5% vegetables
+- 115 g dry soy beans
+- 230 g fresh barley koji
+- 43 g sliced kombu, ginger or chili pepper
+- 235 mL soy sauce or shoyu
+
+1. Soak the soybeans in water over night. Then cook for 50 min. 
+2. Combine soybeans, koji, vegetables and soy sauce in a jar and ferment at room temperature for 2-4 weeks. The ferment is ready when it develops a miso-like aroma. It will keep many months at room temperature or indefinitely in the fridge. 

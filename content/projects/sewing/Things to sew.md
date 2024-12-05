@@ -16,10 +16,13 @@ title: "Things to sew"
 - Short-sleeved shirts with cool patterns for summer. Maybe even with a matching skirt to combine to look like a dress. Pattern suggestion: Donny shirt, Gilbert top --> Neither of those work well underneath a jumper because of the camp collar!  ![](projects/attachments/Screenshot%202024-01-13%20at%2016.05.12.png)
 - White textured shirt with collar for underneath jumpers and dresses. Long or short sleeves?? Pattern suggestion: Helmi shirt
 ![](projects/attachments/Screenshot%202024-01-13%20at%2016.11.02.png)
-- Simple skirt made from tough material. Pattern suggestion: Ava skirt, Sew Over it.
+- Simple skirt made from tough material. Pattern suggestion: [Ava skirt](https://sewoverit.com/products/ava-skirt-pdf-sewing-pattern), Sew Over it or [Brumby skirt](https://megannielsen.com/products/brumby-skirt-sewing-pattern), Megan Nielsen. 
+
+![|400](projects/attachments/Pasted%20image%2020240915184333.png)
+![|400](projects/attachments/Pasted%20image%2020240915184102.png)
 - Donny shirts + simple skirt to make a two-part dress. 
-- Ava skirt and coordinated top, either cropped [Ultimate shift dress](projects/sewing/Ultimate%20shift%20dress%20(Sew%20Over%20It).md) with short sleeves Vintage McCalls 9701 cropped, like @jo_sews_vintage on Instagram: 
-![|400](Pasted%20image%2020240908141545.png) 
+- [Ava skirt](https://sewoverit.com/products/ava-skirt-pdf-sewing-pattern) and coordinated top, either cropped [Ultimate shift dress](projects/sewing/Ultimate%20shift%20dress%20(Sew%20Over%20It).md) with short sleeves Vintage McCalls 9701 cropped, like @jo_sews_vintage on Instagram: 
+![|400](projects/attachments/Pasted%20image%2020240908141545.png) 
 
 
 
@@ -37,6 +40,13 @@ I've been looking for a simple t-shirt pattern for a while. I made my own, but t
 ![|400](projects/attachments/Pasted%20image%2020240420105053.png)
 
 
+
+### Verdun woven T-shiert (Lisl + Co)
+https://thefoldline.com/products/liesl-co-verdun-woven-t-shirt?_pos=306&_fid=f6542cb10&_ss=c
+
+T-shirt from woven fabric, with grown-own sleeves or dropped shoulder long sleeves. 
+
+![400](projects/attachments/Pasted%20image%2020241117113654.png)
 ## Fancy, flowy summer dress
 ### Teahouse dress and top (Sewhouse 7)
 https://sewhouse7.com/products/the-tea-house-top-and-dress
@@ -153,6 +163,8 @@ https://fabrics-store.com/jackets/paola-workwear-jacket-pattern-type-pdf: Workwe
 
 ### Emmi Jacket (Papercut Patterns)
 https://papercutpatterns.com/collections/outerwear-printed/products/emmi-jacket?variant=40275840630850: Boxy, easy fit, with a shaped two piece sleeve. Choose between three different lengths - cropped, a curved hem or long. The cropped and long lengths can also have a drawstring hem. Four interchangeable collar options.
+
+
 ## Sweatshirts and jumpers
 ### Dale Sweatshirt
 
@@ -213,6 +225,7 @@ everyday top that can be worn with practically anything. Because of its boxy sil
 
 ### Inari dress and top tee (Named Clothing Pattern)
 https://www.namedclothing.com/products/inari-crop-tee
+
 ![|300](projects/attachments/Pasted%20image%2020240113154518.png)
 
 ## Blouses

@@ -10,8 +10,12 @@ title: "Books main"
 - Eine Geschichte der Welt in 100 Mikroorganismen (Florian Freistetter, Helmut Jungwirth, audiobook)
 - The Fabric of Civilization: How Textiles Made the World (Virginia Postrel)
 - The House in the Cerulean Sea (TJ Klune)
+- Our Shared Storm: A Novel of Five Climate Futures (Andrews Dana Hudson)
 - [**A Memory Called Empire**](projects/books/A%20Memory%20Called%20Empire.md) (Arkady Martine)
-- [The Hidden Life of Trees](projects/books/The%20Hidden%20Life%20of%20Trees.md) (Peter Wohlleben)
+- David (Judith W. Taschler)
+- Ducks: Two Years in the Oil Sands (Kate Beaton)
+- In the Distance (Hernan Diaz)
+- [**Moonbound**](projects/books/Moonbound.md) (Robin Sloan)
 
 
 
@@ -21,7 +25,7 @@ title: "Books main"
 - Children of Time (Adrian Tchaikovsky, audiobook)
 - Flowers for Algernon (Daniel Keyes, audiobook)
 - **A Psalm for the Wild-Built (Becky Chambers)**
-- Hunder Jahre Einsamkeit (Gabriel García Márquez)
+- Hundert Jahre Einsamkeit (Gabriel García Márquez)
 - **[[The Mountain in the Sea]] (Ray Nayler)** 
 - Jade City (Fonda Lee)
 - The Birthday of the World and other stories (Ursula K. Le Guin)

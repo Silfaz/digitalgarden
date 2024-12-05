@@ -3,7 +3,7 @@ title: "Fermentation experimentation ideas"
 ---
 
 ## Ideas
-- Take close-up pictures of ferments: macro lense
+- Take close-up pictures of ferments: macro lense (or microscope)
 - Follow pH over time: simple pH indicator paper to start with
 - Follow populations of microbial species in ferments over time. How much does a metagenomic analysis cost? Analyse with bioinformatics packages
 
@@ -16,7 +16,8 @@ title: "Fermentation experimentation ideas"
 - [Kishk](projects/fermentation/Dairy%20fermentation%20notes.md#Kishk) or poor-man's cheese (from bulgur): _started 2023-01-09_: [Keckek el Fouqara (Poor man's cheese)](projects/fermentation/Keckek%20el%20Fouqara%20(Poor%20man's%20cheese).md) Another try, following https://www.instagram.com/p/C3m6fUWuP7_/
 - Sauerkrauts with nice additions: carrots, peppers, celeriac, apple. 
 - Less spicy kimchi with Chinese cabbage and carrot. Like the one they serve in Mai Bento in Mitt Möllan. Can basically be eaten like a crunchy, sour and slightly spicy salad.
-- 
+- Hot sauce with mango and/or pineapple
+- Rye sourdough
 
 
 ## Inspiration

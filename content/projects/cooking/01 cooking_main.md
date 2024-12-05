@@ -19,3 +19,10 @@ title: "Cooking"
 
 [Banana bread investigation](projects/cooking/Banana%20bread%20investigation.md)
 
+[What's the Deli's Jackfruit sandwich investigation](projects/cooking/What's%20the%20Deli's%20Jackfruit%20sandwich%20investigation.md)
+
+[[Plant-based solbullar]]
+
+
+
+

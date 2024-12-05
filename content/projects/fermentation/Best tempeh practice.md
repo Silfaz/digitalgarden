@@ -21,6 +21,7 @@ title: "Best tempeh practice"
 
 ## Cooking
 - When boiling a tempeh block in salt water, **boil for 4-5 min total**, otherwise it gets too soggy and the legumes get too cooked.
+- Add the vinegar to the last few minutes of boiling water (instead of after boiling and draining the beans). This way they dry quicker after cooking, because you don't add additional (cold) liquid to the drained beans, which counteracts some of the steaming-off. 
 
 ## Storing
 - Do not store a fresh tempeh block for more than 2 days in the fridge without prior heat treatment (see below)! It continues fermenting and will start to taste very funky.

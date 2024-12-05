@@ -19,7 +19,7 @@ Planned episode:
 - Plants vs. fungi vs. pests
 - Astromycology and the future of fungi
 - Yeast yeast yeast
-- [[fungi/Mycorrhizal networks]]
+- [Mycorrhizal networks](fungi/Mycorrhizal%20networks.md)
 - ...
 
 ## Growing & finding mushrooms

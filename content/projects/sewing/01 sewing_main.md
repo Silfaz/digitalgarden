@@ -14,6 +14,9 @@ title: "Sewing"
 
 ## Sewing inspiration
 ### [Things to sew](projects/sewing/Things%20to%20sew.md)
+
+### [[Recreating outfits]]
+
 ### [Inspo](projects/sewing/Inspo.md)
 ### [Sewing links](projects/sewing/Sewing%20links.md)
 ### [Capsule wardrobe](projects/sewing/Capsule%20wardrobe.md)

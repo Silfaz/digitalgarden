@@ -322,6 +322,21 @@ It will not develop much CO2, so it's actually ok to close the jar tightly. I st
 
 It will last forever in the fridge and just get more sour and softer. 
 
+## Green tomatoes
+_Made: 2024-10-22: [Green tomatoes](projects/fermentation/Green%20tomatoes.md)
+
+3% salt brine
+
+- 10 green tomatoes
+- 3 small red and yellow chilies
+- some peppercorns
+
+1. Cut the green tomatoes in 6-8 wedges each. 
+2. Slice the chilies into strips and remove seeds. 
+3. Add peppercorns, submerge everything in brine, and weigh down. 
+4. Ferment at RT for 10-14 days. Taste regularly to determine right acidity level. 
+5. Then store in fridge in jars. 
+
 
 ## Quick pickles (with vinegar)
 

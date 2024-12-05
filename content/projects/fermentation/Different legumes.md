@@ -411,15 +411,28 @@ After frying in oil: Texture is not bad. Dense and a little chewy. Also a bit fi
 
 
 
-## Moth bean (+ soy) tempeh (2024-09-10)
-Moth beans (brand: TRS, bought at IndoPak Malmö): 250 g. Soak o/n, cook for 5 min, then drain and dry off a bit. Add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**). Add 1/4 tsp LUVI starter (**1 tsp/kg**).
+## Moth bean + soy tempeh (2024-09-10)
 
-Soy beans (brand: Heera, bought at IndoPak Malmö): 250 g. Soak o/n, remove some/most skins, cook for 50 min, then drain and dry off a bit. Add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**). Add 1/4 tsp LUVI starter (**1 tsp/kg**).
+![](projects/attachments/Pasted%20image%2020240915084426.png)
 
-Make single legume or mixed tempeh and see how it turns out. 
+Moth beans (brand: TRS, bought at IndoPak Malmö): 250 g. Soak for 8h, cook for 8 min, then add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**), drain and dry off a bit. Add 1/4 tsp LUVI starter (**1 tsp/kg**).
+
+Soy beans (brand: Heera, bought at IndoPak Malmö): 250 g. Soak 8h, leave skins, cook for 50 min, then add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**), drain and dry off a bit. Add 1/4 tsp LUVI starter (**1 tsp/kg**).
+
+Mix inoculated beans 1:1 and fill in bags. 
+
+Start: 22:00, 29C. Set heating mat to 32C, put in oven and cover with tea towel.
+12h later, set to 31C. 12h later, set to 30C. 12h later, take off heating mat and let finish on the counter top (5h). 
+End: 41h. 
+Dense mycelium with no sporulation. Some white dots, mostly at bottom - probably larger particles of rice flour rather than some bacterial growth. 
+
+I sliced and fried one block, but it was quite crumbly and it was hard to keep together. Tasty though, especially flavoured with tamari and sesame oil.
+Kept the rest in the fridge for 2 more days to tighten up, then put in freezer for long-term storage.
+
+_Next time_: Increase soy bean ratio to have the block hold together better. The moth beans have quite a tough outside and make the tempeh texture a bit looser. 
 
 
-## Barley (+soy) tempeh (2024-09-10)
+## Barley (+soy) tempeh (2024-xxxxx)
 Pearl barley (brand: Heera, bought at IndoPak, Malmö): 250 g. Soak o/n, cook for 45 min, then drain and dry off well. Add 1 Tbsp apple cider vinegar (**4 Tbsp/kg**). Add 1/4 tsp LUVI starter (**1 tsp/kg**).
 
 Make single barley or mix 20% barely with 80% soy beans. 

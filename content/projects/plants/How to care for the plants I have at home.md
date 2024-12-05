@@ -91,3 +91,29 @@ _(Calathea ornata (Goeppertia ornata, pin-stripe calathea))_
 	- **Full sun**
 
 
+### Aralia (_Fatsia japonica_)
+
+![|400](projects/attachments/Pasted%20image%2020240928154830.png)
+
+- https://www.blomsterlandet.se/produkter/vaxter/inomhus/grona-vaxter/aralia-2918/
+- Half-shady to sunny spots, but not southern facing window. Likes bright, but not direct sunlight.
+- Indoor temperature, not below 15C.
+- Let the soil dry _slightly_ between watering, but never dry out completely. Once every week or once every two weeks.
+- Likes a shower every now and then (esp. in the winter, maybe once a month).
+- Fertilise between spring and autumn.
+- Origin: Japan (Ryuku islands), Korea
+- Use flower soil.
+- Can be easily propagated with cuttings.
+
+### Sophora, Dvärgkowhai (_Sophora prostrata_ Little Baby)
+
+- https://dmp.cz/en/blogs/zelene-listy/sophora-little-baby-a-jak-o-ni-pecovat
+- https://plant.studio/products/sophora-prostrata-little-baby
+![|400](projects/attachments/Pasted%20image%2020240928160039.png)
+- Likes bright light, can stand outside in the summer.
+- Don't over- or underwater. Check soil; if the first 2 cm are dry - water! Sensitive to underwatering, so don't use too loose soil.
+- Benefits from being in a slightly larger pot to reduce risk of drying out.
+- Esp. in winter it likes to stand slightly cooler, e.g. hallway.
+- Originally from New Zealand. 
+- Sheds leaves if it's too stressed (e.g. due to over/underwatering, change in temperature or light condition). Can often happen in the winter when temperature changes. 
+

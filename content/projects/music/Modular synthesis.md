@@ -10,7 +10,8 @@ Most modules with CV inputs also have attenuators to reduce the strength of effe
 
 Generating CVs: Keyboard, sequencer, module. 
 ### Gates, triggers
-Special kind of CV that is most often used to indicate the timing and length of note events. Gate = starts and sustains note (5V) and then drops back to 0V. Trigger = quick positive voltage pulse. 
+Special kind of CV that is most often used to indicate the timing and length of note events. Gate = starts and sustains note (5V) and then drops back to 0V. E.g. when key is being pressed, signal reaches maximum (5V) and stays at that maximum until the key is released. 
+Trigger = quick positive voltage pulse. 
 
 ### Audio source oscillator
 Outputs a voltage that fluctuates between positive and negative values at a speed in the audible range (20-20000 Hz). 
@@ -23,5 +24,12 @@ Classic oscillator waveforms contain a specific mixture of harmonics, giving the
 ### Noise
 Random signal that contains a wide array of unrelated frequencies. Used for sound effects like wind, surf, to add breath noise to recreations of real instruments, or as a random source for modulation. 
 
+### Filters
+LPF = low pass filter --> let's low frequencies through.
+HPF = high pass filter --> let's high frequencies through.
+
+
+## Subtractive synthesis
+Take signal, then reduce different aspects. E.g. subtract volume information. 
 ## Audio modifiers
 

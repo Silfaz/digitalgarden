@@ -30,7 +30,7 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 - [Dairy fermentation notes](projects/fermentation/Dairy%20fermentation%20notes.md)
 - [Plant-based dairy fermentation notes](projects/attachments/Plant-based%20dairy%20fermentation%20notes.md)
 - [[Yogurt recipes]]
-- [[Yogurt production]]
+- [Yogurt experiments](projects/fermentation/Yogurt%20experiments.md)
 - [Pre-, pro- and postbiotics](projects/fermentation/Pre-,%20pro-%20and%20postbiotics.md)
 
 
@@ -43,11 +43,16 @@ Fermentation **pre-digests foods**, making **nutrients more bioavailable**, and 
 
 ## Koji, miso, shoyu, aminos 🍜🍶
 Recipes that have koji as their basis. 
-- [[projects/fermentation/Koji fermentation notes]]
+- [Koji fermentation notes](projects/fermentation/Koji%20fermentation%20notes.md)
 - [Koji recipes](projects/fermentation/Koji%20recipes.md)
-- [Koji production](projects/fermentation/Koji%20production.md)
+- [Koji experiments](projects/fermentation/Koji%20experiments.md)
 
-## Drinks
+## Drinks 🥃
 - [Kombucha (base recipe)](projects/fermentation/Kombucha%20(base%20recipe).md)
 - [Kombucha - 2nd fermentation experiments](projects/fermentation/Kombucha%20-%202nd%20fermentation%20experiments.md)
 - [Kombucha cultures](projects/fermentation/Kombucha%20cultures.md)
+
+## Sourdough 🍞🥖
+- [Sourdough starter](projects/fermentation/Sourdough%20starter.md)
+- [Sourdough recipes](projects/fermentation/Sourdough%20recipes.md)
+- [Sourdough experiments](projects/fermentation/Sourdough%20experiments.md)
