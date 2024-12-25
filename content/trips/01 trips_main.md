@@ -21,6 +21,8 @@ _View out the window on Bergensbanan, Norway. Somewhere near Geilo. March 2022._
 [[trips/Train journey through Europe]]
 [Inlandsbanan](trips/Inlandsbanan.md)
 
+## Travelogues
+[Trip to Kiruna Travelogue 2015](trips/Trip%20to%20Kiruna%20Travelogue%202015.md)
 
 ## National Parks in Sweden
 ### [Swedish National Parks](trips/Swedish%20National%20Parks.md)

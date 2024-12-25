@@ -16,7 +16,7 @@ title: "Things to sew"
 - Short-sleeved shirts with cool patterns for summer. Maybe even with a matching skirt to combine to look like a dress. Pattern suggestion: Donny shirt, Gilbert top --> Neither of those work well underneath a jumper because of the camp collar!  ![](projects/attachments/Screenshot%202024-01-13%20at%2016.05.12.png)
 - White textured shirt with collar for underneath jumpers and dresses. Long or short sleeves?? Pattern suggestion: Helmi shirt
 ![](projects/attachments/Screenshot%202024-01-13%20at%2016.11.02.png)
-- Simple skirt made from tough material. Pattern suggestion: [Ava skirt](https://sewoverit.com/products/ava-skirt-pdf-sewing-pattern), Sew Over it or [Brumby skirt](https://megannielsen.com/products/brumby-skirt-sewing-pattern), Megan Nielsen. 
+- Simple skirt made from tough material. Pattern suggestion: [Ava skirt](https://sewoverit.com/products/ava-skirt-pdf-sewing-pattern), Sew Over it or [Brumby skirt](https://megannielsen.com/products/brumby-skirt-sewing-pattern), Megan Nielsen, or [Camden skirt,](https://www.ninalee.co.uk/products/camden-pdf-sewing-pattern) Ninalee London.
 
 ![|400](projects/attachments/Pasted%20image%2020240915184333.png)
 ![|400](projects/attachments/Pasted%20image%2020240915184102.png)
@@ -24,7 +24,8 @@ title: "Things to sew"
 - [Ava skirt](https://sewoverit.com/products/ava-skirt-pdf-sewing-pattern) and coordinated top, either cropped [Ultimate shift dress](projects/sewing/Ultimate%20shift%20dress%20(Sew%20Over%20It).md) with short sleeves Vintage McCalls 9701 cropped, like @jo_sews_vintage on Instagram: 
 ![|400](projects/attachments/Pasted%20image%2020240908141545.png) 
 
-
+![400](projects/attachments/Pasted%20image%2020241224085802.png)
+_Camden skirt by Ninalee London, Instagram @cath_craft https://www.instagram.com/p/B671zGHAwGt/_
 
 
 ## T-shirts

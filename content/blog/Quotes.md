@@ -23,4 +23,16 @@ title: "Good quotes"
 > When you’re accustomed to privilege, equality feels like oppression. - _Clay Shirky (via Dense Discovery newsleetter)
 
 
+> No man ever steps in the same river twice, for it's not the same river and he's not the same man. - _Heraclitus_
+
+> You'll worry less about what people think of you when you realise how seldom they do. - _David Foster Wallace_
+
+  >No gods, no masters. - _Anarchist slogan_
+  
+
+>If you aren't feeling like an imposter, then you're likely stuck in your comfort zone. - _Random guy in YouTube comments (regarding Imposter syndrome)_
+
+>The universe is not only weirder than we understand. It is weirder than we are capable of understanding. - _Albert Einstein_
+
+
 

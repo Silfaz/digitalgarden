@@ -1,18 +1,40 @@
 ---
 title: "Disovery, learning and activity log"
 ---
-## w47 2024
-- [What's the Deli's sandwich recreation](projects/cooking/What's%20the%20Deli's%20Jackfruit%20sandwich%20investigation.md)
-- Skånes Dansteater
-- Degrowth
-- Maintencance weekend
+## w52
+- https://interconnected.org/home/2024/12/23/jailbreaking
 - 
+
+## w47-51 2024
+- The weather has been up and down the last few weeks. Partially typical Skåne depressing grey-wet-windy-not-quite-cold-enough winter. But we also had a few days of snow and below 0, though now it looks like Christmas will be around 10C. 
+
+![500](projects/attachments/Pasted%20image%2020241222105813.png)
+
+- I'm currently trying to recreate a **sandwich** that we ate a lot when we lived in Gothenburg's Majorna district. It's a vegetarian twist on a Reuben sandwich, and it was so delicious. The shop has since closed, and I've never found a similar thing anywhere else (in Sweden). But now that I'm getting into [Sourdough](projects/fermentation/Sourdough%20experiments.md), I thought that I can give it a go to make this sandwich as I remember it: [What's the Deli's sandwich recreation](projects/cooking/What's%20the%20Deli's%20Jackfruit%20sandwich%20investigation.md)
+- I joined a local **Degrowth** group, the [Institute for Degrowth Studies](https://degrowth.se/) and since then I've been looking more into what degrowth actually is and means. Very simply said, it's the mindset that continuous (or even continuously accelerating) growth under capitalism is neither sustainable nor possible nor desirable. There are a lot of good resources out there, e.g. [this video](https://youtu.be/oQrI2GBvn5Q?si=d2l8aDUXtuvBdMwP) or this excellent [talk about Doughnut Economics](https://www.youtube.com/watch?v=FfUOs4ZJ1wM) between husband and wife Roman Krznaric and Kate Raworth. Doughnut Economics is not synonymous with Degrowth, but it's perhaps one possible model of economics under a Degrowth mindset.
+- Duncan released [**On Standby**](https://www.loudnumbers.net/onstandby), a piece of data-driven sound art spanning 10.4 hours with ambient music, voices, poems and sounds from electronic devices that are running over night. It's a great piece of work, and very calming to listen to. As the audio component of a light show at an ice rink he also made a 2 h version, and we hung out for a few hours in the box, sipping tea and watching people glide through a slightly eerie ambient ice disco. 
+- Christmas is coming closer and closer, and I've been quite crafty this year, making both an [**Advent calendar**](projects/sewing/Advent%20calendar.md) for Duncan, as well as a cosy **lounge set** for my sister (consisting of the [Southbank jumper](projects/sewing/Southbank%20sweaterdress%20and%20jumper%20(Ninelee).md) and the [Tula pants ](projects/sewing/Tula%20pants%20&%20shorts%20(Papercut%20Patterns).md)), and [**Aprons**](projects/sewing/Aprons.md) for my parents. 
+
+![400](projects/attachments/Pasted%20image%2020241222143411.png)
+
+![400](projects/attachments/Pasted%20image%2020241222144525.png)
+
+![400](projects/attachments/Pasted%20image%2020241222144322.png)
+
+- The Christmas crafting didn't stop at sewing. I also made - sufficiently in advance to be ready in time for Christmas dinner - a new batch of white and read [**Sauerkraut**](projects/fermentation/Sauerkraut.md), as well as a big batch of [**Soybean tempeh**](projects/fermentation/Soybean%20tempeh.md#Soybean%20tempeh%20chopped%20and%20hulled%20(2024-12-20)). 
+- And finally, I tried a recipe for [**Plant-based solbullar**](projects/cooking/Plant-based%20solbullar.md) (custard buns) that sounded interesting because it employs a method that uses pre-gelatinized starch, called tangzhong. [Recipe](https://kitchenprojects.substack.com/p/kitchen-project-148-plant-based-custard) is from Brian Levy and Nicola Lamb's newsletters. The dough turned out pretty good, so fluffy that it was almost focaccia-like when handling. I would make that again for other yeasty buns. But I was a bit disappointed by the custard, it was not as rich and creamy as I would have wished. 
+- In non-food news: We watched **Home Alone** with friends (Duncan had made a special version where he cut out the scene with Trump from Part 2). And we got solar panels installed on our building. 
+- Ok, one more food activity. We went on a **smakpromenad** through Rosengård. It was a nice way to get a bit of a tour to this district of Malmö that we so far hadn't really been to. It was only our Pakistani guide (the lady who formerly owned the Indian restaurant in Mitt Möllan - she recognised both me and Duncan!) and us - all other people had cancelled on this drizzly December Sunday. When we left Möllan it was all honking cars and people with Syrian flags, because Assad had just fucked off to Russia. I expected there to be some noise in Rosengård too, but it was mostly quiet. We had a falafel rulle at the first falafel restaurant in Malmö, Falafel Nr. 1. Then we went to a little Bazar and had the much hyped Dubai chocolate, and some dates in a fruit shop. Then further to Rosengård centrum where we had Burek, Pakistani sweets and Samosa shavings, nuts, melon seeds, and another falafel. Finally we ate some manakish with different dips.
+
+
+![500](projects/attachments/Pasted%20image%2020241222105707.png)
+
 
 
 
 ## w45 2024
 
-- In a little concert at STPLN where four different modular synth and/or noise artists - most of which I know and am friends with - played half an hour each, I got SO many brainwaves about what I want to do and learn and try out and work on. There is something about concerts, especially "instrumental" ones, that makes my brain go into overdrive. I think it's being presented with creative work, combined with slight boredom, and an inability to get out of there and/or look at my phone. I got all kinds of ideas and thoughts about music, sewing, photography, science, fungi, fermentation, printing, field recording, websites, coding, communications, degrowth, nature, etc. Also had some deeper thoughts about my job situation and professional development, and how I could be more proactive to direct it into a certain direction. It felt good to have such a burst of good and exciting thoughts, especially since I've been a bit down and easy to irritate lately. Feeling the weight of the world. Trump's reelection (and what it means for the world), Palestine and Lebanon, Ukraine, climate crisis, environmental destruction, rich assholes destroying everything, etc. Pessimism/cynicism/helplessness can take over sometimes. So it's very nice to get an optimistic push into some things that I am actually excited to work on. Now it's just a matter of deciding what to start with. 
+- In a little **concert at STPLN** where four different modular synth and/or noise artists - most of which I know and am friends with - played half an hour each, I got SO many brainwaves about what I want to do and learn and try out and work on. There is something about concerts, especially "instrumental" ones, that makes my brain go into overdrive. I think it's being presented with creative work, combined with slight boredom, and an inability to get out of there and/or look at my phone. I got all kinds of ideas and thoughts about music, sewing, photography, science, fungi, fermentation, printing, field recording, websites, coding, communications, degrowth, nature, etc. Also had some deeper thoughts about my job situation and professional development, and how I could be more proactive to direct it into a certain direction. It felt good to have such a burst of good and exciting thoughts, especially since I've been a bit down and easy to irritate lately. Feeling the weight of the world. Trump's reelection (and what it means for the world), Palestine and Lebanon, Ukraine, climate crisis, environmental destruction, rich assholes destroying everything, etc. Pessimism/cynicism/helplessness can take over sometimes. So it's very nice to get an optimistic push into some things that I am actually excited to work on. Now it's just a matter of deciding what to start with. 
 - I made **sourdough bread**! Despite being really into fermentation, I hadn't tried my hands on sourdough before. Maybe because Duncan was the bread mastermind? But since we moved within 5 min of the most amazing bakery and pizzeria, he completely gave up baking. And while I love Farina's French/Italian white wheat levain, my Austrian palate craves darker, rougher rye bread sometimes. It just goes SO well with certain things, it has a different texture and a more filling, warm flavour, and it's what I grew up with. So I made a wholegrain rye sourdough starter over 5 days, which went well, and then tried a [full rye sourdough bread](projects/fermentation/Sourdough%20experiments.md#Roggenbrot%20Grundrezept%20mit%20Roggensauerteig). It went really well! Slightly too dense, but I'm pretty happy with my first ever attempt. So now I want to get really into it and try out different recipes, and styles. The only problem is that Duncan is not such a fan of those "central European" kinds of bread. And while I can eat bread for every meal, it still takes a while to get through a loaf. 
 
 ![](projects/attachments/Pasted%20image%2020241107170846.png)

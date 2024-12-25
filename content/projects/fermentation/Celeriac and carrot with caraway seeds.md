@@ -17,3 +17,12 @@ _Harvested 2022-11-08 (13 days)_: Place in fridge
 _Conclusion_: Very nice and fresh flavour. Crunchy. Carrot and celeriac are a good combination, and the caraway gives it a nice additional freshness. 
 
 ![](projects/attachments/Celeriac%20and%20carrot%2002.png)
+
+
+_Made: 2024-12-25_
+
+- 3.5% brine
+- Celeriac and carrot
+
+Leave at RT for 14 days.
+

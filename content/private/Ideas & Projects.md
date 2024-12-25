@@ -31,3 +31,19 @@
 	- I don't want to use my energy at work or fill my free time with making presentations prettier or worry about lab organisation. I would much rather work on some scientific problems.
 	- Much nutritional focus lately, and it's nice to learn new things, but it's not my main interest. 
 - [ ] **Focus months**!  Deeper focus on developing skills or furthering skills. Document on Instagram? Include reading books about the specific topic and recommending a few. _2024-11-09_
+
+## Other job or project ideas
+- Virtual walks: Spaziergänge in verschiedenen Städten als Podcast mit interessanten Fakten über pflanzen, Gebäude, berühmte  Persönlichkeiten oder auch biologische/chemische/physikalische Vorgänge. Auch mit Geräuschen (für blinde?). Zb auf bandcamp oä stellen, pro folge 1€. Auf englisch und deutsch (ev auch andere sprachen). Ein bisschen  Touristen info und Natural Explorer gemischt
+- Schnitzeljagden organisieren
+- Open lab/fablab machen
+- Science courses/hack days for adults
+- Vertical gardens
+- Bierbraukurse, laborkurse (auch für Firmen)
+- Life cycle assessments für verschiedene Produkte machen
+- Personalisierte Spaziergänge zusammenstellen für Leute die was machen wollen, denen das aber zu fad ist; mit aufgaben wie zB bestimmte Sachen fotografierten, etc
+- App: dota2 quiz: heroes raten, items raten, stats von items raten, abilities heroes zuordnen etc; 
+- App: Mischung zwischen vine und Mischpult: mit fingerclick kurze clips aufnehmen (zB Hund bellt, Schlüssel fällt) und dann zusammen mischen. Die clips erscheinen in einem 3x2 oder 3x3 raster und können auch im Laufe des "Lieds" ausgetauscht, gemutet oder Geschwindigkeit geändert werden
+- Bioart: Ausstellung mit verschiedenen räumen oder Behältern die Mikroorganismen enthalten, die Gerüchte produzieren. ZB eine waldumgebung und geosmin oder Vanille oder Fäulnis, etc.
+- Minigolf
+- Experte in alternative protein: online Profil und Expertise aufbauen, Meinungen über aktuelle papers, protein landscape, Vorteile und Nachteile verschiedener Produkte, Prognosen für die Zukunft, harte Fakten hinter Trends. In weiterer Zukunft DIE Expertin in dieser Sparte, Einladungen von Firmen, Konferenzen, consultancy work.
+- Collab with Duncan: dataviz über Alternative Proteine, sustainability questions concerning meat consumption, etc.

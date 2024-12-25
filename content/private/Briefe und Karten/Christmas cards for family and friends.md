@@ -153,3 +153,74 @@ Silvia, Duncan & Laika
 - Natasa - DONE
 - Gina & Björn - DONE
 
+
+# 2023 Christmas card
+
+
+# 2024 Christmas card
+
+![](private/attachments/xmas-card-2024-de.jpg)
+
+Als Postnord Postkarte:
+- Mama & Papa - DONE
+- Angie & Chris - DONE
+- Tante Gerti & Onkel Harald - DONE
+- Tante Angela & Onkel Heini - DONE
+- Tina Spitzer - DONE
+- OB & TI - DONE
+- Christian & Renate - DONE
+- Carina & Phillip - DONE
+- Markus & Conny - DONE
+- Manuela & Fabian - DONE
+- Christoph & Babsi - DONE
+
+
+![](private/attachments/xmas-card-2024-en.jpg)
+
+Als Postnord Postkarte:
+- Ros & Edmund - DONE
+- Sal & family - DONE
+- Lal & Tim - DONE
+- Sue & J - DONE
+- Philip & Julie - DONE
+
+Digital:
+- Lisi Halbmayr
+- Kathi Spath
+- Kathi Bleier
+- Martina Baumann 
+- Alba Hykollari
+- Stocki
+- Eva
+- Steffi
+
+
+- Stefan Krautzer
+- Stephan Stefan
+- Natasa 
+- Gina & Björn 
+
+- Tine Barg
+- Natasa
+- Eva & Kennet
+- Chris
+- Stefan & Sara
+- Lisi Halbmayr
+- Kathi Spath
+- Kathi Bleier
+- Martina Baumann
+- Alba Hykollari
+- Siri & Mikael
+- Josh & Helén
+- Stocki
+- Pawel
+- Eva
+- Steffi
+
+- Markus & Conny
+- Christoph & Babsi
+- Manuela + Familie
+
+
+
+Digital (Whatsapp, Telegram, Email):

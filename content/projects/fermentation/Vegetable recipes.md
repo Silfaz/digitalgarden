@@ -83,6 +83,7 @@ _Made 2022-12-24_: [Brussel sprouts with garlic and pepper corns](projects/ferme
 - 1 big garlic cloves, peeld and whole
 - 1 Tbsp black pepper corns
 - 3 small green chilies, whole
+- 
 
 Brine:
 - 3.5% salt (1L + 35 g salt)

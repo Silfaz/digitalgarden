@@ -26,8 +26,13 @@ Prepare with 1.2 % salt.
 For the red cabbage: 8 g salt
 For the white cabbage: 10 g salt
 
-Squeeze, push and massage for a few minutes, let stand for an hour. Then massage some more. Add some juniper berries, whole caraway seeds (1/2 tsp) and a few bay leaves. Fill into clean jars, push down. 
+Squeeze, push and massage for a few minutes, let stand for an hour. Then massage some more. Add some juniper berries, whole caraway seeds (1/2 tsp) and a few bay leaves. Fill into clean jars, push down below liquid level.
 Cover with one cabbage leaf and push down with water-filled smaller jar. 
-Leave at room temperature for a few weeks.
+Leave at room temperature for a few weeks (then on the balcony and/fridge).
 Start: 2024-11-24
 
+![500](projects/attachments/Pasted%20image%2020241222094730.png)
+
+![500](projects/attachments/Pasted%20image%2020241222094813.png)
+
+![500](projects/attachments/Pasted%20image%2020241222094837.png)

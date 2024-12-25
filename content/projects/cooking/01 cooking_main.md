@@ -21,7 +21,9 @@ title: "Cooking"
 
 [What's the Deli's Jackfruit sandwich investigation](projects/cooking/What's%20the%20Deli's%20Jackfruit%20sandwich%20investigation.md)
 
-[[Plant-based solbullar]]
+[Plant-based solbullar](projects/cooking/Plant-based%20solbullar.md)
+
+
 
 
 

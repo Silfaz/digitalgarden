@@ -39,3 +39,29 @@ Freeze half, heat-treat the other half (wrapped in aluminium foil, **85°C for 3
 
 **Cooking**: Very nice to slice and held up well, but the taste was slightly bitter and the texture was quite beany. I didn't find it very pleasant, Duncan said it was good. Could it be that the soybeans need to cook much longer (last time I cooked them for 50 min!)?
 
+
+## Soybean tempeh chopped and hulled (2024-12-20)
+
+Soak for 24h: 2x 500 g soy bean
+
+### First batch: **Chop in Thermomix** 
+To try to dehull - though it mostly chopped the beans rather than dehulling. 
+Rinse and boil for **30 min**. Drain, add 1 Tbsp vinegar (**4 Tbsp/kg**), let dry in oven at 50-70°C (for 2h). Mix in 1 tsp LUVI starter (**2 tsp/kg**), fill in bag and incubate in oven on heating mat set to 30°C. Fermented quite quickly and got warm (up to 33C), so I took it out to cool, and then even put on the balcony over night. Continued to let ferment a bit inside at room temperature to get nice dense cake. Slight dark sporulation visible in some spots. 
+
+![400](projects/attachments/Pasted%20image%2020241222145554.png)
+_Half-chopped and half-whole soy beans, pre cooking.
+
+![400](projects/attachments/Pasted%20image%2020241222145623.png)
+_Mixed with starter and filled into bags, ready for fermentation._
+
+
+
+### Second batch: Dehulling by hand
+No chopping in Thermomix.
+Rinse and boil for **40 min**. Drain, add 1 Tbsp vinegar (**4 Tbsp/kg**), let dry in oven at 50°C (for 1h). Mix in 1 tsp LUVI starter (**2 tsp/kg**) + 1/2 tsp Fermentation culture starter. Fill in bags and incubate in oven on heating mat set to 30°C. After approx. 12h, heating mat turned off because the blocks produced enough heat. Then even taken out of oven and just put on counter top to finish off. 
+
+
+
+
+
+

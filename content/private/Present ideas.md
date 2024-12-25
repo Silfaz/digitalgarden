@@ -21,7 +21,7 @@
 # Angie
 - selbstgenähte Bluse/Hemd/Top
 - Loungewear: Pyjama hose selbstgenäht **MADE 23 Nov 2024**
-- Loungewear: jumper in cosy material
+- Loungewear: jumper in cosy material **MADE Dec 2024**
 - Reise mit mir
 - Thermophor-pouch (selbstgenäht) https://www.reddit.com/r/sewing/comments/r43pw1/a_handsfree_carrier_for_my_hot_water_bottle/
 - Punch-needle kit
@@ -65,10 +65,11 @@
 
 ## Christmas 
 ### Mama & Papa
-- persönliche, selbstgenähte Kochschürzen
+- persönliche, selbstgenähte Kochschürzen **MADE Dec 2024**
 
 ### Luna
-- Hundepopcorn
+- Hundepopcorn **SENT**
+
 
 
 ### Angie & Christian

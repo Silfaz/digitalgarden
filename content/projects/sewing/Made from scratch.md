@@ -33,6 +33,7 @@ My self-mades, including pictures, and some info on fit, pattern and fabric choi
 - [Self-drafted t-shirts](projects/sewing/Self-drafted%20t-shirts.md)
 - [Stellan Tee (French Navy Now)](projects/sewing/Stellan%20Tee.md)
 - [Tilda blouse (Maison Fauve)](projects/sewing/Tilda%20blouse%20(Maison%20Fauve).md)
+- [Southbank jumper (Ninalee)](projects/sewing/Southbank%20sweaterdress%20and%20jumper%20(Ninelee).md)
 
 ### Shorts & Trousers
 - [Attitude trousers (Atelier Scammit)](projects/sewing/Attitude%20trousers%20(Atelier%20Scammit).md)
@@ -51,3 +52,5 @@ My self-mades, including pictures, and some info on fit, pattern and fabric choi
 - [Self-drafted quilt](projects/sewing/Self-drafted%20quilt.md)
 - [Dust covers](projects/sewing/Dust%20covers.md)
 - [Dog bed](projects/sewing/Dog%20bed.md)
+- [Advent calendar](projects/sewing/Advent%20calendar.md)
+- [Aprons](projects/sewing/Aprons.md)

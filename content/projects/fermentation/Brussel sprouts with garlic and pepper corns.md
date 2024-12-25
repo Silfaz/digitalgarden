@@ -34,3 +34,16 @@ Fermentation time: 13 days
 ![](projects/attachments/Pasted%20image%2020230119190821.png)
 
 ![](projects/attachments/Screenshot%202023-01-19%20at%2019.10.19.png)
+
+
+
+_Made: 2024-12-25_
+
+- 3.5% brine
+- Brussel sprouts, halved
+- A few black pepper corns
+
+Leave for 14 days.
+
+
+

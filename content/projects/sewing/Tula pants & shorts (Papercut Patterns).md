@@ -3,12 +3,13 @@ title: "Tula pants & shorts (Papercut Patterns)"
 ---
 ![|500](projects/attachments/DSCF8055.jpg)
 ## Pattern
-Papercut Patterns, size 4 (for me) and size 5 (for Duncan). 
+Papercut Patterns, size 4 (for me) and size 5 (for Duncan). Angie size 3.
 
 ## Fabric
-1. Herringbone wool (?)
-2. Linen, dust blue. 
+1. Herringbone wool (?) - _2023_
+2. Linen, dust blue - _2023_
 3. Cotton duvet cover, "Gothenburg" pattern - _Oct 2024_
+4. Viscose mint green with white lines, Kattun Stoffe - _November 2024_
 
 ![|500](projects/attachments/Pasted%20image%2020240601221555.png)
 Here with [Donny shirt](projects/sewing/Donny%20shirt.md) in same linen fabric.
@@ -44,3 +45,6 @@ Here with [Bluse Clariella](projects/sewing/Bluse%20Clariella%20(Drei%20M's).md)
 
 ![|500](projects/attachments/DSCF8094.jpg)
 Here with self-drafted t-shirt.
+
+![400](projects/attachments/photo_2024-12-22%2014.37.07.jpeg)_Angie's birthday present in December 2024_
+
